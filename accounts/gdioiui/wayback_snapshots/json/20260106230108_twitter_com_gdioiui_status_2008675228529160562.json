@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2008569186482872484",
+    "created_at": "2026-01-06T23:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T00:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008675228529160562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619061225157173249",
+          "start": 0,
+          "username": "Square527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008675228529160562",
+    "in_reply_to_user_id": "1619061225157173249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008582299944902682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Square527 ....那不玩就注销！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2008569186482872484",
+        "created_at": "2026-01-06T23:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T00:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008675228529160562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619061225157173249",
+              "start": 0,
+              "username": "Square527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008675228529160562",
+        "in_reply_to_user_id": "1619061225157173249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008582299944902682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Square527 ....那不玩就注销！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619061225157173249",
+        "conversation_id": "2008569186482872484",
+        "created_at": "2026-01-06T16:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008582299944902682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008582299944902682",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008569186482872484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我继续玩地球online2.02.6不是因为我喜欢，是因为号卖不出去（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 249,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T19:54:22.000Z",
+        "description": "接受硬件开发生产委托/23届北语国政本科/肾炎临床治愈（维持）所以不能乱吃药/接受装机咨询/欢迎面基/英语46专4（专8没带准考证）/自学日语/幼儿园水平德语/Mtx吧算是？🏳️‍🌈🏳️‍⚧️💛🤍💜🖤Bottom https://t.co/9uUmNkDBfY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/square527",
+                "end": 130,
+                "expanded_url": "https://ngl.link/square527",
+                "start": 107,
+                "url": "https://t.co/9uUmNkDBfY"
+              }
+            ]
+          }
+        },
+        "id": "1619061225157173249",
+        "location": "天津市",
+        "name": "某平方",
+        "pinned_tweet_id": "2007334525899289023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004761627204399104/wmj4wuj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 225,
+          "like_count": 5680,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 453
+        },
+        "username": "Square527",
+        "verified": false
+      }
+    ]
+  }
+}

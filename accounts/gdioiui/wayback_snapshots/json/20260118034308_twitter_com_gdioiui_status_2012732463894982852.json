@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2012512686890729644",
+    "created_at": "2026-01-18T03:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012732463894982852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1792199857199071235",
+          "start": 0,
+          "username": "Sex_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012732463894982852",
+    "in_reply_to_user_id": "1792199857199071235",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012567936255283618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sex_QAQ ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2012512686890729644",
+        "created_at": "2026-01-18T03:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012732463894982852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1792199857199071235",
+              "start": 0,
+              "username": "Sex_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012732463894982852",
+        "in_reply_to_user_id": "1792199857199071235",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012567936255283618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sex_QAQ ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792199857199071235",
+        "conversation_id": "2012512686890729644",
+        "created_at": "2026-01-17T16:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012567936255283618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012567936255283618",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012512686890729644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 291,
+          "like_count": 2271,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3848
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T14:25:43.000Z",
+        "description": "梦想是魂飞魄散 infp 165 50 32D 天蝎座 双向 💊 🍟/☕️ 性瘾患者 全宇宙最好的先生  https://t.co/OJAkWbHHgV\n提问https://t.co/W8El0bpHWH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/gdjdwww",
+                "end": 76,
+                "expanded_url": "https://x.com/gdjdwww",
+                "start": 53,
+                "url": "https://t.co/OJAkWbHHgV"
+              },
+              {
+                "display_url": "miyu.link/SexDoll",
+                "end": 102,
+                "expanded_url": "https://miyu.link/SexDoll",
+                "start": 79,
+                "url": "https://t.co/W8El0bpHWH"
+              }
+            ]
+          }
+        },
+        "id": "1792199857199071235",
+        "location": "1km",
+        "name": "装1骗0被4i男举报pc来的警察是老公",
+        "pinned_tweet_id": "2009946674618347705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009946447568150528/GptYtCuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 190,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 323
+        },
+        "username": "Sex_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

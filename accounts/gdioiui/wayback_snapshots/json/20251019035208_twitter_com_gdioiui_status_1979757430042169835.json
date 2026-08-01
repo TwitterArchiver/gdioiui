@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1979722798248632684",
+    "created_at": "2025-10-19T03:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T04:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979757430042169835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888105599642300416",
+          "start": 0,
+          "username": "Yunthought57441"
+        },
+        {
+          "end": 27,
+          "id": "1401538162036412422",
+          "start": 17,
+          "username": "ImKrisYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979757430042169835",
+    "in_reply_to_user_id": "1888105599642300416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979754466380484919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunthought57441 @ImKrisYan j组还不如去考级。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979754463486160896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mAMgKWMAA1-20.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1979722798248632684",
+        "created_at": "2025-10-19T03:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979757430042169835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888105599642300416",
+              "start": 0,
+              "username": "Yunthought57441"
+            },
+            {
+              "end": 27,
+              "id": "1401538162036412422",
+              "start": 17,
+              "username": "ImKrisYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979757430042169835",
+        "in_reply_to_user_id": "1888105599642300416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979754466380484919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunthought57441 @ImKrisYan j组还不如去考级。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979754463486160896"
+          ]
+        },
+        "author_id": "1888105599642300416",
+        "conversation_id": "1979722798248632684",
+        "created_at": "2025-10-19T03:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979754466380484919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 19,
+              "id": "1401538162036412422",
+              "start": 9,
+              "username": "ImKrisYan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RI86BJ0U4l",
+              "end": 77,
+              "expanded_url": "https://x.com/Yunthought57441/status/1979754466380484919/photo/1",
+              "media_key": "3_1979754463486160896",
+              "start": 54,
+              "url": "https://t.co/RI86BJ0U4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979754466380484919",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979753934362489235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @ImKrisYan 反正我已经给CCF交了410了（初赛100+复赛310，我是J组） https://t.co/RI86BJ0U4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 88
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T06:00:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yunthought.rth1.xyz",
+                "end": 23,
+                "expanded_url": "https://yunthought.rth1.xyz/",
+                "start": 0,
+                "url": "https://t.co/puycrpdcwZ"
+              }
+            ]
+          }
+        },
+        "id": "1888105599642300416",
+        "location": "DongYing,ShanDong,PRC",
+        "name": "耘想",
+        "pinned_tweet_id": "1959659020136190134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064652870205440/cvuiP0no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 212,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/puycrpdcwZ",
+        "username": "Yunthought57441",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement does not equal endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/bRSnK96C8F"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.0.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758368568776032256/g3GlYeFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 707,
+          "like_count": 131301,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/bRSnK96C8F",
+        "username": "ImKrisYan",
+        "verified": false
+      }
+    ]
+  }
+}

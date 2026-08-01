@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2033197579262202245",
+    "created_at": "2026-03-15T15:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033197579262202245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omgnowihave/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/omgnowihave/status/2032717685185020221",
+          "start": 14,
+          "url": "https://t.co/MzHoTs1RB9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033197579262202245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032717685185020221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死....估计也不会知道 https://t.co/MzHoTs1RB9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032717682936786944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWp9nwaMAAjY6w.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2033197579262202245",
+        "created_at": "2026-03-15T15:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033197579262202245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihave/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/omgnowihave/status/2032717685185020221",
+              "start": 14,
+              "url": "https://t.co/MzHoTs1RB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033197579262202245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032717685185020221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死....估计也不会知道 https://t.co/MzHoTs1RB9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032717682936786944"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "conversation_id": "2032717685185020221",
+        "created_at": "2026-03-14T07:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032717685185020221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJbQRSUfZt",
+              "end": 26,
+              "expanded_url": "https://x.com/omgnowihave/status/2032717685185020221/photo/1",
+              "media_key": "3_2032717682936786944",
+              "start": 3,
+              "url": "https://t.co/BJbQRSUfZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032717685185020221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28707,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼 https://t.co/BJbQRSUfZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 365,
+          "like_count": 3205,
+          "listed_count": 2,
+          "media_count": 833,
+          "tweet_count": 5165
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜🍥🏳️‍⚧️(重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 188,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 55
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

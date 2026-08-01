@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007353532027191296",
+        "13_2007353622762532868"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007354172442849301",
+    "created_at": "2026-01-03T07:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007354172442849301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PC0fqaHfwa",
+          "end": 43,
+          "expanded_url": "https://x.com/gdioiui/status/2007354172442849301/video/1",
+          "media_key": "13_2007353532027191296",
+          "start": 20,
+          "url": "https://t.co/PC0fqaHfwa"
+        },
+        {
+          "display_url": "pic.x.com/PC0fqaHfwa",
+          "end": 43,
+          "expanded_url": "https://x.com/gdioiui/status/2007354172442849301/video/1",
+          "media_key": "13_2007353622762532868",
+          "start": 20,
+          "url": "https://t.co/PC0fqaHfwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007354172442849301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "致敬老兵...\n窝一发时间够装三发了都 https://t.co/PC0fqaHfwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26407,
+        "height": 720,
+        "media_key": "13_2007353532027191296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007353532027191296/img/PmgCVTDwJsUDwCXS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353532027191296/vid/avc1/480x270/KJbvJ2n4aTzDgCMw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353532027191296/vid/avc1/640x360/wdmmn5g_RJrOzevl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353532027191296/vid/avc1/1280x720/bzuxhFTsTVHcr58v.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007353532027191296/pl/XHiq2JkZlITIo1v2.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 20041,
+        "height": 1920,
+        "media_key": "13_2007353622762532868",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007353622762532868/img/NdIbOqjdATs65weP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353622762532868/vid/avc1/320x568/KtuvXsaTx1VtcVxq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353622762532868/vid/avc1/480x852/46SFmbMk5GsGdaPV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007353622762532868/vid/avc1/720x1280/IVUTMtmhjmPZEMhP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007353622762532868/pl/74CM6oimPXzE8wwE.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007353532027191296",
+            "13_2007353622762532868"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007354172442849301",
+        "created_at": "2026-01-03T07:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007354172442849301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PC0fqaHfwa",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2007354172442849301/video/1",
+              "media_key": "13_2007353532027191296",
+              "start": 20,
+              "url": "https://t.co/PC0fqaHfwa"
+            },
+            {
+              "display_url": "pic.x.com/PC0fqaHfwa",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2007354172442849301/video/1",
+              "media_key": "13_2007353622762532868",
+              "start": 20,
+              "url": "https://t.co/PC0fqaHfwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007354172442849301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬老兵...\n窝一发时间够装三发了都 https://t.co/PC0fqaHfwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 234,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 3237
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

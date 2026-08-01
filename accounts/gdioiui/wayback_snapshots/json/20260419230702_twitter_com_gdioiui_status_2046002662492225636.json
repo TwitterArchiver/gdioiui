@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2046002662492225636",
+    "created_at": "2026-04-19T23:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T00:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046002662492225636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qusuunmd/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/qusuunmd/status/2045688101390242189",
+          "start": 46,
+          "url": "https://t.co/7EI4rn7uPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046002662492225636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045688101390242189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/7EI4rn7uPT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2046002662492225636",
+        "created_at": "2026-04-19T23:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046002662492225636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qusuunmd/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/qusuunmd/status/2045688101390242189",
+              "start": 46,
+              "url": "https://t.co/7EI4rn7uPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046002662492225636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045688101390242189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/7EI4rn7uPT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2045688101390242189",
+        "created_at": "2026-04-19T02:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045688101390242189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2043359269542904156",
+              "start": 46,
+              "url": "https://t.co/eTyux3I7pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045688101390242189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1639,
+          "like_count": 20,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043359269542904156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨究竟是谁发明的喵✋😭🤚我躲被窝里蜷缩一团抱着鲨鲨超有安全感🥺没鲨鲨已经活不下去了呜呜🥹 https://t.co/eTyux3I7pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 （持续发病）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 385,
+          "like_count": 3609,
+          "listed_count": 2,
+          "media_count": 1074,
+          "tweet_count": 6076
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 279,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 641
+        },
+        "username": "qusuunmd",
+        "verified": true
+      }
+    ]
+  }
+}

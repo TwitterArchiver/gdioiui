@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007831293774676250",
+    "created_at": "2026-01-06T09:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008477193526239476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007182992545067010",
+          "start": 0,
+          "username": "ClaudioLaz55921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008477193526239476",
+    "in_reply_to_user_id": "2007182992545067010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008315937393439021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClaudioLaz55921 什么啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007831293774676250",
+        "created_at": "2026-01-06T09:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008477193526239476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007182992545067010",
+              "start": 0,
+              "username": "ClaudioLaz55921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008477193526239476",
+        "in_reply_to_user_id": "2007182992545067010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008315937393439021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClaudioLaz55921 什么啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007182992545067010",
+        "conversation_id": "2007831293774676250",
+        "created_at": "2026-01-05T23:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T00:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008315937393439021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008315937393439021",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007831293774676250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 1 🌺 🚩 🚩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 245,
+          "like_count": 1677,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3340
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T20:11:33.000Z",
+        "description": "已入驻约p平台:👉https://t.co/PGkjmcCBOA  只在平台上约，推特绝大部分女主播都入驻的平台，安全可靠，下载直接打开不用注册日常更新具体位置平台都有显示哦大号在这里👉@BipinKu17430512",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "BipinKu17430512"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.su/Q2Xcnv",
+                "end": 32,
+                "expanded_url": "https://goo.su/Q2Xcnv",
+                "start": 9,
+                "url": "https://t.co/PGkjmcCBOA"
+              }
+            ]
+          }
+        },
+        "id": "2007182992545067010",
+        "name": "Claudio Lazano",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007183009435287552/5gershIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "ClaudioLaz55921",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993882320617787414"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993882436405727240",
+    "created_at": "2025-11-27T03:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993882436405727240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5bJDr0GTa",
+          "end": 44,
+          "expanded_url": "https://x.com/gdioiui/status/1993882436405727240/photo/1",
+          "media_key": "3_1993882320617787414",
+          "start": 21,
+          "url": "https://t.co/O5bJDr0GTa"
+        },
+        {
+          "display_url": "x.com/CleverFf050755…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/CleverFf050755/status/1993580096515719406",
+          "start": 45,
+          "url": "https://t.co/pskG1podDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993882436405727240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993580096515719406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以鸡哥这个加在这里的是可以当替代品么？ https://t.co/O5bJDr0GTa https://t.co/pskG1podDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1993882320617787414",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uxaBRa0BYaQ9Z.jpg",
+        "width": 1070
+      },
+      {
+        "height": 2208,
+        "media_key": "3_1993580083030994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qehehbMAAwz_E.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993882320617787414"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993882436405727240",
+        "created_at": "2025-11-27T03:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993882436405727240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5bJDr0GTa",
+              "end": 44,
+              "expanded_url": "https://x.com/gdioiui/status/1993882436405727240/photo/1",
+              "media_key": "3_1993882320617787414",
+              "start": 21,
+              "url": "https://t.co/O5bJDr0GTa"
+            },
+            {
+              "display_url": "x.com/CleverFf050755…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/CleverFf050755/status/1993580096515719406",
+              "start": 45,
+              "url": "https://t.co/pskG1podDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993882436405727240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993580096515719406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以鸡哥这个加在这里的是可以当替代品么？ https://t.co/O5bJDr0GTa https://t.co/pskG1podDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993580083030994944"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1993580096515719406",
+        "created_at": "2025-11-26T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993580096515719406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "日前，中青报·中青网记者调查发现，普瑞巴林等处方药能在电商平台购得，处方药存在滥用风险，侵蚀一些年轻人的身心健康。11月12日，记者在另一家电商平台的“××大药房”，以“疱疹后神经痛”为由，下单购得1盒普瑞巴林。",
+              "display_url": "news.cnr.cn/native/gd/2025…",
+              "end": 49,
+              "expanded_url": "https://news.cnr.cn/native/gd/20251125/t20251125_527440401.shtml",
+              "start": 26,
+              "status": 200,
+              "title": "处方药滥用亟须“踩刹车”_央广网",
+              "unwound_url": "https://news.cnr.cn/native/gd/20251125/t20251125_527440401.shtml",
+              "url": "https://t.co/c5SKARuzWO"
+            },
+            {
+              "display_url": "pic.x.com/2j1v0kRdfZ",
+              "end": 73,
+              "expanded_url": "https://x.com/CleverFf050755/status/1993580096515719406/photo/1",
+              "media_key": "3_1993580083030994944",
+              "start": 50,
+              "url": "https://t.co/2j1v0kRdfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993580096515719406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13694,
+          "like_count": 57,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林被点名了，感觉要走右美沙芬老路了，原链接在这https://t.co/c5SKARuzWO https://t.co/2j1v0kRdfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 74,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "1988513225185653018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 180,
+          "like_count": 98,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

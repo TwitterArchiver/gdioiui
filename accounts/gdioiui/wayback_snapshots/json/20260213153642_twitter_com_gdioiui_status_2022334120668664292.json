@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2022116694177853690",
+    "created_at": "2026-02-13T15:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022334120668664292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1441009715782115342",
+          "start": 0,
+          "username": "TIMENEXSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022334120668664292",
+    "in_reply_to_user_id": "1441009715782115342",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022320407953678730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TIMENEXSakura (  ⩌ - ⩌ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2022116694177853690",
+        "created_at": "2026-02-13T15:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022334120668664292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1441009715782115342",
+              "start": 0,
+              "username": "TIMENEXSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022334120668664292",
+        "in_reply_to_user_id": "1441009715782115342",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022320407953678730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TIMENEXSakura (  ⩌ - ⩌ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441009715782115342",
+        "conversation_id": "2022116694177853690",
+        "created_at": "2026-02-13T14:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022320407953678730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022320407953678730",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022116694177853690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 好怪啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 310,
+          "like_count": 2736,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 4397
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T12:01:18.000Z",
+        "description": "黎明前是深不可见的。黑暗中它们虎视眈眈；\n它们静候着我的破绽。想有一天将我一剑封喉。\n\n只有重新打造自己全新的意志；\n才能再一次完成真正的结局。\n前MtF/今LGBT友善/06年生/白色猫猫/I-ENFP（飘忽不定）/渴望有朋友和好吃的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ustAgX6",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ustAgX6",
+                "start": 0,
+                "url": "https://t.co/oNsp7StReZ"
+              }
+            ]
+          }
+        },
+        "id": "1441009715782115342",
+        "location": "猫猫星",
+        "name": "TIMENEXSakura 『樱洛汐尘』🏳️‍🌈",
+        "pinned_tweet_id": "1969790518537421201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010715101532454914/oMWPIVm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 418,
+          "like_count": 115,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/oNsp7StReZ",
+        "username": "TIMENEXSakura",
+        "verified": false
+      }
+    ]
+  }
+}

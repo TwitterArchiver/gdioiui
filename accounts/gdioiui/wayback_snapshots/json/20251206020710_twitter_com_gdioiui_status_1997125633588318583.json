@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997125629154930688",
+        "3_1997125629347778560",
+        "3_1997125631193272320"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1997125633588318583",
+    "created_at": "2025-12-06T02:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997125633588318583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jo37V5ktRa",
+          "end": 64,
+          "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+          "media_key": "3_1997125629154930688",
+          "start": 41,
+          "url": "https://t.co/jo37V5ktRa"
+        },
+        {
+          "display_url": "pic.x.com/jo37V5ktRa",
+          "end": 64,
+          "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+          "media_key": "3_1997125629347778560",
+          "start": 41,
+          "url": "https://t.co/jo37V5ktRa"
+        },
+        {
+          "display_url": "pic.x.com/jo37V5ktRa",
+          "end": 64,
+          "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+          "media_key": "3_1997125631193272320",
+          "start": 41,
+          "url": "https://t.co/jo37V5ktRa"
+        },
+        {
+          "display_url": "x.com/kaga_needs_buf…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/kaga_needs_buff/status/1996650083652456903",
+          "start": 65,
+          "url": "https://t.co/4GCx5c94YT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997125633588318583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996650083652456903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "....他都通灵了 我能说啥？\n原来b站号是被洗脑成功的迹象\n我看确实得多洗洗😥 https://t.co/jo37V5ktRa https://t.co/4GCx5c94YT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997125629154930688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3LbGbsAADLV4.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997125629347778560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3Lb0aUAA9AFH.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997125631193272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7c3LisaUAAsSrm.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996650077033766912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WGqpZaoAAEkeG.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996650077071495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WGqpiaUAA1CdH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997125629154930688",
+            "3_1997125629347778560",
+            "3_1997125631193272320"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1997125633588318583",
+        "created_at": "2025-12-06T02:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997125633588318583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125629154930688",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125629347778560",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "pic.x.com/jo37V5ktRa",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/1997125633588318583/photo/1",
+              "media_key": "3_1997125631193272320",
+              "start": 41,
+              "url": "https://t.co/jo37V5ktRa"
+            },
+            {
+              "display_url": "x.com/kaga_needs_buf…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/kaga_needs_buff/status/1996650083652456903",
+              "start": 65,
+              "url": "https://t.co/4GCx5c94YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997125633588318583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996650083652456903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "....他都通灵了 我能说啥？\n原来b站号是被洗脑成功的迹象\n我看确实得多洗洗😥 https://t.co/jo37V5ktRa https://t.co/4GCx5c94YT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996650077033766912",
+            "3_1996650077071495168"
+          ]
+        },
+        "author_id": "1593180128204689408",
+        "conversation_id": "1996547822901219645",
+        "created_at": "2025-12-04T18:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T19:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996650083652456903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/82Ahgsa9Gt",
+              "end": 45,
+              "expanded_url": "https://x.com/kaga_needs_buff/status/1996650083652456903/photo/1",
+              "media_key": "3_1996650077033766912",
+              "start": 22,
+              "url": "https://t.co/82Ahgsa9Gt"
+            },
+            {
+              "display_url": "pic.x.com/82Ahgsa9Gt",
+              "end": 45,
+              "expanded_url": "https://x.com/kaga_needs_buff/status/1996650083652456903/photo/1",
+              "media_key": "3_1996650077071495168",
+              "start": 22,
+              "url": "https://t.co/82Ahgsa9Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996650083652456903",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7848,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996547822901219645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie 搜了一下。。。 https://t.co/82Ahgsa9Gt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 96,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-17T09:52:07.000Z",
+        "description": "。。。。。。",
+        "id": "1593180128204689408",
+        "name": "Hachimichimi_ha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940034712111616000/19ynR_lB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 158,
+          "like_count": 2260,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 468
+        },
+        "username": "kaga_needs_buff",
+        "verified": false
+      }
+    ]
+  }
+}

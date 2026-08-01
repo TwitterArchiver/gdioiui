@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1966405300778570201",
+    "created_at": "2025-09-14T01:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T02:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967032798080045308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956722348935221248",
+          "start": 0,
+          "username": "overdose_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967032798080045308",
+    "in_reply_to_user_id": "1956722348935221248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966405300778570201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_dxm 理论上来说4/80=0.05不算低 但是要是我来的晚呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_1966405290401923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0oTMXLbAAAbD9d.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1966405300778570201",
+        "created_at": "2025-09-14T01:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967032798080045308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956722348935221248",
+              "start": 0,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967032798080045308",
+        "in_reply_to_user_id": "1956722348935221248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966405300778570201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_dxm 理论上来说4/80=0.05不算低 但是要是我来的晚呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966405290401923072"
+          ]
+        },
+        "author_id": "1956722348935221248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966405300778570201",
+        "created_at": "2025-09-12T07:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966405300778570201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 79,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 494,
+                  "url": "https://pbs.twimg.com/news_img/1965705112858529792/_Q8cgcoE?format=png&name=orig",
+                  "width": 494
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1965705112858529792/_Q8cgcoE?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "化学极乐百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/fMGgaoFFZD"
+            },
+            {
+              "display_url": "pic.x.com/7r8V4Ue33z",
+              "end": 105,
+              "expanded_url": "https://x.com/overdose_dxm/status/1966405300778570201/photo/1",
+              "media_key": "3_1966405290401923072",
+              "start": 82,
+              "url": "https://t.co/7r8V4Ue33z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966405300778570201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7493,
+          "like_count": 120,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "600fo抽奖\n抽两位幸运的mtf送出一板泰补\n2mg x28\n参与方式，点赞➕转帖➕评论\n9月17日开奖\n关注https://t.co/fMGgaoFFZD喵~ https://t.co/7r8V4Ue33z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "本账号为科普多人账号，娱乐账号请看: @DET_GOOD\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "DET_GOOD"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 55,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 32,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "location": "夏日大三角",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 482,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

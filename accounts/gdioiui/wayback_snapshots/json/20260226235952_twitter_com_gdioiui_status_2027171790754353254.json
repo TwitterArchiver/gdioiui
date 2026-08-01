@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027171787889586176"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027171790754353254",
+    "created_at": "2026-02-26T23:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T00:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027171790754353254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QswNEDzEin",
+          "end": 43,
+          "expanded_url": "https://x.com/gdioiui/status/2027171790754353254/photo/1",
+          "media_key": "3_2027171787889586176",
+          "start": 20,
+          "url": "https://t.co/QswNEDzEin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027171790754353254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鲨鲨钻衣服₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/QswNEDzEin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1759,
+        "media_key": "3_2027171787889586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCH2ACvaMAACDnZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027171787889586176"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027171790754353254",
+        "created_at": "2026-02-26T23:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027171790754353254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QswNEDzEin",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2027171790754353254/photo/1",
+              "media_key": "3_2027171787889586176",
+              "start": 20,
+              "url": "https://t.co/QswNEDzEin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027171790754353254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨钻衣服₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/QswNEDzEin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 337,
+          "like_count": 2950,
+          "listed_count": 1,
+          "media_count": 705,
+          "tweet_count": 4721
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2029924509768413281",
+    "created_at": "2026-03-07T14:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030284515323916757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815379036782411776",
+          "start": 0,
+          "username": "bnbn26082698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030284515323916757",
+    "in_reply_to_user_id": "1815379036782411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030268212932481171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnbn26082698 em一个网站 没有翅膀做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2029924509768413281",
+        "created_at": "2026-03-07T14:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030284515323916757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815379036782411776",
+              "start": 0,
+              "username": "bnbn26082698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030284515323916757",
+        "in_reply_to_user_id": "1815379036782411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030268212932481171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnbn26082698 em一个网站 没有翅膀做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815379036782411776",
+        "conversation_id": "2029924509768413281",
+        "created_at": "2026-03-07T13:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030268212932481171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030268212932481171",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029924509768413281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 蹲，这是什么软件啊😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 345,
+          "like_count": 3091,
+          "listed_count": 1,
+          "media_count": 773,
+          "tweet_count": 4974
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T13:31:14.000Z",
+        "description": "2024/7/28//MTF还是MTX呢",
+        "id": "1815379036782411776",
+        "location": "璃瑜三",
+        "name": "醒了就去璃瑜二（手动画圈）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024461832803799044/nPU131D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 40,
+          "like_count": 5702,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 377
+        },
+        "username": "bnbn26082698",
+        "verified": false
+      }
+    ]
+  }
+}

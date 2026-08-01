@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1999757637697831383",
+    "created_at": "2026-03-07T15:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030309683664396310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937562095760949249",
+          "start": 0,
+          "username": "fngjnhu167648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030309683664396310",
+    "in_reply_to_user_id": "1937562095760949249",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030304370525384937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngjnhu167648 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999757637697831383",
+        "created_at": "2026-03-07T15:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030309683664396310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937562095760949249",
+              "start": 0,
+              "username": "fngjnhu167648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030309683664396310",
+        "in_reply_to_user_id": "1937562095760949249",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030304370525384937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngjnhu167648 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937562095760949249",
+        "conversation_id": "1999757637697831383",
+        "created_at": "2026-03-07T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030304370525384937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030304370525384937",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999757637697831383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 你好😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 345,
+          "like_count": 3097,
+          "listed_count": 1,
+          "media_count": 775,
+          "tweet_count": 4983
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T17:25:02.000Z",
+        "description": "一位blue archive与暗区突围玩家，罗大佑乐迷，键证人(非粉红，不反共)，键证光谱中上，威权主义，科技官僚主义者，科技数码爱好者，三星粉丝",
+        "id": "1937562095760949249",
+        "name": "❂摄像机🇨🇳🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997695861481254912/KP4EXQR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 302,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 477
+        },
+        "username": "fngjnhu167648",
+        "verified": false
+      }
+    ]
+  }
+}

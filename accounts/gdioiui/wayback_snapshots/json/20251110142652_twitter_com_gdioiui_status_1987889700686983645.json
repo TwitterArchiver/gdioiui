@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987546100551553417",
+    "created_at": "2025-11-10T14:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987889700686983645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "14976404",
+          "start": 0,
+          "username": "ediyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987889700686983645",
+    "in_reply_to_user_id": "14976404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987546100551553417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ediyang 怎么做到的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987546084940365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Uuoj-WwAAmUuv.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987546084936134656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Uuoj9WMAA3oW-.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987546100551553417",
+        "created_at": "2025-11-10T14:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987889700686983645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "14976404",
+              "start": 0,
+              "username": "ediyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987889700686983645",
+        "in_reply_to_user_id": "14976404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987546100551553417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ediyang 怎么做到的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987546084940365824",
+            "3_1987546084936134656"
+          ]
+        },
+        "author_id": "14976404",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1987546100551553417",
+        "created_at": "2025-11-09T15:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987546100551553417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNjiRyi7PX",
+              "end": 53,
+              "expanded_url": "https://x.com/ediyang/status/1987546100551553417/photo/1",
+              "media_key": "3_1987546084940365824",
+              "start": 30,
+              "url": "https://t.co/NNjiRyi7PX"
+            },
+            {
+              "display_url": "pic.x.com/NNjiRyi7PX",
+              "end": 53,
+              "expanded_url": "https://x.com/ediyang/status/1987546100551553417/photo/1",
+              "media_key": "3_1987546084936134656",
+              "start": 30,
+              "url": "https://t.co/NNjiRyi7PX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987546100551553417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 102817,
+          "like_count": 240,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "通过尾插成功在国内给iPhone Air添加了国外Esim https://t.co/NNjiRyi7PX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 28,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-02T01:16:31.000Z",
+        "description": "做个对社会有益的人。",
+        "id": "14976404",
+        "location": "Guangdong,China",
+        "name": "eddie.Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905824481932943360/OkOQ9sxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 581,
+          "like_count": 812,
+          "listed_count": 33,
+          "media_count": 267,
+          "tweet_count": 14944
+        },
+        "username": "ediyang",
+        "verified": false
+      }
+    ]
+  }
+}

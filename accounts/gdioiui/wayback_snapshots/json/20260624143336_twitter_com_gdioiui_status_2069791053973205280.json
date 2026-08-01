@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2069428890120962270",
+    "created_at": "2026-06-24T14:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069791053973205280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1672124894694490117",
+          "start": 0,
+          "username": "NanaseToki0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069791053973205280",
+    "in_reply_to_user_id": "1672124894694490117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069567160691945507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaseToki0923 啊...这种都要上门？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2069428890120962270",
+        "created_at": "2026-06-24T14:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069791053973205280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1672124894694490117",
+              "start": 0,
+              "username": "NanaseToki0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069791053973205280",
+        "in_reply_to_user_id": "1672124894694490117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069567160691945507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaseToki0923 啊...这种都要上门？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672124894694490117",
+        "conversation_id": "2069428890120962270",
+        "created_at": "2026-06-23T23:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069567160691945507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069567160691945507",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069558867109781636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 被找上门也挺麻烦的，防范于未然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 478,
+          "like_count": 4257,
+          "listed_count": 3,
+          "media_count": 1467,
+          "tweet_count": 7801
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-23T06:10:28.000Z",
+        "description": "22岁/MtX/天残党丑蝈蝻/人群中最不像xyn的就是我/持证含糖/泛性恋/双相/BPD/HPD/ADHD/人格分裂/ISFP-T/抖M/火车迷/骑行佬/已炸柜/超大只/数码爱好者/maimai 真•超•檄•橙•晓•桃•紫•白•熊•华将取得/maimai霸者取得/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12306.cn",
+                "end": 23,
+                "expanded_url": "https://www.12306.cn",
+                "start": 0,
+                "url": "https://t.co/Z1K8st7ZjN"
+              }
+            ]
+          }
+        },
+        "id": "1672124894694490117",
+        "location": "上局金温公司",
+        "name": "七濑与喜🏳️‍⚧️🍥你怎么知道我取得霸者了",
+        "pinned_tweet_id": "2056288613768573045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984842117060153344/X4c6c0w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 778,
+          "like_count": 9243,
+          "listed_count": 6,
+          "media_count": 1173,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/Z1K8st7ZjN",
+        "username": "NanaseToki0923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053397421770866948",
+    "created_at": "2026-05-10T09:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053402926207701118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772535125517246464",
+          "start": 0,
+          "username": "WanN916_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053402926207701118",
+    "in_reply_to_user_id": "1772535125517246464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053397421770866948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanN916_ 谢谢喵..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053397421770866948",
+        "created_at": "2026-05-10T09:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053402926207701118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772535125517246464",
+              "start": 0,
+              "username": "WanN916_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053402926207701118",
+        "in_reply_to_user_id": "1772535125517246464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053397421770866948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanN916_ 谢谢喵..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772535125517246464",
+        "conversation_id": "2053397421770866948",
+        "created_at": "2026-05-10T08:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053397421770866948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882678524596867072",
+              "start": 1,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053397421770866948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@gdioiui 玩cs很开心喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 430,
+          "like_count": 3748,
+          "listed_count": 3,
+          "media_count": 1207,
+          "tweet_count": 6513
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "无题",
+        "id": "1772535125517246464",
+        "location": "床上",
+        "name": "月月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034017490611957760/BhgwdlFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 751,
+          "like_count": 832,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1782
+        },
+        "username": "WanN916_",
+        "verified": true
+      }
+    ]
+  }
+}

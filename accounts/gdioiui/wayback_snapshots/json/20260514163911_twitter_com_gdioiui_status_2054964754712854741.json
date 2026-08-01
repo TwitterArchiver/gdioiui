@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2054941417232031777",
+    "created_at": "2026-05-14T16:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054964754712854741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "annie_cath86841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054964754712854741",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054941417232031777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annie_cath86841 还有老梗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2054941417232031777",
+        "created_at": "2026-05-14T16:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054964754712854741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "annie_cath86841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054964754712854741",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054941417232031777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annie_cath86841 还有老梗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781893716183060480",
+        "conversation_id": "2054941417232031777",
+        "created_at": "2026-05-14T15:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054941417232031777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/gdioiui/status/2054854690995606016",
+              "start": 29,
+              "url": "https://t.co/3IUdZhIuBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054941417232031777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854690995606016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们在学校翻墙的时候一般叫佛跳墙\nGod use VPN https://t.co/3IUdZhIuBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 432,
+          "like_count": 3770,
+          "listed_count": 3,
+          "media_count": 1221,
+          "tweet_count": 6597
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ / Akihiro ☄️\n​11-03-13{15}/(中3)/中国 🇨🇳\n日本のアニメと宇宙が大好き。\n日本語は勉強中だけど、たくさん話したいです！\n理屈っぽいって言われるけど、変な人じゃないよ。笑\n気軽に絡んでください 🤝✨\n#アニメ好きと繋がりたい\n#海外好きと繋がりたい\n#高校生と繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 120,
+                "tag": "アニメ好きと繋がりたい"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "tag": "海外好きと繋がりたい"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "tag": "高校生と繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro0313",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro0313",
+                "start": 0,
+                "url": "https://t.co/5zPAH9OdaS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "💁あきひろくんです✨",
+        "pinned_tweet_id": "2051359435285766386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050622731365019648/TAfUimQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 339,
+          "like_count": 4081,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/5zPAH9OdaS",
+        "username": "annie_cath86841",
+        "verified": false
+      }
+    ]
+  }
+}

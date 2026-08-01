@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027294326230069248"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027294416210383025",
+    "created_at": "2026-02-27T08:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027294416210383025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMEKD8CmYG",
+          "end": 35,
+          "expanded_url": "https://x.com/gdioiui/status/2027294416210383025/video/1",
+          "media_key": "7_2027294326230069248",
+          "start": 12,
+          "url": "https://t.co/HMEKD8CmYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027294416210383025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫踩奶加突脸警告⚠️ https://t.co/HMEKD8CmYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17697,
+        "height": 720,
+        "media_key": "7_2027294326230069248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027294326230069248/pu/img/Dy1xvXjILgcxQLBM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027294326230069248/pu/vid/avc1/480x270/__f7aAk_CR41QEBc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027294326230069248/pu/vid/avc1/640x360/Oo4HSIn9x219KLeG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027294326230069248/pu/vid/avc1/1280x720/Qy4Z-L0bX43caKyq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027294326230069248/pu/pl/bSX430yGxyNXgjx4.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027294326230069248"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027294416210383025",
+        "created_at": "2026-02-27T08:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027294416210383025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMEKD8CmYG",
+              "end": 35,
+              "expanded_url": "https://x.com/gdioiui/status/2027294416210383025/video/1",
+              "media_key": "7_2027294326230069248",
+              "start": 12,
+              "url": "https://t.co/HMEKD8CmYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027294416210383025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫踩奶加突脸警告⚠️ https://t.co/HMEKD8CmYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 338,
+          "like_count": 2966,
+          "listed_count": 1,
+          "media_count": 713,
+          "tweet_count": 4744
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

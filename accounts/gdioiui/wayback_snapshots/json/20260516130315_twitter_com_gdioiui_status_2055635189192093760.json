@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055635189192093760",
+    "created_at": "2026-05-16T13:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055635189192093760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/gdioiui/status/2055508783070404744",
+          "start": 17,
+          "url": "https://t.co/FOKXyEwbMZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055635189192093760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055508783070404744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "带着锁跑了几公里 我真的要爽飞了 https://t.co/FOKXyEwbMZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2055508780323078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaiWFvagAAqL0E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055635189192093760",
+        "created_at": "2026-05-16T13:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055635189192093760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/gdioiui/status/2055508783070404744",
+              "start": 17,
+              "url": "https://t.co/FOKXyEwbMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055635189192093760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055508783070404744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "带着锁跑了几公里 我真的要爽飞了 https://t.co/FOKXyEwbMZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055508780323078144"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055508783070404744",
+        "created_at": "2026-05-16T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055508783070404744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEHpES8Kgc",
+              "end": 32,
+              "expanded_url": "https://x.com/gdioiui/status/2055508783070404744/photo/1",
+              "media_key": "3_2055508780323078144",
+              "start": 9,
+              "url": "https://t.co/ZEHpES8Kgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055508783070404744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7356,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是...😨🥵🥵 https://t.co/ZEHpES8Kgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 439,
+          "like_count": 3798,
+          "listed_count": 3,
+          "media_count": 1236,
+          "tweet_count": 6662
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

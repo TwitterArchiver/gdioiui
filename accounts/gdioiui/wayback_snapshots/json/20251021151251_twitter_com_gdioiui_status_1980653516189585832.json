@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1980289832107855894",
+    "created_at": "2025-10-21T15:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980653516189585832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888105599642300416",
+          "start": 0,
+          "username": "Yunthought57441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980653516189585832",
+    "in_reply_to_user_id": "1888105599642300416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980595230543147327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunthought57441 求关😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1980289832107855894",
+        "created_at": "2025-10-21T15:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980653516189585832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888105599642300416",
+              "start": 0,
+              "username": "Yunthought57441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980653516189585832",
+        "in_reply_to_user_id": "1888105599642300416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980595230543147327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunthought57441 求关😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888105599642300416",
+        "conversation_id": "1980289832107855894",
+        "created_at": "2025-10-21T11:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980595230543147327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980595230543147327",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980297722575118727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 所以感觉这条路就像乱葬岗，无数人在此“丧命”，但还是源源不断的有人想要进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 109
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T06:00:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yunthought.rth1.xyz",
+                "end": 23,
+                "expanded_url": "https://yunthought.rth1.xyz/",
+                "start": 0,
+                "url": "https://t.co/puycrpdcwZ"
+              }
+            ]
+          }
+        },
+        "id": "1888105599642300416",
+        "location": "DongYing,ShanDong,PRC",
+        "name": "耘想",
+        "pinned_tweet_id": "1959659020136190134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064652870205440/cvuiP0no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 213,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/puycrpdcwZ",
+        "username": "Yunthought57441",
+        "verified": false
+      }
+    ]
+  }
+}

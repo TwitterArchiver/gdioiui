@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058562533825593602",
+    "created_at": "2026-05-25T14:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058917113268777099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        },
+        {
+          "end": 23,
+          "id": "2035668415231492096",
+          "start": 17,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058917113268777099",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058788875523539083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 @4rulq .....你看不到窝微信号？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058562533825593602",
+        "created_at": "2026-05-25T14:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058917113268777099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            },
+            {
+              "end": 23,
+              "id": "2035668415231492096",
+              "start": 17,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917113268777099",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058788875523539083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 @4rulq .....你看不到窝微信号？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "2058562533825593602",
+        "created_at": "2026-05-25T05:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058788875523539083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            },
+            {
+              "end": 15,
+              "id": "1882678524596867072",
+              "start": 7,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058788875523539083",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058788604596609331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq @gdioiui 你先加我的微信\n\nDudefuck696969"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 466,
+          "like_count": 3882,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 6946
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有阿斯伯格综合症患者一个🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳推止于推）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n出轨的老婆：@siangel0911\n逃生舱：@zhoyhng276158\n干女儿：@gdioiui\n（我是泛性恋😭不是一定就是同性恋😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "siangel0911"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 123,
+                "start": 115,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）人脉王🍥）",
+        "pinned_tweet_id": "2051636403281531157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024699703582224384/Oqfhnfhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 2097,
+          "like_count": 2325,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 4454
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "ここがいいちゃんだよ\n私は🍥MTF🏳️‍⚧️ですね（7日間食べたことがあるにゃん）\nたくさんいいちゃんのこと、よろしくね～\n公式：@mapo_q\n電子製品の修理⌚️🖥️⌨️📱📲💻🛠️\nプロの楽奏者🎹🎷🥁🎸🪉🎺\n音楽作曲🎛️🎚️\n大好きな彼氏@TouhouSeigen_、@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "mapo_q"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "TouhouSeigen_"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "name": "いいちゃん/貓貓🍥🏳️‍⚧️（すけちゃん重度依賴）",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 655,
+          "like_count": 2549,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2502
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

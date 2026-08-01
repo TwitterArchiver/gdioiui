@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058480414113849469",
+    "created_at": "2026-05-25T14:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058917366621409477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058917366621409477",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058775050501910706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 好复杂...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2058775048442585088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI8_6rboAA6qbh.jpg",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058480414113849469",
+        "created_at": "2026-05-25T14:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058917366621409477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917366621409477",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058775050501910706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 好复杂...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058775048442585088"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2058480414113849469",
+        "created_at": "2026-05-25T04:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058775050501910706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Download the official Morphe APK. Created by former ReVanced contributors to patch YouTube, YouTube Music, and Reddit with ad-blocking and custom features.",
+              "display_url": "morphe.software",
+              "end": 49,
+              "expanded_url": "https://morphe.software/",
+              "start": 26,
+              "status": 200,
+              "title": "Morphe App for YouTube and Reddit - OFFICIAL SITE",
+              "unwound_url": "https://morphe.software/",
+              "url": "https://t.co/BUd8G6nTUp"
+            },
+            {
+              "description": "MorpheApp has 21 repositories available. Follow their code on GitHub.",
+              "display_url": "github.com/MorpheApp",
+              "end": 80,
+              "expanded_url": "https://github.com/MorpheApp",
+              "start": 57,
+              "status": 200,
+              "title": "MorpheApp",
+              "unwound_url": "https://github.com/MorpheApp",
+              "url": "https://t.co/l8zNgc0nFX"
+            },
+            {
+              "description": "Download Morphe YouTube APK - the ultimate YouTube mod with ad-blocking, SponsorBlock, background playback, Return YouTube Dislike, and 70+ customization features. Developed by original ReVanced Extended contributors.",
+              "display_url": "vanced.to/morphe-youtube/",
+              "end": 118,
+              "expanded_url": "https://vanced.to/morphe-youtube/",
+              "start": 95,
+              "status": 200,
+              "title": "Morphe YouTube",
+              "unwound_url": "https://vanced.to/morphe-youtube/",
+              "url": "https://t.co/7StBb56GOd"
+            },
+            {
+              "description": "GmsCore fork for Morphe patched apps. Contribute to MorpheApp/MicroG-RE development by creating an account on GitHub.",
+              "display_url": "github.com/MorpheApp/Micr…",
+              "end": 157,
+              "expanded_url": "https://github.com/MorpheApp/MicroG-RE",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2058775055816175616/pmo9gcWM?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058775055816175616/pmo9gcWM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "GitHub - MorpheApp/MicroG-RE: GmsCore fork for Morphe patched apps",
+              "unwound_url": "https://github.com/MorpheApp/MicroG-RE",
+              "url": "https://t.co/l43cIUl17o"
+            },
+            {
+              "display_url": "pic.x.com/Wnsh4oLalL",
+              "end": 181,
+              "expanded_url": "https://x.com/aaarjkk/status/2058775050501910706/photo/1",
+              "media_key": "3_2058775048442585088",
+              "start": 158,
+              "url": "https://t.co/Wnsh4oLalL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058775050501910706",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058557880186634520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui morpheYouTube\n官网：https://t.co/BUd8G6nTUp\nGithub：https://t.co/l8zNgc0nFX\n修补好的YouTube下载：https://t.co/7StBb56GOd\n需要配合microgre使用：https://t.co/l43cIUl17o https://t.co/Wnsh4oLalL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 466,
+          "like_count": 3883,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 6948
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯友跨🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 756,
+          "like_count": 14563,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 2024
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992456290816454893",
+    "created_at": "2025-11-23T04:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992456290816454893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dr_Duckter/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Dr_Duckter/status/1992069287788589265",
+          "start": 16,
+          "url": "https://t.co/YJUpxdlkwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992456290816454893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992069287788589265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这又是哪里的董卓和吕布。。。。 https://t.co/YJUpxdlkwm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992456290816454893",
+        "created_at": "2025-11-23T04:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992456290816454893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dr_Duckter/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Dr_Duckter/status/1992069287788589265",
+              "start": 16,
+              "url": "https://t.co/YJUpxdlkwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992456290816454893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992069287788589265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这又是哪里的董卓和吕布。。。。 https://t.co/YJUpxdlkwm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "conversation_id": "1991533337459167709",
+        "created_at": "2025-11-22T03:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992069287788589265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371747023066591232",
+              "start": 0,
+              "username": "Scott59588737"
+            },
+            {
+              "end": 31,
+              "id": "1413159413464985603",
+              "start": 15,
+              "username": "s0CmqlNSQHaTUFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992069287788589265",
+        "in_reply_to_user_id": "1371747023066591232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22400,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992049246900781556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott59588737 @s0CmqlNSQHaTUFa 我爹是中国共产党，我妈是中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 56,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "最爱国的🐰\n粉红 网左 目田 支黑 的集合体 乐子人\n逃生仓 @Dr__Duckter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr.Duckter",
+        "pinned_tweet_id": "1992182401594998956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991862674603524096/mdQiiEIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 314,
+          "like_count": 3044,
+          "listed_count": 6,
+          "media_count": 62,
+          "tweet_count": 684
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

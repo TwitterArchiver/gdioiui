@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2075353890736988191",
+    "created_at": "2026-07-10T11:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075538114903191624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055430038183632896",
+          "start": 0,
+          "username": "qlnber999"
+        },
+        {
+          "end": 24,
+          "id": "1900754238570893313",
+          "start": 11,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075538114903191624",
+    "in_reply_to_user_id": "2055430038183632896",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075534103848591512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlnber999 @patchouli608 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2075353890736988191",
+        "created_at": "2026-07-10T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075538114903191624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055430038183632896",
+              "start": 0,
+              "username": "qlnber999"
+            },
+            {
+              "end": 24,
+              "id": "1900754238570893313",
+              "start": 11,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075538114903191624",
+        "in_reply_to_user_id": "2055430038183632896",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075534103848591512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlnber999 @patchouli608 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055430038183632896",
+        "conversation_id": "2075353890736988191",
+        "created_at": "2026-07-10T10:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075534103848591512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            },
+            {
+              "end": 22,
+              "id": "1882678524596867072",
+              "start": 14,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075534103848591512",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075451041378975874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 @gdioiui 明明是仰泳的群友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 487,
+          "like_count": 4370,
+          "listed_count": 4,
+          "media_count": 1544,
+          "tweet_count": 8109
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T23:28:22.000Z",
+        "description": "不吸烟/不喝酒/并非跨性别主义者/不吸毒/\n精神状态糟糕/抑郁症\n单推琪露诺\n关系较好的推友:\n@neko0523_1\n现实好友:\n@Justwalkedby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "neko0523_1"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Justwalkedby"
+              }
+            ]
+          }
+        },
+        "id": "2055430038183632896",
+        "name": "英格林派教宗琪露诺（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055469929621778432/QE9w5G2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 59,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1473
+        },
+        "url": "",
+        "username": "qlnber999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛 \n七転び、八起き。\n棄理從文｜商科逃兵｜永遠忠於中文系︱臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rulib.cn",
+                "end": 23,
+                "expanded_url": "https://www.rulib.cn",
+                "start": 0,
+                "url": "https://t.co/DlkhbWFWyo"
+              }
+            ]
+          }
+        },
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "pinned_tweet_id": "2070246029421887801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070608956934787072/AOjmeFcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 189,
+          "like_count": 36159,
+          "listed_count": 2,
+          "media_count": 1144,
+          "tweet_count": 13897
+        },
+        "url": "https://t.co/DlkhbWFWyo",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2005119818165613044",
+    "created_at": "2025-12-28T14:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005286514188792260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900177399427518464",
+          "start": 0,
+          "username": "Atom__Chaperone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005286514188792260",
+    "in_reply_to_user_id": "1900177399427518464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005272960513560935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atom__Chaperone 额看了一下 有的 但是一包才有白兔一片的量..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2005119818165613044",
+        "created_at": "2025-12-28T14:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005286514188792260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900177399427518464",
+              "start": 0,
+              "username": "Atom__Chaperone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005286514188792260",
+        "in_reply_to_user_id": "1900177399427518464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005272960513560935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atom__Chaperone 额看了一下 有的 但是一包才有白兔一片的量..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900177399427518464",
+        "conversation_id": "2005119818165613044",
+        "created_at": "2025-12-28T13:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005272960513560935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005272960513560935",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005119818165613044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这个也有二氢可待因的，含量和白兔差不了多，只是滥用剂量的对乙酰氨基酚有一丢丢多。不过要吃的话也可以，讲道理，偶尔一两次雀食不会有太大的问题，不过还是建议少用，实在要用白兔更好 :3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 175,
+          "like_count": 967,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T13:29:41.000Z",
+        "description": "啊啊，密码搞丢真是坏口牙。不过换了新号我还是要用这个意义不明的网名口牙\n丨喜欢可爱的东西捏，所以想让自己也可爱捏丨可以找我要互Fo喵 :3 丨坐标四川喵",
+        "id": "1900177399427518464",
+        "location": "切尔诺贝利",
+        "name": "Atom Chaperone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900177565081387008/i_95gyjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 39,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 162
+        },
+        "username": "Atom__Chaperone",
+        "verified": false
+      }
+    ]
+  }
+}

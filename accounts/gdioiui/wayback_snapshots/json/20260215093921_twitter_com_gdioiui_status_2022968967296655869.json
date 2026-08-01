@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2022932951483437205",
+    "created_at": "2026-02-15T09:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022968967296655869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022556004089753600",
+          "start": 0,
+          "username": "jiechengmadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022968967296655869",
+    "in_reply_to_user_id": "2022556004089753600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022932951483437205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiechengmadoka 窝也要可以吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2022932951483437205",
+        "created_at": "2026-02-15T09:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022968967296655869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022556004089753600",
+              "start": 0,
+              "username": "jiechengmadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022968967296655869",
+        "in_reply_to_user_id": "2022556004089753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022932951483437205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiechengmadoka 窝也要可以吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022556004089753600",
+        "conversation_id": "2022932951483437205",
+        "created_at": "2026-02-15T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022932951483437205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022932951483437205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文今日委托我向国际快递寄送500克亚盐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 310,
+          "like_count": 2765,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 4439
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T06:18:29.000Z",
+        "description": "糖和糖商，粉白蓝与梦想大家好我是小圆环/2009.09.26/小证日期25.9.16/一年xyn兼紫砂干预志愿者/n55唐毓文冰棍爱爱酱推荐的糖商(下略)，清蒸协会荣誉获奖者/心理疏导需求的可以私我的说/tg:yuukihanashiya, qq3518541175加不上时:2398521880",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySky_Snow…",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySky_Snowfield",
+                "start": 0,
+                "url": "https://t.co/4oTEnQ18V1"
+              }
+            ]
+          }
+        },
+        "id": "2022556004089753600",
+        "location": "药娘之城",
+        "name": "鹿目圆环（糖商/全球直发）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022556799510147072/mplNMfTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 24,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/4oTEnQ18V1",
+        "username": "jiechengmadoka",
+        "verified": false
+      }
+    ]
+  }
+}

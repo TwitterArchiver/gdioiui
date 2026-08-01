@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2022308405109735640",
+    "created_at": "2026-02-14T11:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022635727771820309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798691696001355776",
+          "start": 0,
+          "username": "ZaoTon618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022635727771820309",
+    "in_reply_to_user_id": "1798691696001355776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022310503151010254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaoTon618 a...窝这里也有..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2022310499933995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCwr14bwAAThug.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1808,
+        "media_key": "3_2022310500181422081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCwr2zbMAEYBQK.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1304,
+        "media_key": "3_2022310500206608384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCwr25bgAAuAxb.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1328,
+        "media_key": "3_2022310500483424256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCwr37bYAAhcSM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2022308405109735640",
+        "created_at": "2026-02-14T11:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022635727771820309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798691696001355776",
+              "start": 0,
+              "username": "ZaoTon618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022635727771820309",
+        "in_reply_to_user_id": "1798691696001355776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022310503151010254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaoTon618 a...窝这里也有..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022310499933995008",
+            "3_2022310500181422081",
+            "3_2022310500206608384",
+            "3_2022310500483424256"
+          ]
+        },
+        "author_id": "1798691696001355776",
+        "conversation_id": "2022308405109735640",
+        "created_at": "2026-02-13T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022310503151010254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZlfhj0lnG",
+              "end": 127,
+              "expanded_url": "https://x.com/ZaoTon618/status/2022310503151010254/photo/1",
+              "media_key": "3_2022310499933995008",
+              "start": 104,
+              "url": "https://t.co/AZlfhj0lnG"
+            },
+            {
+              "display_url": "pic.x.com/AZlfhj0lnG",
+              "end": 127,
+              "expanded_url": "https://x.com/ZaoTon618/status/2022310503151010254/photo/1",
+              "media_key": "3_2022310500181422081",
+              "start": 104,
+              "url": "https://t.co/AZlfhj0lnG"
+            },
+            {
+              "display_url": "pic.x.com/AZlfhj0lnG",
+              "end": 127,
+              "expanded_url": "https://x.com/ZaoTon618/status/2022310503151010254/photo/1",
+              "media_key": "3_2022310500206608384",
+              "start": 104,
+              "url": "https://t.co/AZlfhj0lnG"
+            },
+            {
+              "display_url": "pic.x.com/AZlfhj0lnG",
+              "end": 127,
+              "expanded_url": "https://x.com/ZaoTon618/status/2022310503151010254/photo/1",
+              "media_key": "3_2022310500483424256",
+              "start": 104,
+              "url": "https://t.co/AZlfhj0lnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022310503151010254",
+        "in_reply_to_user_id": "1798691696001355776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2152,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022308405109735640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：此人倒打一耙说我诈骗，且用一堆小号来骂我，事后发现是误会不仅不道歉且态度极差！\n目前发现的此人所有QQ号\n3782312323，1683795608，3692991785\n各大群如有发现，请尽快踢出！ https://t.co/AZlfhj0lnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 310,
+          "like_count": 2744,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 4410
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24 MtF🍥/已炸柜/家长不管党/不抽烟不喝酒/不od不割手/应该没有精神疾病/一般不会发负能量内容/可互fo有关注基本必回(前提我确定你是人)/欢迎找我咨询MtF用药方案及相关知识，有跨性别意愿的也可以找我做心理疏导🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "https://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/rKC6bXjeLt"
+              }
+            ]
+          }
+        },
+        "id": "1798691696001355776",
+        "location": "创国",
+        "name": "枣桐酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015014041513845212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004470062452035588/PVjS6TLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 700,
+          "like_count": 23350,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/rKC6bXjeLt",
+        "username": "ZaoTon618",
+        "verified": false
+      }
+    ]
+  }
+}

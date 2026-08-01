@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032647342126678016"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2032647397298548983",
+    "created_at": "2026-03-14T02:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032647397298548983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYuQ9UZfGp",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2032647397298548983/photo/1",
+          "media_key": "3_2032647342126678016",
+          "start": 16,
+          "url": "https://t.co/YYuQ9UZfGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032647397298548983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给猫猫买了新耳机礼物\n它很开心 https://t.co/YYuQ9UZfGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032647342126678016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVp_P0aQAAjTOq.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032647342126678016"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2032647397298548983",
+        "created_at": "2026-03-14T02:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032647397298548983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYuQ9UZfGp",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2032647397298548983/photo/1",
+              "media_key": "3_2032647342126678016",
+              "start": 16,
+              "url": "https://t.co/YYuQ9UZfGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032647397298548983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给猫猫买了新耳机礼物\n它很开心 https://t.co/YYuQ9UZfGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 346,
+          "like_count": 3160,
+          "listed_count": 2,
+          "media_count": 810,
+          "tweet_count": 5085
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

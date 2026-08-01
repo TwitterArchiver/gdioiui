@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2028459210745516152",
+    "created_at": "2026-03-02T13:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028459210745516152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine2024…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/RainEngine2024/status/2028449484578107652",
+          "start": 15,
+          "url": "https://t.co/tOJq1KRruN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028459210745516152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028449484578107652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝要是这个长度都不用剪... https://t.co/tOJq1KRruN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028449470879531008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaAC-yagAAEqro.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2028459210745516152",
+        "created_at": "2026-03-02T13:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028459210745516152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2028449484578107652",
+              "start": 15,
+              "url": "https://t.co/tOJq1KRruN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028459210745516152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028449484578107652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝要是这个长度都不用剪... https://t.co/tOJq1KRruN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028449470879531008"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2028449484578107652",
+        "created_at": "2026-03-02T12:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028449484578107652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJZIg6qsSB",
+              "end": 49,
+              "expanded_url": "https://x.com/RainEngine2024/status/2028449484578107652/photo/1",
+              "media_key": "3_2028449470879531008",
+              "start": 26,
+              "url": "https://t.co/XJZIg6qsSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028449484578107652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家长总是说想叫我去剪头发，感觉我头发也不长啊（（ https://t.co/XJZIg6qsSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 340,
+          "like_count": 3027,
+          "listed_count": 1,
+          "media_count": 743,
+          "tweet_count": 4844
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7036,
+          "following_count": 815,
+          "like_count": 56230,
+          "listed_count": 5,
+          "media_count": 1217,
+          "tweet_count": 8405
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2056020616743186546",
+    "created_at": "2026-05-17T14:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056020616743186546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/gdioiui/status/2055963074579124674",
+          "start": 22,
+          "url": "https://t.co/zhSJ3cZu4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056020616743186546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055963074579124674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "带锁回来了 没上厕所 因为头发被骂了半小时 https://t.co/zhSJ3cZu4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055963066488233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIg_hBlaoAAhffq.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2056020616743186546",
+        "created_at": "2026-05-17T14:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056020616743186546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/gdioiui/status/2055963074579124674",
+              "start": 22,
+              "url": "https://t.co/zhSJ3cZu4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056020616743186546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055963074579124674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "带锁回来了 没上厕所 因为头发被骂了半小时 https://t.co/zhSJ3cZu4c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055963066488233984"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055963074579124674",
+        "created_at": "2026-05-17T10:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055963074579124674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UvXhBx8H7",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2055963074579124674/photo/1",
+              "media_key": "3_2055963066488233984",
+              "start": 16,
+              "url": "https://t.co/6UvXhBx8H7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055963074579124674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "袜子洗了没干 只好穿这个上学了 https://t.co/6UvXhBx8H7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 443,
+          "like_count": 3819,
+          "listed_count": 3,
+          "media_count": 1244,
+          "tweet_count": 6708
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

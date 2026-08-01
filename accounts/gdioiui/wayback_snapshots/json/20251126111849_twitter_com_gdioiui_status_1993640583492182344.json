@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1993640583492182344",
+    "created_at": "2025-11-26T11:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993640583492182344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/520illusion/status/1993611486212862288",
+          "start": 85,
+          "url": "https://t.co/PWiUznB3So"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993640583492182344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993611486212862288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pr80没了吃什么啊？\n大小出生-金刚烷胺和美金刚更伤哦，越禁吃的越不健康\n普瑞戒断好像还挺强   这波断药会逼死多少呢好难猜\n😡😡支持大手 你们这群oder就该死光光 https://t.co/PWiUznB3So"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_1993611476394033153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q7Ez6bwAEdSyr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1479,
+        "media_key": "3_1993611476406611968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q7Ez9bsAAt2T2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1993640583492182344",
+        "created_at": "2025-11-26T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993640583492182344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/520illusion/status/1993611486212862288",
+              "start": 85,
+              "url": "https://t.co/PWiUznB3So"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993640583492182344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993611486212862288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr80没了吃什么啊？\n大小出生-金刚烷胺和美金刚更伤哦，越禁吃的越不健康\n普瑞戒断好像还挺强   这波断药会逼死多少呢好难猜\n😡😡支持大手 你们这群oder就该死光光 https://t.co/PWiUznB3So"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993611476394033153",
+            "3_1993611476406611968"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "conversation_id": "1993611486212862288",
+        "created_at": "2025-11-26T09:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993611486212862288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "日前，中青报·中青网记者调查发现，普瑞巴林等处方药能在电商平台购得，处方药存在滥用风险，侵蚀一些年轻人的身心健康。",
+              "display_url": "t.m.youth.cn/transfer/index…",
+              "end": 112,
+              "expanded_url": "https://t.m.youth.cn/transfer/index/url/news.youth.cn/sh/202511/t20251125_16368621.htm",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/1993611503552131072/aefFiMlO?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993611503552131072/aefFiMlO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "处方药滥用亟须“踩刹车”——中国青年网",
+              "unwound_url": "https://t.m.youth.cn/transfer/index/url/news.youth.cn/sh/202511/t20251125_16368621.htm",
+              "url": "https://t.co/VX09EWSQHy"
+            },
+            {
+              "display_url": "pic.x.com/dfje6LnWVJ",
+              "end": 136,
+              "expanded_url": "https://x.com/520illusion/status/1993611486212862288/photo/1",
+              "media_key": "3_1993611476394033153",
+              "start": 113,
+              "url": "https://t.co/dfje6LnWVJ"
+            },
+            {
+              "display_url": "pic.x.com/dfje6LnWVJ",
+              "end": 136,
+              "expanded_url": "https://x.com/520illusion/status/1993611486212862288/photo/1",
+              "media_key": "3_1993611476406611968",
+              "start": 113,
+              "url": "https://t.co/dfje6LnWVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993611486212862288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.m.youth.cn/transfer/index…",
+                "end": 112,
+                "expanded_url": "https://t.m.youth.cn/transfer/index/url/news.youth.cn/sh/202511/t20251125_16368621.htm",
+                "start": 89,
+                "url": "https://t.co/FdTCUVLU1V"
+              }
+            ]
+          },
+          "text": "昨天 中国青年网 点名了普瑞巴林 \n距离上一次点名普瑞巴林几乎两周年\n\n看样子狂欢不会太久了 参考右美沙芬\n预估今年底 禁止网络零售 \n之后逐步提高门槛 直至管制 \n\n传送门:\nhttps://t.co/FdTCUVLU1V"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 922,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天 中国青年网 点名了普瑞巴林 \n距离上一次点名普瑞巴林几乎两周年\n\n看样子狂欢不会太久了 参考右美沙芬\n预估今年底 禁止网络零售 \n之后逐步提高门槛 直至管制 \n\n传送门:\nhttps://t.co/VX09EWSQHy https://t.co/dfje6LnWVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 64,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 |  蓝  | 终将成为你 | 清水 | 🚫 od 色情 花刀 政治 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993403526383648774/FvyQegqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 212,
+          "like_count": 3202,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 1896
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

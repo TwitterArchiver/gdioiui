@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055660465011786158",
+    "created_at": "2026-05-16T14:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055660465011786158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055660465011786158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "qwq 上帝能不能再给我派一个对象 我保证这次会珍惜的...\nwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055660465011786158",
+        "created_at": "2026-05-16T14:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055660465011786158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055660465011786158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "qwq 上帝能不能再给我派一个对象 我保证这次会珍惜的...\nwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 440,
+          "like_count": 3802,
+          "listed_count": 3,
+          "media_count": 1236,
+          "tweet_count": 6669
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

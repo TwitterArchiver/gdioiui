@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057469789526958147",
+    "created_at": "2026-05-21T14:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057469789526958147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057469789526958147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天进行了一些调查 发现自己在学校还挺出名了...\n他们起的外号叫甲基苯.......\n地球online什么时候删除我的甲基苯...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057469789526958147",
+        "created_at": "2026-05-21T14:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057469789526958147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057469789526958147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天进行了一些调查 发现自己在学校还挺出名了...\n他们起的外号叫甲基苯.......\n地球online什么时候删除我的甲基苯...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 461,
+          "like_count": 3833,
+          "listed_count": 3,
+          "media_count": 1261,
+          "tweet_count": 6814
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053352751560802304"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053352755474145349",
+    "created_at": "2026-05-10T05:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053352755474145349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MPyDS1bmee",
+          "end": 40,
+          "expanded_url": "https://x.com/gdioiui/status/2053352755474145349/photo/1",
+          "media_key": "3_2053352751560802304",
+          "start": 17,
+          "url": "https://t.co/MPyDS1bmee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053352755474145349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "散热器真的结冰了...\n好¯꒳¯ https://t.co/MPyDS1bmee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053352751560802304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH75cstaQAAC23H.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053352751560802304"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053352755474145349",
+        "created_at": "2026-05-10T05:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053352755474145349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPyDS1bmee",
+              "end": 40,
+              "expanded_url": "https://x.com/gdioiui/status/2053352755474145349/photo/1",
+              "media_key": "3_2053352751560802304",
+              "start": 17,
+              "url": "https://t.co/MPyDS1bmee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053352755474145349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "散热器真的结冰了...\n好¯꒳¯ https://t.co/MPyDS1bmee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 429,
+          "like_count": 3743,
+          "listed_count": 3,
+          "media_count": 1204,
+          "tweet_count": 6504
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

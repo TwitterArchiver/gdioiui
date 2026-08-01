@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2031012616274157994",
+    "created_at": "2026-05-24T14:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058562222075551835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044355028593647616",
+          "start": 0,
+          "username": "zhouexld"
+        },
+        {
+          "end": 20,
+          "id": "1479529920837476353",
+          "start": 10,
+          "username": "weiktuoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058562222075551835",
+    "in_reply_to_user_id": "2044355028593647616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058558149549072410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouexld @weiktuoer ...这是初中喵...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2031012616274157994",
+        "created_at": "2026-05-24T14:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058562222075551835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044355028593647616",
+              "start": 0,
+              "username": "zhouexld"
+            },
+            {
+              "end": 20,
+              "id": "1479529920837476353",
+              "start": 10,
+              "username": "weiktuoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058562222075551835",
+        "in_reply_to_user_id": "2044355028593647616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058558149549072410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouexld @weiktuoer ...这是初中喵...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044355028593647616",
+        "conversation_id": "2031012616274157994",
+        "created_at": "2026-05-24T14:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058558149549072410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479529920837476353",
+              "start": 0,
+              "username": "weiktuoer"
+            },
+            {
+              "end": 19,
+              "id": "1882678524596867072",
+              "start": 11,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058558149549072410",
+        "in_reply_to_user_id": "1479529920837476353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031176039532318861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiktuoer @gdioiui 你是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 467,
+          "like_count": 3877,
+          "listed_count": 3,
+          "media_count": 1285,
+          "tweet_count": 6933
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T10:00:19.000Z",
+        "description": "",
+        "id": "2044355028593647616",
+        "name": "zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355179773087744/UXZpUVLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 541,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "zhouexld",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T19:06:51.000Z",
+        "description": "云南cd｜坐标昆明｜166/55（在减肥了）｜喜欢可爱的裙子｜🚪69｜变成流浪小破猫了｜私信麻烦直接说明来意",
+        "id": "1479529920837476353",
+        "name": "☆keluoai☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997137308785823744/9oeSCDV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 173,
+          "like_count": 1130,
+          "listed_count": 11,
+          "media_count": 129,
+          "tweet_count": 1368
+        },
+        "username": "weiktuoer",
+        "verified": false
+      }
+    ]
+  }
+}

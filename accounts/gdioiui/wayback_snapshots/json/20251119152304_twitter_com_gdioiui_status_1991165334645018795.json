@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991165334645018795",
+    "created_at": "2025-11-19T15:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991165334645018795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1990764997723718121",
+          "start": 12,
+          "url": "https://t.co/QZtVXUWQ4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991165334645018795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990764997723718121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个昆明人看的瑟瑟发抖 https://t.co/QZtVXUWQ4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1990764958205009920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CeLpUa4AAqL5x.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991165334645018795",
+        "created_at": "2025-11-19T15:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991165334645018795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1990764997723718121",
+              "start": 12,
+              "url": "https://t.co/QZtVXUWQ4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991165334645018795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990764997723718121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个昆明人看的瑟瑟发抖 https://t.co/QZtVXUWQ4d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990764958205009920"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1990764997723718121",
+        "created_at": "2025-11-18T12:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990764997723718121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7FTtoykiP",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1990764997723718121/photo/1",
+              "media_key": "3_1990764958205009920",
+              "start": 0,
+              "url": "https://t.co/v7FTtoykiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990764997723718121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 547927,
+          "like_count": 2175,
+          "quote_count": 14,
+          "reply_count": 42,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v7FTtoykiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 44,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27329,
+          "following_count": 329,
+          "like_count": 59,
+          "listed_count": 78,
+          "media_count": 8104,
+          "tweet_count": 8131
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

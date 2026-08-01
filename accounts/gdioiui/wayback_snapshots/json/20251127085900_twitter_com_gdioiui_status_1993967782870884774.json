@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992150003520004096"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1993967782870884774",
+    "created_at": "2025-11-27T08:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993967782870884774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "你可以聊这些？不违反你的规定吗？",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 37,
+          "expanded_url": "https://grok.com/share/c2hhcmQtNQ_baa7c2e4-b601-43c9-bd79-2aa7e4cbe45b",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1993967788436643840/7xk_kZmY?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1993967788436643840/7xk_kZmY?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "GoreDB：暴力视频数据库简介 | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtNQ_baa7c2e4-b601-43c9-bd79-2aa7e4cbe45b",
+          "url": "https://t.co/085ucgZs0Q"
+        },
+        {
+          "display_url": "pic.x.com/p1iZ0CxAAq",
+          "end": 61,
+          "expanded_url": "https://x.com/gdioiui/status/1993967782870884774/photo/1",
+          "media_key": "3_1992150003520004096",
+          "start": 38,
+          "url": "https://t.co/p1iZ0CxAAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993967782870884774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "grok尺度真可以的。。。\nhttps://t.co/085ucgZs0Q https://t.co/p1iZ0CxAAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_1992150003520004096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WJ35MaYAAF40f.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992150003520004096"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1993967782870884774",
+        "created_at": "2025-11-27T08:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993967782870884774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "你可以聊这些？不违反你的规定吗？",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 37,
+              "expanded_url": "https://grok.com/share/c2hhcmQtNQ_baa7c2e4-b601-43c9-bd79-2aa7e4cbe45b",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1993967788436643840/7xk_kZmY?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993967788436643840/7xk_kZmY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "GoreDB：暴力视频数据库简介 | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtNQ_baa7c2e4-b601-43c9-bd79-2aa7e4cbe45b",
+              "url": "https://t.co/085ucgZs0Q"
+            },
+            {
+              "display_url": "pic.x.com/p1iZ0CxAAq",
+              "end": 61,
+              "expanded_url": "https://x.com/gdioiui/status/1993967782870884774/photo/1",
+              "media_key": "3_1992150003520004096",
+              "start": 38,
+              "url": "https://t.co/p1iZ0CxAAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993967782870884774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok尺度真可以的。。。\nhttps://t.co/085ucgZs0Q https://t.co/p1iZ0CxAAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 83,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

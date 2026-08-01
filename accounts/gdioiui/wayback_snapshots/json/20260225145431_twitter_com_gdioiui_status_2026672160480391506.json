@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026672104545071104"
+      ],
+      "media_source_tweet_id": [
+        "2026672106793218128"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026672160480391506",
+    "created_at": "2026-02-25T14:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026672160480391506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        },
+        {
+          "end": 26,
+          "id": "1846949815755984897",
+          "start": 13,
+          "username": "Miller239374"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EA4J6fd9Vt",
+          "end": 54,
+          "expanded_url": "https://x.com/gdioiui/status/2026672106793218128/photo/1",
+          "media_key": "3_2026672104545071104",
+          "start": 31,
+          "url": "https://t.co/EA4J6fd9Vt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026672160480391506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026672106793218128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: @Miller239374 那就要 https://t.co/EA4J6fd9Vt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026672104545071104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAvipOaMAAJmXj.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026672104545071104"
+          ],
+          "media_source_tweet_id": [
+            "2026672106793218128"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026672160480391506",
+        "created_at": "2026-02-25T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026672160480391506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            },
+            {
+              "end": 26,
+              "id": "1846949815755984897",
+              "start": 13,
+              "username": "Miller239374"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EA4J6fd9Vt",
+              "end": 54,
+              "expanded_url": "https://x.com/gdioiui/status/2026672106793218128/photo/1",
+              "media_key": "3_2026672104545071104",
+              "start": 31,
+              "url": "https://t.co/EA4J6fd9Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026672160480391506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026672106793218128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: @Miller239374 那就要 https://t.co/EA4J6fd9Vt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026672104545071104"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026586553225764989",
+        "created_at": "2026-02-25T14:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026672106793218128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EA4J6fd9Vt",
+              "end": 41,
+              "expanded_url": "https://x.com/gdioiui/status/2026672106793218128/photo/1",
+              "media_key": "3_2026672104545071104",
+              "start": 18,
+              "url": "https://t.co/EA4J6fd9Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026672106793218128",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026657420907515951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 那就要 https://t.co/EA4J6fd9Vt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 330,
+          "like_count": 2931,
+          "listed_count": 1,
+          "media_count": 698,
+          "tweet_count": 4682
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "他人的眼睛是我们的监狱，他人的思想是我们的牢笼。",
+        "id": "1846949815755984897",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 349,
+          "like_count": 10699,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1796
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1969355329109704942",
+    "created_at": "2025-09-21T04:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969618481596535083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969618481596535083",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969402885101535675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan 下次可以考赋值的复杂度了 还真不一定是o（1）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1969355329109704942",
+        "created_at": "2025-09-21T04:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969618481596535083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969618481596535083",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969402885101535675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan 下次可以考赋值的复杂度了 还真不一定是o（1）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401538162036412422",
+        "conversation_id": "1969355329109704942",
+        "created_at": "2025-09-20T14:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969402885101535675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969402885101535675",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969402204340830707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 其实留空就是不声明 for 作用域下的变量（比如经典的 i, j, k），直接进入 for 循环对应的后续步骤、照常按照后面的约束条件和递变要求跑（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 14,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement does not equal endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/bRSnK96C8F"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.0.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758368568776032256/g3GlYeFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 611,
+          "like_count": 123037,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/bRSnK96C8F",
+        "username": "ImKrisYan",
+        "verified": false
+      }
+    ]
+  }
+}

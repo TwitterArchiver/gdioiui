@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2013141038324432902",
+    "created_at": "2026-01-19T23:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T00:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013386775713194205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865123828419936256",
+          "start": 0,
+          "username": "yishengyishizho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013386775713194205",
+    "in_reply_to_user_id": "1865123828419936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013240559318499491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yishengyishizho 不太好 加上汇率变化 缩水不小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2013141038324432902",
+        "created_at": "2026-01-19T23:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T00:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013386775713194205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865123828419936256",
+              "start": 0,
+              "username": "yishengyishizho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013386775713194205",
+        "in_reply_to_user_id": "1865123828419936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013240559318499491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yishengyishizho 不太好 加上汇率变化 缩水不小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865123828419936256",
+        "conversation_id": "2013141038324432902",
+        "created_at": "2026-01-19T13:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013240559318499491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013240559318499491",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013238279659774001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这玩意现在行情还好吗？🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 292,
+          "like_count": 2305,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 3895
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T19:59:21.000Z",
+        "description": "上外网唯一目的就是找资源和观察人类（我已经退去人皮，升华成蛆了，只能在互联网阴暗的角落阴暗的爬行）（不坚持共产党领导，坚定支持马克思恩格斯主义共产主义社会主义资本主义毛泽东思想邓小平理论可持续发展观全人类命运共同体理论等等等等）（佛道教徒，西方宗教以及神圣几何学爱好者）（死二次元外加特摄机战厨）",
+        "id": "1865123828419936256",
+        "name": "一生一世中國人！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865125919897088000/OofW4xpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 581,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 621
+        },
+        "username": "yishengyishizho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993907322222202881"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993728967103422532",
+    "created_at": "2025-11-27T04:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993907326366216699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vc5hHMCcN",
+          "end": 54,
+          "expanded_url": "https://x.com/gdioiui/status/1993907326366216699/photo/1",
+          "media_key": "3_1993907322222202881",
+          "start": 31,
+          "url": "https://t.co/1vc5hHMCcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993907326366216699",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993906621811196395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 谢谢喵 反正横竖都要受不是 https://t.co/1vc5hHMCcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_1993907322222202881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vIJTga0AEgKTO.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993907322222202881"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993728967103422532",
+        "created_at": "2025-11-27T04:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993907326366216699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vc5hHMCcN",
+              "end": 54,
+              "expanded_url": "https://x.com/gdioiui/status/1993907326366216699/photo/1",
+              "media_key": "3_1993907322222202881",
+              "start": 31,
+              "url": "https://t.co/1vc5hHMCcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993907326366216699",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993906621811196395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 谢谢喵 反正横竖都要受不是 https://t.co/1vc5hHMCcN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859486191281897477",
+        "conversation_id": "1993728967103422532",
+        "created_at": "2025-11-27T04:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993906621811196395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993906621811196395",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993905035307307502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 有概率会死 但是一定会抽搐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 83,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "文章写尽太平事  不肯俯首见苍生\n小鱼小鱼快快游  四面八方皆牢笼\n.15岁的贱奴 男娘\n🩷磕药 吸毒 自残🩷    我是坏人 想屏蔽的赶紧屏蔽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/rPBfjngqOq"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/众善慈善",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983907777740451840/gzQ21mdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 471,
+          "like_count": 19864,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 7009
+        },
+        "url": "https://t.co/rPBfjngqOq",
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

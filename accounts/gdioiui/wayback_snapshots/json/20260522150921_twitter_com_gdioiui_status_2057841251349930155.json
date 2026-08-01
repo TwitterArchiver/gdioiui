@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057467762470265162",
+    "created_at": "2026-05-22T15:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057841251349930155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839119856945475587",
+          "start": 0,
+          "username": "z0013298474891"
+        },
+        {
+          "end": 25,
+          "id": "1823767079285350406",
+          "start": 16,
+          "username": "Faomocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057841251349930155",
+    "in_reply_to_user_id": "1839119856945475587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057839812925960292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z0013298474891 @Faomocat woc 我不敢看啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057467762470265162",
+        "created_at": "2026-05-22T15:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057841251349930155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839119856945475587",
+              "start": 0,
+              "username": "z0013298474891"
+            },
+            {
+              "end": 25,
+              "id": "1823767079285350406",
+              "start": 16,
+              "username": "Faomocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057841251349930155",
+        "in_reply_to_user_id": "1839119856945475587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057839812925960292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z0013298474891 @Faomocat woc 我不敢看啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839119856945475587",
+        "conversation_id": "2057467762470265162",
+        "created_at": "2026-05-22T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057839812925960292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            },
+            {
+              "end": 18,
+              "id": "1882678524596867072",
+              "start": 10,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057839812925960292",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057820515981775269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat @gdioiui 这么肥美的东西，免费让你看，还不收费，你就享受着吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 464,
+          "like_count": 3848,
+          "listed_count": 3,
+          "media_count": 1267,
+          "tweet_count": 6842
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T01:49:03.000Z",
+        "description": "",
+        "id": "1839119856945475587",
+        "name": "哈基米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029950746956034048/Pq_qh40W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 410,
+          "like_count": 3737,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "username": "z0013298474891",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF🍥🏳️‍⚧️ INFP 高三牲 物化地 备战高考ing 数学+物理求130 目前无钱买糖 172/62 2008/12/10出厂 半炸柜 求赞 同类互fo",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 211,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 242
+        },
+        "username": "Faomocat",
+        "verified": false
+      }
+    ]
+  }
+}

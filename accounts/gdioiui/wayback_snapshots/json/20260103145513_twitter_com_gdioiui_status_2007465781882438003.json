@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007464903880429568"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007465781882438003",
+    "created_at": "2026-01-03T14:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007465781882438003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DPr45yqeRC",
+          "end": 136,
+          "expanded_url": "https://x.com/gdioiui/status/2007465781882438003/photo/1",
+          "media_key": "3_2007464903880429568",
+          "start": 113,
+          "url": "https://t.co/DPr45yqeRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007465781882438003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天o了笑气 然后去考语文 超兴奋\n作文题目是aiXXXXx什么的\n然后窝开始写对抗命运.....\n最后“世上本没有路，走的人多了便有了路，走向本无路处的，只有人”\n写的热血沸腾 写完感动的要哭\n没救啦喵    毒品激发灵感 https://t.co/DPr45yqeRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007464903880429568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vysa7bUAAhuCb.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007464903880429568"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007465781882438003",
+        "created_at": "2026-01-03T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007465781882438003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPr45yqeRC",
+              "end": 136,
+              "expanded_url": "https://x.com/gdioiui/status/2007465781882438003/photo/1",
+              "media_key": "3_2007464903880429568",
+              "start": 113,
+              "url": "https://t.co/DPr45yqeRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007465781882438003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天o了笑气 然后去考语文 超兴奋\n作文题目是aiXXXXx什么的\n然后窝开始写对抗命运.....\n最后“世上本没有路，走的人多了便有了路，走向本无路处的，只有人”\n写的热血沸腾 写完感动的要哭\n没救啦喵    毒品激发灵感 https://t.co/DPr45yqeRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 237,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

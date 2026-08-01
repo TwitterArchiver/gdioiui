@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057236510613839873"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057236512627143101",
+    "created_at": "2026-05-20T23:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057236512627143101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/34jKLYL69a",
+          "end": 46,
+          "expanded_url": "https://x.com/gdioiui/status/2057236512627143101/photo/1",
+          "media_key": "3_2057236510613839873",
+          "start": 23,
+          "url": "https://t.co/34jKLYL69a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057236512627143101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味....\n自己和自己78%恋爱度... https://t.co/34jKLYL69a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2057236510613839873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzFtOoaIAE00pA.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057236510613839873"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057236512627143101",
+        "created_at": "2026-05-20T23:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057236512627143101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34jKLYL69a",
+              "end": 46,
+              "expanded_url": "https://x.com/gdioiui/status/2057236512627143101/photo/1",
+              "media_key": "3_2057236510613839873",
+              "start": 23,
+              "url": "https://t.co/34jKLYL69a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057236512627143101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味....\n自己和自己78%恋爱度... https://t.co/34jKLYL69a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 462,
+          "like_count": 3838,
+          "listed_count": 3,
+          "media_count": 1260,
+          "tweet_count": 6806
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982265918043410432",
+        "3_1982265918026547200"
+      ],
+      "media_source_tweet_id": [
+        "1982265933268930817",
+        "1982265933268930817"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1982266634027868532",
+    "created_at": "2025-10-26T02:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982266634027868532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rq5G5FzN77",
+          "end": 53,
+          "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+          "media_key": "3_1982265918043410432",
+          "start": 30,
+          "url": "https://t.co/rq5G5FzN77"
+        },
+        {
+          "display_url": "pic.x.com/rq5G5FzN77",
+          "end": 53,
+          "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+          "media_key": "3_1982265918026547200",
+          "start": 30,
+          "url": "https://t.co/rq5G5FzN77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982266634027868532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982265933268930817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 退役倒计时了这，一周估计都是大吉 https://t.co/rq5G5FzN77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_1982265918043410432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JsWZdXUAA7KUG.png",
+        "width": 320
+      },
+      {
+        "height": 278,
+        "media_key": "3_1982265918026547200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JsWZZWAAAti7-.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982265918043410432",
+            "3_1982265918026547200"
+          ],
+          "media_source_tweet_id": [
+            "1982265933268930817",
+            "1982265933268930817"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1982266634027868532",
+        "created_at": "2025-10-26T02:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982266634027868532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rq5G5FzN77",
+              "end": 53,
+              "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+              "media_key": "3_1982265918043410432",
+              "start": 30,
+              "url": "https://t.co/rq5G5FzN77"
+            },
+            {
+              "display_url": "pic.x.com/rq5G5FzN77",
+              "end": 53,
+              "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+              "media_key": "3_1982265918026547200",
+              "start": 30,
+              "url": "https://t.co/rq5G5FzN77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982266634027868532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982265933268930817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 退役倒计时了这，一周估计都是大吉 https://t.co/rq5G5FzN77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982265918043410432",
+            "3_1982265918026547200"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1982265933268930817",
+        "created_at": "2025-10-26T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982265933268930817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rq5G5FzN77",
+              "end": 40,
+              "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+              "media_key": "3_1982265918043410432",
+              "start": 17,
+              "url": "https://t.co/rq5G5FzN77"
+            },
+            {
+              "display_url": "pic.x.com/rq5G5FzN77",
+              "end": 40,
+              "expanded_url": "https://x.com/gdioiui/status/1982265933268930817/photo/1",
+              "media_key": "3_1982265918026547200",
+              "start": 17,
+              "url": "https://t.co/rq5G5FzN77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982265933268930817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "退役倒计时了这，一周估计都是大吉 https://t.co/rq5G5FzN77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

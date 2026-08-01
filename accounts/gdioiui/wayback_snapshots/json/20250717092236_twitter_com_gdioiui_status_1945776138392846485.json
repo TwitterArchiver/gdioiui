@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945776124434284545"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1945089108168036368",
+    "created_at": "2025-07-17T09:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945776138392846485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901299158669180931",
+          "start": 0,
+          "username": "ShoBeiYong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGPKMMNcF2",
+          "end": 51,
+          "expanded_url": "https://x.com/gdioiui/status/1945776138392846485/photo/1",
+          "media_key": "3_1945776124434284545",
+          "start": 28,
+          "url": "https://t.co/VGPKMMNcF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945776138392846485",
+    "in_reply_to_user_id": "901299158669180931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945308476994908224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoBeiYong 还录取了 看完仔细想想都觉得怪 https://t.co/VGPKMMNcF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1945776124434284545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDJE3VXgAEfKT-.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945776124434284545"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1945089108168036368",
+        "created_at": "2025-07-17T09:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945776138392846485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGPKMMNcF2",
+              "end": 51,
+              "expanded_url": "https://x.com/gdioiui/status/1945776138392846485/photo/1",
+              "media_key": "3_1945776124434284545",
+              "start": 28,
+              "url": "https://t.co/VGPKMMNcF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945776138392846485",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945308476994908224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong 还录取了 看完仔细想想都觉得怪 https://t.co/VGPKMMNcF2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901299158669180931",
+        "conversation_id": "1945089108168036368",
+        "created_at": "2025-07-16T02:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T03:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945308476994908224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945308476994908224",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945154252793340404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 你怎么知道不是真的有那些，你认识他吗还是他发声明了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "如果你无法控制思想，那便叫思想把你控制吧。淡推中。\n一代目：@Sho1919893（已死）    \n二代目：@dahaoSho8931919（復活失敗）\n備用： @juurihakenshin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "dahaoSho8931919"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "juurihakenshin"
+              }
+            ]
+          }
+        },
+        "id": "901299158669180931",
+        "location": "往生堂 焚化爐",
+        "name": "魈✟ ❂☭ 電波系奇男子",
+        "pinned_tweet_id": "1197534188674662403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 265,
+          "like_count": 7965,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 4921
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

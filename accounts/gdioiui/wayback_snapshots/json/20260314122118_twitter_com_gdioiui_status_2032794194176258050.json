@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2032736545812394097",
+    "created_at": "2026-03-14T12:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032794194176258050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032794194176258050",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032785651947679860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 不是 是专门的仪器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2032736545812394097",
+        "created_at": "2026-03-14T12:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032794194176258050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032794194176258050",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032785651947679860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 不是 是专门的仪器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "2032736545812394097",
+        "created_at": "2026-03-14T11:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032785651947679860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032785651947679860",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032736545812394097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这是什么邪门网站（\n看懵国学老登（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 347,
+          "like_count": 3177,
+          "listed_count": 2,
+          "media_count": 821,
+          "tweet_count": 5114
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "疑似47XXY？|07|高三被家庭「抛弃」辍学出走无业穷困一年余😥|精神良好，无不良嗜好😀|八字命理爱好者，可无偿看🤓|真的没钱，赞赏看着给点吧😭|具体简介请看置顶☺️|🚪门66+好友（私信截图告诉我）😇|不建🐧群了，神人太多😅|od紫餐怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "骂我长得像冰棍的死全家😅",
+        "name": "❄️雪梦歆屿🍥",
+        "pinned_tweet_id": "2030448606663377215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 66,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2040
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

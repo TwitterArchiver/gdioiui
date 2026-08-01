@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081678033405321461",
+    "created_at": "2026-07-27T11:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081707935609110740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682416913241227265",
+          "start": 0,
+          "username": "Acancoler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081707935609110740",
+    "in_reply_to_user_id": "1682416913241227265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081678033405321461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acancoler 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081678033405321461",
+        "created_at": "2026-07-27T11:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081707935609110740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682416913241227265",
+              "start": 0,
+              "username": "Acancoler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081707935609110740",
+        "in_reply_to_user_id": "1682416913241227265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081678033405321461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acancoler 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682416913241227265",
+        "conversation_id": "2081678033405321461",
+        "created_at": "2026-07-27T09:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081678033405321461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081678033405321461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 491,
+          "like_count": 4671,
+          "listed_count": 4,
+          "media_count": 1644,
+          "tweet_count": 8473
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T15:47:22.000Z",
+        "description": "I play the Blue Archive And PUBG.",
+        "id": "1682416913241227265",
+        "location": "Acancoler_A069@Outlook.com",
+        "name": "夜星痕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943300706250952711/vQ9ICQ0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "Acancoler",
+        "verified": false
+      }
+    ]
+  }
+}

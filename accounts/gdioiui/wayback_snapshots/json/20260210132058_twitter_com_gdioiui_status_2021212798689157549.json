@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2021030437888659584",
+    "created_at": "2026-02-10T13:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021212798689157549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162208564426862592",
+          "start": 0,
+          "username": "Suzumi_17860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021212798689157549",
+    "in_reply_to_user_id": "1162208564426862592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021131930251731206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzumi_17860 OVO 就一个哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2021030437888659584",
+        "created_at": "2026-02-10T13:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021212798689157549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162208564426862592",
+              "start": 0,
+              "username": "Suzumi_17860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021212798689157549",
+        "in_reply_to_user_id": "1162208564426862592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021131930251731206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzumi_17860 OVO 就一个哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162208564426862592",
+        "conversation_id": "2021030437888659584",
+        "created_at": "2026-02-10T07:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021131930251731206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021131930251731206",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021030437888659584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 对开后宫的有生理厌恶（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 307,
+          "like_count": 2665,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 4307
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T03:44:57.000Z",
+        "description": "和所有傻逼切割｜🏳️‍🌈｜兴趣爱好丧失｜姑且是N1｜关西某杂牌大学学生｜请叫我鈴",
+        "id": "1162208564426862592",
+        "location": "大阪",
+        "name": "スズ",
+        "pinned_tweet_id": "1989196598103158945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788163986313424896/sMAK5dZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 603,
+          "like_count": 1960,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 4116
+        },
+        "username": "Suzumi_17860",
+        "verified": false
+      }
+    ]
+  }
+}

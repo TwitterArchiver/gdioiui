@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060157078468182435",
+    "created_at": "2026-07-30T01:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082635715347918890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1938474283862507520",
+          "start": 0,
+          "username": "zimomosa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082635715347918890",
+    "in_reply_to_user_id": "1938474283862507520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082618612968464811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zimomosa 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060157078468182435",
+        "created_at": "2026-07-30T01:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082635715347918890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1938474283862507520",
+              "start": 0,
+              "username": "zimomosa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082635715347918890",
+        "in_reply_to_user_id": "1938474283862507520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082618612968464811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zimomosa 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938474283862507520",
+        "conversation_id": "2060157078468182435",
+        "created_at": "2026-07-30T00:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082618612968464811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082618612968464811",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060157078468182435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 来了同意一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 492,
+          "like_count": 4777,
+          "listed_count": 4,
+          "media_count": 1661,
+          "tweet_count": 8541
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T05:47:51.000Z",
+        "description": "音游/阴郁比/当代中国最香香软软的哲学家，We are more dictatorial than Qin Shihuang. Long live the dictatorship of the proletariat over the reactionary forces.",
+        "id": "1938474283862507520",
+        "location": "康密天国",
+        "name": "罗莎里欧女士☭Rosari🏳️‍⚧️🍥🏳️‍🌈🚩⚧️♀️",
+        "pinned_tweet_id": "2082619156630020336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078489701426794496/6ZfztjJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 518,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "zimomosa",
+        "verified": false
+      }
+    ]
+  }
+}

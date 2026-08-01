@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992992625964847459",
+    "created_at": "2025-11-24T16:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992992625964847459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/1992989422938415160",
+          "start": 9,
+          "url": "https://t.co/GXHm1kCBKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992992625964847459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992989422938415160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "共同的感觉1/6 https://t.co/GXHm1kCBKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 411,
+        "media_key": "3_1992988568793612288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iEi0RbgAA2vSC.png",
+        "width": 636
+      },
+      {
+        "height": 1137,
+        "media_key": "3_1992988698284322817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iEqWqa8AEMlpQ.jpg",
+        "width": 990
+      },
+      {
+        "height": 656,
+        "media_key": "3_1992989331603312640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iFPN9b0AAoNTc.jpg",
+        "width": 903
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992989371784638464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iFRjpaMAA3qZF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992992625964847459",
+        "created_at": "2025-11-24T16:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992992625964847459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/1992989422938415160",
+              "start": 9,
+              "url": "https://t.co/GXHm1kCBKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992992625964847459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992989422938415160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "共同的感觉1/6 https://t.co/GXHm1kCBKp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992988568793612288",
+            "3_1992988698284322817",
+            "3_1992989331603312640",
+            "3_1992989371784638464"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "1992982904901865794",
+        "created_at": "2025-11-24T16:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992989422938415160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQLBo8WUk8",
+              "end": 52,
+              "expanded_url": "https://x.com/Snow_Xue_/status/1992989422938415160/photo/1",
+              "media_key": "3_1992988568793612288",
+              "start": 29,
+              "url": "https://t.co/yQLBo8WUk8"
+            },
+            {
+              "display_url": "pic.x.com/yQLBo8WUk8",
+              "end": 52,
+              "expanded_url": "https://x.com/Snow_Xue_/status/1992989422938415160/photo/1",
+              "media_key": "3_1992988698284322817",
+              "start": 29,
+              "url": "https://t.co/yQLBo8WUk8"
+            },
+            {
+              "display_url": "pic.x.com/yQLBo8WUk8",
+              "end": 52,
+              "expanded_url": "https://x.com/Snow_Xue_/status/1992989422938415160/photo/1",
+              "media_key": "3_1992989331603312640",
+              "start": 29,
+              "url": "https://t.co/yQLBo8WUk8"
+            },
+            {
+              "display_url": "pic.x.com/yQLBo8WUk8",
+              "end": 52,
+              "expanded_url": "https://x.com/Snow_Xue_/status/1992989422938415160/photo/1",
+              "media_key": "3_1992989371784638464",
+              "start": 29,
+              "url": "https://t.co/yQLBo8WUk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992989422938415160",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992982904901865794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 感觉你有希望成为下一个唐毓文😁 https://t.co/yQLBo8WUk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 62,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入\n生产日期2010.3.16\n无证含糖",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970142306306285568/T-ZSp293_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1388,
+          "like_count": 33602,
+          "listed_count": 2,
+          "media_count": 445,
+          "tweet_count": 2972
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

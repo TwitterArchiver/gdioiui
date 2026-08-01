@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068052198043594752"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2068052239621718228",
+    "created_at": "2026-06-19T19:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068052239621718228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBQLuopWx5",
+          "end": 23,
+          "expanded_url": "https://x.com/gdioiui/status/2068052239621718228/photo/1",
+          "media_key": "3_2068052198043594752",
+          "start": 0,
+          "url": "https://t.co/aBQLuopWx5"
+        },
+        {
+          "display_url": "x.com/umehara02A01/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/umehara02A01/status/2067827637977022704",
+          "start": 24,
+          "url": "https://t.co/1vp51vuJX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068052239621718228",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067827637977022704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/aBQLuopWx5 https://t.co/1vp51vuJX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068052198043594752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMyhGFasAAGUVe.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2067827606884597760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJmQK0aQAANHOI.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068052198043594752"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2068052239621718228",
+        "created_at": "2026-06-19T19:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068052239621718228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBQLuopWx5",
+              "end": 23,
+              "expanded_url": "https://x.com/gdioiui/status/2068052239621718228/photo/1",
+              "media_key": "3_2068052198043594752",
+              "start": 0,
+              "url": "https://t.co/aBQLuopWx5"
+            },
+            {
+              "display_url": "x.com/umehara02A01/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/umehara02A01/status/2067827637977022704",
+              "start": 24,
+              "url": "https://t.co/1vp51vuJX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068052239621718228",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067827637977022704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/aBQLuopWx5 https://t.co/1vp51vuJX7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067827606884597760"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "2067827637977022704",
+        "created_at": "2026-06-19T04:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067827637977022704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1CcVE5L6S",
+              "end": 23,
+              "expanded_url": "https://x.com/umehara02A01/status/2067827637977022704/photo/1",
+              "media_key": "3_2067827606884597760",
+              "start": 0,
+              "url": "https://t.co/Y1CcVE5L6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067827637977022704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y1CcVE5L6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 477,
+          "like_count": 4211,
+          "listed_count": 3,
+          "media_count": 1443,
+          "tweet_count": 7706
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "視姦者去死/akaすいか/高校1年生/上海/mtf🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領\nzh-hant/ja/en\n裏垢@umeharaAC02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "umeharaAC02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF32Js"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国",
+        "name": "梅原寒咲",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1834,
+          "like_count": 15446,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 8231
+        },
+        "url": "https://t.co/BjCzmF32Js",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}

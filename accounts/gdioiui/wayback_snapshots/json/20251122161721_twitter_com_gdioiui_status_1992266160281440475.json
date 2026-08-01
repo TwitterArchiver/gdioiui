@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992266157844521051",
+    "created_at": "2025-11-22T16:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992266160281440475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992266160281440475",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992266157844521051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二个 他是我们两个人一起玩的朋友 很开朗 但是突然听说抑郁休学 谁知道他怎么装的\n第三个 抑郁和神经病 我和同桌打完架搬过去和他坐 老师有担心他影响我的倾向 其实我把他当自己人 倾泄了许多不好的想法 包括分享自杀企划，轻松了不少 后来班主任叫过去 强行让他转科 一周后他又休了再也联系不上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992266153419534337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XzgtSa8AE_9W-.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992266157844521051",
+        "created_at": "2025-11-22T16:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992266160281440475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992266160281440475",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992266157844521051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二个 他是我们两个人一起玩的朋友 很开朗 但是突然听说抑郁休学 谁知道他怎么装的\n第三个 抑郁和神经病 我和同桌打完架搬过去和他坐 老师有担心他影响我的倾向 其实我把他当自己人 倾泄了许多不好的想法 包括分享自杀企划，轻松了不少 后来班主任叫过去 强行让他转科 一周后他又休了再也联系不上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992266153419534337"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992266157844521051",
+        "created_at": "2025-11-22T16:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992266157844521051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bey4LXLskx",
+              "end": 147,
+              "expanded_url": "https://x.com/gdioiui/status/1992266157844521051/photo/1",
+              "media_key": "3_1992266153419534337",
+              "start": 124,
+              "url": "https://t.co/Bey4LXLskx"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/gdioiui/status/1984271887439167924",
+              "start": 148,
+              "url": "https://t.co/tuLJMLu40r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992266157844521051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984271887439167924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没见的人 也许是再也见不了了\n三个人 谁管我怎么想的呢\n 第一个 高一见到我伤口来问候我 说和我一样的人 我唯一真的朋友（之前）借了他一本精神创伤自愈的指导书 晚自习看 被收走了，然后被当做有问题的小孩对待 打上抑郁的标签 后来我把书偷回来了 https://t.co/Bey4LXLskx https://t.co/tuLJMLu40r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 54,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

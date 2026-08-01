@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2048690288617742613",
+    "created_at": "2026-04-27T09:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048690288617742613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ABC13067637/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ABC13067637/status/2048303171706241172",
+          "start": 12,
+          "url": "https://t.co/wugDcetint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048690288617742613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048303171706241172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晶哥给我一口吧 球球了 https://t.co/wugDcetint"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2048303151753879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0I3TiaYAAUqNv.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2048690288617742613",
+        "created_at": "2026-04-27T09:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048690288617742613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ABC13067637/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ABC13067637/status/2048303171706241172",
+              "start": 12,
+              "url": "https://t.co/wugDcetint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048690288617742613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048303171706241172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晶哥给我一口吧 球球了 https://t.co/wugDcetint"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048303151753879552"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2048303171706241172",
+        "created_at": "2026-04-26T07:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048303171706241172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KP2VfFdW9k",
+              "end": 42,
+              "expanded_url": "https://x.com/ABC13067637/status/2048303171706241172/photo/1",
+              "media_key": "3_2048303151753879552",
+              "start": 19,
+              "url": "https://t.co/KP2VfFdW9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048303171706241172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 97472,
+          "like_count": 1226,
+          "quote_count": 26,
+          "reply_count": 179,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "为了业绩，民警设计诱害未成年人吸毒😅 https://t.co/KP2VfFdW9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 406,
+          "like_count": 3625,
+          "listed_count": 2,
+          "media_count": 1119,
+          "tweet_count": 6209
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 375,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 364
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1999679469792166281",
+    "created_at": "2025-12-13T03:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T04:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999679469792166281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_04x_d/status/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/_04x_d/status/1999382660033265857",
+          "start": 71,
+          "url": "https://t.co/xpnqx2zfoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999679469792166281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999382660033265857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前15觉得17自杀一定是最凄美的\n就像好多小说（挪威的森林）里一样 \n17岁还有355天 如果死不掉我大概就不会再紫砂了吗？（或许会这样） https://t.co/xpnqx2zfoF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999679469792166281",
+        "created_at": "2025-12-13T03:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999679469792166281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_04x_d/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/_04x_d/status/1999382660033265857",
+              "start": 71,
+              "url": "https://t.co/xpnqx2zfoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999679469792166281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999382660033265857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前15觉得17自杀一定是最凄美的\n就像好多小说（挪威的森林）里一样 \n17岁还有355天 如果死不掉我大概就不会再紫砂了吗？（或许会这样） https://t.co/xpnqx2zfoF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671821091738886144",
+        "conversation_id": "1999382660033265857",
+        "created_at": "2025-12-12T07:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999382660033265857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999382660033265857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3631,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才14啊 等我 等老子16就自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 87,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251  @_j14q1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "病みゆき死体16",
+        "pinned_tweet_id": "1991184503633834046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993648027316408320/8SXWbEL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 217,
+          "like_count": 7196,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

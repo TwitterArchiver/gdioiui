@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055963074579124674",
+    "created_at": "2026-05-17T14:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056022318950777042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871929297868611584",
+          "start": 0,
+          "username": "xiaoyou_QwQww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056022318950777042",
+    "in_reply_to_user_id": "1871929297868611584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055964901504626979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyou_QwQww 但是我会主动露出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055963074579124674",
+        "created_at": "2026-05-17T14:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056022318950777042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871929297868611584",
+              "start": 0,
+              "username": "xiaoyou_QwQww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056022318950777042",
+        "in_reply_to_user_id": "1871929297868611584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055964901504626979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyou_QwQww 但是我会主动露出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871929297868611584",
+        "conversation_id": "2055963074579124674",
+        "created_at": "2026-05-17T10:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055964901504626979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055964901504626979",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055963074579124674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 真实情况其实是无人在意（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 443,
+          "like_count": 3821,
+          "listed_count": 3,
+          "media_count": 1244,
+          "tweet_count": 6715
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T14:41:46.000Z",
+        "description": "11年mtf，中考后再考虑🍥\n是一只isfp喜欢小猫🥰\n蔚蓝档案b服好友码:w6xl9y4\n八宝粥：星の幽\n来和我一起玩吧😭😭😭\nqq:3834762694 wx:xingye520QWQ来扩列口牙😋\n欢迎互fo哦~",
+        "id": "1871929297868611584",
+        "location": "阿拜多斯高等中学",
+        "name": "鸩羽幽梦 🏳‍⚧",
+        "pinned_tweet_id": "1980598347863060529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055962693849554944/s1VngP8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 838,
+          "like_count": 1157,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 248
+        },
+        "username": "xiaoyou_QwQww",
+        "verified": false
+      }
+    ]
+  }
+}

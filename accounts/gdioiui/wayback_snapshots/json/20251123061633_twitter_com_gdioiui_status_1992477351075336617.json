@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992477351075336617",
+    "created_at": "2025-11-23T06:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992477351075336617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/520illusion/status/1992474268329017486",
+          "start": 30,
+          "url": "https://t.co/NwXZg3TXLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992477351075336617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992474268329017486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参演各位幸苦了，原来精神病院是这样的，再也不幻想进去养老了 https://t.co/NwXZg3TXLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 293308,
+        "height": 1920,
+        "media_key": "7_1992473348236824576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992473348236824576/pu/img/cPrAO1SAXZA_l2Wl.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/320x568/bTINBUzbykn92yrg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/480x852/Vz2A7IVzqhxVO-83.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992473348236824576/pu/pl/b28lv1vuwbn6p-Cx.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/1080x1920/D5ZF8J3zpG5_yQKq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992473348236824576/pu/vid/avc1/720x1280/_TTxamYKKAesJ321.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992477351075336617",
+        "created_at": "2025-11-23T06:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992477351075336617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/520illusion/status/1992474268329017486",
+              "start": 30,
+              "url": "https://t.co/NwXZg3TXLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992477351075336617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992474268329017486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参演各位幸苦了，原来精神病院是这样的，再也不幻想进去养老了 https://t.co/NwXZg3TXLR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992473348236824576"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992474268329017486",
+        "created_at": "2025-11-23T06:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992474268329017486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "n552aa"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dI5lhyCtpP",
+              "end": 62,
+              "expanded_url": "https://x.com/520illusion/status/1992474268329017486/video/1",
+              "media_key": "7_1992473348236824576",
+              "start": 39,
+              "url": "https://t.co/dI5lhyCtpP"
+            },
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/520illusion/status/1991340887759360243",
+              "start": 63,
+              "url": "https://t.co/7N1GPRlWUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992474268329017486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 237,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991340887759360243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是N55大闹上海六院急救室的视频\n我现场录制的 \n#n552aa #mtf https://t.co/dI5lhyCtpP https://t.co/7N1GPRlWUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 58,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 | 蓝 | 终将成为你 | 清水 | 🚫 od 色情 花刀 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "1991602588656234589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191260986486784/eh4n47Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 216,
+          "like_count": 2416,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 1648
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

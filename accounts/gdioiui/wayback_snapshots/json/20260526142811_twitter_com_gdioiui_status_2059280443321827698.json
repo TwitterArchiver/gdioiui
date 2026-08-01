@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2059046684777467907",
+    "created_at": "2026-05-26T14:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059280443321827698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1824003279132794880",
+          "start": 0,
+          "username": "VzsKC39WrP30060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059280443321827698",
+    "in_reply_to_user_id": "1824003279132794880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059273242507104696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VzsKC39WrP30060 蚊子：这人血真厚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2059046684777467907",
+        "created_at": "2026-05-26T14:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059280443321827698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1824003279132794880",
+              "start": 0,
+              "username": "VzsKC39WrP30060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280443321827698",
+        "in_reply_to_user_id": "1824003279132794880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059273242507104696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VzsKC39WrP30060 蚊子：这人血真厚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824003279132794880",
+        "conversation_id": "2059046684777467907",
+        "created_at": "2026-05-26T13:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059273242507104696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059273242507104696",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059046684777467907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 狠活我靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 466,
+          "like_count": 3903,
+          "listed_count": 3,
+          "media_count": 1294,
+          "tweet_count": 6994
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-15T08:40:59.000Z",
+        "description": "",
+        "id": "1824003279132794880",
+        "name": "诱人的薯条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824003404047491072/SEeC-R-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 203,
+          "like_count": 24099,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 2769
+        },
+        "username": "VzsKC39WrP30060",
+        "verified": false
+      }
+    ]
+  }
+}

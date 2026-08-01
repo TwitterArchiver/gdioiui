@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2008492202859917657",
+    "created_at": "2026-01-06T16:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008577847443755252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197488719906738176",
+          "start": 0,
+          "username": "nina456777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008577847443755252",
+    "in_reply_to_user_id": "1197488719906738176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008576205726118320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nina456777 (˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2008492202859917657",
+        "created_at": "2026-01-06T16:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008577847443755252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197488719906738176",
+              "start": 0,
+              "username": "nina456777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008577847443755252",
+        "in_reply_to_user_id": "1197488719906738176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008576205726118320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nina456777 (˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1197488719906738176",
+        "conversation_id": "2008492202859917657",
+        "created_at": "2026-01-06T16:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008576205726118320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008576205726118320",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008492202859917657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 杂鱼杂鱼杂鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 249,
+          "like_count": 1723,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3385
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T12:15:50.000Z",
+        "description": "看到这句话的人立刻失去所有烦恼！然后起来伸个懒腰喝口水保持身体健康 | 男娘 泛性恋 留子 无糖 友跨 清水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nina456777",
+                "end": 23,
+                "expanded_url": "https://t.me/nina456777",
+                "start": 0,
+                "url": "https://t.co/UVuJTXgptP"
+              }
+            ]
+          }
+        },
+        "id": "1197488719906738176",
+        "location": "不告诉你",
+        "name": "nina😪（求互fo",
+        "pinned_tweet_id": "2004863264736579726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007048719586451456/UOdQfZ-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 925,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/UVuJTXgptP",
+        "username": "nina456777",
+        "verified": false
+      }
+    ]
+  }
+}

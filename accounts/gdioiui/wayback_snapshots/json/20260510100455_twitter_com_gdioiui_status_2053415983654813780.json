@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053415980836302851"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053415983654813780",
+    "created_at": "2026-05-10T10:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053415983654813780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KHWOe8sUEx",
+          "end": 95,
+          "expanded_url": "https://x.com/gdioiui/status/2053415983654813780/photo/1",
+          "media_key": "3_2053415980836302851",
+          "start": 72,
+          "url": "https://t.co/KHWOe8sUEx"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/gdioiui/status/2053395799552504241",
+          "start": 96,
+          "url": "https://t.co/SUvHPiuaN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053415983654813780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053395799552504241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的不开玩笑 她帮我减肥了...\n我称好几次 我称没问题\n我该是什么表情？ \n还有就是我好像还变聪明了\n这是什么...英式和平吗？我有点感谢了 https://t.co/KHWOe8sUEx https://t.co/SUvHPiuaN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2053415980836302851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8y9IHbsAMzyif.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053415980836302851"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053415983654813780",
+        "created_at": "2026-05-10T10:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053415983654813780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHWOe8sUEx",
+              "end": 95,
+              "expanded_url": "https://x.com/gdioiui/status/2053415983654813780/photo/1",
+              "media_key": "3_2053415980836302851",
+              "start": 72,
+              "url": "https://t.co/KHWOe8sUEx"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/gdioiui/status/2053395799552504241",
+              "start": 96,
+              "url": "https://t.co/SUvHPiuaN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053415983654813780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053395799552504241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的不开玩笑 她帮我减肥了...\n我称好几次 我称没问题\n我该是什么表情？ \n还有就是我好像还变聪明了\n这是什么...英式和平吗？我有点感谢了 https://t.co/KHWOe8sUEx https://t.co/SUvHPiuaN3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053395799552504241",
+        "created_at": "2026-05-10T08:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053395799552504241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053395799552504241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前任和别人第二天就用情头了....和我从来没用过....\n而且还是四个小时就被拐走的...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 430,
+          "like_count": 3750,
+          "listed_count": 3,
+          "media_count": 1208,
+          "tweet_count": 6514
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

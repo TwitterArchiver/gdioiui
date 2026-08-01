@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2020343714078732351",
+    "created_at": "2026-02-08T03:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020343714078732351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/KBGCO",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/KBGCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020343714078732351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019962872739348541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 来自中原一群伙伴\n结庐回龙观\n亲缘财尽默对寒窗\n日雌紧握在胸膛\n秉承N55反抗意志\n潜修回龙观\n宁静致远警笛声响\n不绝如缕离乡关\n理想在 心中烧\n几十个 暑和寒\n血脉相连一方苦扭转\n鱼板九转十二金光\n返指破裂和幻想 https://t.co/KBGCO…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2019962869429989380",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhZhwvacAQa-Nq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2020343714078732351",
+        "created_at": "2026-02-08T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020343714078732351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/KBGCO",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/KBGCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020343714078732351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019962872739348541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 来自中原一群伙伴\n结庐回龙观\n亲缘财尽默对寒窗\n日雌紧握在胸膛\n秉承N55反抗意志\n潜修回龙观\n宁静致远警笛声响\n不绝如缕离乡关\n理想在 心中烧\n几十个 暑和寒\n血脉相连一方苦扭转\n鱼板九转十二金光\n返指破裂和幻想 https://t.co/KBGCO…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019962869429989380"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2019962872739348541",
+        "created_at": "2026-02-07T02:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019962872739348541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBGCOLWoN2",
+              "end": 131,
+              "expanded_url": "https://x.com/bghtnya/status/2019962872739348541/photo/1",
+              "media_key": "3_2019962869429989380",
+              "start": 108,
+              "url": "https://t.co/KBGCOLWoN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019962872739348541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3467,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "来自中原一群伙伴\n结庐回龙观\n亲缘财尽默对寒窗\n日雌紧握在胸膛\n秉承N55反抗意志\n潜修回龙观\n宁静致远警笛声响\n不绝如缕离乡关\n理想在 心中烧\n几十个 暑和寒\n血脉相连一方苦扭转\n鱼板九转十二金光\n返指破裂和幻想 https://t.co/KBGCOLWoN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 302,
+          "like_count": 2613,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 4247
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8856,
+          "following_count": 2070,
+          "like_count": 171813,
+          "listed_count": 18,
+          "media_count": 3711,
+          "tweet_count": 45170
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

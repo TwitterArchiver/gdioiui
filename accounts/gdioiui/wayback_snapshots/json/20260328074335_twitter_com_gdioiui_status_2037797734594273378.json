@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2037535784367198251",
+    "created_at": "2026-03-28T07:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037797734594273378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486209719740289024",
+          "start": 0,
+          "username": "oxniubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037797734594273378",
+    "in_reply_to_user_id": "1486209719740289024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037772949684633714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxniubi 额 他的ssh是443"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2037535784367198251",
+        "created_at": "2026-03-28T07:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037797734594273378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486209719740289024",
+              "start": 0,
+              "username": "oxniubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037797734594273378",
+        "in_reply_to_user_id": "1486209719740289024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037772949684633714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxniubi 额 他的ssh是443"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486209719740289024",
+        "conversation_id": "2037535784367198251",
+        "created_at": "2026-03-28T06:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037772949684633714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037772949684633714",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037535784367198251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 额。。。不是 80 吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 371,
+          "like_count": 3348,
+          "listed_count": 2,
+          "media_count": 920,
+          "tweet_count": 5477
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T05:29:58.000Z",
+        "description": "🃏西格玛男人森森专业养虾中。\n Polymarket智能交易策略开发。\n 不带单，不诈骗，纯交友。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niubifish",
+                "end": 23,
+                "expanded_url": "https://t.me/niubifish",
+                "start": 0,
+                "url": "https://t.co/NXwmT3AKvj"
+              }
+            ]
+          }
+        },
+        "id": "1486209719740289024",
+        "location": "无业游民",
+        "name": "小森",
+        "pinned_tweet_id": "2026344055043666240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772991198715908096/Z0s5NKKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2976,
+          "following_count": 2907,
+          "like_count": 2601,
+          "listed_count": 25,
+          "media_count": 435,
+          "tweet_count": 7310
+        },
+        "url": "https://t.co/NXwmT3AKvj",
+        "username": "oxniubi",
+        "verified": true
+      }
+    ]
+  }
+}

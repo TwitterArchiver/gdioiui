@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2028198824963944641",
+    "created_at": "2026-05-08T22:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052885935700799618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993494270016471044",
+          "start": 0,
+          "username": "maomao_nahida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052885935700799618",
+    "in_reply_to_user_id": "1993494270016471044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028198824963944641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao_nahida 其实长得像n55的还有窝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2028198824963944641",
+        "created_at": "2026-05-08T22:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052885935700799618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993494270016471044",
+              "start": 0,
+              "username": "maomao_nahida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052885935700799618",
+        "in_reply_to_user_id": "1993494270016471044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028198824963944641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao_nahida 其实长得像n55的还有窝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993494270016471044",
+        "conversation_id": "2028198824963944641",
+        "created_at": "2026-03-01T20:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T21:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028198824963944641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028198824963944641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭哭，刚才梦到和n55一起玩了，其实玩的还挺开心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 427,
+          "like_count": 3738,
+          "listed_count": 3,
+          "media_count": 1198,
+          "tweet_count": 6477
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T01:37:39.000Z",
+        "description": "这里是性别焦虑严重的毛毛酱",
+        "id": "1993494270016471044",
+        "name": "毛毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997696173818146816/gCq8dVUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 40,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 110
+        },
+        "username": "maomao_nahida",
+        "verified": false
+      }
+    ]
+  }
+}

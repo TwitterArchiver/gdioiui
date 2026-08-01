@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2063508956191056142",
+    "created_at": "2026-06-07T08:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063533057538421150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062208714174791682",
+          "start": 0,
+          "username": "Magkusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063533057538421150",
+    "in_reply_to_user_id": "2062208714174791682",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063511071768609168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magkusejinki qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2063508956191056142",
+        "created_at": "2026-06-07T08:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063533057538421150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062208714174791682",
+              "start": 0,
+              "username": "Magkusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063533057538421150",
+        "in_reply_to_user_id": "2062208714174791682",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063511071768609168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magkusejinki qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062208714174791682",
+        "conversation_id": "2063508956191056142",
+        "created_at": "2026-06-07T06:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063511071768609168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063511071768609168",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063508956191056142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 抱抱三一🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 477,
+          "like_count": 4060,
+          "listed_count": 3,
+          "media_count": 1373,
+          "tweet_count": 7432
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T16:24:57.000Z",
+        "description": "这里是枫糖Maple Sugar🍥🏳️‍⚧️(2.0)\n一代目：@Magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "2062208714174791682",
+        "name": "枫糖Maple Sugar🍥🏳️‍⚧️(2.0)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062209184251412485/7EG5fGUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 78,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "username": "Magkusejinki",
+        "verified": false
+      }
+    ]
+  }
+}

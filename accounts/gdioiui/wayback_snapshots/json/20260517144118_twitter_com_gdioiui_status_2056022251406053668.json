@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055961447327523121",
+    "created_at": "2026-05-17T14:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056022251406053668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "755194012340854784",
+          "start": 0,
+          "username": "Zheng1Keith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056022251406053668",
+    "in_reply_to_user_id": "755194012340854784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055966524196958264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zheng1Keith ...没有后塞 塞不进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055961447327523121",
+        "created_at": "2026-05-17T14:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056022251406053668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "755194012340854784",
+              "start": 0,
+              "username": "Zheng1Keith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056022251406053668",
+        "in_reply_to_user_id": "755194012340854784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966524196958264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zheng1Keith ...没有后塞 塞不进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "755194012340854784",
+        "conversation_id": "2055961447327523121",
+        "created_at": "2026-05-17T10:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055966524196958264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055966524196958264",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055961447327523121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 前锁后塞！前锁后塞！前锁后塞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 443,
+          "like_count": 3821,
+          "listed_count": 3,
+          "media_count": 1244,
+          "tweet_count": 6714
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-19T00:14:18.000Z",
+        "description": "🌃坐标上海/友跨大叔/不键政/情绪稳定/独居且有点洁癖/双性恋/csgo C+鱼苗/欢迎骚扰/垃圾私信太多，所以关了，想要交流的伙伴可以留言",
+        "id": "755194012340854784",
+        "name": "万寿斋白金会员",
+        "pinned_tweet_id": "1865005509897785663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889304938477707265/QyV7ezs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 7020,
+          "like_count": 56673,
+          "listed_count": 8,
+          "media_count": 75,
+          "tweet_count": 3425
+        },
+        "username": "Zheng1Keith",
+        "verified": false
+      }
+    ]
+  }
+}

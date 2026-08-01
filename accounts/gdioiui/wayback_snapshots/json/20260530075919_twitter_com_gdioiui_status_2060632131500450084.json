@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060531454703174083",
+    "created_at": "2026-05-30T07:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060632131500450084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109308641406914561",
+          "start": 0,
+          "username": "maru2blog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060632131500450084",
+    "in_reply_to_user_id": "1109308641406914561",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060531454703174083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru2blog ..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060531454703174083",
+        "created_at": "2026-05-30T07:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060632131500450084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109308641406914561",
+              "start": 0,
+              "username": "maru2blog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632131500450084",
+        "in_reply_to_user_id": "1109308641406914561",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060531454703174083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru2blog ..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109308641406914561",
+        "conversation_id": "2060531454703174083",
+        "created_at": "2026-05-30T01:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060531454703174083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naotan_persona…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/naotan_personal/status/2060509157862879694",
+              "start": 16,
+              "url": "https://t.co/F5K0hukCkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060531454703174083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2574,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060509157862879694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "診断書不要の場所あるんだ。。。 https://t.co/F5K0hukCkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 473,
+          "like_count": 3966,
+          "listed_count": 3,
+          "media_count": 1331,
+          "tweet_count": 7194
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-23T04:19:24.000Z",
+        "description": "https://t.co/hYC0MMBQl0 \n16歳からホルモン治療→21歳でガモンでsrs 戸変,声オペ済→修士卒 noteで色々なこと Youtube→https://t.co/AFx2sjkrfs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/maru2blog",
+                "end": 23,
+                "expanded_url": "https://note.com/maru2blog",
+                "start": 0,
+                "url": "https://t.co/hYC0MMBQl0"
+              },
+              {
+                "display_url": "youtube.com/@MTF-gi1ef",
+                "end": 103,
+                "expanded_url": "https://www.youtube.com/@MTF-gi1ef",
+                "start": 80,
+                "url": "https://t.co/AFx2sjkrfs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfnikki.hateblo.jp",
+                "end": 23,
+                "expanded_url": "https://mtfnikki.hateblo.jp",
+                "start": 0,
+                "url": "https://t.co/3q0wR7g5Tc"
+              }
+            ]
+          }
+        },
+        "id": "1109308641406914561",
+        "name": "まるまる@MTF日記",
+        "pinned_tweet_id": "1901121621202792868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1109308770977406976/h3kv6gXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 303,
+          "like_count": 1575,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/3q0wR7g5Tc",
+        "username": "maru2blog",
+        "verified": false
+      }
+    ]
+  }
+}

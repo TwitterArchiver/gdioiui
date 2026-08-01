@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982034282936672256"
+      ],
+      "media_source_tweet_id": [
+        "1982034300511129709"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1982252239956635992",
+    "created_at": "2025-10-26T01:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982252239956635992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nbd5tgiARE",
+          "end": 56,
+          "expanded_url": "https://x.com/gdioiui/status/1982034300511129709/photo/1",
+          "media_key": "3_1982034282936672256",
+          "start": 33,
+          "url": "https://t.co/nbd5tgiARE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982252239956635992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982034300511129709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 今天来的早 还可以蹭到富哥们的3d打印 https://t.co/nbd5tgiARE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982034282936672256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GZrdcWIAAuejZ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982034282936672256"
+          ],
+          "media_source_tweet_id": [
+            "1982034300511129709"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1982252239956635992",
+        "created_at": "2025-10-26T01:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982252239956635992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbd5tgiARE",
+              "end": 56,
+              "expanded_url": "https://x.com/gdioiui/status/1982034300511129709/photo/1",
+              "media_key": "3_1982034282936672256",
+              "start": 33,
+              "url": "https://t.co/nbd5tgiARE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982252239956635992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982034300511129709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 今天来的早 还可以蹭到富哥们的3d打印 https://t.co/nbd5tgiARE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982034282936672256"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1982034300511129709",
+        "created_at": "2025-10-25T10:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982034300511129709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbd5tgiARE",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/1982034300511129709/photo/1",
+              "media_key": "3_1982034282936672256",
+              "start": 20,
+              "url": "https://t.co/nbd5tgiARE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982034300511129709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天来的早 还可以蹭到富哥们的3d打印 https://t.co/nbd5tgiARE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 121
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

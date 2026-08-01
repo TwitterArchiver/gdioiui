@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993906635295879168"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993876465998549311",
+    "created_at": "2025-11-27T04:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993906644229513655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "TangYuwenMTF"
+        },
+        {
+          "end": 23,
+          "id": "1337027903289221121",
+          "start": 14,
+          "username": "kage_ha1"
+        },
+        {
+          "end": 37,
+          "id": "1866458229527764992",
+          "start": 24,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whE3I4h9LA",
+          "end": 75,
+          "expanded_url": "https://x.com/gdioiui/status/1993906644229513655/photo/1",
+          "media_key": "3_1993906635295879168",
+          "start": 52,
+          "url": "https://t.co/whE3I4h9LA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993906644229513655",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "永远不配这一块\n你走不了了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993886977209549141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangYuwenMTF @kage_ha1 @Citrus_amara 永远不配这一块\n你走不了了 https://t.co/whE3I4h9LA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_1993906635295879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vHhUga8AATCg8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993906635295879168"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993876465998549311",
+        "created_at": "2025-11-27T04:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993906644229513655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "TangYuwenMTF"
+            },
+            {
+              "end": 23,
+              "id": "1337027903289221121",
+              "start": 14,
+              "username": "kage_ha1"
+            },
+            {
+              "end": 37,
+              "id": "1866458229527764992",
+              "start": 24,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whE3I4h9LA",
+              "end": 75,
+              "expanded_url": "https://x.com/gdioiui/status/1993906644229513655/photo/1",
+              "media_key": "3_1993906635295879168",
+              "start": 52,
+              "url": "https://t.co/whE3I4h9LA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993906644229513655",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "永远不配这一块\n你走不了了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993886977209549141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangYuwenMTF @kage_ha1 @Citrus_amara 永远不配这一块\n你走不了了 https://t.co/whE3I4h9LA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "conversation_id": "1993876465998549311",
+        "created_at": "2025-11-27T03:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993886977209549141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1337027903289221121",
+              "start": 0,
+              "username": "kage_ha1"
+            },
+            {
+              "end": 23,
+              "id": "1866458229527764992",
+              "start": 10,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993886977209549141",
+        "in_reply_to_user_id": "1337027903289221121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993885433051431153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kage_ha1 @Citrus_amara 义你妈 明明是想骗我吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 83,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1992456491887108105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 81,
+          "like_count": 79,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-10T13:34:48.000Z",
+        "description": "非二元 enby 🏳️‍⚧（跨性别认同 请不要问我的指派性别好吗🥺）抽烟 喝酒 od 药物滥用 自残自伤 自毁倾向严重 健全b不准关注我",
+        "id": "1337027903289221121",
+        "name": "影葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397597931427962880/9fGafpCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 658,
+          "like_count": 5622,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 215
+        },
+        "username": "kage_ha1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 844,
+          "like_count": 13199,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 5797
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037543491086241792"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2037543531246657595",
+    "created_at": "2026-03-27T14:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037543531246657595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6wezprkOv6",
+          "end": 34,
+          "expanded_url": "https://x.com/gdioiui/status/2037543531246657595/photo/1",
+          "media_key": "3_2037543491086241792",
+          "start": 11,
+          "url": "https://t.co/6wezprkOv6"
+        },
+        {
+          "display_url": "x.com/Mambo_0125/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Mambo_0125/status/2037137303618150856",
+          "start": 35,
+          "url": "https://t.co/4R2Pi4I9DL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037543531246657595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037137303618150856",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以30真的会死（） https://t.co/6wezprkOv6 https://t.co/4R2Pi4I9DL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037543491086241792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbPAoCa0AAedVe.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037543491086241792"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2037543531246657595",
+        "created_at": "2026-03-27T14:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037543531246657595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wezprkOv6",
+              "end": 34,
+              "expanded_url": "https://x.com/gdioiui/status/2037543531246657595/photo/1",
+              "media_key": "3_2037543491086241792",
+              "start": 11,
+              "url": "https://t.co/6wezprkOv6"
+            },
+            {
+              "display_url": "x.com/Mambo_0125/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Mambo_0125/status/2037137303618150856",
+              "start": 35,
+              "url": "https://t.co/4R2Pi4I9DL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037543531246657595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037137303618150856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以30真的会死（） https://t.co/6wezprkOv6 https://t.co/4R2Pi4I9DL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898644406804303872",
+        "conversation_id": "2036887338769670658",
+        "created_at": "2026-03-26T11:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037137303618150856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037137303618150856",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3012,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036887338769670658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 為什麼會死，是因為藥物造成的嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 364,
+          "like_count": 3323,
+          "listed_count": 2,
+          "media_count": 907,
+          "tweet_count": 5435
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T07:58:40.000Z",
+        "description": "",
+        "id": "1898644406804303872",
+        "name": "千繪•千域",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928299327144730624/kp1Ladjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Mambo_0125",
+        "verified": false
+      }
+    ]
+  }
+}

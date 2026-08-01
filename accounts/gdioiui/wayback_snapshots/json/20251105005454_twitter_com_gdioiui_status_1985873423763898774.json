@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985873421419286528"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1985873423763898774",
+    "created_at": "2025-11-05T00:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T01:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985873423763898774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSl37eeJlR",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/1985873423763898774/photo/1",
+          "media_key": "3_1985873421419286528",
+          "start": 16,
+          "url": "https://t.co/jSl37eeJlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985873423763898774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小米怎么也开始果里果气的。。。 https://t.co/jSl37eeJlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985873421419286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G489WuyWEAA_J6u.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985873421419286528"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1985873423763898774",
+        "created_at": "2025-11-05T00:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985873423763898774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSl37eeJlR",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/1985873423763898774/photo/1",
+              "media_key": "3_1985873421419286528",
+              "start": 16,
+              "url": "https://t.co/jSl37eeJlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985873423763898774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小米怎么也开始果里果气的。。。 https://t.co/jSl37eeJlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 22,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

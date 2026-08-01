@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2048229705476902955",
+    "created_at": "2026-04-26T15:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048429593380757971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1337027903289221121",
+          "start": 0,
+          "username": "leaf_ha1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048429593380757971",
+    "in_reply_to_user_id": "1337027903289221121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048428919905460447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf_ha1 这踏马就是神药啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2048229705476902955",
+        "created_at": "2026-04-26T15:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048429593380757971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1337027903289221121",
+              "start": 0,
+              "username": "leaf_ha1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048429593380757971",
+        "in_reply_to_user_id": "1337027903289221121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048428919905460447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf_ha1 这踏马就是神药啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337027903289221121",
+        "conversation_id": "2048229705476902955",
+        "created_at": "2026-04-26T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048428919905460447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048428919905460447",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048229705476902955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这他妈不是鼻炎神药吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 403,
+          "like_count": 3625,
+          "listed_count": 2,
+          "media_count": 1116,
+          "tweet_count": 6199
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-10T13:34:48.000Z",
+        "description": "enby丨中焦重抑丨烟酒割o\n小号@leaf_ha7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "leaf_ha7"
+              }
+            ]
+          }
+        },
+        "id": "1337027903289221121",
+        "name": "葉",
+        "pinned_tweet_id": "2003766055567835212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041755896632705024/pe94Vett_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 775,
+          "like_count": 8455,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 665
+        },
+        "username": "leaf_ha1",
+        "verified": false
+      }
+    ]
+  }
+}

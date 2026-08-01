@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2071041865617735792",
+    "created_at": "2026-06-28T01:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071041865617735792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbkk23333/stat…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/bbkk23333/status/2070818709523034315",
+          "start": 130,
+          "url": "https://t.co/50chpz6ZkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071041865617735792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070818709523034315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真羡慕你们喵 说一句心情不好 小窗全是安慰转账 我呢早晚有一天我把我的遗言发在网上 别人以为是文案 嘎达嘎达两下阿帕次阿帕次的就复制走了 气得我跳楼时 凭借一身厚厚的脂肪 毫发无损的落地 甚至小幅度回弹 万念俱灰的爬起来 听到周围群众说好精彩再来一遍喵😭😭😭 https://t.co/50chpz6ZkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070818705119047680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0GpADa8AAxHi2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2071041865617735792",
+        "created_at": "2026-06-28T01:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071041865617735792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbkk23333/stat…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/bbkk23333/status/2070818709523034315",
+              "start": 130,
+              "url": "https://t.co/50chpz6ZkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071041865617735792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070818709523034315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕你们喵 说一句心情不好 小窗全是安慰转账 我呢早晚有一天我把我的遗言发在网上 别人以为是文案 嘎达嘎达两下阿帕次阿帕次的就复制走了 气得我跳楼时 凭借一身厚厚的脂肪 毫发无损的落地 甚至小幅度回弹 万念俱灰的爬起来 听到周围群众说好精彩再来一遍喵😭😭😭 https://t.co/50chpz6ZkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070818705119047680"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2070818709523034315",
+        "created_at": "2026-06-27T10:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070818709523034315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoHFHR6Uaq",
+              "end": 153,
+              "expanded_url": "https://x.com/bbkk23333/status/2070818709523034315/photo/1",
+              "media_key": "3_2070818705119047680",
+              "start": 130,
+              "url": "https://t.co/RoHFHR6Uaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070818709523034315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真羡慕你们喵 说一句心情不好 小窗全是安慰转账 我呢早晚有一天我把我的遗言发在网上 别人以为是文案 嘎达嘎达两下阿帕次阿帕次的就复制走了 气得我跳楼时 凭借一身厚厚的脂肪 毫发无损的落地 甚至小幅度回弹 万念俱灰的爬起来 听到周围群众说好精彩再来一遍喵😭😭😭 https://t.co/RoHFHR6Uaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 481,
+          "like_count": 4286,
+          "listed_count": 3,
+          "media_count": 1486,
+          "tweet_count": 7879
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物这一块，假期24小吋高强度刷推≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨春喵",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 328,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": false
+      }
+    ]
+  }
+}

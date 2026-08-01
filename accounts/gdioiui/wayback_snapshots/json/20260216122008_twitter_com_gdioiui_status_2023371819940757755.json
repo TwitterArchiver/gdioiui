@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023371736629256193",
+        "3_2023371738663546881",
+        "3_2023371740253143040",
+        "3_2023371740588777472"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2023371819940757755",
+    "created_at": "2026-02-16T12:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023371819940757755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWqA3t04H8",
+          "end": 29,
+          "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+          "media_key": "7_2023371736629256193",
+          "start": 6,
+          "url": "https://t.co/wWqA3t04H8"
+        },
+        {
+          "display_url": "pic.x.com/wWqA3t04H8",
+          "end": 29,
+          "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+          "media_key": "3_2023371738663546881",
+          "start": 6,
+          "url": "https://t.co/wWqA3t04H8"
+        },
+        {
+          "display_url": "pic.x.com/wWqA3t04H8",
+          "end": 29,
+          "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+          "media_key": "3_2023371740253143040",
+          "start": 6,
+          "url": "https://t.co/wWqA3t04H8"
+        },
+        {
+          "display_url": "pic.x.com/wWqA3t04H8",
+          "end": 29,
+          "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+          "media_key": "3_2023371740588777472",
+          "start": 6,
+          "url": "https://t.co/wWqA3t04H8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023371819940757755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头皮位接灰 https://t.co/wWqA3t04H8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38440,
+        "height": 1280,
+        "media_key": "7_2023371736629256193",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023371736629256193/pu/img/83EG6zAuo-gUmjba.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023371736629256193/pu/vid/avc1/320x568/hyVFZ8vE2MUUi-X3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023371736629256193/pu/vid/avc1/480x852/gIx6CWaXho42OKNv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023371736629256193/pu/vid/avc1/720x1280/vcXOfGm4B447Z1qL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023371736629256193/pu/pl/2crfD10F2hGVSE7d.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2023371738663546881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR14EOa8AEc6j3.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2023371740253143040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR14KJaQAAhyEv.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2023371740588777472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR14LZboAAAlxU.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023371736629256193",
+            "3_2023371738663546881",
+            "3_2023371740253143040",
+            "3_2023371740588777472"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2023371819940757755",
+        "created_at": "2026-02-16T12:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023371819940757755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWqA3t04H8",
+              "end": 29,
+              "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+              "media_key": "7_2023371736629256193",
+              "start": 6,
+              "url": "https://t.co/wWqA3t04H8"
+            },
+            {
+              "display_url": "pic.x.com/wWqA3t04H8",
+              "end": 29,
+              "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+              "media_key": "3_2023371738663546881",
+              "start": 6,
+              "url": "https://t.co/wWqA3t04H8"
+            },
+            {
+              "display_url": "pic.x.com/wWqA3t04H8",
+              "end": 29,
+              "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+              "media_key": "3_2023371740253143040",
+              "start": 6,
+              "url": "https://t.co/wWqA3t04H8"
+            },
+            {
+              "display_url": "pic.x.com/wWqA3t04H8",
+              "end": 29,
+              "expanded_url": "https://x.com/gdioiui/status/2023371819940757755/video/1",
+              "media_key": "3_2023371740588777472",
+              "start": 6,
+              "url": "https://t.co/wWqA3t04H8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023371819940757755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头皮位接灰 https://t.co/wWqA3t04H8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 312,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 4498
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

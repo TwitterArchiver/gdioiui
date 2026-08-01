@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060590897213911162",
+    "created_at": "2026-05-30T05:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060590897213911162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/Cbscfe/status/2060388778116800839",
+          "start": 168,
+          "url": "https://t.co/BZ0oBdGdgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060590897213911162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060388778116800839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "c++版本\nint main (){ string s;cin&gt;&gt;s;\nif(s.find(\"高考\")&lt;999999）\n cout&lt;&lt;\"高考加油\";\nelse if (s.find(\"中考\")&lt;999999)\n cout &lt;&lt;\"中考加油\";\n}\n手机写代码好累\n谁知道为什么99999？ https://t.co/BZ0oBdGdgS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060590897213911162",
+        "created_at": "2026-05-30T05:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060590897213911162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2060388778116800839",
+              "start": 168,
+              "url": "https://t.co/BZ0oBdGdgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060590897213911162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060388778116800839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "c++版本\nint main (){ string s;cin&gt;&gt;s;\nif(s.find(\"高考\")&lt;999999）\n cout&lt;&lt;\"高考加油\";\nelse if (s.find(\"中考\")&lt;999999)\n cout &lt;&lt;\"中考加油\";\n}\n手机写代码好累\n谁知道为什么99999？ https://t.co/BZ0oBdGdgS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060369177786114489",
+        "created_at": "2026-05-29T15:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060388778116800839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060388778116800839",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5062,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060369177786114489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 def chat(对方地区, 聊天):\n    if 对方地区 != \"中国\":\n        return None\n\n    if \"高三\" in 聊天:\n        return \"高考加油\"\n    elif \"初三\" in 聊天:\n        return \"中考加油\"\n\n    return None\n\n# 现在不是伪代码了，这是一段可以直接使用的python代码\n# 我有点太无聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 473,
+          "like_count": 3962,
+          "listed_count": 3,
+          "media_count": 1328,
+          "tweet_count": 7175
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 671,
+          "like_count": 24073,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 5761
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

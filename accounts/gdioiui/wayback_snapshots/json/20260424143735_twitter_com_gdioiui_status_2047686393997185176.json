@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047686384929136640"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2047686393997185176",
+    "created_at": "2026-04-24T14:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047686393997185176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vKjyrbUAUT",
+          "end": 35,
+          "expanded_url": "https://x.com/gdioiui/status/2047686393997185176/photo/1",
+          "media_key": "3_2047686384929136640",
+          "start": 12,
+          "url": "https://t.co/vKjyrbUAUT"
+        },
+        {
+          "display_url": "x.com/KunaAkem1/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/KunaAkem1/status/2047668609355489540",
+          "start": 36,
+          "url": "https://t.co/DO2wbhraQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047686393997185176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047668609355489540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那你下乡去吧 知识分子 https://t.co/vKjyrbUAUT https://t.co/DO2wbhraQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 465,
+        "media_key": "3_2047686384929136640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrX6wEa4AASIx6.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047686384929136640"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2047686393997185176",
+        "created_at": "2026-04-24T14:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047686393997185176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKjyrbUAUT",
+              "end": 35,
+              "expanded_url": "https://x.com/gdioiui/status/2047686393997185176/photo/1",
+              "media_key": "3_2047686384929136640",
+              "start": 12,
+              "url": "https://t.co/vKjyrbUAUT"
+            },
+            {
+              "display_url": "x.com/KunaAkem1/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/KunaAkem1/status/2047668609355489540",
+              "start": 36,
+              "url": "https://t.co/DO2wbhraQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047686393997185176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047668609355489540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那你下乡去吧 知识分子 https://t.co/vKjyrbUAUT https://t.co/DO2wbhraQd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522945124346601474",
+        "conversation_id": "2047668609355489540",
+        "created_at": "2026-04-24T13:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047668609355489540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/upupday236128/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/upupday236128/status/2046961655846977707",
+              "start": 35,
+              "url": "https://t.co/EaRIxVAvrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047668609355489540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046961655846977707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么北大，人大，还是那个大学好!我就是哔哩大学的，在那里学了点东西。 https://t.co/EaRIxVAvrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 （持续发病）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 389,
+          "like_count": 3619,
+          "listed_count": 2,
+          "media_count": 1092,
+          "tweet_count": 6120
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六",
+        "id": "1522945124346601474",
+        "location": "Aachen, Germany",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978949784867123200/e6evBQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 425,
+          "like_count": 8233,
+          "listed_count": 4,
+          "media_count": 890,
+          "tweet_count": 5494
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

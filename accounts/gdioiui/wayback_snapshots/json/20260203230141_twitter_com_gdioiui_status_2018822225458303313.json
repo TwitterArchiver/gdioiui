@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2018698878510334232",
+    "created_at": "2026-02-03T23:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T00:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018822225458303313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627197826332778496",
+          "start": 0,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018822225458303313",
+    "in_reply_to_user_id": "1627197826332778496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018713798366965814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ochette_ 呲拉西坦不敢吃 害怕头疼\n 所以单吃这个也没啥用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2018698878510334232",
+        "created_at": "2026-02-03T23:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T00:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018822225458303313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018822225458303313",
+        "in_reply_to_user_id": "1627197826332778496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018713798366965814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 呲拉西坦不敢吃 害怕头疼\n 所以单吃这个也没啥用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627197826332778496",
+        "conversation_id": "2018698878510334232",
+        "created_at": "2026-02-03T15:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018713798366965814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018713798366965814",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018698878510334232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 有同款 但我一般是掺咖啡里配苯基吡拉西坦一起吃😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 293,
+          "like_count": 2560,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 4176
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "遠くの雲の上まで。\n爱说梦话👈🏻其实这个入自己也不知道自己在说什么 \n碎碎念。负能警告⚠️",
+        "id": "1627197826332778496",
+        "name": "くものうえ☁️🍥",
+        "pinned_tweet_id": "1846472918810906750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984019774846767104/g9Quty5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 461,
+          "like_count": 4072,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 820
+        },
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

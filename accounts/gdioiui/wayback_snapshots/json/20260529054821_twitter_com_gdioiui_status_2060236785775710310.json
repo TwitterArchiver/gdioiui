@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060185093331972262",
+    "created_at": "2026-05-29T05:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060236785775710310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856073016691847168",
+          "start": 0,
+          "username": "wayback112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060236785775710310",
+    "in_reply_to_user_id": "1856073016691847168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060231913307254787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wayback112 qwq..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060231865563488256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdp91XaIAAByQz.jpg",
+        "width": 1393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060185093331972262",
+        "created_at": "2026-05-29T05:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060236785775710310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856073016691847168",
+              "start": 0,
+              "username": "wayback112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060236785775710310",
+        "in_reply_to_user_id": "1856073016691847168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060231913307254787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wayback112 qwq..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060231865563488256"
+          ]
+        },
+        "author_id": "1856073016691847168",
+        "conversation_id": "2060185093331972262",
+        "created_at": "2026-05-29T05:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060231913307254787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CM7Mb9tAz",
+              "end": 48,
+              "expanded_url": "https://x.com/wayback112/status/2060231913307254787/photo/1",
+              "media_key": "3_2060231865563488256",
+              "start": 25,
+              "url": "https://t.co/4CM7Mb9tAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060231913307254787",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060185093331972262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 同款纪念品哈哈哈，我也带回家了 https://t.co/4CM7Mb9tAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 470,
+          "like_count": 3935,
+          "listed_count": 3,
+          "media_count": 1316,
+          "tweet_count": 7107
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T20:34:39.000Z",
+        "description": "世界签证有效期至2029.11/不坚定的逃亡主义者/05/珠海上学/喜欢打游戏/擅长什么都不擅长/😈友跨含糖缺爱小南梁～/精神状态很稳定吗🧐/摆烂睡觉领域大神😋/忘掉了过去，懒得想未来，只好醉生梦死在当下🙃",
+        "id": "1856073016691847168",
+        "location": "临终关怀医院(100光年内可飞)",
+        "name": "稳定岛",
+        "pinned_tweet_id": "2056670218664227006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980054535272792064/5964VhT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 77,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 326
+        },
+        "username": "wayback112",
+        "verified": false
+      }
+    ]
+  }
+}

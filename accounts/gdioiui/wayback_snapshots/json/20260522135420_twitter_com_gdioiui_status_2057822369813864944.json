@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057758536361496588",
+    "created_at": "2026-05-22T13:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057822369813864944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057822369813864944",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057758536361496588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 关上了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057758536361496588",
+        "created_at": "2026-05-22T13:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057822369813864944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057822369813864944",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057758536361496588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 关上了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845041900195282948",
+        "conversation_id": "2057758536361496588",
+        "created_at": "2026-05-22T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057758536361496588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/gdioiui/status/2057598846570733901",
+              "start": 7,
+              "url": "https://t.co/qfHcQ7eXyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057758536361496588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057598846570733901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进来了，喵～ https://t.co/qfHcQ7eXyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 462,
+          "like_count": 3836,
+          "listed_count": 3,
+          "media_count": 1264,
+          "tweet_count": 6833
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJu4Gq"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "location": "生命独特的坐标",
+        "name": "Niqiu-妮湫（充满希望版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029572914392224148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4669,
+          "following_count": 746,
+          "like_count": 1669,
+          "listed_count": 14,
+          "media_count": 115,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/nUqWCJu4Gq",
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

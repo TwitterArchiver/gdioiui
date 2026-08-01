@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1946960039601958984",
+    "created_at": "2025-07-21T05:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947165498036089071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932515233685516288",
+          "start": 0,
+          "username": "ZTE1770918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947165498036089071",
+    "in_reply_to_user_id": "1932515233685516288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946960039601958984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZTE1770918 主播考虑换手机吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1946960033927077888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwT91d4bIAAZal0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1946960039601958984",
+        "created_at": "2025-07-21T05:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947165498036089071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932515233685516288",
+              "start": 0,
+              "username": "ZTE1770918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947165498036089071",
+        "in_reply_to_user_id": "1932515233685516288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946960039601958984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZTE1770918 主播考虑换手机吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946960033927077888"
+          ]
+        },
+        "author_id": "1932515233685516288",
+        "conversation_id": "1946960039601958984",
+        "created_at": "2025-07-20T15:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946960039601958984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A9niDYWch",
+              "end": 35,
+              "expanded_url": "https://x.com/ZTE1770918/status/1946960039601958984/photo/1",
+              "media_key": "3_1946960033927077888",
+              "start": 12,
+              "url": "https://t.co/4A9niDYWch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946960039601958984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看吗。我用血画的…… https://t.co/4A9niDYWch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 37
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T19:08:38.000Z",
+        "description": "小南梁一只~",
+        "id": "1932515233685516288",
+        "name": "B站一只の小南梁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932521240717373443/_YebeaKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 34,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 37
+        },
+        "username": "ZTE1770918",
+        "verified": false
+      }
+    ]
+  }
+}

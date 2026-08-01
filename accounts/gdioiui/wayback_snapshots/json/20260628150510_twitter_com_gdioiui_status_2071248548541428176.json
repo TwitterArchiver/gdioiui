@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2071043755059405142",
+    "created_at": "2026-06-28T15:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071248548541428176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        },
+        {
+          "end": 24,
+          "id": "2070818818990260224",
+          "start": 8,
+          "username": "SakiyaReincarny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071248548541428176",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071140901926347078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu @SakiyaReincarny ....."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2071140899376259072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4rrLMa4AAzmVq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2071043755059405142",
+        "created_at": "2026-06-28T15:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071248548541428176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            },
+            {
+              "end": 24,
+              "id": "2070818818990260224",
+              "start": 8,
+              "username": "SakiyaReincarny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071248548541428176",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071140901926347078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu @SakiyaReincarny ....."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071140899376259072"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "conversation_id": "2071043755059405142",
+        "created_at": "2026-06-28T07:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071140901926347078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070818818990260224",
+              "start": 0,
+              "username": "SakiyaReincarny"
+            },
+            {
+              "end": 25,
+              "id": "1882678524596867072",
+              "start": 17,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyoSVLX0qC",
+              "end": 65,
+              "expanded_url": "https://x.com/TBduyu/status/2071140901926347078/photo/1",
+              "media_key": "3_2071140899376259072",
+              "start": 42,
+              "url": "https://t.co/TyoSVLX0qC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071140901926347078",
+        "in_reply_to_user_id": "2070818818990260224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071113007409549733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakiyaReincarny @gdioiui 翻开spam消息一看居然是正主 https://t.co/TyoSVLX0qC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 481,
+          "like_count": 4294,
+          "listed_count": 3,
+          "media_count": 1492,
+          "tweet_count": 7896
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "我简直是浪费生命的罪人。\n我不愧对任何人，除了我自己。\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "username": "aoim33"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "SNtabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1060,
+          "like_count": 19519,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-27T10:39:10.000Z",
+        "description": "God save our gracious Elon Musk!",
+        "id": "2070818818990260224",
+        "location": "New Jersey，USA",
+        "name": "Saky Reincarnate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070819855394045952/PqC8y8Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 97,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "SakiyaReincarny",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1913660772498251829",
+    "created_at": "2025-05-05T08:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T09:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919306282512568811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684592536810385408",
+          "start": 0,
+          "username": "shoto1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919306282512568811",
+    "in_reply_to_user_id": "1684592536810385408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913660772498251829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoto1337 我没意见 毕竟人家独立性更强 更接地气 所以素质低一点合理"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919306282512568811].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919306282512568811",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919306282512568811"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684592536810385408",
+        "conversation_id": "1913660772498251829",
+        "created_at": "2025-04-19T18:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T19:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913660772498251829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913660772498251829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈中职嘲讽私高是什么情况？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T15:52:22.000Z",
+        "description": "赛博婊子",
+        "id": "1684592536810385408",
+        "name": " WISH❤️skeet～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684593722770792448/irykWVus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 141,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 49
+        },
+        "username": "shoto1337",
+        "verified": false
+      }
+    ]
+  }
+}

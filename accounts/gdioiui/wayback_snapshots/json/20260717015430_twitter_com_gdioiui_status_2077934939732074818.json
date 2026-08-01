@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077934932815716352"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2077934939732074818",
+    "created_at": "2026-07-17T01:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077934939732074818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ipi6DAgi3F",
+          "end": 36,
+          "expanded_url": "https://x.com/gdioiui/status/2077934939732074818/photo/1",
+          "media_key": "3_2077934932815716352",
+          "start": 13,
+          "url": "https://t.co/Ipi6DAgi3F"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/gdioiui/status/2077682987999862996",
+          "start": 37,
+          "url": "https://t.co/HB4iAQfgpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077934939732074818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077682987999862996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就知道有这关喵..... https://t.co/Ipi6DAgi3F https://t.co/HB4iAQfgpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_2077934932815716352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZOz-DbIAA8YNF.jpg",
+        "width": 1220
+      },
+      {
+        "duration_ms": 9720,
+        "height": 1080,
+        "media_key": "13_2077682943095615488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077682943095615488/img/6qpQmLDACI3UePki.jpg",
+        "public_metrics": {
+          "view_count": 131
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077682943095615488/vid/avc1/480x270/x6Vx4teN-VBT4Cs6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077682943095615488/vid/avc1/640x360/Svx7tJa8dpBdGNm_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077682943095615488/vid/avc1/1280x720/3LNHtk0xDthw8h9T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077682943095615488/pl/18nNTPqxNVnBfhcG.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077682943095615488/vid/avc1/1920x1080/pkB3xBZGxxe00uaH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077934932815716352"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2077934939732074818",
+        "created_at": "2026-07-17T01:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077934939732074818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ipi6DAgi3F",
+              "end": 36,
+              "expanded_url": "https://x.com/gdioiui/status/2077934939732074818/photo/1",
+              "media_key": "3_2077934932815716352",
+              "start": 13,
+              "url": "https://t.co/Ipi6DAgi3F"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/gdioiui/status/2077682987999862996",
+              "start": 37,
+              "url": "https://t.co/HB4iAQfgpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077934939732074818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077682987999862996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就知道有这关喵..... https://t.co/Ipi6DAgi3F https://t.co/HB4iAQfgpk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077682943095615488"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2077682987999862996",
+        "created_at": "2026-07-16T09:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077682987999862996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64VNk7m8df",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/2077682987999862996/video/1",
+              "media_key": "13_2077682943095615488",
+              "start": 14,
+              "url": "https://t.co/64VNk7m8df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077682987999862996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫手爪不干净啊 摸我屁股 https://t.co/64VNk7m8df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 489,
+          "like_count": 4454,
+          "listed_count": 4,
+          "media_count": 1587,
+          "tweet_count": 8247
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

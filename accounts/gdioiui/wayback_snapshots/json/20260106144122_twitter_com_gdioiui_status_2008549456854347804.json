@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008546993938022400"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2008549456854347804",
+    "created_at": "2026-01-06T14:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T15:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008549456854347804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0P4RYNyGVu",
+          "end": 71,
+          "expanded_url": "https://x.com/gdioiui/status/2008549456854347804/photo/1",
+          "media_key": "3_2008546993938022400",
+          "start": 48,
+          "url": "https://t.co/0P4RYNyGVu"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/gdioiui/status/2006566693032833073",
+          "start": 72,
+          "url": "https://t.co/f8bDdhshw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008549456854347804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 89,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006566693032833073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一阶段\n窝要没啦喵！\n讨论了好多喵 （od 恐袭 紫砂 xxx）\n窝是不是该开qqVIP喵？ https://t.co/0P4RYNyGVu https://t.co/f8bDdhshw0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008546993938022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_K2WhawAA5ne1.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006566690033672192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jBxfmWoAAeHgY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008546993938022400"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2008549456854347804",
+        "created_at": "2026-01-06T14:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008549456854347804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0P4RYNyGVu",
+              "end": 71,
+              "expanded_url": "https://x.com/gdioiui/status/2008549456854347804/photo/1",
+              "media_key": "3_2008546993938022400",
+              "start": 48,
+              "url": "https://t.co/0P4RYNyGVu"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/gdioiui/status/2006566693032833073",
+              "start": 72,
+              "url": "https://t.co/f8bDdhshw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008549456854347804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006566693032833073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一阶段\n窝要没啦喵！\n讨论了好多喵 （od 恐袭 紫砂 xxx）\n窝是不是该开qqVIP喵？ https://t.co/0P4RYNyGVu https://t.co/f8bDdhshw0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006566690033672192"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006566693032833073",
+        "created_at": "2026-01-01T03:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006566693032833073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrQR7y7CHa",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/2006566693032833073/photo/1",
+              "media_key": "3_2006566690033672192",
+              "start": 36,
+              "url": "https://t.co/hrQR7y7CHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006566693032833073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3118,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "建了个群喵\n什么都可以聊哦--再次社会实践\n不要把我号封了就好啦... https://t.co/hrQR7y7CHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 250,
+          "like_count": 1718,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 3378
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

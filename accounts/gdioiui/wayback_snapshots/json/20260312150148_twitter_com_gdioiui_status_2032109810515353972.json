@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2032109810515353972",
+    "created_at": "2026-03-12T15:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032109810515353972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurazawanaki/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/kurazawanaki/status/2031781550539551153",
+          "start": 34,
+          "url": "https://t.co/5Edk70JxML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032109810515353972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031781550539551153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "...只能说发出来我也不知道发生什么了...\n我知道应该是o不死的 https://t.co/5Edk70JxML"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2032109810515353972",
+        "created_at": "2026-03-12T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032109810515353972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurazawanaki/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kurazawanaki/status/2031781550539551153",
+              "start": 34,
+              "url": "https://t.co/5Edk70JxML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032109810515353972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031781550539551153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "...只能说发出来我也不知道发生什么了...\n我知道应该是o不死的 https://t.co/5Edk70JxML"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2031781550539551153",
+        "created_at": "2026-03-11T17:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031781550539551153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自杀干预"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/gdioiui/status/2031762078294520115",
+              "start": 43,
+              "url": "https://t.co/8SkZcs9Qvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031781550539551153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9712,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031762078294520115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#自杀干预 她目前已处于失联状态…如果大家有她的消息的话希望可以联系我，谢谢大家了… https://t.co/8SkZcs9Qvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 345,
+          "like_count": 3152,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 5064
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女孩子",
+        "id": "1679381806913560578",
+        "name": "A̸n̸e̸m̸o̸l̸y̸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031798284398874624/4pL5-7v0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 1085,
+          "like_count": 15610,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

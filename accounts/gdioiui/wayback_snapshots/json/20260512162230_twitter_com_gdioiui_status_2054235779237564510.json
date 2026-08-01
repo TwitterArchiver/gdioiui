@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053903787882934781",
+    "created_at": "2026-05-12T16:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054235779237564510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039720325152206848",
+          "start": 0,
+          "username": "tataqwq"
+        },
+        {
+          "end": 25,
+          "id": "1940621666222280705",
+          "start": 9,
+          "username": "KEN654573659086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054235779237564510",
+    "in_reply_to_user_id": "2039720325152206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053931344871215443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq @KEN654573659086 退货赚钱咪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053903787882934781",
+        "created_at": "2026-05-12T16:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054235779237564510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039720325152206848",
+              "start": 0,
+              "username": "tataqwq"
+            },
+            {
+              "end": 25,
+              "id": "1940621666222280705",
+              "start": 9,
+              "username": "KEN654573659086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054235779237564510",
+        "in_reply_to_user_id": "2039720325152206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053931344871215443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq @KEN654573659086 退货赚钱咪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039720325152206848",
+        "conversation_id": "2053903787882934781",
+        "created_at": "2026-05-11T20:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053931344871215443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940621666222280705",
+              "start": 0,
+              "username": "KEN654573659086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053931344871215443",
+        "in_reply_to_user_id": "1940621666222280705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053922288605757793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEN654573659086 因为可以赚钱哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 430,
+          "like_count": 3772,
+          "listed_count": 3,
+          "media_count": 1216,
+          "tweet_count": 6571
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T15:03:16.000Z",
+        "description": "",
+        "id": "2039720325152206848",
+        "name": "塔塔鹿（大号被盗了）",
+        "pinned_tweet_id": "2043181858255495218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039723640543965184/PwDHQPoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 164,
+          "like_count": 110,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 301
+        },
+        "username": "tataqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:00:43.000Z",
+        "description": "唯爱和美食不可辜负",
+        "id": "1940621666222280705",
+        "name": "KB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940621973366665216/nqDkSsXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 40,
+          "like_count": 7639,
+          "listed_count": 5,
+          "media_count": 650,
+          "tweet_count": 12531
+        },
+        "username": "KEN654573659086",
+        "verified": false
+      }
+    ]
+  }
+}

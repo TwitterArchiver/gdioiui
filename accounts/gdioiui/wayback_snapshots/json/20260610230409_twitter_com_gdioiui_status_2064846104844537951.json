@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2064720436483723344",
+    "created_at": "2026-06-10T23:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064846104844537951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064846104844537951",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064752260232745343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnfu 欸....是为什么...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2064720436483723344",
+        "created_at": "2026-06-10T23:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064846104844537951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064846104844537951",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064752260232745343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnfu 欸....是为什么...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985370178929045504",
+        "conversation_id": "2064720436483723344",
+        "created_at": "2026-06-10T16:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064752260232745343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064752260232745343",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064720436483723344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 正常，身体的免疫系统暂时奔溃了，我22年的时候也这样，天天晚上去急诊，左氧氟沙星跟不要钱一样的疯狂输，持续了一年才好，那段时间还在疫情，比身体不舒服更崩溃的是喉咙，核酸报告只能维持12个小时。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 476,
+          "like_count": 4092,
+          "listed_count": 3,
+          "media_count": 1389,
+          "tweet_count": 7501
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "当朋友圈发，发点喜欢的，od，mtf，自残，风景，美食，abdl，都会有，人活这一辈子最重要的是开心",
+        "id": "985370178929045504",
+        "name": "卖橘子的小埋🍊",
+        "pinned_tweet_id": "2012924635449270450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061106688607043584/Jj9mD3tP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 258,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 212
+        },
+        "username": "jYiCHRgvKnfu",
+        "verified": false
+      }
+    ]
+  }
+}

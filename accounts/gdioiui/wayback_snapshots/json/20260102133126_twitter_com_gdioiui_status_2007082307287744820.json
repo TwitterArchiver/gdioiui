@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007082307287744820",
+    "created_at": "2026-01-02T13:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007082307287744820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 41,
+          "id": "1758324617838788608",
+          "start": 33,
+          "username": "mycbxzd"
+        }
+      ],
+      "urls": [
+        {
+          "description": "added a few features of my own on top of the original repository - xzdmycbx/Oyama-s-HRT-Tracker",
+          "display_url": "github.com/xzdmycbx/Oyama…",
+          "end": 85,
+          "expanded_url": "https://github.com/xzdmycbx/Oyama-s-HRT-Tracker",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2007082313973460992/a6gRx2_A?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007082313973460992/a6gRx2_A?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 62,
+          "status": 200,
+          "title": "GitHub - xzdmycbx/Oyama-s-HRT-Tracker: added a few features of my own on top of the original repository",
+          "unwound_url": "https://github.com/xzdmycbx/Oyama-s-HRT-Tracker",
+          "url": "https://t.co/WPOAu2l4P8"
+        },
+        {
+          "display_url": "hrt.axzamy.xyz",
+          "end": 118,
+          "expanded_url": "https://hrt.axzamy.xyz/",
+          "start": 95,
+          "status": 200,
+          "title": "HRT Tracker",
+          "unwound_url": "https://hrt.axzamy.xyz/",
+          "url": "https://t.co/3pxiJzd6wB"
+        },
+        {
+          "display_url": "hrt.9701853.xyz",
+          "end": 147,
+          "expanded_url": "https://hrt.9701853.xyz/",
+          "start": 124,
+          "status": 200,
+          "title": "HRT Tracker",
+          "unwound_url": "https://hrt.9701853.xyz/",
+          "url": "https://t.co/jAtg8vCYZ1"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/gdioiui/status/2006705233041527048",
+          "start": 169,
+          "url": "https://t.co/ehZVeW44QZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007082307287744820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006705233041527048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后还是好了喵...\n贡献度：圣三一（0.1%）\nmycbxfx @mycbxzd （99.9%）幸苦了喵 （👏）\n新仓库：https://t.co/WPOAu2l4P8 \n可以使用的部署点https://t.co/3pxiJzd6wB\n&amp;https://t.co/jAtg8vCYZ1\n废的一匹喵＞﹏＜（窝的改进最后啥用没有） https://t.co/ehZVeW44QZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2006704035617968128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9k-sDxaEAAjVau.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2006704094585700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9k-vfcaQAA2BkB.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007082307287744820",
+        "created_at": "2026-01-02T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007082307287744820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1758324617838788608",
+              "start": 33,
+              "username": "mycbxzd"
+            }
+          ],
+          "urls": [
+            {
+              "description": "added a few features of my own on top of the original repository - xzdmycbx/Oyama-s-HRT-Tracker",
+              "display_url": "github.com/xzdmycbx/Oyama…",
+              "end": 85,
+              "expanded_url": "https://github.com/xzdmycbx/Oyama-s-HRT-Tracker",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2007082313973460992/a6gRx2_A?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007082313973460992/a6gRx2_A?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "GitHub - xzdmycbx/Oyama-s-HRT-Tracker: added a few features of my own on top of the original repository",
+              "unwound_url": "https://github.com/xzdmycbx/Oyama-s-HRT-Tracker",
+              "url": "https://t.co/WPOAu2l4P8"
+            },
+            {
+              "display_url": "hrt.axzamy.xyz",
+              "end": 118,
+              "expanded_url": "https://hrt.axzamy.xyz/",
+              "start": 95,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.axzamy.xyz/",
+              "url": "https://t.co/3pxiJzd6wB"
+            },
+            {
+              "display_url": "hrt.9701853.xyz",
+              "end": 147,
+              "expanded_url": "https://hrt.9701853.xyz/",
+              "start": 124,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.9701853.xyz/",
+              "url": "https://t.co/jAtg8vCYZ1"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/gdioiui/status/2006705233041527048",
+              "start": 169,
+              "url": "https://t.co/ehZVeW44QZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007082307287744820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006705233041527048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后还是好了喵...\n贡献度：圣三一（0.1%）\nmycbxfx @mycbxzd （99.9%）幸苦了喵 （👏）\n新仓库：https://t.co/WPOAu2l4P8 \n可以使用的部署点https://t.co/3pxiJzd6wB\n&amp;https://t.co/jAtg8vCYZ1\n废的一匹喵＞﹏＜（窝的改进最后啥用没有） https://t.co/ehZVeW44QZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006704035617968128",
+            "3_2006704094585700352"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006705233041527048",
+        "created_at": "2026-01-01T12:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006705233041527048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.9701853.xyz",
+              "end": 78,
+              "expanded_url": "http://hrt.9701853.xyz",
+              "start": 55,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.9701853.xyz/",
+              "url": "https://t.co/Mcvp9jlfSw"
+            },
+            {
+              "description": "Overview Reconfigured UI for wide-screen users Fixed some minor mistakes Added Japanese localization support Added smooth page transition animations For Your Information: This version can be us...",
+              "display_url": "github.com/SmirnovaOyama/…",
+              "end": 124,
+              "expanded_url": "https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker/releases/tag/v1.3.0-stable",
+              "start": 101,
+              "status": 200,
+              "title": "Release Oyama's HRT Tracker 1.3.0 · SmirnovaOyama/Oyama-s-HRT-Tracker",
+              "unwound_url": "https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker/releases/tag/v1.3.0-stable",
+              "url": "https://t.co/H9Qn2KidFb"
+            },
+            {
+              "description": "added a few features of my own on top of the original repository - SmirnovaOyama/Oyama-s-HRT-Tracker",
+              "display_url": "github.com/SmirnovaOyama/…",
+              "end": 165,
+              "expanded_url": "https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2006705239626493956/UCuuLsoP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006705239626493956/UCuuLsoP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "GitHub - SmirnovaOyama/Oyama-s-HRT-Tracker: added a few features of my own on top of the original repository",
+              "unwound_url": "https://github.com/SmirnovaOyama/Oyama-s-HRT-Tracker",
+              "url": "https://t.co/uxgRL3usTZ"
+            },
+            {
+              "display_url": "pic.x.com/c446eZWh0k",
+              "end": 209,
+              "expanded_url": "https://x.com/gdioiui/status/2006705233041527048/photo/1",
+              "media_key": "3_2006704035617968128",
+              "start": 186,
+              "url": "https://t.co/c446eZWh0k"
+            },
+            {
+              "display_url": "pic.x.com/c446eZWh0k",
+              "end": 209,
+              "expanded_url": "https://x.com/gdioiui/status/2006705233041527048/photo/1",
+              "media_key": "3_2006704094585700352",
+              "start": 186,
+              "url": "https://t.co/c446eZWh0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006705233041527048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5950,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "找了好久hrt记录+血药模拟软件\n找到了一个挺全面的《可惜没有cpa》\n研究了半天终于搞明白了 \n手机 网页 https://t.co/Mcvp9jlfSw 点击三个点添加到主屏幕即可获得app \n电脑https://t.co/H9Qn2KidFb 下载第二个安装包即可\n感谢原项目：https://t.co/uxgRL3usTZ\n试试加一个云同步功能 应该也不会太难？ https://t.co/c446eZWh0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 227,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 3131
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 92,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 554
+        },
+        "username": "mycbxzd",
+        "verified": false
+      }
+    ]
+  }
+}

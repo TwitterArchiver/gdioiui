@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2052762119330832848",
+    "created_at": "2026-05-08T22:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052885663624687770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772535125517246464",
+          "start": 0,
+          "username": "WanN916_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052885663624687770",
+    "in_reply_to_user_id": "1772535125517246464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052793120878960905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanN916_ 我也是.....输赢看队友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2052762119330832848",
+        "created_at": "2026-05-08T22:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052885663624687770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772535125517246464",
+              "start": 0,
+              "username": "WanN916_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052885663624687770",
+        "in_reply_to_user_id": "1772535125517246464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052793120878960905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanN916_ 我也是.....输赢看队友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772535125517246464",
+        "conversation_id": "2052762119330832848",
+        "created_at": "2026-05-08T16:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052793120878960905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052793120878960905",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052768790878765365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 你完美啥段，我是万年老c+"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 427,
+          "like_count": 3736,
+          "listed_count": 3,
+          "media_count": 1198,
+          "tweet_count": 6475
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "无题",
+        "id": "1772535125517246464",
+        "location": "床上",
+        "name": "月月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034017490611957760/BhgwdlFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 750,
+          "like_count": 824,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1756
+        },
+        "username": "WanN916_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2037535784367198251",
+    "created_at": "2026-03-28T05:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037770453457227829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1562991647666737152",
+          "start": 0,
+          "username": "ExpLang_Cn"
+        },
+        {
+          "end": 20,
+          "id": "1621762399056560128",
+          "start": 12,
+          "username": "SEEMsec"
+        },
+        {
+          "end": 30,
+          "id": "1458340834714128384",
+          "start": 21,
+          "username": "AabyssZG"
+        },
+        {
+          "end": 47,
+          "id": "1581738468547301376",
+          "start": 31,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037770453457227829",
+    "in_reply_to_user_id": "1562991647666737152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037770173067972956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExpLang_Cn @SEEMsec @AabyssZG @ProbiusOfficial ？....正常都会发现这个莫名其妙的像个蜜罐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2037535784367198251",
+        "created_at": "2026-03-28T05:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037770453457227829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562991647666737152",
+              "start": 0,
+              "username": "ExpLang_Cn"
+            },
+            {
+              "end": 20,
+              "id": "1621762399056560128",
+              "start": 12,
+              "username": "SEEMsec"
+            },
+            {
+              "end": 30,
+              "id": "1458340834714128384",
+              "start": 21,
+              "username": "AabyssZG"
+            },
+            {
+              "end": 47,
+              "id": "1581738468547301376",
+              "start": 31,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037770453457227829",
+        "in_reply_to_user_id": "1562991647666737152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037770173067972956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExpLang_Cn @SEEMsec @AabyssZG @ProbiusOfficial ？....正常都会发现这个莫名其妙的像个蜜罐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562991647666737152",
+        "conversation_id": "2037535784367198251",
+        "created_at": "2026-03-28T05:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037770173067972956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 27,
+              "id": "1621762399056560128",
+              "start": 19,
+              "username": "SEEMsec"
+            },
+            {
+              "end": 37,
+              "id": "1458340834714128384",
+              "start": 28,
+              "username": "AabyssZG"
+            },
+            {
+              "end": 54,
+              "id": "1581738468547301376",
+              "start": 38,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037770173067972956",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037535784367198251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 渗透：尼玛逆天人才 @SEEMsec @AabyssZG @ProbiusOfficial"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 371,
+          "like_count": 3346,
+          "listed_count": 2,
+          "media_count": 920,
+          "tweet_count": 5471
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-26T02:33:49.000Z",
+        "description": "「聚势谋远，富能共生」｜ 专注手码知识分享，拒绝AI鸡汤文 ｜ 精品推文都在 “亮点” ｜ 电报群：https://t.co/CToY8sQ7e3 ｜ 商单合作微信backxyh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/scydcn",
+                "end": 73,
+                "expanded_url": "https://t.me/scydcn",
+                "start": 50,
+                "url": "https://t.co/CToY8sQ7e3"
+              }
+            ]
+          }
+        },
+        "id": "1562991647666737152",
+        "location": "QQ👉616335643",
+        "name": "鱼仔",
+        "pinned_tweet_id": "2034781045388677404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853126728136507392/SkfgQXdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34814,
+          "following_count": 115,
+          "like_count": 1224,
+          "listed_count": 174,
+          "media_count": 255,
+          "tweet_count": 1400
+        },
+        "username": "ExpLang_Cn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T06:48:07.000Z",
+        "description": "我们做了一个最好玩的CTF靶场 @cyclens_tech|hacker|web3|DJ|发泄与倾诉的自留地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "cyclens_tech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "platform.cyclens.tech",
+                "end": 23,
+                "expanded_url": "https://platform.cyclens.tech/",
+                "start": 0,
+                "url": "https://t.co/DJ7k69f1Rd"
+              }
+            ]
+          }
+        },
+        "id": "1621762399056560128",
+        "name": "SEEM@cyclens",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993461623986831360/OzeIzYVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 890,
+          "like_count": 50311,
+          "listed_count": 33,
+          "media_count": 126,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/DJ7k69f1Rd",
+        "username": "SEEMsec",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T07:49:09.000Z",
+        "description": "渊龙Sec安全团队（AabyssTeam）创始人\n国际云安全联盟（CSA）渗透测试工作组成员\n渗透测试 | 造轮达人 | 追洞达人｜RedTeam | IOT安全｜业余无线电｜ SecTools | Misc业余选手 | Exploits",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aabyss.cn",
+                "end": 23,
+                "expanded_url": "https://www.aabyss.cn",
+                "start": 0,
+                "url": "https://t.co/FaUzoASKP4"
+              }
+            ]
+          }
+        },
+        "id": "1458340834714128384",
+        "location": "China",
+        "name": "曾哥",
+        "pinned_tweet_id": "1935175625050046900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475866449331716099/bcYvLCf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11781,
+          "following_count": 1367,
+          "like_count": 11414,
+          "listed_count": 74,
+          "media_count": 225,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/FaUzoASKP4",
+        "username": "AabyssZG",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2030395405083763109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9059,
+          "following_count": 513,
+          "like_count": 14473,
+          "listed_count": 47,
+          "media_count": 2004,
+          "tweet_count": 12803
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

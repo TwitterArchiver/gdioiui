@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006044314871447552"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006044317396193581",
+    "created_at": "2025-12-30T16:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T17:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006044317396193581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7hWoqtoFf",
+          "end": 60,
+          "expanded_url": "https://x.com/gdioiui/status/2006044317396193581/photo/1",
+          "media_key": "3_2006044314871447552",
+          "start": 37,
+          "url": "https://t.co/g7hWoqtoFf"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/gdioiui/status/2006019135218520516",
+          "start": 61,
+          "url": "https://t.co/e5urFJDLuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006044317396193581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006019135218520516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "em 为什么窝没有那种粉色的伤口喵\n好看吗？₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/g7hWoqtoFf https://t.co/e5urFJDLuA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2261,
+        "media_key": "3_2006044314871447552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bmrQeawAArnan.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2006019131464900609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bPxY-aYAEVG8f.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006044314871447552"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006044317396193581",
+        "created_at": "2025-12-30T16:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006044317396193581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7hWoqtoFf",
+              "end": 60,
+              "expanded_url": "https://x.com/gdioiui/status/2006044317396193581/photo/1",
+              "media_key": "3_2006044314871447552",
+              "start": 37,
+              "url": "https://t.co/g7hWoqtoFf"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/gdioiui/status/2006019135218520516",
+              "start": 61,
+              "url": "https://t.co/e5urFJDLuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006044317396193581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006019135218520516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "em 为什么窝没有那种粉色的伤口喵\n好看吗？₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/g7hWoqtoFf https://t.co/e5urFJDLuA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006019131464900609"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006019135218520516",
+        "created_at": "2025-12-30T15:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006019135218520516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxnsYYuEng",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/2006019135218520516/photo/1",
+              "media_key": "3_2006019131464900609",
+              "start": 41,
+              "url": "https://t.co/NxnsYYuEng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006019135218520516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天说了很消极的话 影响到别人了喵\n惩罚一下自己....\n割手手好疼喵(⋟﹏⋞) https://t.co/NxnsYYuEng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 184,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

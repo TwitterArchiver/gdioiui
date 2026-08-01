@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065996937867002156",
+    "created_at": "2026-06-14T03:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065997559542477174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065997559542477174",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065996937867002156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前看来 通过这个方式大概是可以以个人设备力量瘫痪诸如nomtfwiki....等等网站\n可能算是一个重大事故了.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_2065995663708733440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvkHCrbQAAZlh8.png",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065996937867002156",
+        "created_at": "2026-06-14T03:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065997559542477174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065997559542477174",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065996937867002156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前看来 通过这个方式大概是可以以个人设备力量瘫痪诸如nomtfwiki....等等网站\n可能算是一个重大事故了.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065995663708733440"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065996937867002156",
+        "created_at": "2026-06-14T03:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065996937867002156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more. - Unclecheng-li/poc-lab",
+              "display_url": "github.com/Unclecheng-li/…",
+              "end": 167,
+              "expanded_url": "https://github.com/Unclecheng-li/poc-lab/blob/main/README.zh-CN.md",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2065996942505852928/64UECDXL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065996942505852928/64UECDXL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "poc-lab/README.zh-CN.md at main · Unclecheng-li/poc-lab",
+              "unwound_url": "https://github.com/Unclecheng-li/poc-lab/blob/main/README.zh-CN.md",
+              "url": "https://t.co/lld6Vi2NrC"
+            },
+            {
+              "display_url": "pic.x.com/fCKaqbugX8",
+              "end": 191,
+              "expanded_url": "https://x.com/gdioiui/status/2065996937867002156/photo/1",
+              "media_key": "3_2065995663708733440",
+              "start": 168,
+              "url": "https://t.co/fCKaqbugX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065996937867002156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "http bomb漏洞 目前似乎修复的并不多\n虽然因为模式特征其实是可以被明显监控\n可以对服务器进行几乎完全瘫痪甚至借此破坏一些功能\n可以进行近5700倍的放大\n还记得当时儿童安全xx的网络被kb级dos\n看来是错怪他们了 这个应该是cc\n当前此方法仍可以大量简单复现 可能是一个噩梦吧\nhttps://t.co/lld6Vi2NrC https://t.co/fCKaqbugX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 476,
+          "like_count": 4142,
+          "listed_count": 3,
+          "media_count": 1409,
+          "tweet_count": 7594
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

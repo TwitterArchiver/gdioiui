@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2045429827025703352",
+    "created_at": "2026-04-18T09:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045429827025703352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2045374263494848652",
+          "start": 19,
+          "url": "https://t.co/FTVPt32B2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045429827025703352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045374263494848652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以说中国学校比国外都好 还接受起义 https://t.co/FTVPt32B2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9666,
+        "height": 1080,
+        "media_key": "13_2045261042196914177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045261042196914177/img/_ct-ci_EWd5vb9MO.jpg",
+        "public_metrics": {
+          "view_count": 2174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045261042196914177/pl/Qfr5tz64prk4CUlA.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261042196914177/vid/avc1/1280x720/aH1j6OyNn3ocb-PT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261042196914177/vid/avc1/640x360/3D1NE5JytsXDKFVe.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261042196914177/vid/avc1/480x270/Tv79J6vO764wpMxj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261042196914177/vid/avc1/1920x1080/HvElj58bByOvYn32.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 6153,
+        "height": 1280,
+        "media_key": "13_2045261050195611648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045261050195611648/img/OBVNB8EilHKXVjph.jpg",
+        "public_metrics": {
+          "view_count": 481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261050195611648/vid/avc1/320x568/5CyebadaP-dmvI2V.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261050195611648/vid/avc1/480x852/ArbTalSKZgUR4Mij.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045261050195611648/vid/avc1/720x1280/eUKw0raghtEoGHij.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045261050195611648/pl/5ASaML308ccF3gNZ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2045261055346049024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGI6F_TXgAA2psQ.jpg",
+        "width": 644
+      },
+      {
+        "height": 1936,
+        "media_key": "3_2045261061616541696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGI6GWqXoAAocjU.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2045429827025703352",
+        "created_at": "2026-04-18T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045429827025703352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2045374263494848652",
+              "start": 19,
+              "url": "https://t.co/FTVPt32B2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045429827025703352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045374263494848652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说中国学校比国外都好 还接受起义 https://t.co/FTVPt32B2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045261042196914177",
+            "13_2045261050195611648",
+            "3_2045261055346049024",
+            "3_2045261061616541696"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2045374263494848652",
+        "created_at": "2026-04-18T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045374263494848652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffsBmBgihk",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045374263494848652/video/1",
+              "media_key": "13_2045261042196914177",
+              "start": 94,
+              "url": "https://t.co/ffsBmBgihk"
+            },
+            {
+              "display_url": "pic.x.com/ffsBmBgihk",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045374263494848652/video/1",
+              "media_key": "13_2045261050195611648",
+              "start": 94,
+              "url": "https://t.co/ffsBmBgihk"
+            },
+            {
+              "display_url": "pic.x.com/ffsBmBgihk",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045374263494848652/video/1",
+              "media_key": "3_2045261055346049024",
+              "start": 94,
+              "url": "https://t.co/ffsBmBgihk"
+            },
+            {
+              "display_url": "pic.x.com/ffsBmBgihk",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045374263494848652/video/1",
+              "media_key": "3_2045261061616541696",
+              "start": 94,
+              "url": "https://t.co/ffsBmBgihk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045374263494848652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 21487,
+          "like_count": 159,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "4月17日，贵州遵义。因高一学生没有双休、且周五六还要上晚自习，学生们聚集在操场上发起抗议，他们齐声高呼：“双休！双休！”\n最终抗议成功，学校决定本周执行双休，学生们放学后可以直接回家。 https://t.co/ffsBmBgihk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 383,
+          "like_count": 3599,
+          "listed_count": 2,
+          "media_count": 1067,
+          "tweet_count": 6049
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195208,
+          "following_count": 1030,
+          "like_count": 9407,
+          "listed_count": 8614,
+          "media_count": 45448,
+          "tweet_count": 52531
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

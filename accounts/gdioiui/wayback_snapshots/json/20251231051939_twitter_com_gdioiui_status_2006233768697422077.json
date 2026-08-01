@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2005977824918974623",
+    "created_at": "2025-12-31T05:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006233768697422077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        },
+        {
+          "end": 26,
+          "id": "1723436323758047232",
+          "start": 17,
+          "username": "QiuTtang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006233768697422077",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005978454827876514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 @QiuTtang 有背景...."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005978454827876514].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005978454827876514",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005978454827876514"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2005977824918974623",
+        "created_at": "2025-12-31T05:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006233768697422077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            },
+            {
+              "end": 26,
+              "id": "1723436323758047232",
+              "start": 17,
+              "username": "QiuTtang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006233768697422077",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005978454827876514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 @QiuTtang 有背景...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 187,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "15岁 \n友跨顺男未婚不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/FIakK2pD87"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/众善慈善",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983907777740451840/gzQ21mdY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 468,
+          "like_count": 20965,
+          "listed_count": 2,
+          "media_count": 770,
+          "tweet_count": 7178
+        },
+        "url": "https://t.co/FIakK2pD87",
+        "username": "liveDeath750122",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T20:23:47.000Z",
+        "description": "~ 本体是只猫 | 20岁の秋秋 ~ 持证含糖MTF | 体弱多病药罐子 ~\n\n❗中度焦虑症 · 重度抑郁症 · 双相情感障碍 · 认知障碍❗\n\n无聊时可以找我聊天，现在因为我每天脑袋很乱，无力发推，但如果是找我聊天，那还是可以的，我每天都会看推的✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/iTufke",
+                "end": 23,
+                "expanded_url": "https://t.me/iTufke",
+                "start": 0,
+                "url": "https://t.co/XsUKBeyCUt"
+              }
+            ]
+          }
+        },
+        "id": "1723436323758047232",
+        "name": "秋棠糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962372177073975296/Y1SOTg8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1516,
+          "like_count": 1703,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/XsUKBeyCUt",
+        "username": "QiuTtang",
+        "verified": false
+      }
+    ]
+  }
+}

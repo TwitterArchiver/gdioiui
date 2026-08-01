@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2026909985473720388",
+    "created_at": "2026-02-26T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026926383172325635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866810593526812675",
+          "start": 0,
+          "username": "jilin28881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026926383172325635",
+    "in_reply_to_user_id": "1866810593526812675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026924637653995664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilin28881 em...下次是第一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2026909985473720388",
+        "created_at": "2026-02-26T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026926383172325635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866810593526812675",
+              "start": 0,
+              "username": "jilin28881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026926383172325635",
+        "in_reply_to_user_id": "1866810593526812675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026924637653995664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilin28881 em...下次是第一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866810593526812675",
+        "conversation_id": "2026909985473720388",
+        "created_at": "2026-02-26T07:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026924637653995664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026924637653995664",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026909985473720388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 第二次是多少？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 327,
+          "like_count": 2942,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 4701
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T11:42:34.000Z",
+        "description": "中文,EN,日本語|想和东亚人交朋友|前巨型工程开发项目吹牛人员|会开发些网页|坐在大象上说抽象的话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitty.works/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kitty.works/#/register?code=YgDTrfbz",
+                "start": 0,
+                "url": "https://t.co/82pUwJ9ERf"
+              }
+            ]
+          }
+        },
+        "id": "1866810593526812675",
+        "location": "⬇️台湾原生IP节点2¥/月谢谢支持🙏",
+        "name": "bunsyo",
+        "pinned_tweet_id": "2026884670819021210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024743444435128320/pO-itMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/82pUwJ9ERf",
+        "username": "jilin28881",
+        "verified": false
+      }
+    ]
+  }
+}

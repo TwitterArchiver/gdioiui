@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1997325137792647421",
+    "created_at": "2025-12-07T02:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997498866980299245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        },
+        {
+          "end": 22,
+          "id": "1758454063535198208",
+          "start": 12,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "07fefc42d1da90c0"
+    },
+    "id": "1997498866980299245",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997497325229609398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 @huanli233 泥报警要用他身份证吗？\n窝真建议你早点删了"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Lao People's Democratic Republic",
+        "country_code": "LA",
+        "full_name": "Lao People's Democratic Republic",
+        "geo": {
+          "bbox": [
+            100.0854515,
+            13.9100275,
+            107.63465,
+            22.5003891
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "07fefc42d1da90c0",
+        "name": "Lao People's Democratic Republic",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1997325137792647421",
+        "created_at": "2025-12-07T02:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997498866980299245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            },
+            {
+              "end": 22,
+              "id": "1758454063535198208",
+              "start": 12,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "1997498866980299245",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997497325229609398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 @huanli233 泥报警要用他身份证吗？\n窝真建议你早点删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "1997325137792647421",
+        "created_at": "2025-12-07T02:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997497325229609398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 19,
+              "id": "1758454063535198208",
+              "start": 9,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997497325229609398",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997496341245886777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @huanli233 抱歉……但我们必须这么做（要报警）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 87,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "Drive you to the RHYTHM FLOW.\n「EZ2AC Techythm」「Project CroXoveR」Main Developer & Sound Director\nDAOLITUNE UI Design\nCN⭕️EN⭕️JP❌\n音游人,画师,或任何寻求合作的人会回关\n合作请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH8ahQ"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元/音游空间站",
+        "name": "YJGAME（ワイジゲーム）/DJ TO3RO 公式",
+        "pinned_tweet_id": "1943320906400776455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942915559550853120/UGwtS9v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1061,
+          "like_count": 36883,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 10593
+        },
+        "url": "https://t.co/PmgsVH8ahQ",
+        "username": "YJGAME0189",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "虚无主义者 无证含糖 ASD alt @imhuanli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "imhuanli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67Havjra"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "LOVE U",
+        "name": "huanli233🤤🍥",
+        "pinned_tweet_id": "1940320822478213331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985502269228662785/w-q-OkEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 802,
+          "like_count": 3500,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/ci67Havjra",
+        "username": "huanli233",
+        "verified": false
+      }
+    ]
+  }
+}

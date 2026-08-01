@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1944743158975484021",
+    "created_at": "2025-08-31T04:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962014816056569875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919370764152979456",
+          "start": 0,
+          "username": "mei_bu6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962014816056569875",
+    "in_reply_to_user_id": "1919370764152979456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944743158975484021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mei_bu6000 现在直接从PDD上买的到吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1944743146958823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0dlqXbIAArDvo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1944743158975484021",
+        "created_at": "2025-08-31T04:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962014816056569875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919370764152979456",
+              "start": 0,
+              "username": "mei_bu6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962014816056569875",
+        "in_reply_to_user_id": "1919370764152979456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944743158975484021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mei_bu6000 现在直接从PDD上买的到吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944743146958823424"
+          ]
+        },
+        "author_id": "1919370764152979456",
+        "conversation_id": "1944743158975484021",
+        "created_at": "2025-07-14T12:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944743158975484021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBJhpSNHNc",
+              "end": 40,
+              "expanded_url": "https://x.com/mei_bu6000/status/1944743158975484021/photo/1",
+              "media_key": "3_1944743146958823424",
+              "start": 17,
+              "url": "https://t.co/QBJhpSNHNc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944743158975484021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2527,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天买了螺内酯完了要变成小尿娘了 https://t.co/QBJhpSNHNc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:38:04.000Z",
+        "description": "2025年4月16日无证含糖",
+        "id": "1919370764152979456",
+        "name": "小霉🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919374629338267648/lx-8iv11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 93,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "username": "mei_bu6000",
+        "verified": false
+      }
+    ]
+  }
+}

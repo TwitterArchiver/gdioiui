@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2048411732809592913",
+    "created_at": "2026-04-26T15:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048429390124769540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906899134382272512",
+          "start": 0,
+          "username": "fngyun216085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048429390124769540",
+    "in_reply_to_user_id": "1906899134382272512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048413136856949039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngyun216085 这是科学 不是病娇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2048411732809592913",
+        "created_at": "2026-04-26T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048429390124769540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906899134382272512",
+              "start": 0,
+              "username": "fngyun216085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048429390124769540",
+        "in_reply_to_user_id": "1906899134382272512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048413136856949039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngyun216085 这是科学 不是病娇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906899134382272512",
+        "conversation_id": "2048411732809592913",
+        "created_at": "2026-04-26T14:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048413136856949039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048413136856949039",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048411732809592913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 有病娇哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 403,
+          "like_count": 3624,
+          "listed_count": 2,
+          "media_count": 1116,
+          "tweet_count": 6198
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T02:39:32.000Z",
+        "description": "只要你是个正常人我就都愿意和你交朋友滴/男的/179/69/别的不知道了",
+        "id": "1906899134382272512",
+        "location": "我在青茅山很想你",
+        "name": "painber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907023440076582912/juyJ0_65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 195,
+          "like_count": 15912,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1934
+        },
+        "username": "fngyun216085",
+        "verified": false
+      }
+    ]
+  }
+}

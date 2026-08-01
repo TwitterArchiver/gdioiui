@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081766940000027098",
+    "created_at": "2026-07-28T13:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082097611079884986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745467845759352832",
+          "start": 0,
+          "username": "idwTiSv2hs41854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082097611079884986",
+    "in_reply_to_user_id": "1745467845759352832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082077804045414867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idwTiSv2hs41854 哎 加油 会有下一次红利的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081766940000027098",
+        "created_at": "2026-07-28T13:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082097611079884986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745467845759352832",
+              "start": 0,
+              "username": "idwTiSv2hs41854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082097611079884986",
+        "in_reply_to_user_id": "1745467845759352832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082077804045414867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idwTiSv2hs41854 哎 加油 会有下一次红利的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745467845759352832",
+        "conversation_id": "2081766940000027098",
+        "created_at": "2026-07-28T12:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082077804045414867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077804045414867",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081766940000027098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 一年前啊 我还没得腰间盘脱出 也没有分手 我有了大把时间 玩了很多游戏 宛如回到大学时期 当时毕业对我的压力 就像现在无事可做所带来的一样 玛德 世事无常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 491,
+          "like_count": 4730,
+          "listed_count": 4,
+          "media_count": 1653,
+          "tweet_count": 8520
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-11T15:29:09.000Z",
+        "description": "左右不定 徒增烦恼",
+        "id": "1745467845759352832",
+        "location": "0.01千米",
+        "name": "001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884126748788584448/5C_DhZm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "idwTiSv2hs41854",
+        "verified": false
+      }
+    ]
+  }
+}

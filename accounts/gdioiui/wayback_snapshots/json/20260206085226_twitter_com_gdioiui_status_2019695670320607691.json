@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2019341162390405282",
+    "created_at": "2026-02-06T08:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019695670320607691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019695670320607691",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019341162390405282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 他对小梓居然这样😡😡😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019341146896633856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYkEv0akAA1MvG.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019341152949006337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYkFGXacAEQcRo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019341150235332609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYkE8QbEAEYiVw.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019341146888237061",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYkEvyacAUSy6W.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2019341162390405282",
+        "created_at": "2026-02-06T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019695670320607691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019695670320607691",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019341162390405282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 他对小梓居然这样😡😡😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019341146896633856",
+            "3_2019341152949006337",
+            "3_2019341150235332609",
+            "3_2019341146888237061"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019341162390405282",
+        "created_at": "2026-02-05T09:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019341162390405282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baUUkcq2ap",
+              "end": 107,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2019341162390405282/photo/1",
+              "media_key": "3_2019341146896633856",
+              "start": 84,
+              "url": "https://t.co/baUUkcq2ap"
+            },
+            {
+              "display_url": "pic.x.com/baUUkcq2ap",
+              "end": 107,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2019341162390405282/photo/1",
+              "media_key": "3_2019341152949006337",
+              "start": 84,
+              "url": "https://t.co/baUUkcq2ap"
+            },
+            {
+              "display_url": "pic.x.com/baUUkcq2ap",
+              "end": 107,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2019341162390405282/photo/1",
+              "media_key": "3_2019341150235332609",
+              "start": 84,
+              "url": "https://t.co/baUUkcq2ap"
+            },
+            {
+              "display_url": "pic.x.com/baUUkcq2ap",
+              "end": 107,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2019341162390405282/photo/1",
+              "media_key": "3_2019341146888237061",
+              "start": 84,
+              "url": "https://t.co/baUUkcq2ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019341162390405282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 671,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的手机...梓宝宝的挂件也丢了...像一颗子弹一样穿透了心脏......这是6层的破坏力......\n(这是我爸在地下室拍的)无法修复，数据全部丢失...... https://t.co/baUUkcq2ap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 297,
+          "like_count": 2584,
+          "listed_count": 1,
+          "media_count": 548,
+          "tweet_count": 4214
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt/中度抑郁/需要陪伴/向自由💫/是只小烧0的乖乖~/过🚪26私信(同类免)\n最爱の笨宝宝:@XueFu13456\n供糖糖の猫猫:@chintu7024\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "chintu7024"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966995836837269504/yObOvbeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 1297,
+          "like_count": 679,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

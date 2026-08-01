@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032114291877478400"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2032114413759840585",
+    "created_at": "2026-03-12T15:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032114413759840585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPARnHVEjS",
+          "end": 63,
+          "expanded_url": "https://x.com/gdioiui/status/2032114413759840585/photo/1",
+          "media_key": "3_2032114291877478400",
+          "start": 40,
+          "url": "https://t.co/rPARnHVEjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032114413759840585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "战损报告\n手割烂了 他们说精神污染就不看了...\n手欠给脚指甲拔掉了\n疼哭了喵 https://t.co/rPARnHVEjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2032114291877478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOFLo5aAAAwfBA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032114291877478400"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2032114413759840585",
+        "created_at": "2026-03-12T15:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032114413759840585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPARnHVEjS",
+              "end": 63,
+              "expanded_url": "https://x.com/gdioiui/status/2032114413759840585/photo/1",
+              "media_key": "3_2032114291877478400",
+              "start": 40,
+              "url": "https://t.co/rPARnHVEjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032114413759840585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "战损报告\n手割烂了 他们说精神污染就不看了...\n手欠给脚指甲拔掉了\n疼哭了喵 https://t.co/rPARnHVEjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 344,
+          "like_count": 3154,
+          "listed_count": 2,
+          "media_count": 804,
+          "tweet_count": 5070
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

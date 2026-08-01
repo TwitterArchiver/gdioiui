@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2048229705476902955",
+    "created_at": "2026-04-26T09:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048329223186809098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011604890016235523",
+          "start": 0,
+          "username": "liozhcng110432"
+        },
+        {
+          "end": 30,
+          "id": "2048225357527216128",
+          "start": 16,
+          "username": "luckylove0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048329223186809098",
+    "in_reply_to_user_id": "2011604890016235523",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048328928214040589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liozhcng110432 @luckylove0721 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2048229705476902955",
+        "created_at": "2026-04-26T09:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048329223186809098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011604890016235523",
+              "start": 0,
+              "username": "liozhcng110432"
+            },
+            {
+              "end": 30,
+              "id": "2048225357527216128",
+              "start": 16,
+              "username": "luckylove0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048329223186809098",
+        "in_reply_to_user_id": "2011604890016235523",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048328928214040589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liozhcng110432 @luckylove0721 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011604890016235523",
+        "conversation_id": "2048229705476902955",
+        "created_at": "2026-04-26T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048328928214040589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048225357527216128",
+              "start": 0,
+              "username": "luckylove0721"
+            },
+            {
+              "end": 23,
+              "id": "1882678524596867072",
+              "start": 15,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048328928214040589",
+        "in_reply_to_user_id": "2048225357527216128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048325920315027583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckylove0721 @gdioiui 寄过来，我帮你戒😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 398,
+          "like_count": 3653,
+          "listed_count": 2,
+          "media_count": 1113,
+          "tweet_count": 6183
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T01:03:47.000Z",
+        "description": "这是个人类ớ ₃ờ",
+        "id": "2011604890016235523",
+        "location": "地球",
+        "name": "咕咕嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017147180654493697/iPaGBYLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "liozhcng110432",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T02:19:30.000Z",
+        "description": "lucky",
+        "id": "2048225357527216128",
+        "name": "真昼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048225475101872128/ND9os4tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "luckylove0721",
+        "verified": false
+      }
+    ]
+  }
+}

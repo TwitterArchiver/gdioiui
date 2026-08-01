@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991687949919084544"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991479994753904983",
+    "created_at": "2025-11-21T02:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T03:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991688093842460707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbQgZc6ixC",
+          "end": 52,
+          "expanded_url": "https://x.com/gdioiui/status/1991688093842460707/photo/1",
+          "media_key": "3_1991687949919084544",
+          "start": 29,
+          "url": "https://t.co/xbQgZc6ixC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991688093842460707",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991686306456568280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 额，其实金刚烷胺更毒一点，所以是美金刚 https://t.co/xbQgZc6ixC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_1991687949919084544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Plo1ZaYAATuS_.png",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991687949919084544"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991479994753904983",
+        "created_at": "2025-11-21T02:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991688093842460707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbQgZc6ixC",
+              "end": 52,
+              "expanded_url": "https://x.com/gdioiui/status/1991688093842460707/photo/1",
+              "media_key": "3_1991687949919084544",
+              "start": 29,
+              "url": "https://t.co/xbQgZc6ixC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991688093842460707",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991686306456568280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 额，其实金刚烷胺更毒一点，所以是美金刚 https://t.co/xbQgZc6ixC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "1991479994753904983",
+        "created_at": "2025-11-21T01:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991686306456568280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991686306456568280",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991685035083329754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 不是上瘾的问题哇，这东西比金刚烷胺还毒哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 49,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "xyn买不起糖求投喂丨赛博女鬼丨家长党丨无证含糖丨已出柜丨infp丨vrchat 一氧化二氢233丨在戒od丨厌女丨双相丨重度抑郁丨准备留学中",
+        "id": "1969670166423228416",
+        "location": "吉林省四平市",
+        "name": "一氧化二氢🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991629816081387520/OBl4AhxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 72,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 226
+        },
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

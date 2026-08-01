@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999152399072825344"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998920889078047067",
+    "created_at": "2025-12-11T16:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999152441296863513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Sennya0717"
+        },
+        {
+          "end": 26,
+          "id": "1639927019856363521",
+          "start": 13,
+          "username": "caibing_0420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ePyKAPbiW",
+          "end": 68,
+          "expanded_url": "https://x.com/gdioiui/status/1999152441296863513/photo/1",
+          "media_key": "3_1999152399072825344",
+          "start": 45,
+          "url": "https://t.co/9ePyKAPbiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999152441296863513",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999060534545805485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sennya0717 @caibing_0420 为什么我的Gemini不画啊qwq https://t.co/9ePyKAPbiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_1999152399072825344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75qg9abEAARTxg.png",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999152399072825344"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998920889078047067",
+        "created_at": "2025-12-11T16:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999152441296863513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Sennya0717"
+            },
+            {
+              "end": 26,
+              "id": "1639927019856363521",
+              "start": 13,
+              "username": "caibing_0420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ePyKAPbiW",
+              "end": 68,
+              "expanded_url": "https://x.com/gdioiui/status/1999152441296863513/photo/1",
+              "media_key": "3_1999152399072825344",
+              "start": 45,
+              "url": "https://t.co/9ePyKAPbiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999152441296863513",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999060534545805485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sennya0717 @caibing_0420 为什么我的Gemini不画啊qwq https://t.co/9ePyKAPbiW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "1998920889078047067",
+        "created_at": "2025-12-11T10:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999060534545805485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639927019856363521",
+              "start": 0,
+              "username": "caibing_0420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999060534545805485",
+        "in_reply_to_user_id": "1639927019856363521",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999027877564830057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caibing_0420 Gemeni 3 Pro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 87,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学 ║INFP / 猫 ║MtF / 家长党 / 持证含糖 2025.02.11 ║重郁 /双相二型 / ADHD / BPD / 阿斯伯格 / PTSD ║家里蹲 / 音游人 / 渴望温暖 ║最爱的人@kinaiyuru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "kinaiyuru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4KtfdRCG"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997766700775985152/DUjQnfIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1636,
+          "like_count": 7571,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/3L4KtfdRCG",
+        "username": "_Sennya0717",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T09:47:39.000Z",
+        "description": "mtf🏳️‍⚧️/无证含糖🍥/HRT2024.02/INFP/想做一个好孩子/同类贴贴互fo  姐姐：@ah55997654",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "ah55997654"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/iJl9WNk",
+                "end": 23,
+                "expanded_url": "https://b23.tv/iJl9WNk",
+                "start": 0,
+                "url": "https://t.co/Sowj9BQGRI"
+              }
+            ]
+          }
+        },
+        "id": "1639927019856363521",
+        "location": "🚪口令红包188➕v",
+        "name": "雾岛董香🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969286546038931456/5cO7u2UV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 204,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/Sowj9BQGRI",
+        "username": "caibing_0420",
+        "verified": false
+      }
+    ]
+  }
+}

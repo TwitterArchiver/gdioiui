@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1995152655673700421",
+    "created_at": "2025-12-01T14:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995508161953042799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1681837279411859456",
+          "start": 0,
+          "username": "AsatsukiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995508161953042799",
+    "in_reply_to_user_id": "1681837279411859456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995373628280783178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsatsukiSakura .........吓晕了，窝好像好多分没拿到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1995152655673700421",
+        "created_at": "2025-12-01T14:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995508161953042799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681837279411859456",
+              "start": 0,
+              "username": "AsatsukiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995508161953042799",
+        "in_reply_to_user_id": "1681837279411859456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995373628280783178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsatsukiSakura .........吓晕了，窝好像好多分没拿到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681837279411859456",
+        "conversation_id": "1995152655673700421",
+        "created_at": "2025-12-01T06:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995373628280783178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995373628280783178",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995152655673700421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 查询noip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 92,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T01:23:56.000Z",
+        "description": "東方/百合豚/音ゲー/男娘爱好者/业余算法选手/CounterStrike\nhttps://t.co/pLTnEkOF0u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/33407560",
+                "end": 61,
+                "expanded_url": "http://osu.ppy.sh/users/33407560",
+                "start": 38,
+                "url": "https://t.co/pLTnEkOF0u"
+              }
+            ]
+          }
+        },
+        "id": "1681837279411859456",
+        "location": "Vienna, Austria",
+        "name": "🥥",
+        "pinned_tweet_id": "1945774353284808791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944274935519563776/RPg0RnQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 1155,
+          "like_count": 6807,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 2379
+        },
+        "username": "AsatsukiSakura",
+        "verified": false
+      }
+    ]
+  }
+}

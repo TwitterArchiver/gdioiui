@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2082769383978610935",
+    "created_at": "2026-07-30T10:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082769383978610935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainLemon0715/…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/RainLemon0715/status/2082408113416892872",
+          "start": 125,
+          "url": "https://t.co/ojCxFL2Tpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082769383978610935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082408113416892872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个号卖掉啦，这个圈子我先退了。对不起宝宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席，我也应该和你们说再见了，谢谢你们的陪伴，有缘再见啦。新号主你们也认识，是原号主本人。 https://t.co/ojCxFL2Tpm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2082408107108712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYzI-2bwAA_Cnh.jpg",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2082769383978610935",
+        "created_at": "2026-07-30T10:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082769383978610935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainLemon0715/…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/RainLemon0715/status/2082408113416892872",
+              "start": 125,
+              "url": "https://t.co/ojCxFL2Tpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082769383978610935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082408113416892872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个号卖掉啦，这个圈子我先退了。对不起宝宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席，我也应该和你们说再见了，谢谢你们的陪伴，有缘再见啦。新号主你们也认识，是原号主本人。 https://t.co/ojCxFL2Tpm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082408107108712448"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2082408113416892872",
+        "created_at": "2026-07-29T10:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082408113416892872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8umupvz57",
+              "end": 148,
+              "expanded_url": "https://x.com/RainLemon0715/status/2082408113416892872/photo/1",
+              "media_key": "3_2082408107108712448",
+              "start": 125,
+              "url": "https://t.co/O8umupvz57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408113416892872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11747,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这个号卖掉啦，这个圈子我先退了。对不起宝宝们，这个圈已经没办法给我带来快乐了，感觉是一种负担，也没有那么多精力和时间去玩这个啦，虽然很舍不得，但天下没有不散的筵席，我也应该和你们说再见了，谢谢你们的陪伴，有缘再见啦。新号主你们也认识，是原号主本人。 https://t.co/O8umupvz57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 493,
+          "like_count": 4785,
+          "listed_count": 4,
+          "media_count": 1664,
+          "tweet_count": 8554
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬（出🍥🍬）",
+        "pinned_tweet_id": "2074429195980050577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 305,
+          "like_count": 8128,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      }
+    ]
+  }
+}

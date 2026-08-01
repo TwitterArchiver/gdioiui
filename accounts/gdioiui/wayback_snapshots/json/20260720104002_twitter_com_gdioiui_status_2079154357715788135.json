@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2079094065086492967",
+    "created_at": "2026-07-20T10:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079154357715788135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1750466202462474240",
+          "start": 0,
+          "username": "hwhiteplmuey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079154357715788135",
+    "in_reply_to_user_id": "1750466202462474240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079145603695825286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwhiteplmuey 比泰补贵其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2079094065086492967",
+        "created_at": "2026-07-20T10:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079154357715788135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1750466202462474240",
+              "start": 0,
+              "username": "hwhiteplmuey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079154357715788135",
+        "in_reply_to_user_id": "1750466202462474240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145603695825286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwhiteplmuey 比泰补贵其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750466202462474240",
+        "conversation_id": "2079094065086492967",
+        "created_at": "2026-07-20T10:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079145603695825286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079145603695825286",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079094065086492967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 仙静价格怎么样喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 491,
+          "like_count": 4522,
+          "listed_count": 5,
+          "media_count": 1607,
+          "tweet_count": 8324
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T10:30:46.000Z",
+        "description": "大家好！我是白羽喵/喜欢吃面 喝乌龙茶（我想要吃不完的面喵！）/萌新音游入  Milthm osu mania malody 节奏大师 4k reg9 rf8- 折线 reg5/ISTJ/165cm 59kg 是正方体喵！/生产日期2011.12/在读初二 目前准备休学/坐标鸟白岛",
+        "id": "1750466202462474240",
+        "location": "鸟白岛",
+        "name": "Shiroha_白羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987397479411703808/sjuw0v_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 100,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "hwhiteplmuey",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2045094434485010898",
+    "created_at": "2026-04-17T23:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045290738137903415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913535505230442497",
+          "start": 0,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045290738137903415",
+    "in_reply_to_user_id": "1913535505230442497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045094434485010898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3638349600Ogas 我也会有其实 特别是生病什么的时候"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045094430768844800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGijKYbUAAEv9f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2045094434485010898",
+        "created_at": "2026-04-17T23:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045290738137903415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913535505230442497",
+              "start": 0,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045290738137903415",
+        "in_reply_to_user_id": "1913535505230442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045094434485010898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3638349600Ogas 我也会有其实 特别是生病什么的时候"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045094430768844800"
+          ]
+        },
+        "author_id": "1913535505230442497",
+        "conversation_id": "2045094434485010898",
+        "created_at": "2026-04-17T10:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045094434485010898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueCQEY1Wl6",
+              "end": 29,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2045094434485010898/photo/1",
+              "media_key": "3_2045094430768844800",
+              "start": 6,
+              "url": "https://t.co/ueCQEY1Wl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045094434485010898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/ueCQEY1Wl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 383,
+          "like_count": 3583,
+          "listed_count": 2,
+          "media_count": 1061,
+          "tweet_count": 6023
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "天赋家长年龄一样不沾的三无木桶饭。战争雷霆空历导弹猴子陆历沙包。喜欢听泠鸢yousa，MyGo和世界情绪的歌。精神状态崩坏警告。                                       姐姐：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044584965002903552/3Jb5oEd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 625,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 663
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987207418468835529",
+    "created_at": "2025-11-09T00:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T01:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987318784617816202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        },
+        {
+          "end": 21,
+          "id": "1511944029440671746",
+          "start": 13,
+          "username": "lcMenci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987318784617816202",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987207418468835529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 @lcMenci 如果有这条规则 那么说明之前😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987207361891868673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5P6kSSbIAEq-t6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987207418468835529",
+        "created_at": "2025-11-09T00:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987318784617816202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            },
+            {
+              "end": 21,
+              "id": "1511944029440671746",
+              "start": 13,
+              "username": "lcMenci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987318784617816202",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987207418468835529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 @lcMenci 如果有这条规则 那么说明之前😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987207361891868673"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "conversation_id": "1987207418468835529",
+        "created_at": "2025-11-08T17:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:15:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987207368695030237",
+          "1987207418468835529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXWVBh2vPw",
+              "end": 27,
+              "expanded_url": "https://x.com/luoling8192/status/1987207418468835529/photo/1",
+              "media_key": "3_1987207361891868673",
+              "start": 4,
+              "url": "https://t.co/gXWVBh2vPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987207418468835529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1347,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/gXWVBh2vPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 25,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "🦜 / 21yo. / Digital Nomad / Full stack developer / AI Companion / 🚀 @proj_airi / 🔍 TelegramSearch / 🐌 @guii_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "proj_airi"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "guii_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 945,
+          "like_count": 8361,
+          "listed_count": 34,
+          "media_count": 395,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-07T05:48:50.000Z",
+        "description": "Software Engineer @Microsoft · Code Artist · Works on C++/C#/Web/Win32/Linux/DevOps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Microsoft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "men.ci",
+                "end": 23,
+                "expanded_url": "https://men.ci",
+                "start": 0,
+                "url": "https://t.co/wP2VzqTLfu"
+              }
+            ]
+          }
+        },
+        "id": "1511944029440671746",
+        "location": "Suzhou, China",
+        "name": "Menci 💖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517907359565488128/PpiYHL1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5459,
+          "following_count": 199,
+          "like_count": 24445,
+          "listed_count": 21,
+          "media_count": 1412,
+          "tweet_count": 8763
+        },
+        "url": "https://t.co/wP2VzqTLfu",
+        "username": "lcMenci",
+        "verified": false
+      }
+    ]
+  }
+}

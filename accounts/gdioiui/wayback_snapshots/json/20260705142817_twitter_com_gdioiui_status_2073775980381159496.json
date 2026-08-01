@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073775976451026944"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2073775980381159496",
+    "created_at": "2026-07-05T14:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073775980381159496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMWmC6ExDn",
+          "end": 74,
+          "expanded_url": "https://x.com/gdioiui/status/2073775980381159496/photo/1",
+          "media_key": "3_2073775976451026944",
+          "start": 51,
+          "url": "https://t.co/xMWmC6ExDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073775980381159496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当时每一件军装都是从死人身上扒下来的 上面有很明显的刀痕和没清洗干净的血渍\n如图为一战法国士兵的袖口 https://t.co/xMWmC6ExDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073775976451026944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeIQ2QaMAA7bKa.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073775976451026944"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2073775980381159496",
+        "created_at": "2026-07-05T14:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073775980381159496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMWmC6ExDn",
+              "end": 74,
+              "expanded_url": "https://x.com/gdioiui/status/2073775980381159496/photo/1",
+              "media_key": "3_2073775976451026944",
+              "start": 51,
+              "url": "https://t.co/xMWmC6ExDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775980381159496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当时每一件军装都是从死人身上扒下来的 上面有很明显的刀痕和没清洗干净的血渍\n如图为一战法国士兵的袖口 https://t.co/xMWmC6ExDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 486,
+          "like_count": 4329,
+          "listed_count": 4,
+          "media_count": 1520,
+          "tweet_count": 8010
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

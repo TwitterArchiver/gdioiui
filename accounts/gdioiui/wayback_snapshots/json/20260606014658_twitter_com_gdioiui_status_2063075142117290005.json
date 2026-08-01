@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063075112425844736"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2062628115592171774",
+    "created_at": "2026-06-06T01:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063075142117290005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PvkF5szept",
+          "end": 38,
+          "expanded_url": "https://x.com/gdioiui/status/2063075142117290005/photo/1",
+          "media_key": "3_2063075112425844736",
+          "start": 15,
+          "url": "https://t.co/PvkF5szept"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063075142117290005",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062628115592171774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 题目好多 https://t.co/PvkF5szept"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063075112425844736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGD4lUXcAAI9Wm.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063075112425844736"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2062628115592171774",
+        "created_at": "2026-06-06T01:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063075142117290005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvkF5szept",
+              "end": 38,
+              "expanded_url": "https://x.com/gdioiui/status/2063075142117290005/photo/1",
+              "media_key": "3_2063075112425844736",
+              "start": 15,
+              "url": "https://t.co/PvkF5szept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063075142117290005",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062628115592171774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 题目好多 https://t.co/PvkF5szept"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2062628115592171774",
+        "created_at": "2026-06-04T20:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062628115592171774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "KiraMyao Equal 是一个关注跨性别与性少数群体处境的公益信息网站，发布生存指南、研究报告、真实故事与倡导行动，整理安全、隐私友好的公共资料，帮助更多人被看见、被理解并获得支持。",
+              "display_url": "kiraequal.org/join",
+              "end": 135,
+              "expanded_url": "https://kiraequal.org/join",
+              "start": 112,
+              "status": 200,
+              "title": "KiraMyao Equal | 跨性别与性少数群体公益信息与倡导网站",
+              "unwound_url": "https://kiraequal.org/join",
+              "url": "https://t.co/IDzMGYGbWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062628115592171774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org/join",
+                "end": 135,
+                "expanded_url": "https://kiraequal.org/join",
+                "start": 112,
+                "url": "https://t.co/q6odxcAbvv"
+              }
+            ]
+          },
+          "text": "咪你好！\nkira最近在做一个跨性别匿名问卷项目，目前问卷收集2天完成500余份，不过还想收集更多国内平台跨性别群体的真实数据。\n如果您在国内平台有一定跨性别粉丝，可否帮忙挂一下网站或者转发一下 （类似视频或者动态之类的）\nhttps://t.co/q6odxcAbvv\n不是商业项目，也不是什么机构，主要就是想认真做一点能留下来的东西。\n不方便也没关系！谢谢泥～❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1624,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "咪你好！\nkira最近在做一个跨性别匿名问卷项目，目前问卷收集2天完成500余份，不过还想收集更多国内平台跨性别群体的真实数据。\n如果您在国内平台有一定跨性别粉丝，可否帮忙挂一下网站或者转发一下 （类似视频或者动态之类的）\nhttps://t.co/IDzMGYGbWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 476,
+          "like_count": 4029,
+          "listed_count": 3,
+          "media_count": 1361,
+          "tweet_count": 7368
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org",
+                "end": 23,
+                "expanded_url": "https://kiraequal.org/",
+                "start": 0,
+                "url": "https://t.co/LOqOOjLxuS"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 361,
+          "like_count": 9931,
+          "listed_count": 5,
+          "media_count": 409,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/LOqOOjLxuS",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006226632743559168"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2006226642524594513",
+    "created_at": "2025-12-31T04:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006226642524594513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xyOeTB1xLS",
+          "end": 31,
+          "expanded_url": "https://x.com/gdioiui/status/2006226642524594513/photo/1",
+          "media_key": "3_2006226632743559168",
+          "start": 8,
+          "url": "https://t.co/xyOeTB1xLS"
+        },
+        {
+          "display_url": "x.com/LumidexNZ/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/LumidexNZ/status/2005591101525369219",
+          "start": 32,
+          "url": "https://t.co/hNQy0gyXx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006226642524594513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005591101525369219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "......坏 https://t.co/xyOeTB1xLS https://t.co/hNQy0gyXx9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_2006226632743559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9eMfjeboAAh7YE.jpg",
+        "width": 1220
+      },
+      {
+        "height": 676,
+        "media_key": "3_2005591094143426560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VKeVsbIAAtCYp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006226632743559168"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006226642524594513",
+        "created_at": "2025-12-31T04:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006226642524594513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyOeTB1xLS",
+              "end": 31,
+              "expanded_url": "https://x.com/gdioiui/status/2006226642524594513/photo/1",
+              "media_key": "3_2006226632743559168",
+              "start": 8,
+              "url": "https://t.co/xyOeTB1xLS"
+            },
+            {
+              "display_url": "x.com/LumidexNZ/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/LumidexNZ/status/2005591101525369219",
+              "start": 32,
+              "url": "https://t.co/hNQy0gyXx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006226642524594513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005591101525369219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "......坏 https://t.co/xyOeTB1xLS https://t.co/hNQy0gyXx9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005591094143426560"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2005591101525369219",
+        "created_at": "2025-12-29T10:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005591101525369219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2b005mAVv",
+              "end": 34,
+              "expanded_url": "https://x.com/LumidexNZ/status/2005591101525369219/photo/1",
+              "media_key": "3_2005591094143426560",
+              "start": 11,
+              "url": "https://t.co/g2b005mAVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005591101525369219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我熬夜都在干什么。。 https://t.co/g2b005mAVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 187,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病 168cm/51kg 欢迎互fo https://t.co/MkVyELWQs7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 44,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 21,
+                "url": "https://t.co/MkVyELWQs7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7J5UM"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 377,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/y8BdM7J5UM",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

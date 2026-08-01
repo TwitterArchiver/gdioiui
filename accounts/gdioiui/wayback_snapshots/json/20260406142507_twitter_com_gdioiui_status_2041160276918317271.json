@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2041002525877522446",
+    "created_at": "2026-04-06T14:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041160276918317271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2030532400112144384",
+          "start": 0,
+          "username": "Uanbahl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041160276918317271",
+    "in_reply_to_user_id": "2030532400112144384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041122584352489715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uanbahl 哎 阿妹啊...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2041002525877522446",
+        "created_at": "2026-04-06T14:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041160276918317271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2030532400112144384",
+              "start": 0,
+              "username": "Uanbahl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041160276918317271",
+        "in_reply_to_user_id": "2030532400112144384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041122584352489715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uanbahl 哎 阿妹啊...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030532400112144384",
+        "conversation_id": "2041002525877522446",
+        "created_at": "2026-04-06T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041122584352489715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041122584352489715",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041002525877522446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这他妈是在挤痘痘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 383,
+          "like_count": 3490,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 5763
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T06:34:12.000Z",
+        "description": "",
+        "id": "2030532400112144384",
+        "name": "Uan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030532619813949441/lLZs9jIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "Uanbahl",
+        "verified": false
+      }
+    ]
+  }
+}

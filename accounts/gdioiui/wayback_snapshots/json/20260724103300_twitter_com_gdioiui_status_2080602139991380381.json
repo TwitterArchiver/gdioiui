@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2080601227184988386",
+    "created_at": "2026-07-24T10:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080602139991380381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3681297072",
+          "start": 0,
+          "username": "zerozeronain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080602139991380381",
+    "in_reply_to_user_id": "3681297072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080601310483669168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerozeronain 辛苦你一直和我互动喵\n要我送你VPN吗喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2080601227184988386",
+        "created_at": "2026-07-24T10:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080602139991380381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3681297072",
+              "start": 0,
+              "username": "zerozeronain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080602139991380381",
+        "in_reply_to_user_id": "3681297072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080601310483669168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerozeronain 辛苦你一直和我互动喵\n要我送你VPN吗喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3681297072",
+        "conversation_id": "2080601227184988386",
+        "created_at": "2026-07-24T10:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080601310483669168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080601310483669168",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080601227184988386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这也太抽象了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n『warn』完全无性功能\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 494,
+          "like_count": 4606,
+          "listed_count": 5,
+          "media_count": 1630,
+          "tweet_count": 8398
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-25T12:26:42.000Z",
+        "description": "银狐VPN，快速访问触手可及。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/IduWRT2tRp"
+              }
+            ]
+          }
+        },
+        "id": "3681297072",
+        "name": "银狐VPN全球畅连",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078865697745129472/G-cViR4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/IduWRT2tRp",
+        "username": "zerozeronain",
+        "verified": false
+      }
+    ]
+  }
+}

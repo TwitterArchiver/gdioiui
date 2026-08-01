@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997355927528431616",
+        "3_1997355936500121600"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1997355944238547353",
+    "created_at": "2025-12-06T17:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:21:43.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997355785869992217",
+      "1997355944238547353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BppDxizMQL",
+          "end": 59,
+          "expanded_url": "https://x.com/gdioiui/status/1997355944238547353/photo/1",
+          "media_key": "3_1997355927528431616",
+          "start": 36,
+          "url": "https://t.co/BppDxizMQL"
+        },
+        {
+          "display_url": "pic.x.com/BppDxizMQL",
+          "end": 59,
+          "expanded_url": "https://x.com/gdioiui/status/1997355944238547353/photo/1",
+          "media_key": "3_1997355936500121600",
+          "start": 36,
+          "url": "https://t.co/BppDxizMQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997355944238547353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开智tv之b站对喷粉红....\nΣ( ° △ °|||)︴同志一线作战 https://t.co/BppDxizMQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_1997355927528431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7gIojZaYAAQnoV.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2354,
+        "media_key": "3_1997355936500121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7gIpE0bgAAheWg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997355765603106816",
+            "3_1997355778785857536"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1997355785869992217",
+        "created_at": "2025-12-06T17:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:21:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997355785869992217",
+          "1997355944238547353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jwx63AKf6",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/1997355785869992217/photo/1",
+              "media_key": "3_1997355765603106816",
+              "start": 36,
+              "url": "https://t.co/1jwx63AKf6"
+            },
+            {
+              "display_url": "pic.x.com/1jwx63AKf6",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/1997355785869992217/photo/1",
+              "media_key": "3_1997355778785857536",
+              "start": 36,
+              "url": "https://t.co/1jwx63AKf6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "1997355785869992217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开智tv之b站对喷粉红....\nΣ( ° △ °|||)︴同志一线作战 https://t.co/1jwx63AKf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997355927528431616",
+            "3_1997355936500121600"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1997355944238547353",
+        "created_at": "2025-12-06T17:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:21:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997355785869992217",
+          "1997355944238547353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BppDxizMQL",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/1997355944238547353/photo/1",
+              "media_key": "3_1997355927528431616",
+              "start": 36,
+              "url": "https://t.co/BppDxizMQL"
+            },
+            {
+              "display_url": "pic.x.com/BppDxizMQL",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/1997355944238547353/photo/1",
+              "media_key": "3_1997355936500121600",
+              "start": 36,
+              "url": "https://t.co/BppDxizMQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997355944238547353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开智tv之b站对喷粉红....\nΣ( ° △ °|||)︴同志一线作战 https://t.co/BppDxizMQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 87,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1708
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

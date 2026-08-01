@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046596174447255552"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2046596187772661922",
+    "created_at": "2026-04-21T14:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046596187772661922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ncT5XTBge",
+          "end": 44,
+          "expanded_url": "https://x.com/gdioiui/status/2046596187772661922/photo/1",
+          "media_key": "3_2046596174447255552",
+          "start": 21,
+          "url": "https://t.co/4ncT5XTBge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046596187772661922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上厕所...把喵臭死了好像 怎么办... https://t.co/4ncT5XTBge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2046596174447255552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb4YJiaIAA0aZs.jpg",
+        "width": 1847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046596174447255552"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2046596187772661922",
+        "created_at": "2026-04-21T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046596187772661922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ncT5XTBge",
+              "end": 44,
+              "expanded_url": "https://x.com/gdioiui/status/2046596187772661922/photo/1",
+              "media_key": "3_2046596174447255552",
+              "start": 21,
+              "url": "https://t.co/4ncT5XTBge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046596187772661922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上厕所...把喵臭死了好像 怎么办... https://t.co/4ncT5XTBge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 （持续发病）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 387,
+          "like_count": 3611,
+          "listed_count": 2,
+          "media_count": 1081,
+          "tweet_count": 6092
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

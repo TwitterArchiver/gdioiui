@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2054229280108998708",
+    "created_at": "2026-05-12T16:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054233877368177045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039720325152206848",
+          "start": 0,
+          "username": "tataqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054233877368177045",
+    "in_reply_to_user_id": "2039720325152206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054232428672159870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq ....还是很男吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2054229280108998708",
+        "created_at": "2026-05-12T16:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054233877368177045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039720325152206848",
+              "start": 0,
+              "username": "tataqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054233877368177045",
+        "in_reply_to_user_id": "2039720325152206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054232428672159870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq ....还是很男吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039720325152206848",
+        "conversation_id": "2054229280108998708",
+        "created_at": "2026-05-12T16:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054232428672159870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054232428672159870",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054229280108998708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 说实话，你当然不丑，但是你一定要比过“普通女生”的行为会让你看着很不好看。漂亮不是靠对比出来的自信也不需要通过这个实现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 430,
+          "like_count": 3772,
+          "listed_count": 3,
+          "media_count": 1216,
+          "tweet_count": 6568
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T15:03:16.000Z",
+        "description": "",
+        "id": "2039720325152206848",
+        "name": "塔塔鹿（大号被盗了）",
+        "pinned_tweet_id": "2043181858255495218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039723640543965184/PwDHQPoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 164,
+          "like_count": 110,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 300
+        },
+        "username": "tataqwq",
+        "verified": false
+      }
+    ]
+  }
+}

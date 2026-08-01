@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1917742034011709473",
+    "created_at": "2025-05-04T23:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T00:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919177937309290840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919177937309290840",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917742034011709473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan 但是极低的付费意愿也产生了不少的机会（以黑灰为主）比如洛雪这些 只能说什么生态造什么人什么人用什么产品 至于国内开发  事实上就是开发者一个人研发这些人只会用 对开发半毛钱影响没有（个人认为 这样跟从广泛性质强性质实际本质是没有 独特性质 也就是说没有直接因果效力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1917742034011709473",
+        "created_at": "2025-05-04T23:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T00:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919177937309290840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919177937309290840",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917742034011709473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan 但是极低的付费意愿也产生了不少的机会（以黑灰为主）比如洛雪这些 只能说什么生态造什么人什么人用什么产品 至于国内开发  事实上就是开发者一个人研发这些人只会用 对开发半毛钱影响没有（个人认为 这样跟从广泛性质强性质实际本质是没有 独特性质 也就是说没有直接因果效力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401538162036412422",
+        "conversation_id": "1917742034011709473",
+        "created_at": "2025-05-01T00:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T01:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917742034011709473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917742034011709473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "music mate居然在墙内被炎上了\n安卓用户付费意愿差不就是事实吗，说实话能被喷？你指望所有人都是LLM？\n一帮没一丁点社会经验的听党话的破高中生叫麻了，国内独立开发不好做你们这帮蛆肯定有一份力哈😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "418 I'm a teapot | student | OIer",
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.2.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758368568776032256/g3GlYeFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 378,
+          "like_count": 77040,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 852
+        },
+        "username": "ImKrisYan",
+        "verified": false
+      }
+    ]
+  }
+}

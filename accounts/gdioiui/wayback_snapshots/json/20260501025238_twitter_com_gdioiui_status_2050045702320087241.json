@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050045639527141376"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2050045702320087241",
+    "created_at": "2026-05-01T02:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050045702320087241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8inSaMgMS5",
+          "end": 56,
+          "expanded_url": "https://x.com/gdioiui/status/2050045702320087241/video/1",
+          "media_key": "13_2050045639527141376",
+          "start": 33,
+          "url": "https://t.co/8inSaMgMS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050045702320087241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睿鹤真的劲大....\n600mg 加上熬夜 我的手就有自动驾驶了 https://t.co/8inSaMgMS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8600,
+        "height": 720,
+        "media_key": "13_2050045639527141376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050045639527141376/img/XqKO4Xj7kbSS-aln.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050045639527141376/vid/avc1/600x270/U6DA_aN-vJHdYywv.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050045639527141376/vid/avc1/800x360/1RoIzn-IpwdmnLwh.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050045639527141376/vid/avc1/1600x720/sfTGUa9VsOLGq_TJ.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050045639527141376/pl/Ptrel4TvY-jE6Spd.m3u8?tag=27"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050045639527141376"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2050045702320087241",
+        "created_at": "2026-05-01T02:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050045702320087241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8inSaMgMS5",
+              "end": 56,
+              "expanded_url": "https://x.com/gdioiui/status/2050045702320087241/video/1",
+              "media_key": "13_2050045639527141376",
+              "start": 33,
+              "url": "https://t.co/8inSaMgMS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050045702320087241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睿鹤真的劲大....\n600mg 加上熬夜 我的手就有自动驾驶了 https://t.co/8inSaMgMS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 408,
+          "like_count": 3641,
+          "listed_count": 2,
+          "media_count": 1135,
+          "tweet_count": 6262
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

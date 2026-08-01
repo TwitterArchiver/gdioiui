@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054208523010269184"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2054208525426212900",
+    "created_at": "2026-05-12T14:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054208525426212900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wqy4osaawk",
+          "end": 35,
+          "expanded_url": "https://x.com/gdioiui/status/2054208525426212900/photo/1",
+          "media_key": "3_2054208523010269184",
+          "start": 12,
+          "url": "https://t.co/Wqy4osaawk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054208525426212900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三十秒之后才笑的是笨蛋 https://t.co/Wqy4osaawk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2054208523010269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIDxJybYAAEg7c.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054208523010269184"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2054208525426212900",
+        "created_at": "2026-05-12T14:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054208525426212900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wqy4osaawk",
+              "end": 35,
+              "expanded_url": "https://x.com/gdioiui/status/2054208525426212900/photo/1",
+              "media_key": "3_2054208523010269184",
+              "start": 12,
+              "url": "https://t.co/Wqy4osaawk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054208525426212900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三十秒之后才笑的是笨蛋 https://t.co/Wqy4osaawk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 430,
+          "like_count": 3768,
+          "listed_count": 3,
+          "media_count": 1214,
+          "tweet_count": 6563
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

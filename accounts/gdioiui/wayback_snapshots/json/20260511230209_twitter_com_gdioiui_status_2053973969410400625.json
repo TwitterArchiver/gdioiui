@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053845214729793927",
+    "created_at": "2026-05-11T23:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053973969410400625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025104576224055296",
+          "start": 0,
+          "username": "CYan4359"
+        },
+        {
+          "end": 21,
+          "id": "2025448673434591232",
+          "start": 10,
+          "username": "Calin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053973969410400625",
+    "in_reply_to_user_id": "2025104576224055296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053882836298674676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CYan4359 @Calin_8964 感觉是 甚至批卷系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053845214729793927",
+        "created_at": "2026-05-11T23:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053973969410400625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025104576224055296",
+              "start": 0,
+              "username": "CYan4359"
+            },
+            {
+              "end": 21,
+              "id": "2025448673434591232",
+              "start": 10,
+              "username": "Calin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053973969410400625",
+        "in_reply_to_user_id": "2025104576224055296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053882836298674676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CYan4359 @Calin_8964 感觉是 甚至批卷系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025104576224055296",
+        "conversation_id": "2053845214729793927",
+        "created_at": "2026-05-11T17:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053882836298674676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 20,
+              "id": "2025448673434591232",
+              "start": 9,
+              "username": "Calin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053882836298674676",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053845214729793927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @Calin_8964 这成绩单的样式是全国统一的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 430,
+          "like_count": 3766,
+          "listed_count": 3,
+          "media_count": 1213,
+          "tweet_count": 6555
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T07:05:39.000Z",
+        "description": "微小地 无声地 成为尘烟",
+        "id": "2025104576224055296",
+        "location": "随风而去 无处不在",
+        "name": "辰宴",
+        "pinned_tweet_id": "2029606267883532386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025104786207772674/QUvX8qXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 24,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 975
+        },
+        "username": "CYan4359",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T05:53:02.000Z",
+        "description": "想要朋友哦",
+        "id": "2025448673434591232",
+        "name": "Câlin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025448813054619648/5C1t19lz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 141,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 735
+        },
+        "username": "Calin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

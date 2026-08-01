@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2001553240077508646",
+    "created_at": "2026-01-11T00:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T01:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010147102614335515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932515233685516288",
+          "start": 0,
+          "username": "ZTE1770918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010147102614335515",
+    "in_reply_to_user_id": "1932515233685516288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001553240077508646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZTE1770918 后续呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2001553211975467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8byCqbXAAA9tiJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2001553214416490496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8byCzhWEAA2YeR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 203,
+        "media_key": "3_2001553213208645632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8byCvBX0AARSrA.jpg",
+        "width": 304
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2001553213225357312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8byCvFW0AAlQ3Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2001553240077508646",
+        "created_at": "2026-01-11T00:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T01:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010147102614335515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932515233685516288",
+              "start": 0,
+              "username": "ZTE1770918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010147102614335515",
+        "in_reply_to_user_id": "1932515233685516288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001553240077508646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZTE1770918 后续呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001553211975467008",
+            "3_2001553214416490496",
+            "3_2001553213208645632",
+            "3_2001553213225357312"
+          ]
+        },
+        "author_id": "1932515233685516288",
+        "conversation_id": "2001553240077508646",
+        "created_at": "2025-12-18T07:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001553240077508646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJcAbV323M",
+              "end": 28,
+              "expanded_url": "https://x.com/ZTE1770918/status/2001553240077508646/photo/1",
+              "media_key": "3_2001553211975467008",
+              "start": 5,
+              "url": "https://t.co/iJcAbV323M"
+            },
+            {
+              "display_url": "pic.x.com/iJcAbV323M",
+              "end": 28,
+              "expanded_url": "https://x.com/ZTE1770918/status/2001553240077508646/photo/1",
+              "media_key": "3_2001553214416490496",
+              "start": 5,
+              "url": "https://t.co/iJcAbV323M"
+            },
+            {
+              "display_url": "pic.x.com/iJcAbV323M",
+              "end": 28,
+              "expanded_url": "https://x.com/ZTE1770918/status/2001553240077508646/photo/1",
+              "media_key": "3_2001553213208645632",
+              "start": 5,
+              "url": "https://t.co/iJcAbV323M"
+            },
+            {
+              "display_url": "pic.x.com/iJcAbV323M",
+              "end": 28,
+              "expanded_url": "https://x.com/ZTE1770918/status/2001553240077508646/photo/1",
+              "media_key": "3_2001553213225357312",
+              "start": 5,
+              "url": "https://t.co/iJcAbV323M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001553240077508646",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇹󠅢‍🇼 https://t.co/iJcAbV323M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 268,
+          "like_count": 2007,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 3618
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T19:08:38.000Z",
+        "description": "小药娘|小南梁|小血娘|喜欢医学类，药理类，电子类，法律类等等书籍\n电子爱好者|有案底的人|有吸毒史的人|玩的游戏有：暗区突围，怕不鸡，蔚蓝档案|柚子厨|星野厨",
+        "id": "1932515233685516288",
+        "name": "一只の小南梁🍥🏳️‍⚧️🇹󠅢‍🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974049683111620608/aI8aznPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 103
+        },
+        "username": "ZTE1770918",
+        "verified": false
+      }
+    ]
+  }
+}

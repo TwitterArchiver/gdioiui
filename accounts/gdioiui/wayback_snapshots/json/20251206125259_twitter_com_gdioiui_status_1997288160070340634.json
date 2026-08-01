@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1997288160070340634",
+    "created_at": "2025-12-06T12:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997288160070340634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kct2507/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/kct2507/status/1996047347684704562",
+          "start": 8,
+          "url": "https://t.co/sfRGIgQjf2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "07fefc42d1da90c0"
+    },
+    "id": "1997288160070340634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996047347684704562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看的尸体暖暖的 https://t.co/sfRGIgQjf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27194,
+        "height": 678,
+        "media_key": "7_1996047310250270720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996047310250270720/pu/img/OdUdilfAinkjX0SU.jpg",
+        "public_metrics": {
+          "view_count": 27154
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996047310250270720/pu/vid/avc1/508x270/MtJvMB2j5OGz9JuL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996047310250270720/pu/vid/avc1/678x360/dsxRvmf94ew3eryy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996047310250270720/pu/vid/avc1/1280x678/rBShSWZmDVPrGyUA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996047310250270720/pu/pl/u6kgnmYjxzF1FvJ-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "places": [
+      {
+        "country": "Lao People's Democratic Republic",
+        "country_code": "LA",
+        "full_name": "Lao People's Democratic Republic",
+        "geo": {
+          "bbox": [
+            100.0854515,
+            13.9100275,
+            107.63465,
+            22.5003891
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "07fefc42d1da90c0",
+        "name": "Lao People's Democratic Republic",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1997288160070340634",
+        "created_at": "2025-12-06T12:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997288160070340634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kct2507/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kct2507/status/1996047347684704562",
+              "start": 8,
+              "url": "https://t.co/sfRGIgQjf2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "1997288160070340634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996047347684704562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看的尸体暖暖的 https://t.co/sfRGIgQjf2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996047310250270720"
+          ]
+        },
+        "author_id": "1628382449494548480",
+        "conversation_id": "1996047347684704562",
+        "created_at": "2025-12-03T02:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996047347684704562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nytXDVsOEC",
+              "end": 23,
+              "expanded_url": "https://x.com/kct2507/status/1996047347684704562/video/1",
+              "media_key": "7_1996047310250270720",
+              "start": 0,
+              "url": "https://t.co/nytXDVsOEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996047347684704562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1133,
+          "impression_count": 61554,
+          "like_count": 4907,
+          "quote_count": 21,
+          "reply_count": 20,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nytXDVsOEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 93,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T13:13:50.000Z",
+        "description": "Just an ᓀ‸ᓂ enjoyer.\n\nAlso a Jojo fan (especially Jojolion, Sbr, and Jojolands).\n\nI post my own memes sometimes",
+        "id": "1628382449494548480",
+        "location": "The Higashikata House, Morioh",
+        "name": "ᓀ‸ᓂ",
+        "pinned_tweet_id": "1885638534750474251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944950056471171072/k4FjpRIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 1317,
+          "like_count": 58783,
+          "listed_count": 8,
+          "media_count": 981,
+          "tweet_count": 2623
+        },
+        "username": "kct2507",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2067892751216091315",
+    "created_at": "2026-06-19T09:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067908029484597484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787079624260001792",
+          "start": 0,
+          "username": "HanLuo14894"
+        }
+      ],
+      "urls": [
+        {
+          "description": "六芒星牌阵判断事情走向,有积极的指导意义,可分析潜意识与显意识的表达,有着极强的窥视未来能力.如果你想真正的预测未来,仔细分析、了解、感受六芒星牌阵吧.",
+          "display_url": "p.taluo.com/lmx/",
+          "end": 40,
+          "expanded_url": "https://p.taluo.com/lmx/",
+          "start": 17,
+          "status": 200,
+          "title": "六芒星牌阵|六芒星占卜法|塔罗牌占卜事业|预测未来财运|塔罗占卜财富|塔罗牌算财运",
+          "unwound_url": "https://p.taluo.com/lmx/",
+          "url": "https://t.co/iNxRkfFllU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067908029484597484",
+    "in_reply_to_user_id": "1787079624260001792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067898233918279728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanLuo14894 哦...https://t.co/iNxRkfFllU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2067892751216091315",
+        "created_at": "2026-06-19T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067908029484597484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787079624260001792",
+              "start": 0,
+              "username": "HanLuo14894"
+            }
+          ],
+          "urls": [
+            {
+              "description": "六芒星牌阵判断事情走向,有积极的指导意义,可分析潜意识与显意识的表达,有着极强的窥视未来能力.如果你想真正的预测未来,仔细分析、了解、感受六芒星牌阵吧.",
+              "display_url": "p.taluo.com/lmx/",
+              "end": 40,
+              "expanded_url": "https://p.taluo.com/lmx/",
+              "start": 17,
+              "status": 200,
+              "title": "六芒星牌阵|六芒星占卜法|塔罗牌占卜事业|预测未来财运|塔罗占卜财富|塔罗牌算财运",
+              "unwound_url": "https://p.taluo.com/lmx/",
+              "url": "https://t.co/iNxRkfFllU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067908029484597484",
+        "in_reply_to_user_id": "1787079624260001792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898233918279728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanLuo14894 哦...https://t.co/iNxRkfFllU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "conversation_id": "2067892751216091315",
+        "created_at": "2026-06-19T09:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067898233918279728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898233918279728",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067892751216091315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我也想玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 477,
+          "like_count": 4209,
+          "listed_count": 3,
+          "media_count": 1436,
+          "tweet_count": 7692
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "脑子有点神经的家伙。\n漂着，等着砸在水泥地。\n爱科技、音乐和胡思乱想。\n不是机器人，是会抽烟咳嗽的真人～\n同类欢迎来聊，只要狂人神人，正常人勿扰。",
+        "id": "1787079624260001792",
+        "location": "无间地狱",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 26,
+          "like_count": 47125,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": false
+      }
+    ]
+  }
+}

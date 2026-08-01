@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994960803930525696"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994952447568031802",
+    "created_at": "2025-11-30T02:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994960806824542447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RiqrrpKP3v",
+          "end": 91,
+          "expanded_url": "https://x.com/gdioiui/status/1994960806824542447/photo/1",
+          "media_key": "3_1994960803930525696",
+          "start": 68,
+          "url": "https://t.co/RiqrrpKP3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994960806824542447",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994952447568031802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 其实 就诊过确诊才能买 基本不可能不过医保（最好有）\n自费买的话还不如走私 一般外药还效果好一点（刻板印象） https://t.co/RiqrrpKP3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994960803930525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-GSAsbUAA5R1k.jpg",
+        "width": 921
+      },
+      {
+        "height": 1268,
+        "media_key": "3_1994952405440442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69-pJ4WsAAkl_R.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1308,
+        "media_key": "3_1994952418941947905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69-p8LXUAEkmtk.jpg",
+        "width": 1057
+      },
+      {
+        "height": 1071,
+        "media_key": "3_1994952428572053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69-qgDXEAAmhCQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 963,
+        "media_key": "3_1994952437283614720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69-rAgW8AAsy0d.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994960803930525696"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994952447568031802",
+        "created_at": "2025-11-30T02:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994960806824542447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiqrrpKP3v",
+              "end": 91,
+              "expanded_url": "https://x.com/gdioiui/status/1994960806824542447/photo/1",
+              "media_key": "3_1994960803930525696",
+              "start": 68,
+              "url": "https://t.co/RiqrrpKP3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994960806824542447",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994952447568031802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 其实 就诊过确诊才能买 基本不可能不过医保（最好有）\n自费买的话还不如走私 一般外药还效果好一点（刻板印象） https://t.co/RiqrrpKP3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994952405440442368",
+            "3_1994952418941947905",
+            "3_1994952428572053504",
+            "3_1994952437283614720"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994952447568031802",
+        "created_at": "2025-11-30T02:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994952447568031802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "mtf"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "ssri"
+            },
+            {
+              "end": 152,
+              "start": 145,
+              "tag": "regret"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGyxLyfu2q",
+              "end": 176,
+              "expanded_url": "https://x.com/520illusion/status/1994952447568031802/photo/1",
+              "media_key": "3_1994952405440442368",
+              "start": 153,
+              "url": "https://t.co/pGyxLyfu2q"
+            },
+            {
+              "display_url": "pic.x.com/pGyxLyfu2q",
+              "end": 176,
+              "expanded_url": "https://x.com/520illusion/status/1994952447568031802/photo/1",
+              "media_key": "3_1994952418941947905",
+              "start": 153,
+              "url": "https://t.co/pGyxLyfu2q"
+            },
+            {
+              "display_url": "pic.x.com/pGyxLyfu2q",
+              "end": 176,
+              "expanded_url": "https://x.com/520illusion/status/1994952447568031802/photo/1",
+              "media_key": "3_1994952428572053504",
+              "start": 153,
+              "url": "https://t.co/pGyxLyfu2q"
+            },
+            {
+              "display_url": "pic.x.com/pGyxLyfu2q",
+              "end": 176,
+              "expanded_url": "https://x.com/520illusion/status/1994952447568031802/photo/1",
+              "media_key": "3_1994952437283614720",
+              "start": 153,
+              "url": "https://t.co/pGyxLyfu2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994952447568031802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 134,
+                "tag": "mtf"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "ssri"
+              },
+              {
+                "end": 152,
+                "start": 145,
+                "tag": "regret"
+              }
+            ]
+          },
+          "text": "盐酸舍曲林  \n国产药50mg*28粒 医保后约3块一盒\n进口药50mg*14粒  自费约75块一盒\n价格相差50倍 \n\n草酸艾司西酞普兰 \n均为10mg*28片规格\n国产药医保后约4元一盒\n进口药自费约240块一盒\n价格相差60倍 \n\n张口欲唱声却哑+++++++\n#mtf #ssri #regret"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盐酸舍曲林  \n国产药50mg*28粒 医保后约3块一盒\n进口药50mg*14粒  自费约75块一盒\n价格相差50倍 \n\n草酸艾司西酞普兰 \n均为10mg*28片规格\n国产药医保后约4元一盒\n进口药自费约240块一盒\n价格相差60倍 \n\n张口欲唱声却哑+++++++\n#mtf #ssri #regret https://t.co/pGyxLyfu2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 91,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义 | 幻象丛生 |  红  | 终将成为你 | 清水 | 循此苦旅 终抵繁星 | 人民万岁 | 📍 |",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳‍🌈",
+        "pinned_tweet_id": "1875839596950614307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994832715594493952/1lHkptPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 207,
+          "like_count": 3355,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 1947
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

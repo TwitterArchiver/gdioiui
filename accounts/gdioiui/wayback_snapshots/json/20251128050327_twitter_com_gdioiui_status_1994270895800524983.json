@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994097462571946202",
+    "created_at": "2025-11-28T05:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994270895800524983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991153082332585984",
+          "start": 0,
+          "username": "_j14q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994270895800524983",
+    "in_reply_to_user_id": "1991153082332585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994097462571946202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_j14q1 超可爱(^人^)\n视奸抖音"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1994097454669811717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6x1EeEa0AUgyMC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994097462571946202",
+        "created_at": "2025-11-28T05:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994270895800524983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991153082332585984",
+              "start": 0,
+              "username": "_j14q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994270895800524983",
+        "in_reply_to_user_id": "1991153082332585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994097462571946202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_j14q1 超可爱(^人^)\n视奸抖音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994097454669811717"
+          ]
+        },
+        "author_id": "1991153082332585984",
+        "conversation_id": "1994097462571946202",
+        "created_at": "2025-11-27T17:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994097462571946202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 0,
+              "tag": "𒈔𒂝𒀱𒇫𒂝𒄆𒄆𒈔𒇫𒇫𒀱𒄆𒄆𒈔𒂝𒇫𒂝𒀱𒇫𒇫𒅒𒇫𒅒𒄆𒅒𒀱𒇫𒇫𒀱𒄆𒄆𒈔𒈔𒅒𒀱𒇫𒄆𒈔𒈔𒄆𒈔𒄆𒇫𒂝𒄆𒇫𒀱𒇫𒅒𒀱𒇫𒇫𒂝𒈔𒅒𒀱𒇫𒄆𒈔𒈔𒄆𒅒𒈔𒇫𒂝𒈔𒄆𒈔𒅒𒄆𒈔𒇫𒅒𒀱𒇫𒇫𒂝𒄆𒄆𒅒𒄆𒄆𒅒𒄆𒇫𒀱𒀱𒇫𒀱𒄆𒇫𒂝𒀱𒅒𒀱𒄆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/beVmYEixch",
+              "end": 121,
+              "expanded_url": "https://x.com/_j14q1/status/1994097462571946202/photo/1",
+              "media_key": "3_1994097454669811717",
+              "start": 98,
+              "url": "https://t.co/beVmYEixch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994097462571946202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#𒈔𒂝𒀱𒇫𒂝𒄆𒄆𒈔𒇫𒇫𒀱𒄆𒄆𒈔𒂝𒇫𒂝𒀱𒇫𒇫𒅒𒇫𒅒𒄆𒅒𒀱𒇫𒇫𒀱𒄆𒄆𒈔𒈔𒅒𒀱𒇫𒄆𒈔𒈔𒄆𒈔𒄆𒇫𒂝𒄆𒇫𒀱𒇫𒅒𒀱𒇫𒇫𒂝𒈔𒅒𒀱𒇫𒄆𒈔𒈔𒄆𒅒𒈔𒇫𒂝𒈔𒄆𒈔𒅒𒄆𒈔𒇫𒅒𒀱𒇫𒇫𒂝𒄆𒄆𒅒𒄆𒄆𒅒𒄆𒇫𒀱𒀱𒇫𒀱𒄆𒇫𒂝𒀱𒅒𒀱𒄆 https://t.co/beVmYEixch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 89,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T14:34:51.000Z",
+        "description": "もう無理 バイバイ！！ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n251 @_04x_d \nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhttps://t.co/ZjNZGY9U7y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "_04x_d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/j14q1_",
+                "end": 78,
+                "expanded_url": "https://ngl.link/j14q1_",
+                "start": 55,
+                "url": "https://t.co/ZjNZGY9U7y"
+              }
+            ]
+          }
+        },
+        "id": "1991153082332585984",
+        "location": "🚪25  🚪52 🚪520",
+        "name": "溶けた",
+        "pinned_tweet_id": "1991524639764607416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991154218980536320/WG4V4qWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 136,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 311
+        },
+        "username": "_j14q1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014966490660012036",
+        "3_2014966534796607488"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2014966853937123741",
+    "created_at": "2026-01-24T07:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014966853937123741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEswz4yTCn",
+          "end": 83,
+          "expanded_url": "https://x.com/gdioiui/status/2014966853937123741/photo/1",
+          "media_key": "3_2014966490660012036",
+          "start": 60,
+          "url": "https://t.co/wEswz4yTCn"
+        },
+        {
+          "display_url": "pic.x.com/wEswz4yTCn",
+          "end": 83,
+          "expanded_url": "https://x.com/gdioiui/status/2014966853937123741/photo/1",
+          "media_key": "3_2014966534796607488",
+          "start": 60,
+          "url": "https://t.co/wEswz4yTCn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014966853937123741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道犯什么病 头晕的站都站不稳\n索性直接睡觉....\n睡起来发现床上有个牙刷？？？\n窝真不知道它是怎么过来的.... https://t.co/wEswz4yTCn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2014966490660012036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_aZWPYbAAQzFqW.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2178,
+        "media_key": "3_2014966534796607488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_aZYzzaAAAnk96.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014966490660012036",
+            "3_2014966534796607488"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2014966853937123741",
+        "created_at": "2026-01-24T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014966853937123741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEswz4yTCn",
+              "end": 83,
+              "expanded_url": "https://x.com/gdioiui/status/2014966853937123741/photo/1",
+              "media_key": "3_2014966490660012036",
+              "start": 60,
+              "url": "https://t.co/wEswz4yTCn"
+            },
+            {
+              "display_url": "pic.x.com/wEswz4yTCn",
+              "end": 83,
+              "expanded_url": "https://x.com/gdioiui/status/2014966853937123741/photo/1",
+              "media_key": "3_2014966534796607488",
+              "start": 60,
+              "url": "https://t.co/wEswz4yTCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014966853937123741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道犯什么病 头晕的站都站不稳\n索性直接睡觉....\n睡起来发现床上有个牙刷？？？\n窝真不知道它是怎么过来的.... https://t.co/wEswz4yTCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 295,
+          "like_count": 2404,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 3967
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

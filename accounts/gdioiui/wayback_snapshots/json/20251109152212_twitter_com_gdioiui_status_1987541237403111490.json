@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987533686481485827",
+    "created_at": "2025-11-09T15:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987541237403111490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944909426596700165",
+          "start": 0,
+          "username": "Htoz1790524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987541237403111490",
+    "in_reply_to_user_id": "1944909426596700165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987533686481485827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Htoz1790524 可以的 应该还要看地区 但是好像没啥用  有些医生好多药不准用,只准国补"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987533680353611776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UjWhSaEAAqLc9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987533677241511936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UjWVsbMAA-VLq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987533686481485827",
+        "created_at": "2025-11-09T15:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987541237403111490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944909426596700165",
+              "start": 0,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987541237403111490",
+        "in_reply_to_user_id": "1944909426596700165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987533686481485827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Htoz1790524 可以的 应该还要看地区 但是好像没啥用  有些医生好多药不准用,只准国补"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987533680353611776",
+            "3_1987533677241511936"
+          ]
+        },
+        "author_id": "1944909426596700165",
+        "conversation_id": "1987533686481485827",
+        "created_at": "2025-11-09T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987533686481485827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbpSrNI12A",
+              "end": 113,
+              "expanded_url": "https://x.com/Htoz1790524/status/1987533686481485827/photo/1",
+              "media_key": "3_1987533680353611776",
+              "start": 90,
+              "url": "https://t.co/EbpSrNI12A"
+            },
+            {
+              "display_url": "pic.x.com/EbpSrNI12A",
+              "end": 113,
+              "expanded_url": "https://x.com/Htoz1790524/status/1987533686481485827/photo/1",
+              "media_key": "3_1987533677241511936",
+              "start": 90,
+              "url": "https://t.co/EbpSrNI12A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987533686481485827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被家里人强行拉去三甲医院做心理检查了，我和那个姐姐说测一下肝肾和激素六项，然后也跟那个姐姐说了我想当女生，她之前也有一个病人也是吃糖的，姐姐是友跨，嘿嘿，话说三甲医院可以开小证吗 https://t.co/EbpSrNI12A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 27,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T23:58:56.000Z",
+        "description": "一只07年的小药娘 I  qq 1946649576/小号1579713253 I 没有门槛喜欢朋友 I 热爱轻小说 I mtf 2025.8.15 I 中度抑郁 I 无证含糖 I 高中生在校 I 已出柜 I 父亲党 I 学习塔罗ing  I紗兒小姐会善良对待所有人！爱你❤",
+        "id": "1944909426596700165",
+        "location": "中国台湾",
+        "name": "白毛少女小紗兒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 358,
+          "like_count": 5370,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 373
+        },
+        "username": "Htoz1790524",
+        "verified": false
+      }
+    ]
+  }
+}

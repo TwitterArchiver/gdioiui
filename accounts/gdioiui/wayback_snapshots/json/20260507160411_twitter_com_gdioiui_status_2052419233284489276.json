@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052419187843518464"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2052419233284489276",
+    "created_at": "2026-05-07T16:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052419233284489276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dBzbGmaZz0",
+          "end": 37,
+          "expanded_url": "https://x.com/gdioiui/status/2052419233284489276/photo/1",
+          "media_key": "3_2052419187843518464",
+          "start": 14,
+          "url": "https://t.co/dBzbGmaZz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052419233284489276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "花露水好喝吗\n我没有喝过… https://t.co/dBzbGmaZz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_2052419187843518464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuoYI2b0AAjx8I.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052419187843518464"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2052419233284489276",
+        "created_at": "2026-05-07T16:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052419233284489276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBzbGmaZz0",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/2052419233284489276/photo/1",
+              "media_key": "3_2052419187843518464",
+              "start": 14,
+              "url": "https://t.co/dBzbGmaZz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052419233284489276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花露水好喝吗\n我没有喝过… https://t.co/dBzbGmaZz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 425,
+          "like_count": 3725,
+          "listed_count": 3,
+          "media_count": 1195,
+          "tweet_count": 6468
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

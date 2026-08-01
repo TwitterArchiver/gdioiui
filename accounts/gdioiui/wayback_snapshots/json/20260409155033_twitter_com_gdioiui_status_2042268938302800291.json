@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2042016752398487844",
+    "created_at": "2026-04-09T15:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042268938302800291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1709584299631243264",
+          "start": 0,
+          "username": "Jay_Lin_awoara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042268938302800291",
+    "in_reply_to_user_id": "1709584299631243264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042261181554155622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jay_Lin_awoara ？你再干嘛.."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33865,
+        "height": 624,
+        "media_key": "13_2042261106987839488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042261106987839488/img/m8EwNWNIN8OwmDlJ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042261106987839488/vid/avc1/356x270/lOaEq8Ufevyf34Fq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042261106987839488/vid/avc1/476x360/5JPy8fBGJ9Qsotjp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042261106987839488/vid/avc1/826x624/btTi2f7aPHIOJkqC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042261106987839488/pl/atQpuB395lR1oa8p.m3u8"
+          }
+        ],
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2042016752398487844",
+        "created_at": "2026-04-09T15:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042268938302800291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709584299631243264",
+              "start": 0,
+              "username": "Jay_Lin_awoara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042268938302800291",
+        "in_reply_to_user_id": "1709584299631243264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042261181554155622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jay_Lin_awoara ？你再干嘛.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042261106987839488"
+          ]
+        },
+        "author_id": "1709584299631243264",
+        "conversation_id": "2042016752398487844",
+        "created_at": "2026-04-09T15:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042261181554155622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBZb6Ofs0y",
+              "end": 32,
+              "expanded_url": "https://x.com/Jay_Lin_awoara/status/2042261181554155622/video/1",
+              "media_key": "13_2042261106987839488",
+              "start": 9,
+              "url": "https://t.co/FBZb6Ofs0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261181554155622",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042258296137261120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui https://t.co/FBZb6Ofs0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 382,
+          "like_count": 3516,
+          "listed_count": 2,
+          "media_count": 1022,
+          "tweet_count": 5840
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T15:01:22.000Z",
+        "description": "臺灣的研究者，研究是興趣，所有文章更新很慢，人類的各種現象特別吸引我",
+        "id": "1709584299631243264",
+        "location": "臺灣",
+        "name": "Lin Jay",
+        "pinned_tweet_id": "2011985247622349175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709584505152147456/0-_oj8M7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 62,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 60
+        },
+        "username": "Jay_Lin_awoara",
+        "verified": false
+      }
+    ]
+  }
+}

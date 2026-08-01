@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2045115059383197769",
+    "created_at": "2026-04-18T09:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045428417601110127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045428417601110127",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045115059383197769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 对的 这个就是人机发的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2045115047798788096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG1TOzaUAA1CYb.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2045115059383197769",
+        "created_at": "2026-04-18T09:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045428417601110127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045428417601110127",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045115059383197769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 对的 这个就是人机发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045115047798788096"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2045115059383197769",
+        "created_at": "2026-04-17T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045115059383197769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMZJi8lq9c",
+              "end": 59,
+              "expanded_url": "https://x.com/10waterlili/status/2045115059383197769/photo/1",
+              "media_key": "3_2045115047798788096",
+              "start": 36,
+              "url": "https://t.co/OMZJi8lq9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045115059383197769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4592,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想知道这个自动发推是什么意思，难道这个推文是人机写出来自动发的吗 https://t.co/OMZJi8lq9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 383,
+          "like_count": 3599,
+          "listed_count": 2,
+          "media_count": 1067,
+          "tweet_count": 6048
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜出厂日期🍰 09.3.14\n深柜中（坐以待炸）\nɪɴғᴘ-ᴛ｜重度抑郁中｜ex-音游人｜民间天文学家🔭\n同类互fo｜不开心可以找我聊天https://t.co/aydtYwj2Gi\n想和xyn们贴贴💕允许所有人请求私信\n下面是超超超详细的自介喵～（持续更新）\nhttps://t.co/KKvURpWk5o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 104,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 81,
+                "url": "https://t.co/aydtYwj2Gi"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 167,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 144,
+                "url": "https://t.co/KKvURpWk5o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "深海",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045294990817910853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 384,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

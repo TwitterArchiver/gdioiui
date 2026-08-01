@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2039116183442788407",
+    "created_at": "2026-04-01T16:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039381919717368011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731113472157532160",
+          "start": 0,
+          "username": "wnnw486486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039381919717368011",
+    "in_reply_to_user_id": "1731113472157532160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039379726524194902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnnw486486 ？什么啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2039116183442788407",
+        "created_at": "2026-04-01T16:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039381919717368011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731113472157532160",
+              "start": 0,
+              "username": "wnnw486486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039381919717368011",
+        "in_reply_to_user_id": "1731113472157532160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039379726524194902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnnw486486 ？什么啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731113472157532160",
+        "conversation_id": "2039116183442788407",
+        "created_at": "2026-04-01T16:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039379726524194902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039379726524194902",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039116183442788407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我怕了，好不协调"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 375,
+          "like_count": 3391,
+          "listed_count": 2,
+          "media_count": 952,
+          "tweet_count": 5572
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-03T00:50:07.000Z",
+        "description": "🚪52，120，178，288 增加线下可能 520，霜🐔，求别再有智障找我，也有爸爸活的，爰我\n请过🚪💰💰💰，\n，，《求私》，， ，《胜哥系列完事》欢迎投搞各种事情，梦想520，1314，520 ，想谈恋爱\n，，，",
+        "id": "1731113472157532160",
+        "location": "吉林省长春市",
+        "name": "不懂发抽象的小春",
+        "pinned_tweet_id": "1948593227025842656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039321117782081536/L0Cqh6Ds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 129,
+          "like_count": 3803,
+          "listed_count": 5,
+          "media_count": 3057,
+          "tweet_count": 7779
+        },
+        "username": "wnnw486486",
+        "verified": false
+      }
+    ]
+  }
+}

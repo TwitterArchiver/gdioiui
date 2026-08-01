@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988197702015086597"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1988197705160814974",
+    "created_at": "2025-11-11T10:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T11:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988197705160814974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIoiHuDapP",
+          "end": 37,
+          "expanded_url": "https://x.com/gdioiui/status/1988197705160814974/photo/1",
+          "media_key": "3_1988197702015086597",
+          "start": 14,
+          "url": "https://t.co/hIoiHuDapP"
+        },
+        {
+          "display_url": "x.com/Kiss_light233/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Kiss_light233/status/1988127793985765477",
+          "start": 38,
+          "url": "https://t.co/Qde3mc49fO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988197705160814974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988127793985765477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位小哥也没想到会接在这里 https://t.co/hIoiHuDapP https://t.co/Qde3mc49fO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988197702015086597",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d_RqvbcAUQg7A.jpg",
+        "width": 699
+      },
+      {
+        "height": 1205,
+        "media_key": "3_1988127785723064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c_sAQbcAAqykx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988197702015086597"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1988197705160814974",
+        "created_at": "2025-11-11T10:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988197705160814974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIoiHuDapP",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/1988197705160814974/photo/1",
+              "media_key": "3_1988197702015086597",
+              "start": 14,
+              "url": "https://t.co/hIoiHuDapP"
+            },
+            {
+              "display_url": "x.com/Kiss_light233/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Kiss_light233/status/1988127793985765477",
+              "start": 38,
+              "url": "https://t.co/Qde3mc49fO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988197705160814974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988127793985765477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位小哥也没想到会接在这里 https://t.co/hIoiHuDapP https://t.co/Qde3mc49fO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988127785723064320"
+          ]
+        },
+        "author_id": "1661260055914876928",
+        "conversation_id": "1988127793985765477",
+        "created_at": "2025-11-11T06:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988127793985765477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jm7u46b9F6",
+              "end": 30,
+              "expanded_url": "https://x.com/Kiss_light233/status/1988127793985765477/photo/1",
+              "media_key": "3_1988127785723064320",
+              "start": 7,
+              "url": "https://t.co/Jm7u46b9F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988127793985765477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 673,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午耗！！！ https://t.co/Jm7u46b9F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 28,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n—树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightcafe.top",
+                "end": 23,
+                "expanded_url": "http://www.lightcafe.top/",
+                "start": 0,
+                "url": "https://t.co/YKVh6WxP4P"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "𝑳𝒊𝒈𝒉𝒕🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 356,
+          "like_count": 5425,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 4661
+        },
+        "url": "https://t.co/YKVh6WxP4P",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

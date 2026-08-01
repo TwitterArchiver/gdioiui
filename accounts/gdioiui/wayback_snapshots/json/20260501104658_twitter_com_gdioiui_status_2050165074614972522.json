@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2050165074614972522",
+    "created_at": "2026-05-01T10:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050165074614972522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine_202…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/RainEngine_2024/status/2049458921052819498",
+          "start": 17,
+          "url": "https://t.co/zr4KXGZf7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050165074614972522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049458921052819498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下周期中考 窝可是488分的高手 https://t.co/zr4KXGZf7F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2050165074614972522",
+        "created_at": "2026-05-01T10:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050165074614972522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2049458921052819498",
+              "start": 17,
+              "url": "https://t.co/zr4KXGZf7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050165074614972522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049458921052819498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下周期中考 窝可是488分的高手 https://t.co/zr4KXGZf7F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2049458921052819498",
+        "created_at": "2026-04-29T12:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049458921052819498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049458921052819498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2257,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期中考试考完了😺\n窝应该只有地理能保证及格😭\n英语有小概率及格😭\n语文试卷直接干脆没写😭，应该不会有事吧😭😭\n反正我每天上学都睡觉的🥺\n反正对于我来说，学习已经无所谓了😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 413,
+          "like_count": 3646,
+          "listed_count": 2,
+          "media_count": 1141,
+          "tweet_count": 6281
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|家长不管党+年龄党|已炸柜|OD|生产日期:11.13.2011|161cm53kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学，羡慕一切休学的😭，渴望在家里躺尸😭|同类互fo喵～|里推@UnkXyn|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 133,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 164,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 141,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 1460,
+          "like_count": 16472,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": true
+      }
+    ]
+  }
+}

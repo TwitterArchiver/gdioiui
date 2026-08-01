@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994714251811000320",
+        "3_1994714255187480579"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994714261994836245",
+    "created_at": "2025-11-29T10:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994714261994836245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0dcom2fhOD",
+          "end": 52,
+          "expanded_url": "https://x.com/gdioiui/status/1994714261994836245/photo/1",
+          "media_key": "3_1994714251811000320",
+          "start": 29,
+          "url": "https://t.co/0dcom2fhOD"
+        },
+        {
+          "display_url": "pic.x.com/0dcom2fhOD",
+          "end": 52,
+          "expanded_url": "https://x.com/gdioiui/status/1994714261994836245/photo/1",
+          "media_key": "3_1994714255187480579",
+          "start": 29,
+          "url": "https://t.co/0dcom2fhOD"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/gdioiui/status/1994556156333949165",
+          "start": 53,
+          "url": "https://t.co/mCFwNA0whQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994714261994836245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994556156333949165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道她为什么骂哭我了\n心死了好睡\n今晚我要通宵(｀へ´) https://t.co/0dcom2fhOD https://t.co/mCFwNA0whQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994714251811000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66mCyeakAA9LQX.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994714255187480579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66mC_DbkAMjW2w.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994714251811000320",
+            "3_1994714255187480579"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994714261994836245",
+        "created_at": "2025-11-29T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994714261994836245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dcom2fhOD",
+              "end": 52,
+              "expanded_url": "https://x.com/gdioiui/status/1994714261994836245/photo/1",
+              "media_key": "3_1994714251811000320",
+              "start": 29,
+              "url": "https://t.co/0dcom2fhOD"
+            },
+            {
+              "display_url": "pic.x.com/0dcom2fhOD",
+              "end": 52,
+              "expanded_url": "https://x.com/gdioiui/status/1994714261994836245/photo/1",
+              "media_key": "3_1994714255187480579",
+              "start": 29,
+              "url": "https://t.co/0dcom2fhOD"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/gdioiui/status/1994556156333949165",
+              "start": 53,
+              "url": "https://t.co/mCFwNA0whQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994714261994836245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994556156333949165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道她为什么骂哭我了\n心死了好睡\n今晚我要通宵(｀へ´) https://t.co/0dcom2fhOD https://t.co/mCFwNA0whQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994556156333949165",
+        "created_at": "2025-11-28T23:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T00:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994556156333949165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/gdioiui/status/1994428482919825560",
+              "start": 103,
+              "url": "https://t.co/Q1K0m1AJhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994556156333949165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994428482919825560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚睡得很好   累炸了\n今天起来眼睛肿了，双眼皮变单眼皮睁眼怪困难的。\n起床的时候我想了五分钟动作，（不会起床了），最后用左手撑着起来，感觉全身无力    动作能力-50%\n已经在去的路上了  下午退役 https://t.co/Q1K0m1AJhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 91,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

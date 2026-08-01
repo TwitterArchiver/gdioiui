@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058091635045781966",
+    "created_at": "2026-05-23T07:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058091635045781966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Windy_Skyline/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Windy_Skyline/status/2056803067677565016",
+          "start": 16,
+          "url": "https://t.co/V3zS1nc4x4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058091635045781966",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056803067677565016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😄\nit's my duty! https://t.co/V3zS1nc4x4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2056803060928872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs7fIuaAAAioQs.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058091635045781966",
+        "created_at": "2026-05-23T07:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058091635045781966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windy_Skyline/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Windy_Skyline/status/2056803067677565016",
+              "start": 16,
+              "url": "https://t.co/V3zS1nc4x4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058091635045781966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056803067677565016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😄\nit's my duty! https://t.co/V3zS1nc4x4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056803060928872448"
+          ]
+        },
+        "author_id": "1413151000567771146",
+        "conversation_id": "2056803067677565016",
+        "created_at": "2026-05-19T18:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056803067677565016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qvb2cBgHEf",
+              "end": 23,
+              "expanded_url": "https://x.com/Windy_Skyline/status/2056803067677565016/photo/1",
+              "media_key": "3_2056803060928872448",
+              "start": 0,
+              "url": "https://t.co/Qvb2cBgHEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056803067677565016",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20641,
+          "like_count": 159,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qvb2cBgHEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 465,
+          "like_count": 3855,
+          "listed_count": 3,
+          "media_count": 1272,
+          "tweet_count": 6872
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 237,
+          "like_count": 2432,
+          "listed_count": 9,
+          "media_count": 3862,
+          "tweet_count": 13150
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

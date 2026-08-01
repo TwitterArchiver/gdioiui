@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2010142352569184665",
+    "created_at": "2026-01-11T00:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T01:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010142786679648546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "613074635",
+          "start": 0,
+          "username": "iTZQing"
+        },
+        {
+          "end": 23,
+          "id": "1931285197422792704",
+          "start": 9,
+          "username": "Unstable46599"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010142786679648546",
+    "in_reply_to_user_id": "613074635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010142352569184665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iTZQing @Unstable46599 好哦喵 \n其实这样还@了窝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2010142352569184665",
+        "created_at": "2026-01-11T00:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T01:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010142786679648546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "613074635",
+              "start": 0,
+              "username": "iTZQing"
+            },
+            {
+              "end": 23,
+              "id": "1931285197422792704",
+              "start": 9,
+              "username": "Unstable46599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010142786679648546",
+        "in_reply_to_user_id": "613074635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010142352569184665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTZQing @Unstable46599 好哦喵 \n其实这样还@了窝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "613074635",
+        "conversation_id": "2010142352569184665",
+        "created_at": "2026-01-11T00:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T01:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010142352569184665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1931285197422792704",
+              "start": 12,
+              "username": "Unstable46599"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/gdioiui/status/2009850067939930161",
+              "start": 27,
+              "url": "https://t.co/uk1Jjc3M9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010142352569184665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009850067939930161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要at一些人（\n\n比如@Unstable46599 https://t.co/uk1Jjc3M9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 268,
+          "like_count": 2023,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY。是笨蛋。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 樂晴比我还笨！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDV4j0"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬💝",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994818248190418944/Mrwvp3ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 1108,
+          "like_count": 31332,
+          "listed_count": 13,
+          "media_count": 1831,
+          "tweet_count": 29564
+        },
+        "url": "https://t.co/VFMpbDV4j0",
+        "username": "iTZQing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T09:41:01.000Z",
+        "description": "别信我说的，玩抽象玩的｜中推第一谜语人（确信（猜猜这是谁的转生号？｜推友寻回ing",
+        "id": "1931285197422792704",
+        "location": "mc末地",
+        "name": "🇫🇮𝓤𝓷𝓼𝓽𝓪𝓫𝓵𝓮不会取名字但是会把id搞的老长老长的给你抄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988933440117542913/FBge1iys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 90,
+          "like_count": 577,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 702
+        },
+        "username": "Unstable46599",
+        "verified": false
+      }
+    ]
+  }
+}

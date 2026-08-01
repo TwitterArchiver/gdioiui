@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994062050570703344",
+    "created_at": "2025-11-28T02:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994234085292560755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991130278056882177",
+          "start": 0,
+          "username": "Xiaoyang481535"
+        },
+        {
+          "end": 24,
+          "id": "1758324617838788608",
+          "start": 16,
+          "username": "mycbxzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994234085292560755",
+    "in_reply_to_user_id": "1991130278056882177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994071461015834728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyang481535 @mycbxzd 就只能锁几小时，又放出来，烦死啦╰（‵□′）╯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_1994070384174592000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xccwnacAARlPm.png",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994062050570703344",
+        "created_at": "2025-11-28T02:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994234085292560755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991130278056882177",
+              "start": 0,
+              "username": "Xiaoyang481535"
+            },
+            {
+              "end": 24,
+              "id": "1758324617838788608",
+              "start": 16,
+              "username": "mycbxzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994234085292560755",
+        "in_reply_to_user_id": "1991130278056882177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994071461015834728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyang481535 @mycbxzd 就只能锁几小时，又放出来，烦死啦╰（‵□′）╯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994070384174592000"
+          ]
+        },
+        "author_id": "1991130278056882177",
+        "conversation_id": "1994062050570703344",
+        "created_at": "2025-11-27T15:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994071461015834728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "mycbxzd"
+            },
+            {
+              "end": 17,
+              "id": "1882678524596867072",
+              "start": 9,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/djzKPlT4Kr",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyang481535/status/1994071461015834728/photo/1",
+              "media_key": "3_1994070384174592000",
+              "start": 60,
+              "url": "https://t.co/djzKPlT4Kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994071461015834728",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994063260719427743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mycbxzd @gdioiui 有举报成功，暂时先锁几个小时，会收到被锁原因，有移除被检举内容等时间过完就没限制。 https://t.co/djzKPlT4Kr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 88,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T13:04:30.000Z",
+        "description": "喜欢玩游戏 看动漫 漫画 小说",
+        "id": "1991130278056882177",
+        "name": "小阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991135485079764992/dBnUo_SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Xiaoyang481535",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 77,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 161
+        },
+        "username": "mycbxzd",
+        "verified": true
+      }
+    ]
+  }
+}

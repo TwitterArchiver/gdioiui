@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030885937421656064",
+        "3_2030885937417490434"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030886064521687260",
+    "created_at": "2026-03-09T05:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030886064521687260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uv2plfhIvV",
+          "end": 41,
+          "expanded_url": "https://x.com/gdioiui/status/2030886064521687260/video/1",
+          "media_key": "13_2030885937421656064",
+          "start": 18,
+          "url": "https://t.co/uv2plfhIvV"
+        },
+        {
+          "display_url": "pic.x.com/uv2plfhIvV",
+          "end": 41,
+          "expanded_url": "https://x.com/gdioiui/status/2030886064521687260/video/1",
+          "media_key": "3_2030885937417490434",
+          "start": 18,
+          "url": "https://t.co/uv2plfhIvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030886064521687260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起大家＞人＜\n窝第一次给猫猫了 https://t.co/uv2plfhIvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6857,
+        "height": 720,
+        "media_key": "13_2030885937421656064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030885937421656064/img/2UKQvo5BMEFk6OqR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030885937421656064/vid/avc1/600x270/wIQCp5KjHwlH5laK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030885937421656064/vid/avc1/800x360/w9yqqIe4yhiu28LT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030885937421656064/vid/avc1/1600x720/8U-CCEe0ONK_3b2X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030885937421656064/pl/lA4CzTpul1mTQbdh.m3u8?tag=14"
+          }
+        ],
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030885937417490434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8n__8bEAI6U0y.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030885937421656064",
+            "3_2030885937417490434"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030886064521687260",
+        "created_at": "2026-03-09T05:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030886064521687260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv2plfhIvV",
+              "end": 41,
+              "expanded_url": "https://x.com/gdioiui/status/2030886064521687260/video/1",
+              "media_key": "13_2030885937421656064",
+              "start": 18,
+              "url": "https://t.co/uv2plfhIvV"
+            },
+            {
+              "display_url": "pic.x.com/uv2plfhIvV",
+              "end": 41,
+              "expanded_url": "https://x.com/gdioiui/status/2030886064521687260/video/1",
+              "media_key": "3_2030885937417490434",
+              "start": 18,
+              "url": "https://t.co/uv2plfhIvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030886064521687260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起大家＞人＜\n窝第一次给猫猫了 https://t.co/uv2plfhIvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 346,
+          "like_count": 3129,
+          "listed_count": 2,
+          "media_count": 791,
+          "tweet_count": 5030
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993323305651388418",
+        "3_1993323306997760001",
+        "3_1993323303998832643"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993323309791084854",
+    "created_at": "2025-11-25T14:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993323309791084854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 49,
+          "id": "1777393785040949248",
+          "start": 36,
+          "username": "huliyaoshang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0neoqs1Txy",
+          "end": 73,
+          "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+          "media_key": "3_1993323305651388418",
+          "start": 50,
+          "url": "https://t.co/0neoqs1Txy"
+        },
+        {
+          "display_url": "pic.x.com/0neoqs1Txy",
+          "end": 73,
+          "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+          "media_key": "3_1993323306997760001",
+          "start": 50,
+          "url": "https://t.co/0neoqs1Txy"
+        },
+        {
+          "display_url": "pic.x.com/0neoqs1Txy",
+          "end": 73,
+          "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+          "media_key": "3_1993323303998832643",
+          "start": 50,
+          "url": "https://t.co/0neoqs1Txy"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/gdioiui/status/1993309196209799465",
+          "start": 74,
+          "url": "https://t.co/348ViU2T3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993323309791084854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993309196209799465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不重要了 开箱韩补吧\n抽奖抽中的 感觉除了语言和泰补完全没区别？\n感谢 @huliyaoshang https://t.co/0neoqs1Txy https://t.co/348ViU2T3c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_1993323305651388418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m0_EPbwAIQqMp.jpg",
+        "width": 884
+      },
+      {
+        "height": 1133,
+        "media_key": "3_1993323306997760001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m0_JQbwAEt3KO.jpg",
+        "width": 2142
+      },
+      {
+        "height": 1133,
+        "media_key": "3_1993323303998832643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m0--FbwAMdDR-.jpg",
+        "width": 2142
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993308258438877184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mnTNAaEAATyuv.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 54296,
+        "height": 720,
+        "media_key": "7_1993308934179078144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993308934179078144/pu/img/qrU1EFE6e1ueI4ar.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/480x270/kKnnaqs-clZn_vwg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/640x360/-tkmYV-bEnvNMic-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/1280x720/uJBZ7rcXasjGE_9R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/pl/3KW9j2u7WqDQU_pV.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993323305651388418",
+            "3_1993323306997760001",
+            "3_1993323303998832643"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993323309791084854",
+        "created_at": "2025-11-25T14:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993323309791084854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1777393785040949248",
+              "start": 36,
+              "username": "huliyaoshang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0neoqs1Txy",
+              "end": 73,
+              "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+              "media_key": "3_1993323305651388418",
+              "start": 50,
+              "url": "https://t.co/0neoqs1Txy"
+            },
+            {
+              "display_url": "pic.x.com/0neoqs1Txy",
+              "end": 73,
+              "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+              "media_key": "3_1993323306997760001",
+              "start": 50,
+              "url": "https://t.co/0neoqs1Txy"
+            },
+            {
+              "display_url": "pic.x.com/0neoqs1Txy",
+              "end": 73,
+              "expanded_url": "https://x.com/gdioiui/status/1993323309791084854/photo/1",
+              "media_key": "3_1993323303998832643",
+              "start": 50,
+              "url": "https://t.co/0neoqs1Txy"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/gdioiui/status/1993309196209799465",
+              "start": 74,
+              "url": "https://t.co/348ViU2T3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993323309791084854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993309196209799465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不重要了 开箱韩补吧\n抽奖抽中的 感觉除了语言和泰补完全没区别？\n感谢 @huliyaoshang https://t.co/0neoqs1Txy https://t.co/348ViU2T3c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993308258438877184",
+            "7_1993308934179078144"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993309196209799465",
+        "created_at": "2025-11-25T13:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993309196209799465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnqhI2bVsD",
+              "end": 58,
+              "expanded_url": "https://x.com/gdioiui/status/1993309196209799465/video/1",
+              "media_key": "3_1993308258438877184",
+              "start": 35,
+              "url": "https://t.co/AnqhI2bVsD"
+            },
+            {
+              "display_url": "pic.x.com/AnqhI2bVsD",
+              "end": 58,
+              "expanded_url": "https://x.com/gdioiui/status/1993309196209799465/video/1",
+              "media_key": "7_1993308934179078144",
+              "start": 35,
+              "url": "https://t.co/AnqhI2bVsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993309196209799465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看药师一次装回来了什么？\n装满了 还有一盒抽奖的韩补\n一会开箱韩补 https://t.co/AnqhI2bVsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 64,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T17:51:45.000Z",
+        "description": "狐狸新号 买糖家微 huli048/huli049日雌340泰补190#电报一群 https://t.co/G6xeQdiuhI 二群 https://t.co/bDbCVk0GDP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ilNIl6DsSFJjO…",
+                "end": 64,
+                "expanded_url": "https://t.me/+ilNIl6DsSFJjOTBl",
+                "start": 41,
+                "url": "https://t.co/G6xeQdiuhI"
+              },
+              {
+                "display_url": "t.me/+XpMHG8JZx3g0M…",
+                "end": 91,
+                "expanded_url": "https://t.me/+XpMHG8JZx3g0MWY1",
+                "start": 68,
+                "url": "https://t.co/bDbCVk0GDP"
+              }
+            ]
+          }
+        },
+        "id": "1777393785040949248",
+        "location": "Hong Kong",
+        "name": "狐狸糖MTF🍬（全网最低价）",
+        "pinned_tweet_id": "1898264492313919968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898599340261953536/gtOCR0mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 104,
+          "like_count": 3,
+          "listed_count": 11,
+          "media_count": 15,
+          "tweet_count": 19
+        },
+        "username": "huliyaoshang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1973612035373146112"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1973612418208243741",
+    "created_at": "2025-10-02T04:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T05:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973612418208243741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQOA8brHxj",
+          "end": 34,
+          "expanded_url": "https://x.com/gdioiui/status/1973612418208243741/video/1",
+          "media_key": "13_1973612035373146112",
+          "start": 11,
+          "url": "https://t.co/oQOA8brHxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973612418208243741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "健康tv之我是无脑婴 https://t.co/oQOA8brHxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 506543,
+        "height": 544,
+        "media_key": "13_1973612035373146112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973612035373146112/img/kdUFk31vGDetpOpf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973612035373146112/vid/avc1/476x270/vDvm3yKPyUV6HtA_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973612035373146112/vid/avc1/634x360/LSzOlGfcpWSe_wJW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973612035373146112/vid/avc1/960x544/GqS0xM957tqInBTa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973612035373146112/pl/oIULUk5ghmsOsx3S.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973612035373146112"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1973612418208243741",
+        "created_at": "2025-10-02T04:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T05:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973612418208243741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQOA8brHxj",
+              "end": 34,
+              "expanded_url": "https://x.com/gdioiui/status/1973612418208243741/video/1",
+              "media_key": "13_1973612035373146112",
+              "start": 11,
+              "url": "https://t.co/oQOA8brHxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973612418208243741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健康tv之我是无脑婴 https://t.co/oQOA8brHxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

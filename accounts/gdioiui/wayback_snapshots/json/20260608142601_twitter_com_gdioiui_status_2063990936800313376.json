@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2063570818370769042",
+    "created_at": "2026-06-08T14:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063990936800313376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981924659437383680",
+          "start": 0,
+          "username": "publicwy_ext"
+        },
+        {
+          "end": 25,
+          "id": "1750739738682945537",
+          "start": 14,
+          "username": "Ad_closeNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063990936800313376",
+    "in_reply_to_user_id": "1981924659437383680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962575377952885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@publicwy_ext @Ad_closeNN 正在上传个人信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2063570818370769042",
+        "created_at": "2026-06-08T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063990936800313376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981924659437383680",
+              "start": 0,
+              "username": "publicwy_ext"
+            },
+            {
+              "end": 25,
+              "id": "1750739738682945537",
+              "start": 14,
+              "username": "Ad_closeNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063990936800313376",
+        "in_reply_to_user_id": "1981924659437383680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962575377952885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@publicwy_ext @Ad_closeNN 正在上传个人信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981924659437383680",
+        "conversation_id": "2063570818370769042",
+        "created_at": "2026-06-08T12:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962575377952885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750739738682945537",
+              "start": 0,
+              "username": "Ad_closeNN"
+            },
+            {
+              "end": 20,
+              "id": "1882678524596867072",
+              "start": 12,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962575377952885",
+        "in_reply_to_user_id": "1750739738682945537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063787009186160720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ad_closeNN @gdioiui 正在联系晶格😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 477,
+          "like_count": 4075,
+          "listed_count": 3,
+          "media_count": 1380,
+          "tweet_count": 7464
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T03:24:18.000Z",
+        "description": "14岁但是身体十分早熟（走两步就累）\n会一点点编程，喜欢折腾电子设备）\n有点人机（？）\nBuild Time: 2012-05-30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "publicwyext.github.io",
+                "end": 23,
+                "expanded_url": "https://publicwyext.github.io/",
+                "start": 0,
+                "url": "https://t.co/qT1u0AFBGu"
+              }
+            ]
+          }
+        },
+        "id": "1981924659437383680",
+        "location": "baka🫪",
+        "name": "publicwy ext🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057507540259274752/d9n6AhnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 170,
+          "like_count": 6539,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/qT1u0AFBGu",
+        "username": "publicwy_ext",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T04:37:49.000Z",
+        "description": "👋 你好呀，远方的朋友 (๑•̀ㅂ•́) ✧\n那个......\n关注塔菲喵\n关注塔菲谢谢喵（）",
+        "id": "1750739738682945537",
+        "location": "One Microsoft Way, Earth",
+        "name": "Ad_closeNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042972689477046276/_c2vHGhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 122,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 317
+        },
+        "username": "Ad_closeNN",
+        "verified": false
+      }
+    ]
+  }
+}

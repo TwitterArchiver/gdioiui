@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2075011103508275401",
+    "created_at": "2026-07-10T03:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075414738515964218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918183669455568900",
+          "start": 0,
+          "username": "zx7cfun"
+        },
+        {
+          "end": 22,
+          "id": "1228641661401436160",
+          "start": 9,
+          "username": "Wangchai_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075414738515964218",
+    "in_reply_to_user_id": "1918183669455568900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075367326036447482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zx7cfun @Wangchai_owo 大佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2075011103508275401",
+        "created_at": "2026-07-10T03:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075414738515964218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918183669455568900",
+              "start": 0,
+              "username": "zx7cfun"
+            },
+            {
+              "end": 22,
+              "id": "1228641661401436160",
+              "start": 9,
+              "username": "Wangchai_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075414738515964218",
+        "in_reply_to_user_id": "1918183669455568900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075367326036447482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zx7cfun @Wangchai_owo 大佬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918183669455568900",
+        "conversation_id": "2075011103508275401",
+        "created_at": "2026-07-09T23:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075367326036447482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1228641661401436160",
+              "start": 0,
+              "username": "Wangchai_owo"
+            },
+            {
+              "end": 22,
+              "id": "1882678524596867072",
+              "start": 14,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075367326036447482",
+        "in_reply_to_user_id": "1228641661401436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075185540140335127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wangchai_owo @gdioiui 上面放个降落伞不就行了，紧急情况不会全死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 487,
+          "like_count": 4362,
+          "listed_count": 4,
+          "media_count": 1542,
+          "tweet_count": 8100
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T06:00:18.000Z",
+        "description": "",
+        "id": "1918183669455568900",
+        "name": "yu liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918183747494789122/sbnjaWp7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "zx7cfun",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T11:26:24.000Z",
+        "description": "Hi! Im Wangchai! Now live in perth.",
+        "id": "1228641661401436160",
+        "location": "Australia",
+        "name": "Wangchai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788018868457537536/z93PqB3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 44,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "Wangchai_owo",
+        "verified": true
+      }
+    ]
+  }
+}

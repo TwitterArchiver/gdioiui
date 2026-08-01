@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2076995374460592381",
+    "created_at": "2026-07-14T12:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077012297449447823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_FW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077012297449447823",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076995374460592381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_FW woc了？ \n他把我的药转手给你了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076995365438660608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL4R80aoAAgQdC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2076995374460592381",
+        "created_at": "2026-07-14T12:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077012297449447823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077012297449447823",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076995374460592381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_FW woc了？ \n他把我的药转手给你了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076995365438660608"
+          ]
+        },
+        "author_id": "1913309341735956480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076995374460592381",
+        "created_at": "2026-07-14T11:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076995374460592381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPOvHo67Rh",
+              "end": 40,
+              "expanded_url": "https://x.com/yingyang_FW/status/2076995374460592381/photo/1",
+              "media_key": "3_2076995365438660608",
+              "start": 17,
+              "url": "https://t.co/YPOvHo67Rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076995374460592381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找推u面了，做了一点交易，吸爽了 https://t.co/YPOvHo67Rh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 488,
+          "like_count": 4427,
+          "listed_count": 4,
+          "media_count": 1571,
+          "tweet_count": 8194
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "恋人@RINTK8964|\nxyn|HRT：6.30|\n总之很无聊，欢迎骚扰QQ：3816050065",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RINTK8964"
+              }
+            ]
+          }
+        },
+        "id": "1913309341735956480",
+        "name": "营养要均衡",
+        "pinned_tweet_id": "2061023405026296280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050804664019587073/4cvgjR9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 954,
+          "like_count": 16205,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "yingyang_FW",
+        "verified": false
+      }
+    ]
+  }
+}

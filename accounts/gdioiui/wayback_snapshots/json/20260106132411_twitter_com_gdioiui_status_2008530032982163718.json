@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2008461893871300913",
+    "created_at": "2026-01-06T13:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T14:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008530032982163718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781137539581255680",
+          "start": 0,
+          "username": "yuyi1718193"
+        },
+        {
+          "end": 29,
+          "id": "1859486191281897477",
+          "start": 13,
+          "username": "liveDeath750122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008530032982163718",
+    "in_reply_to_user_id": "1781137539581255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008521157398659153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyi1718193 @liveDeath750122 qwq其实4片已经有点感觉了\n12片属于是高剂量呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2008461893871300913",
+        "created_at": "2026-01-06T13:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008530032982163718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781137539581255680",
+              "start": 0,
+              "username": "yuyi1718193"
+            },
+            {
+              "end": 29,
+              "id": "1859486191281897477",
+              "start": 13,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008530032982163718",
+        "in_reply_to_user_id": "1781137539581255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008521157398659153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyi1718193 @liveDeath750122 qwq其实4片已经有点感觉了\n12片属于是高剂量呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781137539581255680",
+        "conversation_id": "2008461893871300913",
+        "created_at": "2026-01-06T12:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008521157398659153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008521157398659153",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008461893871300913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 那玩意儿不是12片以上才有效果吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 250,
+          "like_count": 1709,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3370
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T01:47:56.000Z",
+        "description": "mtf | 12年173cm药娘|性别认知障碍|双性恋|《别当欧尼酱》| 无证含糖|坐标河南|平时会有点小颠，喜欢搞抽象｜早晚没钱饿死｜妈妈@xiazixuan520｜最好的精神支柱@yuyou2859287112\n“前天遇到了兔子，昨天遇到了小鹿，而今天遇到了你”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "xiazixuan520"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "yuyou2859287112"
+              }
+            ]
+          }
+        },
+        "id": "1781137539581255680",
+        "location": "河南",
+        "name": "夏雨晴🍥",
+        "pinned_tweet_id": "1935382578086953113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935590428918558720/CQ7WR9gc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 40,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "username": "yuyi1718193",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "15岁 \n友跨顺男未婚不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/FIakK2pD87"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/众善慈善",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983907777740451840/gzQ21mdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 460,
+          "like_count": 20965,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 7232
+        },
+        "url": "https://t.co/FIakK2pD87",
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

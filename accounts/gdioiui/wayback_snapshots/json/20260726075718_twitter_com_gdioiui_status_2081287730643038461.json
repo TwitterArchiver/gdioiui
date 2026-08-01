@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081287716726321152"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081287730643038461",
+    "created_at": "2026-07-26T07:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081287730643038461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679381806913560578",
+          "start": 6,
+          "username": "kurazawanaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dN49DC5qhQ",
+          "end": 43,
+          "expanded_url": "https://x.com/gdioiui/status/2081287730643038461/photo/1",
+          "media_key": "3_2081287716726321152",
+          "start": 20,
+          "url": "https://t.co/dN49DC5qhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081287730643038461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "色推第二弹\n@kurazawanaki https://t.co/dN49DC5qhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3548,
+        "media_key": "3_2081287716726321152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOI4JrbbMAAayDr.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081287716726321152"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081287730643038461",
+        "created_at": "2026-07-26T07:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081287730643038461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1679381806913560578",
+              "start": 6,
+              "username": "kurazawanaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dN49DC5qhQ",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2081287730643038461/photo/1",
+              "media_key": "3_2081287716726321152",
+              "start": 20,
+              "url": "https://t.co/dN49DC5qhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081287730643038461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "色推第二弹\n@kurazawanaki https://t.co/dN49DC5qhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n『warn』完全无性功能\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 493,
+          "like_count": 4644,
+          "listed_count": 5,
+          "media_count": 1638,
+          "tweet_count": 8439
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1309,
+          "like_count": 17656,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

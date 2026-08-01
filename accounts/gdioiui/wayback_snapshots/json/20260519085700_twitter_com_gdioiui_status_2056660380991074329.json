@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2056660380991074329",
+    "created_at": "2026-05-19T08:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056660380991074329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PaulDrizzyvlni…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2056297018654609510",
+          "start": 15,
+          "url": "https://t.co/8xJGVUeQIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056660380991074329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056297018654609510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么这样子...\n完全太监啊 https://t.co/8xJGVUeQIe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2056660380991074329",
+        "created_at": "2026-05-19T08:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056660380991074329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaulDrizzyvlni…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/PaulDrizzyvlni/status/2056297018654609510",
+              "start": 15,
+              "url": "https://t.co/8xJGVUeQIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056660380991074329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056297018654609510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么这样子...\n完全太监啊 https://t.co/8xJGVUeQIe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980236829455511552",
+        "conversation_id": "2056297018654609510",
+        "created_at": "2026-05-18T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056297018654609510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2056227189839061471",
+              "start": 8,
+              "url": "https://t.co/hGA25eeGmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297018654609510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13857,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056227189839061471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全男人啊兄弟 https://t.co/hGA25eeGmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 441,
+          "like_count": 3823,
+          "listed_count": 3,
+          "media_count": 1245,
+          "tweet_count": 6733
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|香山陰暗女高|粵內勢力|重度抑郁患者|精神支持：保羅喬治|一定會好的吧|愛好睡覺和汉堡🐱|好姐姐 @HappyHejsDay | 對象@shixveriya 🥰 |可愛姊妹@shiyaoshiwo |安卓小號 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "shixveriya"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "PG13LD77"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 1376,
+          "like_count": 6447,
+          "listed_count": 7,
+          "media_count": 390,
+          "tweet_count": 4716
+        },
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982268369072971776"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1982268430184235320",
+    "created_at": "2025-10-26T02:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982268430184235320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6Ca8skgKq",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/1982268430184235320/photo/1",
+          "media_key": "3_1982268369072971776",
+          "start": 16,
+          "url": "https://t.co/Z6Ca8skgKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982268430184235320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无语死 必须存一遍草稿才发的了 https://t.co/Z6Ca8skgKq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 57,
+        "media_key": "3_1982268369072971776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JulEQWYAAuLaR.png",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982268369072971776"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1982268430184235320",
+        "created_at": "2025-10-26T02:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982268430184235320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6Ca8skgKq",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/1982268430184235320/photo/1",
+              "media_key": "3_1982268369072971776",
+              "start": 16,
+              "url": "https://t.co/Z6Ca8skgKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982268430184235320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语死 必须存一遍草稿才发的了 https://t.co/Z6Ca8skgKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 124
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

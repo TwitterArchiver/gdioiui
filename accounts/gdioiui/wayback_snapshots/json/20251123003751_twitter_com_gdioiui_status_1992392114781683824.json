@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992127907863626222",
+    "created_at": "2025-11-23T00:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T01:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992392114781683824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1810000313744756736",
+          "start": 0,
+          "username": "tianwen5258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992392114781683824",
+    "in_reply_to_user_id": "1810000313744756736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992127907863626222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianwen5258 还好我累了不会做梦 梦到追杀就会有坠楼情节 然后惊醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992127907863626222",
+        "created_at": "2025-11-23T00:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992392114781683824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1810000313744756736",
+              "start": 0,
+              "username": "tianwen5258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992392114781683824",
+        "in_reply_to_user_id": "1810000313744756736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992127907863626222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianwen5258 还好我累了不会做梦 梦到追杀就会有坠楼情节 然后惊醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810000313744756736",
+        "conversation_id": "1992127907863626222",
+        "created_at": "2025-11-22T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992127907863626222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992127907863626222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累得差点猝死，不小心睡了一个小时的午觉，做了一个好恐怖的噩梦，梦见有个我心理上厌恶的人一直追杀我一直想捅死我，报警了晶哥也来抓我，理由是没见到我正当防卫，以为我故意伤害，梦里复活了三次，每次不是被她杀就是被晶哥和她一起追杀，最后不演了直接被栽脏通缉，醒来后都觉得窒息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 54,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:18:09.000Z",
+        "description": "广东｜171/55｜MTX｜私信或评论扩列都可以的喵｜有趣/好看的会互fo嘻嘻QvQ｜喜欢好吃的食物｜不定时cos刷新在漫展｜贴贴喵｜Darling：@YENA_QWQ ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "YENA_QWQ"
+              }
+            ]
+          }
+        },
+        "id": "1810000313744756736",
+        "name": "和紗の雨織Rainie（互fo扩列版）",
+        "pinned_tweet_id": "1982453518712651986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975053486195683328/xzDoI8GK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 238,
+          "like_count": 822,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 234
+        },
+        "username": "tianwen5258",
+        "verified": false
+      }
+    ]
+  }
+}

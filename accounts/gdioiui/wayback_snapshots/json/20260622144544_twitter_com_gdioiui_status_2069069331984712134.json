@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2069069331984712134",
+    "created_at": "2026-06-22T14:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069069331984712134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2068908918915621111",
+          "start": 49,
+          "url": "https://t.co/kWpa3x3oDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069069331984712134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068908918915621111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那只能捏着鼻子搜点片站了\n片站上都有\n或者各种有广告的网络服务站（ip检查  低价服务器 等等） https://t.co/kWpa3x3oDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2068908908283035648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY9sMbaAAApnnU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2069069331984712134",
+        "created_at": "2026-06-22T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069069331984712134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2068908918915621111",
+              "start": 49,
+              "url": "https://t.co/kWpa3x3oDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069069331984712134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068908918915621111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那只能捏着鼻子搜点片站了\n片站上都有\n或者各种有广告的网络服务站（ip检查  低价服务器 等等） https://t.co/kWpa3x3oDb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068908908283035648"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2068908918915621111",
+        "created_at": "2026-06-22T04:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068908918915621111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhDdQsdpXb",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2068908918915621111/photo/1",
+              "media_key": "3_2068908908283035648",
+              "start": 15,
+              "url": "https://t.co/fhDdQsdpXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068908918915621111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18136,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "教给大家墙内断联的求助方法： https://t.co/fhDdQsdpXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 477,
+          "like_count": 4247,
+          "listed_count": 3,
+          "media_count": 1462,
+          "tweet_count": 7779
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12088,
+          "following_count": 4362,
+          "like_count": 49282,
+          "listed_count": 36,
+          "media_count": 2927,
+          "tweet_count": 16389
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

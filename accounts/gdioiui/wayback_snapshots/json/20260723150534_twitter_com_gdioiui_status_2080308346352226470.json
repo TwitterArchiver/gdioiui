@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2080278557637402674",
+    "created_at": "2026-07-23T15:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080308346352226470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823704339569106946",
+          "start": 0,
+          "username": "han_zi9069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080308346352226470",
+    "in_reply_to_user_id": "1823704339569106946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080278557637402674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@han_zi9069 喵唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2080278557637402674",
+        "created_at": "2026-07-23T15:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080308346352226470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823704339569106946",
+              "start": 0,
+              "username": "han_zi9069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080308346352226470",
+        "in_reply_to_user_id": "1823704339569106946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080278557637402674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@han_zi9069 喵唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823704339569106946",
+        "conversation_id": "2080278557637402674",
+        "created_at": "2026-07-23T13:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080278557637402674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/gdioiui/status/2079897679195422741",
+              "start": 18,
+              "url": "https://t.co/3DIAjy4fc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080278557637402674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079897679195422741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也好想这样，想找到属于自己的朋友 https://t.co/3DIAjy4fc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 493,
+          "like_count": 4591,
+          "listed_count": 6,
+          "media_count": 1624,
+          "tweet_count": 8383
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T12:53:08.000Z",
+        "description": "xyn一个，07年的巨蟹座，身材一般，爱打音游，性格isfj是个m，脑子有些笨，没经济，呜呜,有没有门槛有100",
+        "id": "1823704339569106946",
+        "location": "江苏省镇江市扬中市",
+        "name": "星星子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027716273656705024/4ijUer9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 53,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "han_zi9069",
+        "verified": false
+      }
+    ]
+  }
+}

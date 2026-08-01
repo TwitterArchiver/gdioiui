@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991144517588734313",
+    "created_at": "2025-11-21T00:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T01:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991671076217319772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1964174726752022528",
+          "start": 0,
+          "username": "Ramk1zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991671076217319772",
+    "in_reply_to_user_id": "1964174726752022528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991549426855522790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ramk1zZ emm 不会血栓吗？高雌伤害更大吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991144517588734313",
+        "created_at": "2025-11-21T00:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991671076217319772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1964174726752022528",
+              "start": 0,
+              "username": "Ramk1zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991671076217319772",
+        "in_reply_to_user_id": "1964174726752022528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991549426855522790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ramk1zZ emm 不会血栓吗？高雌伤害更大吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964174726752022528",
+        "conversation_id": "1991144517588734313",
+        "created_at": "2025-11-20T16:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T17:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991549426855522790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991549426855522790",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991144517588734313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 比卡可能好一些不过贵，色普龙的话不太清楚本来就有精神问题，个人感觉还好，螺内酯副作用太大了😡👊🏻，如果不介意的话可以用高雌方案替代抗雄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 49,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T03:52:24.000Z",
+        "description": "前生为Ramking，因不可抗力被销号 翻车/友跨顺男 (既然翻车了那应该算是男同了)学生desu 常驻江苏 福瑞控 涉猎圈子广(都能了解一点) 打CS务必喊我😡👊🏻 脑雾状态 请忽略我的神经发言😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/groups/furrycn",
+                "end": 23,
+                "expanded_url": "http://steamcommunity.com/groups/furrycn",
+                "start": 0,
+                "url": "https://t.co/QnT031hc4V"
+              }
+            ]
+          }
+        },
+        "id": "1964174726752022528",
+        "location": "幻想",
+        "name": "Ramk1zZ🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991505014402187265/WiQUmA5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 34,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/QnT031hc4V",
+        "username": "Ramk1zZ",
+        "verified": false
+      }
+    ]
+  }
+}

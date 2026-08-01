@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056674338615566336"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2056671232490106952",
+    "created_at": "2026-05-19T09:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056674435273232669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847810824955432960",
+          "start": 0,
+          "username": "linggou62"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rig7dhdVwm",
+          "end": 40,
+          "expanded_url": "https://x.com/gdioiui/status/2056674435273232669/photo/1",
+          "media_key": "3_2056674338615566336",
+          "start": 17,
+          "url": "https://t.co/rig7dhdVwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056674435273232669",
+    "in_reply_to_user_id": "1847810824955432960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056673435057889547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linggou62 再战10年 https://t.co/rig7dhdVwm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 82,
+        "media_key": "3_2056674338615566336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrGagvXoAALnM3.png",
+        "width": 344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056674338615566336"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T09:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056674435273232669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847810824955432960",
+              "start": 0,
+              "username": "linggou62"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rig7dhdVwm",
+              "end": 40,
+              "expanded_url": "https://x.com/gdioiui/status/2056674435273232669/photo/1",
+              "media_key": "3_2056674338615566336",
+              "start": 17,
+              "url": "https://t.co/rig7dhdVwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056674435273232669",
+        "in_reply_to_user_id": "1847810824955432960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056673435057889547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linggou62 再战10年 https://t.co/rig7dhdVwm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847810824955432960",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T09:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056673435057889547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056673435057889547",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671232490106952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 442,
+          "like_count": 3825,
+          "listed_count": 3,
+          "media_count": 1248,
+          "tweet_count": 6749
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T01:23:59.000Z",
+        "description": "你在看我吗，我只是一个普通人，没有什么特点的说，随机点赞，欢迎友好互动，欢迎互fo",
+        "id": "1847810824955432960",
+        "name": "靈夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018736900958486530/PWOd86bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 422,
+          "like_count": 12547,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 341
+        },
+        "username": "linggou62",
+        "verified": false
+      }
+    ]
+  }
+}

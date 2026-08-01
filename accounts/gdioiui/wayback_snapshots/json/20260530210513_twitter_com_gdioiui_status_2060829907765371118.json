@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060829220864172205",
+    "created_at": "2026-05-30T21:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060829907765371118"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060829907765371118",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060829220864172205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "....我大概活下来了但是...真的还活着吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060829220864172205",
+        "created_at": "2026-05-30T21:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060829907765371118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060829907765371118",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060829220864172205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "....我大概活下来了但是...真的还活着吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060829220864172205",
+        "created_at": "2026-05-30T21:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060829220864172205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060829220864172205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我吃了什么...\npr1200\n玉米连带锡箔纸吃了两板\n苦杏仁吃了两把 大概10g\n氢氯噻臻吃了6片\n酚麻美敏4颗\n致死率不算很高吧\n并不是想起某一种明确的疼痛突然出现 让窝感受到自己脆弱 而是有一些模糊的 暗示着窝将被逐出...让我看见了与世界的联系是多么容易毁掉， 生命的危机不在疼痛 疼痛是一种斗争而是那种模糊的恐怖 让我拒斥着一切事物 变得乏味于是就在这种恐怖中 我只有等待 直到我重新被安置到健康 逐渐陷入对其危害的遗忘中\n窝们功能所受的内伤令我们具有个性的 是我们的恶心 让我们真正拥有“窝”时是窝的溃败 我们能是我们自己靠的是我们所拥有的挫败"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我吃了什么...\npr1200\n玉米连带锡箔纸吃了两板\n苦杏仁吃了两把 大概10g\n氢氯噻臻吃了6片\n酚麻美敏4颗\n致死率不算很高吧\n并不是想起某一种明确的疼痛突然出现 让窝感受到自己脆弱 而是有一些模糊的 暗示着窝将被逐出...让我看见了与世界的联系是多么容易毁掉， 生命的危机不在疼痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 474,
+          "like_count": 3982,
+          "listed_count": 3,
+          "media_count": 1336,
+          "tweet_count": 7224
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

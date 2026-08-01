@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055488225796595712"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055488237003796827",
+    "created_at": "2026-05-16T03:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055488237003796827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNpAGKVkxH",
+          "end": 104,
+          "expanded_url": "https://x.com/gdioiui/status/2055488237003796827/photo/1",
+          "media_key": "3_2055488225796595712",
+          "start": 81,
+          "url": "https://t.co/wNpAGKVkxH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055488237003796827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ww咱妈还不回来喵...蛋糕要化掉了喵...怎么办喵....\n自己一个人吃不好吧喵...\n好次喵\n再买一个等她喵\n唉又要化了喵∗︎˚(* ˃̤൬˂̤ *)˚∗︎ https://t.co/wNpAGKVkxH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2055488225796595712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaPpqKaoAA9x9E.jpg",
+        "width": 2142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055488225796595712"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055488237003796827",
+        "created_at": "2026-05-16T03:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055488237003796827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNpAGKVkxH",
+              "end": 104,
+              "expanded_url": "https://x.com/gdioiui/status/2055488237003796827/photo/1",
+              "media_key": "3_2055488225796595712",
+              "start": 81,
+              "url": "https://t.co/wNpAGKVkxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055488237003796827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ww咱妈还不回来喵...蛋糕要化掉了喵...怎么办喵....\n自己一个人吃不好吧喵...\n好次喵\n再买一个等她喵\n唉又要化了喵∗︎˚(* ˃̤൬˂̤ *)˚∗︎ https://t.co/wNpAGKVkxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 434,
+          "like_count": 3781,
+          "listed_count": 3,
+          "media_count": 1229,
+          "tweet_count": 6620
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

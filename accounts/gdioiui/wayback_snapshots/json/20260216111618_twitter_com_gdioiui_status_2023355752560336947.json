@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023355741923631104"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023355752560336947",
+    "created_at": "2026-02-16T11:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023355752560336947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nzZYJG5z24",
+          "end": 100,
+          "expanded_url": "https://x.com/gdioiui/status/2023355752560336947/photo/1",
+          "media_key": "3_2023355741923631104",
+          "start": 77,
+          "url": "https://t.co/nzZYJG5z24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023355752560336947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "年夜饭：\n1.凉拌愈美片\n2.清蒸普瑞巴林\n3.红烧白兔bron\n4.爆炒美金刚\n5.白切1161\n6.香烤复方甘草片\n7.铁锅炖金刚烷胺\n8.冰镇感康 https://t.co/nzZYJG5z24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2023355741923631104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRnU7ua4AAKc2k.jpg",
+        "width": 2142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023355741923631104"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023355752560336947",
+        "created_at": "2026-02-16T11:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023355752560336947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzZYJG5z24",
+              "end": 100,
+              "expanded_url": "https://x.com/gdioiui/status/2023355752560336947/photo/1",
+              "media_key": "3_2023355741923631104",
+              "start": 77,
+              "url": "https://t.co/nzZYJG5z24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023355752560336947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年夜饭：\n1.凉拌愈美片\n2.清蒸普瑞巴林\n3.红烧白兔bron\n4.爆炒美金刚\n5.白切1161\n6.香烤复方甘草片\n7.铁锅炖金刚烷胺\n8.冰镇感康 https://t.co/nzZYJG5z24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 312,
+          "like_count": 2810,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 4495
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

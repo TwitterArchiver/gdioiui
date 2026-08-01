@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2013268297530376541",
+    "created_at": "2026-02-23T06:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025818324387676430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865123828419936256",
+          "start": 0,
+          "username": "yishengyishizho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025818324387676430",
+    "in_reply_to_user_id": "1865123828419936256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025775288760860918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yishengyishizho （）肯定啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2013268297530376541",
+        "created_at": "2026-02-23T06:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025818324387676430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865123828419936256",
+              "start": 0,
+              "username": "yishengyishizho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025818324387676430",
+        "in_reply_to_user_id": "1865123828419936256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025775288760860918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yishengyishizho （）肯定啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865123828419936256",
+        "conversation_id": "2013268297530376541",
+        "created_at": "2026-02-23T03:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025775288760860918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025775288760860918",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013619650542870740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 兄弟你现在还活着吗？😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 325,
+          "like_count": 2894,
+          "listed_count": 1,
+          "media_count": 675,
+          "tweet_count": 4628
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T19:59:21.000Z",
+        "description": "上外网唯一目的就是找资源和观察人类（我已经退去人皮，升华成蛆了，只能在互联网阴暗的角落阴暗的爬行）（不坚持共产党领导，坚定支持马克思恩格斯主义共产主义社会主义资本主义毛泽东思想邓小平理论可持续发展观全人类命运共同体理论等等等等）（佛道教徒，西方宗教以及神圣几何学爱好者）（死二次元外加特摄机战厨）",
+        "id": "1865123828419936256",
+        "name": "一生一世中國人！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865125919897088000/OofW4xpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 573,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 647
+        },
+        "username": "yishengyishizho",
+        "verified": false
+      }
+    ]
+  }
+}

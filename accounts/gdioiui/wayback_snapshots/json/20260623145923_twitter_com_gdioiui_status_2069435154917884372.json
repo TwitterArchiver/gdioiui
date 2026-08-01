@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2069193565343985928",
+    "created_at": "2026-06-23T14:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069435154917884372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002960318998491136",
+          "start": 0,
+          "username": "vokleer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069435154917884372",
+    "in_reply_to_user_id": "2002960318998491136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069267018004725885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vokleer 窝觉得我可以去学指挥（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2069193565343985928",
+        "created_at": "2026-06-23T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069435154917884372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002960318998491136",
+              "start": 0,
+              "username": "vokleer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069435154917884372",
+        "in_reply_to_user_id": "2002960318998491136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069267018004725885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vokleer 窝觉得我可以去学指挥（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002960318998491136",
+        "conversation_id": "2069193565343985928",
+        "created_at": "2026-06-23T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069267018004725885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069267018004725885",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069193565343985928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 指挥rating低但是战术高明啊…相当于有信息的4打5然后打赢了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 477,
+          "like_count": 4255,
+          "listed_count": 3,
+          "media_count": 1465,
+          "tweet_count": 7793
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T04:32:22.000Z",
+        "description": "2006/10/02 坐标成都喵｜小证2026.3.5｜完全家长党｜大证准备中（家长已同意）｜看到我的话求求互fo喵｜妹妹@mili_bugia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mili_bugia"
+              }
+            ]
+          }
+        },
+        "id": "2002960318998491136",
+        "name": "知言🍥（互fo喵）",
+        "pinned_tweet_id": "2052568366506729780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005331844280303616/0y2BfQK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 862,
+          "like_count": 3317,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "vokleer",
+        "verified": false
+      }
+    ]
+  }
+}

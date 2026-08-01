@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1916029632564105220",
+    "created_at": "2025-05-05T08:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T09:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919305815501988046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871177296763314176",
+          "start": 0,
+          "username": "Allknowbody2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919305815501988046",
+    "in_reply_to_user_id": "1871177296763314176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916029632564105220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody2 你这个文也是对图的"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1916029632564105220].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916029632564105220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916029632564105220"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1916029632564105220",
+        "created_at": "2025-05-05T08:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919305815501988046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871177296763314176",
+              "start": 0,
+              "username": "Allknowbody2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919305815501988046",
+        "in_reply_to_user_id": "1871177296763314176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916029632564105220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody2 你这个文也是对图的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:53:32.000Z",
+        "description": "大号@allknowbody 2年账号因为忘记密码不用了，转进这个号，b人是因为你该b，火影忍者手游超影3000分，没人比我更懂木柜子👆🏻朴正熙吧黄牌🐞友，泛右友好，小号@hvyjbhjj78253 亲友墙：@whoosh_catej\n@Arishia_404 @Youkino25 @X_user_17900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "allknowbody"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "hvyjbhjj78253"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "whoosh_catej"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Arishia_404"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Youkino25"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "X_user_17900"
+              }
+            ]
+          }
+        },
+        "id": "1871177296763314176",
+        "location": "门槛 50",
+        "name": "喜欢百合的星乃一歌🟨🌗⬛（私信互粉）",
+        "pinned_tweet_id": "1880093417642021216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910932314210680832/dbncAh_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 542,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 3322,
+          "tweet_count": 8436
+        },
+        "username": "Allknowbody2",
+        "verified": false
+      }
+    ]
+  }
+}

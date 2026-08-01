@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2066038710496330157",
+    "created_at": "2026-06-15T15:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066549586546851951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1709887626680111104",
+          "start": 0,
+          "username": "BingXing117"
+        },
+        {
+          "end": 21,
+          "id": "1670458419986464768",
+          "start": 13,
+          "username": "nn66676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066549586546851951",
+    "in_reply_to_user_id": "1709887626680111104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066334492206547000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BingXing117 @nn66676 额？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2066038710496330157",
+        "created_at": "2026-06-15T15:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066549586546851951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1709887626680111104",
+              "start": 0,
+              "username": "BingXing117"
+            },
+            {
+              "end": 21,
+              "id": "1670458419986464768",
+              "start": 13,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066549586546851951",
+        "in_reply_to_user_id": "1709887626680111104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066334492206547000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BingXing117 @nn66676 额？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709887626680111104",
+        "conversation_id": "2066038710496330157",
+        "created_at": "2026-06-15T01:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066334492206547000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670458419986464768",
+              "start": 0,
+              "username": "nn66676"
+            },
+            {
+              "end": 17,
+              "id": "1882678524596867072",
+              "start": 9,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066334492206547000",
+        "in_reply_to_user_id": "1670458419986464768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066234337109168169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn66676 @gdioiui 我才反应过来木桶饭是什么😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 474,
+          "like_count": 4159,
+          "listed_count": 3,
+          "media_count": 1415,
+          "tweet_count": 7619
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-05T11:06:12.000Z",
+        "description": "160的昆明小只男娘，同好块来找我贴贴。（超级色）直男的话……随缘吧",
+        "id": "1709887626680111104",
+        "name": "冰星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908181764742549504/yscQAlEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 699,
+          "like_count": 526,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 467
+        },
+        "username": "BingXing117",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T15:50:22.000Z",
+        "description": "",
+        "id": "1670458419986464768",
+        "location": "云南昆明",
+        "name": "嗯嗯🀄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 701,
+          "like_count": 7348,
+          "listed_count": 5,
+          "media_count": 932,
+          "tweet_count": 5465
+        },
+        "username": "nn66676",
+        "verified": false
+      }
+    ]
+  }
+}

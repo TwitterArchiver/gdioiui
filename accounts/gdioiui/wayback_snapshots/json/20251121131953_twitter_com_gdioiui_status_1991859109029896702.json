@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991859109029896702",
+    "created_at": "2025-11-21T13:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991859109029896702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1【零度博客】▶https://www.freedidi.com【加入会员】▶https://www.youtube.com/channel/UCvij...",
+          "display_url": "youtu.be/YINypgwJTxo?si…",
+          "end": 39,
+          "expanded_url": "https://youtu.be/YINypgwJTxo?si=Q25q6CwM5WlbLYaO",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1991859113610100736/OPuCpIQG?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1991859113610100736/OPuCpIQG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "电脑开机密码忘记了怎么办？这两种方法100%帮你搞定！支持 Windows 10 /11、不丢数据、安全又放心！！ | 零度解说",
+          "unwound_url": "https://www.youtube.com/watch?si=Q25q6CwM5WlbLYaO&v=YINypgwJTxo&feature=youtu.be",
+          "url": "https://t.co/yo2uii9xiM"
+        },
+        {
+          "display_url": "x.com/BT_7324/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/BT_7324/status/1991840671389696082",
+          "start": 40,
+          "url": "https://t.co/RynKCe64w3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991859109029896702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991840671389696082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不需要重置啊 数据丢了很麻烦呀\nhttps://t.co/yo2uii9xiM https://t.co/RynKCe64w3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991840667765747712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RwiLtasAAW0Qc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991859109029896702",
+        "created_at": "2025-11-21T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991859109029896702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【更多资源】▶https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1【零度博客】▶https://www.freedidi.com【加入会员】▶https://www.youtube.com/channel/UCvij...",
+              "display_url": "youtu.be/YINypgwJTxo?si…",
+              "end": 39,
+              "expanded_url": "https://youtu.be/YINypgwJTxo?si=Q25q6CwM5WlbLYaO",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1991859113610100736/OPuCpIQG?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991859113610100736/OPuCpIQG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "电脑开机密码忘记了怎么办？这两种方法100%帮你搞定！支持 Windows 10 /11、不丢数据、安全又放心！！ | 零度解说",
+              "unwound_url": "https://www.youtube.com/watch?si=Q25q6CwM5WlbLYaO&v=YINypgwJTxo&feature=youtu.be",
+              "url": "https://t.co/yo2uii9xiM"
+            },
+            {
+              "display_url": "x.com/BT_7324/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/BT_7324/status/1991840671389696082",
+              "start": 40,
+              "url": "https://t.co/RynKCe64w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991859109029896702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991840671389696082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不需要重置啊 数据丢了很麻烦呀\nhttps://t.co/yo2uii9xiM https://t.co/RynKCe64w3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991840667765747712"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "conversation_id": "1991840671389696082",
+        "created_at": "2025-11-21T12:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991840671389696082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2Craat3ZR",
+              "end": 54,
+              "expanded_url": "https://x.com/BT_7324/status/1991840671389696082/photo/1",
+              "media_key": "3_1991840667765747712",
+              "start": 31,
+              "url": "https://t.co/S2Craat3ZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991840671389696082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某个笨蛋刚换密码甚至记在备忘录上结果密码错误\n只能等重置盘🥲 https://t.co/S2Craat3ZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 47,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "励志成为blender大师！（原创背景）没回fo就是在建模",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music.git",
+                "start": 0,
+                "url": "https://t.co/yRtaaYP2Zg"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "ᵃᵛᵉᵐᵘʲⁱᶜᵃ",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1860,
+          "like_count": 6023,
+          "listed_count": 2,
+          "media_count": 1324,
+          "tweet_count": 3722
+        },
+        "url": "https://t.co/yRtaaYP2Zg",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

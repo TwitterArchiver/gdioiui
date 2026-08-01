@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2012374232622067755",
+    "created_at": "2026-01-17T04:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T05:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012381042674704711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012381042674704711",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012374232622067755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed 怎么发那么长的...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2012374214418763776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr52WEAAF3Ka.jpg",
+        "width": 750
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2012374214427209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr54W8AABw35.jpg",
+        "width": 750
+      },
+      {
+        "height": 974,
+        "media_key": "3_2012374215815516161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr_DW0AEvptQ.jpg",
+        "width": 750
+      },
+      {
+        "height": 342,
+        "media_key": "3_2012374214490087424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr6HWYAAsad-.jpg",
+        "width": 319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2012374232622067755",
+        "created_at": "2026-01-17T04:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012381042674704711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012381042674704711",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012374232622067755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 怎么发那么长的...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012374214418763776",
+            "3_2012374214427209728",
+            "3_2012374215815516161",
+            "3_2012374214490087424"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2012374232622067755",
+        "created_at": "2026-01-17T03:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012374232622067755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214418763776",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214427209728",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374215815516161",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214490087424",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012374232622067755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 845,
+                "id": "1882678524596867072",
+                "start": 837,
+                "username": "gdioiui"
+              },
+              {
+                "end": 856,
+                "id": "1982449259774656512",
+                "start": 846,
+                "username": "smiroyama"
+              },
+              {
+                "end": 872,
+                "id": "1982449259774656512",
+                "start": 862,
+                "username": "smiroyama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt-cloud.transmtf.com",
+                "end": 446,
+                "expanded_url": "https://hrt-cloud.transmtf.com/",
+                "start": 423,
+                "url": "https://t.co/bgkJOaAjr7"
+              },
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 925,
+                "expanded_url": "https://hrt.transmtf.com",
+                "start": 902,
+                "url": "https://t.co/YYr1MIa8X8"
+              }
+            ]
+          },
+          "text": "大家中午好呀，经过几周的开发，hrt-tracker-cloud（云同步版）现已开启测试发布 🎉\n\n部署架构：\n后端服务器架设于美国加利福尼亚州·洛杉矶\n前端托管于Cloudflare Workers\n\n功能特性：\n1.多设备云同步：登录后可在多个设备间自动同步数据；发生变更后，最多约 5 秒即可同步到所有已登录设备。同时支持随时查看与管理您的登录设备\n2.数据分享：您可以创建数据的分享副本，甚至是实时分享（仅未加密用户）\n3.数据安全：您的数据会安全存储在服务器上。尤其当您设置了安全密码后，数据将进入加密保护状态。除非同时掌握登录密码与安全密码，否则任何人都无法获取您的数据\n4.备份策略：服务器每 8 小时将数据备份至 Cloudflare R2，并保留最近 20 个备份副本，以降低意外风险\n5.PWA 图标支持：现在以 PWA 安装为 App 时已具备图标显示（示例见图）\n\n目前仅在以下部署点试验性开放该功能。如需体验，请访问：\nhttps://t.co/bgkJOaAjr7\n\n反馈与支持\n\n我们深知一个项目要想长远发展，离不开与用户的持续交流，故如果您在使用中遇到任何问题，欢迎直接在本帖回复，或私聊向我反馈\n\n不过，出于安全考虑，我们没有为后端加入任何管理员操作功能（除非直接查看数据库，否则我们甚至无法得知系统中有多少用户）。\n因此，我们也无法处理包括但不限于：忘记密码、找回账号等请求。对此带来的不便，敬请理解，因此也请您务必妥善保管密码信息。\n\n由于个人原因，部分 Bug 使用 Codex Cloud 辅助修复；受时间限制，我尚未对这部分代码完成逐行审查。\n我会在有时间后第一时间补齐审查流程。同时我郑重承诺：当前版本的可用性与安全性处于可控、可保障的范围内。\n\n我可以承诺：现阶段云同步功能不会向您收取任何费用。\n即便未来确实因成本压力需要引入收费机制，也将至少提前 1 个月公告，并尽量将价格维持在非常低的水平。\n\n下面是一些截图\n\n致谢：@gdioiui @smiroyama \n\n另：\n@smiroyama 开发的部分新功能还没来得及适配，我正在抽空跟进适配，但 \nhttps://t.co/YYr1MIa8X8\n与其官网保持一致\n\n最后，感谢您抽出宝贵时间阅读。祝您生活愉快、使用顺利！\naxzamyzed 敬上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家中午好呀，经过几周的开发，hrt-tracker-cloud（云同步版）现已开启测试发布 🎉\n\n部署架构：\n后端服务器架设于美国加利福尼亚州·洛杉矶\n前端托管于Cloudflare Workers\n\n功能特性：\n1.多设备云同步：登录后可在多个设备间自动同步数据；发生变更后，最多约 5 https://t.co/MuxLR78U0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 291,
+          "like_count": 2222,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 3812
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 92,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      }
+    ]
+  }
+}

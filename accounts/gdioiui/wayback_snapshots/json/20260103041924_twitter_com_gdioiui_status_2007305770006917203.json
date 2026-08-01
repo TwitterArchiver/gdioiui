@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007305770006917203",
+    "created_at": "2026-01-03T04:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T05:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007305770006917203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        },
+        {
+          "end": 22,
+          "id": "1652163132809269248",
+          "start": 13,
+          "username": "Ashe8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007305770006917203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007305757893751271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: @Ashe8964 气笑了BMI60 1.7*1.7=2.89\n2.9*60=174至少174kg..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007305770006917203",
+        "created_at": "2026-01-03T04:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007305770006917203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            },
+            {
+              "end": 22,
+              "id": "1652163132809269248",
+              "start": 13,
+              "username": "Ashe8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007305770006917203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007305757893751271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: @Ashe8964 气笑了BMI60 1.7*1.7=2.89\n2.9*60=174至少174kg..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006893016884392382",
+        "created_at": "2026-01-03T04:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007305757893751271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652163132809269248",
+              "start": 0,
+              "username": "Ashe8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007305757893751271",
+        "in_reply_to_user_id": "1652163132809269248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006928622024794494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashe8964 气笑了BMI60 1.7*1.7=2.89\n2.9*60=174至少174kg..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 232,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T04:09:29.000Z",
+        "description": "这里是阿蛇丸某不知名xyn的转生号\n随机在线，我只是在刷我的主页，没凿过人，也没被凿过，至今是处",
+        "id": "1652163132809269248",
+        "name": "阿蛇丸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983674034253611008/ogaUKHfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 370,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 152
+        },
+        "username": "Ashe8964",
+        "verified": false
+      }
+    ]
+  }
+}

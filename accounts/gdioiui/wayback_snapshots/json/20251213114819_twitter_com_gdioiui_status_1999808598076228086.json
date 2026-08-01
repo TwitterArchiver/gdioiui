@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1999508398426235137",
+    "created_at": "2025-12-13T11:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999808598076228086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807349006508691456",
+          "start": 0,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999808598076228086",
+    "in_reply_to_user_id": "1807349006508691456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999796403598696920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangzixingfu 可是不被关进去就行了...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999508398426235137",
+        "created_at": "2025-12-13T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999808598076228086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807349006508691456",
+              "start": 0,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999808598076228086",
+        "in_reply_to_user_id": "1807349006508691456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999796403598696920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangzixingfu 可是不被关进去就行了...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807349006508691456",
+        "conversation_id": "1999508398426235137",
+        "created_at": "2025-12-13T10:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999796403598696920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999796403598696920",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999508398426235137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 全封闭的逃不出来的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 98,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "希望你喜欢我",
+        "id": "1807349006508691456",
+        "location": "🚪128/388",
+        "name": "uramu8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977433469472088064/9pTnvw4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7669,
+          "following_count": 223,
+          "like_count": 3343,
+          "listed_count": 12,
+          "media_count": 238,
+          "tweet_count": 2162
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

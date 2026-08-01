@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059645933739220992"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2059645937245630858",
+    "created_at": "2026-05-27T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059645937245630858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/orhXg46N5J",
+          "end": 53,
+          "expanded_url": "https://x.com/gdioiui/status/2059645937245630858/photo/1",
+          "media_key": "3_2059645933739220992",
+          "start": 30,
+          "url": "https://t.co/orhXg46N5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059645937245630858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年六月六日...刚好是星期六...\n我决定把自己献给撒旦 https://t.co/orhXg46N5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2059645933739220992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVVEHOaoAA9QIX.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059645933739220992"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2059645937245630858",
+        "created_at": "2026-05-27T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059645937245630858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orhXg46N5J",
+              "end": 53,
+              "expanded_url": "https://x.com/gdioiui/status/2059645937245630858/photo/1",
+              "media_key": "3_2059645933739220992",
+              "start": 30,
+              "url": "https://t.co/orhXg46N5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059645937245630858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年六月六日...刚好是星期六...\n我决定把自己献给撒旦 https://t.co/orhXg46N5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 465,
+          "like_count": 3910,
+          "listed_count": 3,
+          "media_count": 1298,
+          "tweet_count": 7014
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

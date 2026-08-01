@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2013268297530376541",
+    "created_at": "2026-01-21T14:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013984003528036635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868130816951513088",
+          "start": 0,
+          "username": "JerryCatX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013984003528036635",
+    "in_reply_to_user_id": "1868130816951513088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013946014789738515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JerryCatX （）窝害谁了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2013268297530376541",
+        "created_at": "2026-01-21T14:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013984003528036635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868130816951513088",
+              "start": 0,
+              "username": "JerryCatX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013984003528036635",
+        "in_reply_to_user_id": "1868130816951513088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013946014789738515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JerryCatX （）窝害谁了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868130816951513088",
+        "conversation_id": "2013268297530376541",
+        "created_at": "2026-01-21T12:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013946014789738515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013946014789738515",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013268297530376541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui od好啊 o死了为民除害🤓👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 293,
+          "like_count": 2320,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 3911
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T03:08:02.000Z",
+        "description": "酉时出现的第一颗晚星。很高兴认识你，支持正常LGBT+，反抽象跨蛆，普通苦逼高中生一枚。",
+        "id": "1868130816951513088",
+        "location": "Florida, USA",
+        "name": "睡不醒的酉星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932990479471464448/eS8Ggte-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 181,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1204
+        },
+        "username": "JerryCatX",
+        "verified": false
+      }
+    ]
+  }
+}

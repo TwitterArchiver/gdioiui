@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002175462865326080",
+        "3_2002175463150477313",
+        "3_2002175463200878592"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2002175466770256038",
+    "created_at": "2025-12-20T00:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T01:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002175466770256038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rXXujHabsQ",
+          "end": 81,
+          "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+          "media_key": "3_2002175462865326080",
+          "start": 58,
+          "url": "https://t.co/rXXujHabsQ"
+        },
+        {
+          "display_url": "pic.x.com/rXXujHabsQ",
+          "end": 81,
+          "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+          "media_key": "3_2002175463150477313",
+          "start": 58,
+          "url": "https://t.co/rXXujHabsQ"
+        },
+        {
+          "display_url": "pic.x.com/rXXujHabsQ",
+          "end": 81,
+          "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+          "media_key": "3_2002175463200878592",
+          "start": 58,
+          "url": "https://t.co/rXXujHabsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002175466770256038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每夜固定惊醒三次\n第一次 iwc凝胶好像没抹\n第二次 iwc压到x了\n第三次 iwc药没吃\n第四次 iwc药吃重了 https://t.co/rXXujHabsQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002175462865326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kn-boXUAAPmqP.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002175463150477313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kn-csWYAELgVW.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002175463200878592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kn-c4XcAAcVjX.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002175462865326080",
+            "3_2002175463150477313",
+            "3_2002175463200878592"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2002175466770256038",
+        "created_at": "2025-12-20T00:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002175466770256038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXXujHabsQ",
+              "end": 81,
+              "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+              "media_key": "3_2002175462865326080",
+              "start": 58,
+              "url": "https://t.co/rXXujHabsQ"
+            },
+            {
+              "display_url": "pic.x.com/rXXujHabsQ",
+              "end": 81,
+              "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+              "media_key": "3_2002175463150477313",
+              "start": 58,
+              "url": "https://t.co/rXXujHabsQ"
+            },
+            {
+              "display_url": "pic.x.com/rXXujHabsQ",
+              "end": 81,
+              "expanded_url": "https://x.com/gdioiui/status/2002175466770256038/photo/1",
+              "media_key": "3_2002175463200878592",
+              "start": 58,
+              "url": "https://t.co/rXXujHabsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002175466770256038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每夜固定惊醒三次\n第一次 iwc凝胶好像没抹\n第二次 iwc压到x了\n第三次 iwc药没吃\n第四次 iwc药吃重了 https://t.co/rXXujHabsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 110,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

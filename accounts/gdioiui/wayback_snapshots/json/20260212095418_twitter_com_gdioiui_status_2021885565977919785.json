@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2021517820111310860",
+    "created_at": "2026-02-12T09:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021885565977919785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3888271693",
+          "start": 0,
+          "username": "HuohuoSan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021885565977919785",
+    "in_reply_to_user_id": "3888271693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021862302518321501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuohuoSan ...我没说医生是网友 但是他玩第五"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2021517820111310860",
+        "created_at": "2026-02-12T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021885565977919785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3888271693",
+              "start": 0,
+              "username": "HuohuoSan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021885565977919785",
+        "in_reply_to_user_id": "3888271693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021862302518321501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuohuoSan ...我没说医生是网友 但是他玩第五"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3888271693",
+        "conversation_id": "2021517820111310860",
+        "created_at": "2026-02-12T08:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021862302518321501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021862302518321501",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021517820111310860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 挠头  医生还玩推呢 医生还玩郊狼呢 医生上班还在这和你们聊天呢。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 306,
+          "like_count": 2689,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 4348
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T05:07:42.000Z",
+        "description": "〇某非专业医学狗－目前在长沙\n〇死肥宅猛男一只〇欢迎线下抓我\n〇脑子只有mtf和色色〇上班上班上班上班 要s掉了\nvchat：huohuocyan1\nqq：1485381906",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huohuocyan",
+                "end": 23,
+                "expanded_url": "http://t.me/huohuocyan",
+                "start": 0,
+                "url": "https://t.co/evQmBe59fr"
+              }
+            ]
+          }
+        },
+        "id": "3888271693",
+        "location": "American Fork, UT",
+        "name": "火火さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017651434196766722/3mKulq61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 358,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/evQmBe59fr",
+        "username": "HuohuoSan",
+        "verified": false
+      }
+    ]
+  }
+}

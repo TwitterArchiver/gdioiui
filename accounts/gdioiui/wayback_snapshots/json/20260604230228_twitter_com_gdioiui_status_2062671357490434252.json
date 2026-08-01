@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062671336275644416"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2062671357490434252",
+    "created_at": "2026-06-04T23:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062671357490434252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I2UBii1DMe",
+          "end": 42,
+          "expanded_url": "https://x.com/gdioiui/status/2062671357490434252/photo/1",
+          "media_key": "3_2062671336275644416",
+          "start": 19,
+          "url": "https://t.co/I2UBii1DMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062671357490434252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候蓝v都大批量打广告了.... https://t.co/I2UBii1DMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2062671336275644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAUpt8XEAAOlM8.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062671336275644416"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2062671357490434252",
+        "created_at": "2026-06-04T23:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062671357490434252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2UBii1DMe",
+              "end": 42,
+              "expanded_url": "https://x.com/gdioiui/status/2062671357490434252/photo/1",
+              "media_key": "3_2062671336275644416",
+              "start": 19,
+              "url": "https://t.co/I2UBii1DMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062671357490434252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候蓝v都大批量打广告了.... https://t.co/I2UBii1DMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 474,
+          "like_count": 4023,
+          "listed_count": 3,
+          "media_count": 1356,
+          "tweet_count": 7346
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

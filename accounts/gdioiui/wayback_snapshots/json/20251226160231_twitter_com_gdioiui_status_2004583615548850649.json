@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2004542548736688381",
+    "created_at": "2025-12-26T16:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T17:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004583615548850649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Sennya0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004583615548850649",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004542548736688381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sennya0717 我也男装呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2004542548736688381",
+        "created_at": "2025-12-26T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004583615548850649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Sennya0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004583615548850649",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004542548736688381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sennya0717 我也男装呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "2004542548736688381",
+        "created_at": "2025-12-26T13:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004542548736688381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rikka_Ela/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Rikka_Ela/status/2004281998450597920",
+              "start": 80,
+              "url": "https://t.co/OCRamFhinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004542548736688381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004281998450597920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么你们一个个的变性人生活都按下了快进键。\n该pass的pass，该整容的整容，该手术的手术，该恋爱的恋爱，该嫁人的嫁人。\n☹️只有我还在男装Manmodel https://t.co/OCRamFhinn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 157,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 持证含糖 2025.02.11 \n║重郁 /双相二型 / ADHD / BPD / 阿斯伯格 / CPTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@kinaiyuru_\n║网页是更详细的自介（施工中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "kinaiyuru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/6J8k5faIlx"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 1653,
+          "like_count": 8085,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/6J8k5faIlx",
+        "username": "_Sennya0717",
+        "verified": false
+      }
+    ]
+  }
+}

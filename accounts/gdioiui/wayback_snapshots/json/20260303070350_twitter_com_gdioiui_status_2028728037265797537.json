@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2028708878716920000",
+    "created_at": "2026-03-03T07:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T08:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028728037265797537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984945120488374273",
+          "start": 0,
+          "username": "xiao_yi6583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028728037265797537",
+    "in_reply_to_user_id": "1984945120488374273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028724871560323572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yi6583 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2028708878716920000",
+        "created_at": "2026-03-03T07:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028728037265797537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984945120488374273",
+              "start": 0,
+              "username": "xiao_yi6583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028728037265797537",
+        "in_reply_to_user_id": "1984945120488374273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028724871560323572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yi6583 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984945120488374273",
+        "conversation_id": "2028708878716920000",
+        "created_at": "2026-03-03T06:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028724871560323572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028724871560323572",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028708878716920000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 对的对的\n不对不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 342,
+          "like_count": 3046,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 4867
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T11:26:33.000Z",
+        "description": "如果我上线了，就说明我在看黄片\n如果我发言了，就说明我刚导完管",
+        "id": "1984945120488374273",
+        "name": "夜雨星雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996116954978156544/t-LCYbe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 109
+        },
+        "username": "xiao_yi6583",
+        "verified": false
+      }
+    ]
+  }
+}

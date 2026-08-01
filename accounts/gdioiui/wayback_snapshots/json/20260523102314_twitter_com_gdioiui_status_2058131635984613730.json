@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058131635984613730",
+    "created_at": "2026-05-23T10:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058131635984613730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShiroSkura/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ShiroSkura/status/2058113120766132302",
+          "start": 19,
+          "url": "https://t.co/vDqUSz5X4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058131635984613730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058113120766132302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是得罪oder的下场吗？ 微距了 https://t.co/vDqUSz5X4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058113115800133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_i-XbW4AA7YQv.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058131635984613730",
+        "created_at": "2026-05-23T10:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058131635984613730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiroSkura/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ShiroSkura/status/2058113120766132302",
+              "start": 19,
+              "url": "https://t.co/vDqUSz5X4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058131635984613730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058113120766132302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是得罪oder的下场吗？ 微距了 https://t.co/vDqUSz5X4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058113115800133632"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "conversation_id": "2058113120766132302",
+        "created_at": "2026-05-23T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058113120766132302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIQ1WdCPbz",
+              "end": 66,
+              "expanded_url": "https://x.com/ShiroSkura/status/2058113120766132302/photo/1",
+              "media_key": "3_2058113115800133632",
+              "start": 43,
+              "url": "https://t.co/rIQ1WdCPbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058113120766132302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1510,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官，你也不想这件事被你家里人知道吧\n识趣的话，就乖乖的把手上的右美沙芬都交给我 https://t.co/rIQ1WdCPbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 467,
+          "like_count": 3858,
+          "listed_count": 3,
+          "media_count": 1275,
+          "tweet_count": 6884
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！ 商务联系⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgfh1"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "VOIDlink",
+        "pinned_tweet_id": "1999157411341570111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056973883295801344/YG8gP4hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 41,
+          "like_count": 10484,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/BhUcaEgfh1",
+        "username": "ShiroSkura",
+        "verified": false
+      }
+    ]
+  }
+}

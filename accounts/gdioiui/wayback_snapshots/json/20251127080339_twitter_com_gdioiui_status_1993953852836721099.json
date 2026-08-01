@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993840993456804120",
+    "created_at": "2025-11-27T08:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993953852836721099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1497184178147774472",
+          "start": 0,
+          "username": "WeineawskiEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993953852836721099",
+    "in_reply_to_user_id": "1497184178147774472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993840993456804120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeineawskiEX ???你说无人机我都不说话\n机器狗？无人机翅膀改腿成加强了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993840993456804120",
+        "created_at": "2025-11-27T08:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993953852836721099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1497184178147774472",
+              "start": 0,
+              "username": "WeineawskiEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993953852836721099",
+        "in_reply_to_user_id": "1497184178147774472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993840993456804120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeineawskiEX ???你说无人机我都不说话\n机器狗？无人机翅膀改腿成加强了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497184178147774472",
+        "conversation_id": "1993840993456804120",
+        "created_at": "2025-11-27T00:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993840993456804120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andy9475237068…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/andy94752370686/status/1979166891579941125",
+              "start": 21,
+              "url": "https://t.co/bb1j7RQ5ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993840993456804120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5456,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979166891579941125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么时候看见机器狗三个字才不会笑出来？ https://t.co/bb1j7RQ5ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 83,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T12:20:17.000Z",
+        "description": "Defend our way of life/\n每日播报俄乌战争新闻/\n锁推的关注我一律block/\n孝子们别找了亚速钢铁厂的大鱼就是我/\n粉蛆、绿白、蓝脑、DS份子勿扰\n\n另外，我会平等辱骂所有看不惯的人",
+        "id": "1497184178147774472",
+        "location": "2077红军村遗迹",
+        "name": "埃里克奥尔森上将归来，笑看鹅孝子土崩瓦解，黄/皇鹅被送上绞刑架之日即将到来👊🇺🇸🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269169947594752/tvkHAqr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4934,
+          "following_count": 3797,
+          "like_count": 141801,
+          "listed_count": 39,
+          "media_count": 3707,
+          "tweet_count": 59418
+        },
+        "username": "WeineawskiEX",
+        "verified": false
+      }
+    ]
+  }
+}

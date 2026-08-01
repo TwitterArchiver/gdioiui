@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999759581640294401"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1999759585603912073",
+    "created_at": "2025-12-13T08:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999759585603912073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Au6iIHjFZz",
+          "end": 60,
+          "expanded_url": "https://x.com/gdioiui/status/1999759585603912073/photo/1",
+          "media_key": "3_1999759581640294401",
+          "start": 37,
+          "url": "https://t.co/Au6iIHjFZz"
+        },
+        {
+          "display_url": "x.com/_Sennya0717/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/_Sennya0717/status/1998926030636306779",
+          "start": 61,
+          "url": "https://t.co/Z76KrmGfbJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999759585603912073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998926030636306779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现卡住了\n今天才发出来.....\n流量好像炸了 球球看看窝吧(╥_╥) https://t.co/Au6iIHjFZz https://t.co/Z76KrmGfbJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999759581640294401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CSvovagAEKWTN.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998926020179800065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72cn-UaMAEJQQq.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999759581640294401"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999759585603912073",
+        "created_at": "2025-12-13T08:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999759585603912073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Au6iIHjFZz",
+              "end": 60,
+              "expanded_url": "https://x.com/gdioiui/status/1999759585603912073/photo/1",
+              "media_key": "3_1999759581640294401",
+              "start": 37,
+              "url": "https://t.co/Au6iIHjFZz"
+            },
+            {
+              "display_url": "x.com/_Sennya0717/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/_Sennya0717/status/1998926030636306779",
+              "start": 61,
+              "url": "https://t.co/Z76KrmGfbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999759585603912073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998926030636306779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现卡住了\n今天才发出来.....\n流量好像炸了 球球看看窝吧(╥_╥) https://t.co/Au6iIHjFZz https://t.co/Z76KrmGfbJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998926020179800065"
+          ]
+        },
+        "author_id": "1801382796436639745",
+        "conversation_id": "1998926030636306779",
+        "created_at": "2025-12-11T01:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998926030636306779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2s1X8HrYb",
+              "end": 36,
+              "expanded_url": "https://x.com/_Sennya0717/status/1998926030636306779/photo/1",
+              "media_key": "3_1998926020179800065",
+              "start": 13,
+              "url": "https://t.co/x2s1X8HrYb"
+            },
+            {
+              "display_url": "x.com/_Sennya0717/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/_Sennya0717/status/1998920889078047067",
+              "start": 37,
+              "url": "https://t.co/ApoppIKdzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998926030636306779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998920889078047067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini攻击性拉满了 https://t.co/x2s1X8HrYb https://t.co/ApoppIKdzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 96,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学 ║INFP / 猫 ║MtF / 家长党 / 持证含糖 2025.02.11 ║重郁 /双相二型 / ADHD / BPD / 阿斯伯格 / PTSD ║家里蹲 / 音游人 / 渴望温暖 ║最爱的人@kinaiyuru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "kinaiyuru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4KtfdRCG"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997766700775985152/DUjQnfIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1649,
+          "like_count": 7660,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/3L4KtfdRCG",
+        "username": "_Sennya0717",
+        "verified": false
+      }
+    ]
+  }
+}

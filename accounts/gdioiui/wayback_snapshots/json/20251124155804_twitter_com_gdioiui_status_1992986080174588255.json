@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992986075716104194"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1992986080174588255",
+    "created_at": "2025-11-24T15:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992986080174588255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5XY1kcXk0",
+          "end": 55,
+          "expanded_url": "https://x.com/gdioiui/status/1992986080174588255/photo/1",
+          "media_key": "3_1992986075716104194",
+          "start": 32,
+          "url": "https://t.co/V5XY1kcXk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992986080174588255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "11.57大量泄露\n11.58药师舍生取义 用舌头全部无害处理 https://t.co/V5XY1kcXk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_1992986075716104194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iCRs1bsAIDhIN.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992986075716104194"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992986080174588255",
+        "created_at": "2025-11-24T15:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992986080174588255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5XY1kcXk0",
+              "end": 55,
+              "expanded_url": "https://x.com/gdioiui/status/1992986080174588255/photo/1",
+              "media_key": "3_1992986075716104194",
+              "start": 32,
+              "url": "https://t.co/V5XY1kcXk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992986080174588255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11.57大量泄露\n11.58药师舍生取义 用舌头全部无害处理 https://t.co/V5XY1kcXk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 62,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047994836314361856"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2047994851585843234",
+    "created_at": "2026-04-25T11:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047994851585843234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1DxTQSZ6r",
+          "end": 49,
+          "expanded_url": "https://x.com/gdioiui/status/2047994851585843234/photo/1",
+          "media_key": "3_2047994836314361856",
+          "start": 26,
+          "url": "https://t.co/U1DxTQSZ6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047994851585843234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绿普瑞4粒....\n还是完全不耐受 实现od永续化 https://t.co/U1DxTQSZ6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047994836314361856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwc_BaEAAswoE.jpg",
+        "width": 1847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047994836314361856"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2047994851585843234",
+        "created_at": "2026-04-25T11:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047994851585843234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1DxTQSZ6r",
+              "end": 49,
+              "expanded_url": "https://x.com/gdioiui/status/2047994851585843234/photo/1",
+              "media_key": "3_2047994836314361856",
+              "start": 26,
+              "url": "https://t.co/U1DxTQSZ6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047994851585843234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绿普瑞4粒....\n还是完全不耐受 实现od永续化 https://t.co/U1DxTQSZ6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 392,
+          "like_count": 3637,
+          "listed_count": 2,
+          "media_count": 1104,
+          "tweet_count": 6147
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

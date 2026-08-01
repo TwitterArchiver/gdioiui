@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992131868939219098",
+    "created_at": "2025-11-22T10:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992177938154893752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708301558516207616",
+          "start": 0,
+          "username": "arou_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992177938154893752",
+    "in_reply_to_user_id": "1708301558516207616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992131868939219098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arou_overdose 白兔都给到S吗？emm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1992131853382283264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6V5XaqXcAAWf70.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992131868939219098",
+        "created_at": "2025-11-22T10:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992177938154893752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708301558516207616",
+              "start": 0,
+              "username": "arou_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992177938154893752",
+        "in_reply_to_user_id": "1708301558516207616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992131868939219098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arou_overdose 白兔都给到S吗？emm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992131853382283264"
+          ]
+        },
+        "author_id": "1708301558516207616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992131868939219098",
+        "created_at": "2025-11-22T07:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992131868939219098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zq299F4qVJ",
+              "end": 28,
+              "expanded_url": "https://x.com/arou_overdose/status/1992131868939219098/photo/1",
+              "media_key": "3_1992131853382283264",
+              "start": 5,
+              "url": "https://t.co/zq299F4qVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992131868939219098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 157,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很准确的 https://t.co/zq299F4qVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 50,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "污秽不堪的你最可愛了｜@Yuu_sa_ri🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Yuu_sa_ri"
+              }
+            ]
+          }
+        },
+        "id": "1708301558516207616",
+        "location": "存在しません",
+        "name": "吐き気",
+        "pinned_tweet_id": "1868600204129419570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982832575639883776/uwmtgmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 145,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 630
+        },
+        "username": "arou_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

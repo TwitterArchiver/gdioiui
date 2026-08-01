@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024737884234981376"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2024738494204301516",
+    "created_at": "2026-02-20T06:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024738494204301516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oTMuk5CIAl",
+          "end": 37,
+          "expanded_url": "https://x.com/gdioiui/status/2024738494204301516/video/1",
+          "media_key": "13_2024737884234981376",
+          "start": 14,
+          "url": "https://t.co/oTMuk5CIAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024738494204301516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "智人TV\n家暴宣传片＞﹏＜ https://t.co/oTMuk5CIAl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94625,
+        "height": 1278,
+        "media_key": "13_2024737884234981376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024737884234981376/img/RbGG3wcRNw80r1gL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024737884234981376/vid/avc1/320x568/sMXf6rVvpkG7nTUZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024737884234981376/vid/avc1/480x852/mDsVf1YlYKerA6dD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024737884234981376/vid/avc1/720x1278/r57fU7auRO8vbgxq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024737884234981376/pl/fW50-5Kn-x4l7M31.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024737884234981376"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2024738494204301516",
+        "created_at": "2026-02-20T06:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024738494204301516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTMuk5CIAl",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/2024738494204301516/video/1",
+              "media_key": "13_2024737884234981376",
+              "start": 14,
+              "url": "https://t.co/oTMuk5CIAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024738494204301516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智人TV\n家暴宣传片＞﹏＜ https://t.co/oTMuk5CIAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 319,
+          "like_count": 2861,
+          "listed_count": 1,
+          "media_count": 649,
+          "tweet_count": 4562
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

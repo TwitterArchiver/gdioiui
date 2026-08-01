@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2068170121898762318",
+    "created_at": "2026-06-21T14:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068702349925962058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761710738496970752",
+          "start": 0,
+          "username": "fish1072297057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068702349925962058",
+    "in_reply_to_user_id": "1761710738496970752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068665353949843718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fish1072297057 唯一不一样的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2068170121898762318",
+        "created_at": "2026-06-21T14:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068702349925962058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761710738496970752",
+              "start": 0,
+              "username": "fish1072297057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068702349925962058",
+        "in_reply_to_user_id": "1761710738496970752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068665353949843718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fish1072297057 唯一不一样的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761710738496970752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2068170121898762318",
+        "created_at": "2026-06-21T12:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068665353949843718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068665353949843718",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068170121898762318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 细节Firefox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 479,
+          "like_count": 4244,
+          "listed_count": 3,
+          "media_count": 1458,
+          "tweet_count": 7763
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T11:12:32.000Z",
+        "description": "谢谢你来看我的NPC生活                            \n 愛看看不愛看滾，沒人逼你看我的帖子                          \n小群 https://t.co/dn13VDLlXU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/flyingfishfurry",
+                "end": 112,
+                "expanded_url": "https://t.me/flyingfishfurry",
+                "start": 89,
+                "url": "https://t.co/dn13VDLlXU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flying-fish.pages.dev",
+                "end": 23,
+                "expanded_url": "https://flying-fish.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/LkgOvRkRQd"
+              }
+            ]
+          }
+        },
+        "id": "1761710738496970752",
+        "location": "North Korea",
+        "name": "FLYINGFISH飛魚♿星瀾特快(?♿R.I.P",
+        "pinned_tweet_id": "2009990115293319521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956419921380012032/ZZJ8UU4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 729,
+          "like_count": 10425,
+          "listed_count": 3,
+          "media_count": 1333,
+          "tweet_count": 13594
+        },
+        "url": "https://t.co/LkgOvRkRQd",
+        "username": "fish1072297057",
+        "verified": false
+      }
+    ]
+  }
+}

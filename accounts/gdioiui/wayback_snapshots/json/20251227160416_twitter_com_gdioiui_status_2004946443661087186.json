@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2004841369597329489",
+    "created_at": "2025-12-27T16:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004946443661087186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830528840499896320",
+          "start": 0,
+          "username": "Aspartic_0721"
+        },
+        {
+          "end": 29,
+          "id": "1622987945895677954",
+          "start": 15,
+          "username": "xingkongmiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004946443661087186",
+    "in_reply_to_user_id": "1830528840499896320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004946342490374395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aspartic_0721 @xingkongmiao_ 我也是a\n好难买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2004841369597329489",
+        "created_at": "2025-12-27T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004946443661087186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830528840499896320",
+              "start": 0,
+              "username": "Aspartic_0721"
+            },
+            {
+              "end": 29,
+              "id": "1622987945895677954",
+              "start": 15,
+              "username": "xingkongmiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004946443661087186",
+        "in_reply_to_user_id": "1830528840499896320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004946342490374395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aspartic_0721 @xingkongmiao_ 我也是a\n好难买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830528840499896320",
+        "conversation_id": "2004841369597329489",
+        "created_at": "2025-12-27T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004946342490374395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 23,
+              "id": "1622987945895677954",
+              "start": 9,
+              "username": "xingkongmiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004946342490374395",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004946182829998224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @xingkongmiao_ 年底业绩这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 163,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2568
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T08:51:10.000Z",
+        "description": "我是天冬❤️丨🍥2023.9.2 Hrt🏳️‍⚧️丨平淡小女孩丨 ASD 跟 ADHD 丨\n『いよわ』Suki！！！丨会对对我友善的人友善丨最可爱的姐姐@xiangwangduolu1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "xiangwangduolu1"
+              }
+            ]
+          }
+        },
+        "id": "1830528840499896320",
+        "name": "🍥天冬天冬🏳️‍⚧️🍻NMDA受体",
+        "pinned_tweet_id": "1993031955206881669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997954606949937152/itEnPKmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 133,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 785
+        },
+        "username": "Aspartic_0721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T15:57:43.000Z",
+        "description": "星空. 持证含糖mtx/重抑重焦 双相/病娇/地雷女/estp esfp(?/在上海 310",
+        "id": "1622987945895677954",
+        "name": "小星空.🍥",
+        "pinned_tweet_id": "1859192967782957483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622993430799597569/QTafnAc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 296,
+          "like_count": 6238,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 2667
+        },
+        "username": "xingkongmiao_",
+        "verified": false
+      }
+    ]
+  }
+}

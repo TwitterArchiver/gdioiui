@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2082495145442992478",
+    "created_at": "2026-07-30T08:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082742169971089803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566670035560513536",
+          "start": 0,
+          "username": "YoyouDiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082742169971089803",
+    "in_reply_to_user_id": "1566670035560513536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082495145442992478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoyouDiin 没事 断个头照样用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082495142511181824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaCTG_bAAAuZWu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2082495145442992478",
+        "created_at": "2026-07-30T08:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082742169971089803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566670035560513536",
+              "start": 0,
+              "username": "YoyouDiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082742169971089803",
+        "in_reply_to_user_id": "1566670035560513536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082495145442992478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoyouDiin 没事 断个头照样用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082495142511181824"
+          ]
+        },
+        "author_id": "1566670035560513536",
+        "conversation_id": "2082495145442992478",
+        "created_at": "2026-07-29T15:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082495145442992478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTWWzkVerQ",
+              "end": 38,
+              "expanded_url": "https://x.com/YoyouDiin/status/2082495145442992478/photo/1",
+              "media_key": "3_2082495142511181824",
+              "start": 15,
+              "url": "https://t.co/wTWWzkVerQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082495145442992478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 715,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "涂的时候不小心把卡尺掰断了喵 https://t.co/wTWWzkVerQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 493,
+          "like_count": 4781,
+          "listed_count": 4,
+          "media_count": 1663,
+          "tweet_count": 8551
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|INFP|性别焦虑9年，弄清自己是mtf 从 4 月起|家长不管却反复阻挠党|性别烦躁致抑郁发作|抑郁发作导致炸柜|割手手 5 年|戒 o 戒割中|hrt",
+        "id": "1566670035560513536",
+        "name": "𝓨𝓸𝔂𝓸𝓾𝓓𝓲𝓲𝓷丁语瑶🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078146571594833920/s9Q3yqho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 409,
+          "like_count": 345,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "YoyouDiin",
+        "verified": false
+      }
+    ]
+  }
+}

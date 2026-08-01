@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2003680270902526002",
+    "created_at": "2025-12-24T14:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T15:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003836523930845565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627197826332778496",
+          "start": 0,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003836523930845565",
+    "in_reply_to_user_id": "1627197826332778496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003680270902526002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ochette_ 支持喵 反同学党建立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2003680270902526002",
+        "created_at": "2025-12-24T14:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003836523930845565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627197826332778496",
+              "start": 0,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003836523930845565",
+        "in_reply_to_user_id": "1627197826332778496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003680270902526002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ochette_ 支持喵 反同学党建立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627197826332778496",
+        "conversation_id": "2003680270902526002",
+        "created_at": "2025-12-24T04:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003680270902526002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/gdioiui/status/2003479182857363866",
+              "start": 8,
+              "url": "https://t.co/EJZdLmss0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003680270902526002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003479182857363866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同学都是坏人！ https://t.co/EJZdLmss0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 140,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "爱说梦话（👈🏻其实这个入自己也不知道自己在说什么",
+        "id": "1627197826332778496",
+        "name": "xx☁️🍥",
+        "pinned_tweet_id": "1846472918810906750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984019774846767104/g9Quty5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 461,
+          "like_count": 3686,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 862
+        },
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

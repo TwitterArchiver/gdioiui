@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007018290280083842",
+    "created_at": "2026-01-02T09:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007018290280083842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2006999434375430541",
+          "start": 20,
+          "url": "https://t.co/3RReyOXSDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007018290280083842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006999434375430541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "doro最伤人的一集(˃ ⌑ ˂ഃ ) https://t.co/3RReyOXSDb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007018290280083842",
+        "created_at": "2026-01-02T09:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007018290280083842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2006999434375430541",
+              "start": 20,
+              "url": "https://t.co/3RReyOXSDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007018290280083842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006999434375430541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "doro最伤人的一集(˃ ⌑ ˂ഃ ) https://t.co/3RReyOXSDb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2006999434375430541",
+        "created_at": "2026-01-02T08:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006999434375430541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006999434375430541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1217,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一个尺度比较大的问题，就是怎么做到一天到晚都没人找你聊天，然后你也没对象，还能玩手机到半夜一两点才睡觉的？我怎么想都想不明白，你们到底是咋做到的，我真不明白。\n哇我破防了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 224,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2006949069026156584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9857,
+          "following_count": 3645,
+          "like_count": 71054,
+          "listed_count": 17,
+          "media_count": 1590,
+          "tweet_count": 16270
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

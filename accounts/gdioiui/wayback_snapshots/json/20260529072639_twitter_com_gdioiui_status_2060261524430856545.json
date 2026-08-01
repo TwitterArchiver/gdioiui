@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060053842298102023",
+    "created_at": "2026-05-29T07:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060261524430856545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1719546310343421952",
+          "start": 0,
+          "username": "lob040785947053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060261524430856545",
+    "in_reply_to_user_id": "1719546310343421952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060260741119107236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lob040785947053 哎.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060053842298102023",
+        "created_at": "2026-05-29T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060261524430856545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1719546310343421952",
+              "start": 0,
+              "username": "lob040785947053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060261524430856545",
+        "in_reply_to_user_id": "1719546310343421952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060260741119107236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lob040785947053 哎.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719546310343421952",
+        "conversation_id": "2060053842298102023",
+        "created_at": "2026-05-29T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060260741119107236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060260741119107236",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060053842298102023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 劝别人自杀就很邪恶了\n但印象中在推特刷到的自杀贴，绝大部分是跨性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 470,
+          "like_count": 3937,
+          "listed_count": 3,
+          "media_count": 1318,
+          "tweet_count": 7116
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T02:46:15.000Z",
+        "description": "好奇东亚和其他国家文化、日常生活 | 想听不同国家的人分享真实故事 | 欢迎各国朋友聊天",
+        "id": "1719546310343421952",
+        "location": "Congo Brazzaville",
+        "name": "秋风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721933426121687042/_ZHTacg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 488,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 661
+        },
+        "username": "lob040785947053",
+        "verified": false
+      }
+    ]
+  }
+}

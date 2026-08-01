@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991142886734176494",
+    "created_at": "2025-11-19T16:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T17:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991178389399416863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "344165300",
+          "start": 0,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991178389399416863",
+    "in_reply_to_user_id": "344165300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991142886734176494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senchannya 支持 哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991142883899150337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6H150PbEAENW1K.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991142886734176494",
+        "created_at": "2025-11-19T16:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991178389399416863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "344165300",
+              "start": 0,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991178389399416863",
+        "in_reply_to_user_id": "344165300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991142886734176494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senchannya 支持 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991142883899150337"
+          ]
+        },
+        "author_id": "344165300",
+        "conversation_id": "1991142886734176494",
+        "created_at": "2025-11-19T13:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991142886734176494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUiueneUyS",
+              "end": 54,
+              "expanded_url": "https://x.com/senchannya/status/1991142886734176494/photo/1",
+              "media_key": "3_1991142883899150337",
+              "start": 31,
+              "url": "https://t.co/JUiueneUyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991142886734176494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜你听我解释啊，虽然是我家长证，但是我家长真的同意我买的喵 https://t.co/JUiueneUyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 44,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "https://t.co/yGbV7dZCWd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sen49029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sen49029",
+                "start": 0,
+                "url": "https://t.co/yGbV7dZCWd"
+              }
+            ]
+          }
+        },
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986602034980921346/1ztrZ5E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 146,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 149
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

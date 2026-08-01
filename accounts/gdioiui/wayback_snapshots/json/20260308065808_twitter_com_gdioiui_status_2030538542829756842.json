@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2030442540697305391",
+    "created_at": "2026-03-08T06:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T07:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030538542829756842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846283604839878656",
+          "start": 0,
+          "username": "jingyiAI066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030538542829756842",
+    "in_reply_to_user_id": "1846283604839878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030513442969559284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyiAI066 这就是牢保学校"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2030442540697305391",
+        "created_at": "2026-03-08T06:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030538542829756842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846283604839878656",
+              "start": 0,
+              "username": "jingyiAI066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030538542829756842",
+        "in_reply_to_user_id": "1846283604839878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030513442969559284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyiAI066 这就是牢保学校"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846283604839878656",
+        "conversation_id": "2030442540697305391",
+        "created_at": "2026-03-08T05:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030513442969559284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030513442969559284",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030442540697305391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 你这头发这么短了还能剪？剪成寸头吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 344,
+          "like_count": 3104,
+          "listed_count": 1,
+          "media_count": 782,
+          "tweet_count": 4999
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T20:14:56.000Z",
+        "description": "17-168-52，因为整个北方小县城没人懂bro，身边都是些月入3000爱聊俄乌战争的中登老登，所以在网上找树洞发，虽然是细狗但目前在健身，梦想是未来成为杭州亚文化男神🤫🗿另外想看我cos其他角色可以赞助我cos服➕妆造钱，我可以给你录一个定制祝福视频或者拍定制手写to签照片🤓（长期招聘知己合伙人中🤓）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/ATvC1AJJYOT",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/ATvC1AJJYOT",
+                "start": 0,
+                "url": "https://t.co/gJnO8RycG9"
+              }
+            ]
+          }
+        },
+        "id": "1846283604839878656",
+        "location": "北方不知名小县城",
+        "name": "全县城最忧郁的燃气工",
+        "pinned_tweet_id": "2028744021850701971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027392925446070272/P8vrCihc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 21,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/gJnO8RycG9",
+        "username": "jingyiAI066",
+        "verified": false
+      }
+    ]
+  }
+}

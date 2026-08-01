@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2071040772263358963",
+    "created_at": "2026-06-28T01:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071040772263358963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Theprophetsfox…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Theprophetsfox/status/2070801472678424974",
+          "start": 21,
+          "url": "https://t.co/GnaNnfMl8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071040772263358963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070801472678424974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别担心 窝16岁的时候就不可能产生后代了 https://t.co/GnaNnfMl8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2070801470015057920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz29ySasAAeYhW.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2071040772263358963",
+        "created_at": "2026-06-28T01:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071040772263358963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Theprophetsfox…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Theprophetsfox/status/2070801472678424974",
+              "start": 21,
+              "url": "https://t.co/GnaNnfMl8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071040772263358963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070801472678424974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别担心 窝16岁的时候就不可能产生后代了 https://t.co/GnaNnfMl8G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070801470015057920"
+          ]
+        },
+        "author_id": "1921862257874702337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070801472678424974",
+        "created_at": "2026-06-27T09:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070801472678424974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1MlDp6OiF",
+              "end": 100,
+              "expanded_url": "https://x.com/Theprophetsfox/status/2070801472678424974/photo/1",
+              "media_key": "3_2070801470015057920",
+              "start": 77,
+              "url": "https://t.co/x1MlDp6OiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070801472678424974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不健康な生活習慣とエストロゲンの使用により、精子の質が著しく低下し、わずか23歳で妊娠できなくなってしまいました。両親にはこのことを話したくないんです… https://t.co/x1MlDp6OiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 481,
+          "like_count": 4286,
+          "listed_count": 3,
+          "media_count": 1486,
+          "tweet_count": 7874
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "日本語でのコミュニケーションにAI翻訳を使用していることをお許しください💦\n\n私は華夏地域出身のゲーマーオタクです！（旅行好き、コスプレイヤー、詩人）\n\n私の投稿には、日常会話、AI作品、ゲーム、薬物乱用、ポルノ写真、面白い見聞、再投稿などが含まれる場合があります…\n\nぜひお友達になってください！（◍˃ᵕ˂◍）",
+        "id": "1921862257874702337",
+        "location": "トリニティ総合学園中央図書館",
+        "name": "北落師門",
+        "pinned_tweet_id": "2065485133504016613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065442815820345344/hWscjKJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 164,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1243
+        },
+        "url": "",
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}

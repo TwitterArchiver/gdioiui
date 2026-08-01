@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2007058376413602248",
+    "created_at": "2026-01-03T14:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007462106518470807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928799143033712644",
+          "start": 0,
+          "username": "LMZX286953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007462106518470807",
+    "in_reply_to_user_id": "1928799143033712644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007421249929261307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMZX286953 这也磕？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2007058376413602248",
+        "created_at": "2026-01-03T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007462106518470807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928799143033712644",
+              "start": 0,
+              "username": "LMZX286953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007462106518470807",
+        "in_reply_to_user_id": "1928799143033712644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007421249929261307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMZX286953 这也磕？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928799143033712644",
+        "conversation_id": "2007058376413602248",
+        "created_at": "2026-01-03T11:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007421249929261307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007421249929261307",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007058376413602248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 莫名好磕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 235,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 3258
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T13:02:26.000Z",
+        "description": "你好 Hola Hello नमस्ते Olá নমস্কার Привет  こんにちは ਸਤ ਸ੍ਰੀ ਅਕਾਲ Hallo Halo 안녕하세요 Bonjour నమస్కారం नमस्कार Merhaba  \nவணக்கம் 😘😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pct.monster",
+                "end": 23,
+                "expanded_url": "http://pct.monster",
+                "start": 0,
+                "url": "https://t.co/9irab8nNfb"
+              }
+            ]
+          }
+        },
+        "id": "1928799143033712644",
+        "location": "HELL",
+        "name": "?#?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994965535831068673/U-vK_aXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 264,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/9irab8nNfb",
+        "username": "LMZX286953",
+        "verified": false
+      }
+    ]
+  }
+}

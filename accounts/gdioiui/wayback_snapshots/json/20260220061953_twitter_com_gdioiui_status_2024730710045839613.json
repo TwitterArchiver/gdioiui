@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024730707143380994"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2024379486733812107",
+    "created_at": "2026-02-20T06:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024730710045839613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968444481553969152",
+          "start": 0,
+          "username": "kknoluvismine3"
+        },
+        {
+          "end": 27,
+          "id": "1813768883540725760",
+          "start": 16,
+          "username": "ye_and_yae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXB2Y0wuom",
+          "end": 51,
+          "expanded_url": "https://x.com/gdioiui/status/2024730710045839613/photo/1",
+          "media_key": "3_2024730707143380994",
+          "start": 28,
+          "url": "https://t.co/YXB2Y0wuom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024730710045839613",
+    "in_reply_to_user_id": "1968444481553969152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024712737390285188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 @ye_and_yae https://t.co/YXB2Y0wuom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2024730707143380994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlJ2cUbUAIOIOS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024730707143380994"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2024379486733812107",
+        "created_at": "2026-02-20T06:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024730710045839613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968444481553969152",
+              "start": 0,
+              "username": "kknoluvismine3"
+            },
+            {
+              "end": 27,
+              "id": "1813768883540725760",
+              "start": 16,
+              "username": "ye_and_yae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXB2Y0wuom",
+              "end": 51,
+              "expanded_url": "https://x.com/gdioiui/status/2024730710045839613/photo/1",
+              "media_key": "3_2024730707143380994",
+              "start": 28,
+              "url": "https://t.co/YXB2Y0wuom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024730710045839613",
+        "in_reply_to_user_id": "1968444481553969152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024712737390285188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 @ye_and_yae https://t.co/YXB2Y0wuom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968444481553969152",
+        "conversation_id": "2024379486733812107",
+        "created_at": "2026-02-20T05:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024712737390285188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 20,
+              "id": "1813768883540725760",
+              "start": 9,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024712737390285188",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024397958524154230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @ye_and_yae 跨出也配有家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 319,
+          "like_count": 2858,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 4559
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T22:38:35.000Z",
+        "description": "孔选仲就是毛腊肉转世，必须支持孔主席图纸，中国人就是👇➖，全都是三通一达的货色",
+        "id": "1968444481553969152",
+        "location": "IP属地：河北",
+        "name": "坚决拥护孔主席伟大思想",
+        "pinned_tweet_id": "2023478570073653487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021832020029276160/VbI1NMUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 93,
+          "like_count": 1645,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1438
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09年物化地高三生 o(╥﹏╥)o    喜欢Starship和其他所有火箭🚀    虽然是男生但是想要变得可爱(⑅˃◡˂⑅)  正在努力学日语 最喜欢神子了\n主人是 @YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "终有一天是Starbase和Mars",
+        "name": "爱晔",
+        "pinned_tweet_id": "2006056575874580946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017460182025179138/DHbQ3HXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 512,
+          "like_count": 1971,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

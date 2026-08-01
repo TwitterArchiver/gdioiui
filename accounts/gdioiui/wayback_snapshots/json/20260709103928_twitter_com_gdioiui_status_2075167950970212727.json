@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2075155768626790842",
+    "created_at": "2026-07-09T10:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075167950970212727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        },
+        {
+          "end": 20,
+          "id": "2002960318998491136",
+          "start": 12,
+          "username": "vokleer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075167950970212727",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075155768626790842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 @vokleer ........"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2075155754873745408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvKhbbcAAEj8L.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2075155762150805504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxvK8iakAAcCpl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2075155768626790842",
+        "created_at": "2026-07-09T10:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075167950970212727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            },
+            {
+              "end": 20,
+              "id": "2002960318998491136",
+              "start": 12,
+              "username": "vokleer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075167950970212727",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075155768626790842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 @vokleer ........"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075155754873745408",
+            "3_2075155762150805504"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "conversation_id": "2075155768626790842",
+        "created_at": "2026-07-09T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075155768626790842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "2002960318998491136",
+              "start": 37,
+              "username": "vokleer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgwwtozdGg",
+              "end": 91,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2075155768626790842/photo/1",
+              "media_key": "3_2075155754873745408",
+              "start": 68,
+              "url": "https://t.co/LgwwtozdGg"
+            },
+            {
+              "display_url": "pic.x.com/LgwwtozdGg",
+              "end": 91,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2075155768626790842/photo/1",
+              "media_key": "3_2075155762150805504",
+              "start": 68,
+              "url": "https://t.co/LgwwtozdGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075155768626790842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 309,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜...刚刚去医院,排尿不了...所以插了导尿管呜呜呜....谢谢姐姐@vokleer 陪我去医院....要不然我就死在家里了（） https://t.co/LgwwtozdGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 487,
+          "like_count": 4353,
+          "listed_count": 4,
+          "media_count": 1536,
+          "tweet_count": 8081
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n接圆角，坐标成都\n| 普通的上海入 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家长不管党（但经常吵架） | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 89,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2074169452921581680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 264,
+          "like_count": 5314,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T04:32:22.000Z",
+        "description": "2006/10/02 坐标成都喵｜小证2026.3.5｜大证准备中（家长已同意）｜看到我的话求求互fo喵｜妹妹@Snow_Xue_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Snow_Xue_1"
+              }
+            ]
+          }
+        },
+        "id": "2002960318998491136",
+        "name": "知言🍥（互fo喵）",
+        "pinned_tweet_id": "2052568366506729780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005331844280303616/0y2BfQK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 922,
+          "like_count": 3601,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "vokleer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2071753633482600512",
+    "created_at": "2026-06-30T23:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T00:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072094037021172207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072094037021172207",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071753633482600512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 欸？ 怎么会一起封啊...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2071753629007310848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBY8u8bcAAyaT6.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2071753629242163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBY8v0bAAAd3KF.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2071753630311743488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBY8zzbgAAESJj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2071753633482600512",
+        "created_at": "2026-06-30T23:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072094037021172207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072094037021172207",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071753633482600512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 欸？ 怎么会一起封啊...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071753629007310848",
+            "3_2071753629242163200",
+            "3_2071753630311743488"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2071753633482600512",
+        "created_at": "2026-06-30T00:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071753633482600512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1fx3Bil1E",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2071753633482600512/photo/1",
+              "media_key": "3_2071753629007310848",
+              "start": 29,
+              "url": "https://t.co/g1fx3Bil1E"
+            },
+            {
+              "display_url": "pic.x.com/g1fx3Bil1E",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2071753633482600512/photo/1",
+              "media_key": "3_2071753629242163200",
+              "start": 29,
+              "url": "https://t.co/g1fx3Bil1E"
+            },
+            {
+              "display_url": "pic.x.com/g1fx3Bil1E",
+              "end": 52,
+              "expanded_url": "https://x.com/aaarjkk/status/2071753633482600512/photo/1",
+              "media_key": "3_2071753630311743488",
+              "start": 29,
+              "url": "https://t.co/g1fx3Bil1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071753633482600512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的3个号同时出现封禁，还有一个已经卖出去了，😭😭😭😭😭 https://t.co/g1fx3Bil1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 486,
+          "like_count": 4305,
+          "listed_count": 3,
+          "media_count": 1496,
+          "tweet_count": 7934
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 924,
+          "like_count": 19808,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

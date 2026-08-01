@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994953820196278272"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994953822767366413",
+    "created_at": "2025-11-30T02:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994953822767366413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmwdPxm6TV",
+          "end": 48,
+          "expanded_url": "https://x.com/gdioiui/status/1994953822767366413/photo/1",
+          "media_key": "3_1994953820196278272",
+          "start": 25,
+          "url": "https://t.co/nmwdPxm6TV"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/gdioiui/status/1994952375271133584",
+          "start": 49,
+          "url": "https://t.co/H91dqpEuJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994953822767366413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994952375271133584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽默手机 \n睡着发消息这一块\n数据来自手机更难崩 https://t.co/nmwdPxm6TV https://t.co/H91dqpEuJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994953820196278272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69_7gQbkAAH3tL.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994953820196278272"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994953822767366413",
+        "created_at": "2025-11-30T02:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994953822767366413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmwdPxm6TV",
+              "end": 48,
+              "expanded_url": "https://x.com/gdioiui/status/1994953822767366413/photo/1",
+              "media_key": "3_1994953820196278272",
+              "start": 25,
+              "url": "https://t.co/nmwdPxm6TV"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/gdioiui/status/1994952375271133584",
+              "start": 49,
+              "url": "https://t.co/H91dqpEuJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994953822767366413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994952375271133584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默手机 \n睡着发消息这一块\n数据来自手机更难崩 https://t.co/nmwdPxm6TV https://t.co/H91dqpEuJr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1994952375271133584",
+        "created_at": "2025-11-30T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994952375271133584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 143,
+              "expanded_url": "https://x.com/gdioiui/status/1994853504616407450?t=n4l01T7cmQyqTPVXkUPA8A&s=19",
+              "start": 120,
+              "url": "https://t.co/ipuh0kTdsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994952375271133584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994853504616407450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好\n血压188（应该是误测当时一直抖，测的时候也抖）的我今早状态良好（需要再睡一会） \n好像被限流了 因为有点危险dT-Tb\n下面是谁的评论被删了？  \n说了什么啊？\n₍˄·͈༝·͈˄*₎◞ ̑̑以后不晚上搞了太夸张了\n后面补几个故事\nhttps://t.co/ipuh0kTdsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 91,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

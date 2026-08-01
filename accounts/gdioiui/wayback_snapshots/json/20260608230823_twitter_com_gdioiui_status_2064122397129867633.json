@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2064077863092166874",
+    "created_at": "2026-06-08T23:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064122397129867633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064122397129867633",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064077863092166874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 ....hyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2064077822260621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUT1-ibMAArcNm.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2064077822268948480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUT1-kaQAAX4vq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2064077821748895744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUT18oa4AAlQZR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2064077822256394240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUT1-hasAAmsNA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2064077863092166874",
+        "created_at": "2026-06-08T23:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064122397129867633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064122397129867633",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064077863092166874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 ....hyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064077822260621312",
+            "3_2064077822268948480",
+            "3_2064077821748895744",
+            "3_2064077822256394240"
+          ]
+        },
+        "author_id": "1896812508289404928",
+        "conversation_id": "2064077863092166874",
+        "created_at": "2026-06-08T20:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064077863092166874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSxVw46T2o",
+              "end": 41,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2064077863092166874/photo/1",
+              "media_key": "3_2064077822260621312",
+              "start": 18,
+              "url": "https://t.co/aSxVw46T2o"
+            },
+            {
+              "display_url": "pic.x.com/aSxVw46T2o",
+              "end": 41,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2064077863092166874/photo/1",
+              "media_key": "3_2064077822268948480",
+              "start": 18,
+              "url": "https://t.co/aSxVw46T2o"
+            },
+            {
+              "display_url": "pic.x.com/aSxVw46T2o",
+              "end": 41,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2064077863092166874/photo/1",
+              "media_key": "3_2064077821748895744",
+              "start": 18,
+              "url": "https://t.co/aSxVw46T2o"
+            },
+            {
+              "display_url": "pic.x.com/aSxVw46T2o",
+              "end": 41,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2064077863092166874/photo/1",
+              "media_key": "3_2064077822256394240",
+              "start": 18,
+              "url": "https://t.co/aSxVw46T2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064077863092166874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "学会拍脚，你会获得很多流量的\n🤓👍 https://t.co/aSxVw46T2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 476,
+          "like_count": 4082,
+          "listed_count": 3,
+          "media_count": 1383,
+          "tweet_count": 7476
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有阿斯伯格综合症患者一个🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳推止于推）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n出轨的老婆：@siangel0911\n逃生舱：@zhoyhng276158\n干女儿：@gdioiui\n（我是泛性恋😭不是一定就是同性恋😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "siangel0911"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 123,
+                "start": 115,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）人脉王🍥）",
+        "pinned_tweet_id": "2051636403281531157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024699703582224384/Oqfhnfhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 2201,
+          "like_count": 2456,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 4718
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

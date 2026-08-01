@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2074999999512060163",
+    "created_at": "2026-07-08T23:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074999999512060163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyclocean/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/cyclocean/status/2074763578037739545",
+          "start": 14,
+          "url": "https://t.co/zpA6zgIhoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074999999512060163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074763578037739545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求你别拿唐毓文看跨圈好吗？ https://t.co/zpA6zgIhoJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2074999999512060163",
+        "created_at": "2026-07-08T23:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074999999512060163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyclocean/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cyclocean/status/2074763578037739545",
+              "start": 14,
+              "url": "https://t.co/zpA6zgIhoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074999999512060163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763578037739545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你别拿唐毓文看跨圈好吗？ https://t.co/zpA6zgIhoJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074466204031586304",
+        "conversation_id": "2074729981708779940",
+        "created_at": "2026-07-08T07:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074763578037739545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074763578037739545",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074729981708779940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 我还以为磕药的多像女的呢，这不还是男的吗？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 486,
+          "like_count": 4346,
+          "listed_count": 4,
+          "media_count": 1532,
+          "tweet_count": 8059
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T12:11:59.000Z",
+        "description": "变化万千心如常，男儿何须把貌藏？\n图腾方显阳刚美，披风当衬威风郎！",
+        "id": "2074466204031586304",
+        "name": "惘燃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074468285241028609/k7CkhC6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "cyclocean",
+        "verified": false
+      }
+    ]
+  }
+}

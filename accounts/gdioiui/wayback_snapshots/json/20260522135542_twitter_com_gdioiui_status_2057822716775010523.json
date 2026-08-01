@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057598846570733901",
+    "created_at": "2026-05-22T13:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057822716775010523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813552253875392512",
+          "start": 0,
+          "username": "thomaswade53394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057822716775010523",
+    "in_reply_to_user_id": "1813552253875392512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057600363189158333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thomaswade53394 对的 然后今天复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057598846570733901",
+        "created_at": "2026-05-22T13:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057822716775010523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813552253875392512",
+              "start": 0,
+              "username": "thomaswade53394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057822716775010523",
+        "in_reply_to_user_id": "1813552253875392512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057600363189158333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thomaswade53394 对的 然后今天复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813552253875392512",
+        "conversation_id": "2057598846570733901",
+        "created_at": "2026-05-21T23:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057600363189158333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057600363189158333",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057598846570733901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 群主你号没了好像……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 463,
+          "like_count": 3837,
+          "listed_count": 3,
+          "media_count": 1264,
+          "tweet_count": 6836
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T12:32:18.000Z",
+        "description": "08/高中牲/189cm/70kg/泛性恋/INFP/轻微PTSD/偶尔抑郁和焦虑/缺钱/国家一级保护废物/想成为一个温柔的人/在做心理疏导/Q：2975472226/TG:https://t.co/j4EBn7vbdo /请注明来意/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 110,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 87,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 23,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 0,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          }
+        },
+        "id": "1813552253875392512",
+        "location": "CoBeTckag CoynanucTuyeckag Pec",
+        "name": "隐月🍥",
+        "pinned_tweet_id": "1901407756684566961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893289318472376320/8Y0W_UaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1967,
+          "like_count": 1451,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/j4EBn7vbdo",
+        "username": "thomaswade53394",
+        "verified": false
+      }
+    ]
+  }
+}

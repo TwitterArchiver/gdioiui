@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2012050104476225619",
+    "created_at": "2026-01-16T14:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012164440037163096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnDVz0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012164440037163096",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012135275573739689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnDVz0G qwq 开证什么的算了吧 再出个柜窝几条命都不够用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2012050104476225619",
+        "created_at": "2026-01-16T14:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012164440037163096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnDVz0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012164440037163096",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012135275573739689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnDVz0G qwq 开证什么的算了吧 再出个柜窝几条命都不够用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985370178929045504",
+        "conversation_id": "2012050104476225619",
+        "created_at": "2026-01-16T12:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012135275573739689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012135275573739689",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012050104476225619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 看了你已经去线下看过了，如果你看情绪之类的儿少科可以的，如果你看od，直接去解断科，如果你去看跨性别一类的(云南所有医院都不推荐，实在不行可以去红会，mtf.wik上有我开证的经历)，希望你心之所想都可以解决(七彩心医改版以后太难用了)。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 291,
+          "like_count": 2202,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 3794
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "东西没了说明另一个我跑出来了",
+        "id": "985370178929045504",
+        "name": "卖橘子的小埋",
+        "pinned_tweet_id": "1962203497342087607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999522378901258244/ZvJvtCQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 248,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "jYiCHRgvKnDVz0G",
+        "verified": false
+      }
+    ]
+  }
+}

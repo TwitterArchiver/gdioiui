@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027356373198217355",
+    "created_at": "2026-02-27T13:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027374451499925842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829558386796482565",
+          "start": 0,
+          "username": "GLgl9685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027374451499925842",
+    "in_reply_to_user_id": "1829558386796482565",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027368366479130983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLgl9685 ..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027356373198217355",
+        "created_at": "2026-02-27T13:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027374451499925842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829558386796482565",
+              "start": 0,
+              "username": "GLgl9685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027374451499925842",
+        "in_reply_to_user_id": "1829558386796482565",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027368366479130983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLgl9685 ..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829558386796482565",
+        "conversation_id": "2027356373198217355",
+        "created_at": "2026-02-27T13:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027368366479130983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027368366479130983",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027356373198217355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 338,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 4764
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T16:34:56.000Z",
+        "description": "/在校穷鬼大学生/HEMA爱好者以及刀剑爱好者/友跨（坚决不翻车！）/喜欢看男娘",
+        "id": "1829558386796482565",
+        "location": "哪里都是",
+        "name": "广林",
+        "pinned_tweet_id": "2002618880376910089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012486256899264512/t01ju9jR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 461,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1526
+        },
+        "username": "GLgl9685",
+        "verified": false
+      }
+    ]
+  }
+}

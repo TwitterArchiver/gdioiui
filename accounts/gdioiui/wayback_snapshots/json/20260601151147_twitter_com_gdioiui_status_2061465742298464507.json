@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2061346127769698615",
+    "created_at": "2026-06-01T15:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061465742298464507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061465742298464507",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061346127769698615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 额 你可以vps设置路由规则 然后把x的出口专门改掉就可以啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_2061346124863242240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtfYQuaAAAcZEB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2061346127769698615",
+        "created_at": "2026-06-01T15:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061465742298464507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061465742298464507",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061346127769698615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 额 你可以vps设置路由规则 然后把x的出口专门改掉就可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061346124863242240"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "conversation_id": "2061346127769698615",
+        "created_at": "2026-06-01T07:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061346127769698615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQ0hvZE0M5",
+              "end": 149,
+              "expanded_url": "https://x.com/Hiime0/status/2061346127769698615/photo/1",
+              "media_key": "3_2061346124863242240",
+              "start": 126,
+              "url": "https://t.co/EQ0hvZE0M5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061346127769698615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好烦。\n这个节点我真的不想去整了。\n说是说需要原生住宅ip，这样不会被限流。\n但我再也找不到这样的节点了，唯一一个被64降网速没法用了。\n我整这个到底为了点什么呢，我连X背后的推送机制都没搞懂，却追求着所谓的“正常”。\n以我的精神状况，忙这些不合适。\n但恰恰是因为我的精神状况，我才会逼自己忙这些。\n啊，虚无缥缈。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦。\n这个节点我真的不想去整了。\n说是说需要原生住宅ip，这样不会被限流。\n但我再也找不到这样的节点了，唯一一个被64降网速没法用了。\n我整这个到底为了点什么呢，我连X背后的推送机制都没搞懂，却追求着所谓的“正常”。\n以我的精神状况，忙这些不合适。 https://t.co/EQ0hvZE0M5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 476,
+          "like_count": 4004,
+          "listed_count": 3,
+          "media_count": 1348,
+          "tweet_count": 7298
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "07｜🍥无证含糖｜深柜｜常驻上海｜中断的艺术生｜双相混合状态/激越症｜未od割手, 暂时......｜好难受 , 每天都想死……【绍介详情见置顶帖】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝐻𝑖𝑖𝑚𝑒🍡🍥",
+        "pinned_tweet_id": "2055602008976199849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 243,
+          "like_count": 638,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

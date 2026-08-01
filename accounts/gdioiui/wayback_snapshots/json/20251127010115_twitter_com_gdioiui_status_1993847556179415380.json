@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993608901569499310",
+    "created_at": "2025-11-27T01:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T02:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993847556179415380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913535505230442497",
+          "start": 0,
+          "username": "3638349600Ogas"
+        },
+        {
+          "end": 28,
+          "id": "1819724915094032385",
+          "start": 16,
+          "username": "kumo_akiyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993847556179415380",
+    "in_reply_to_user_id": "1913535505230442497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993640865869492331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3638349600Ogas @kumo_akiyuu 好像是要西柚才有用吧，这种合成果汁不知道还有没有成分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993608901569499310",
+        "created_at": "2025-11-27T01:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993847556179415380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913535505230442497",
+              "start": 0,
+              "username": "3638349600Ogas"
+            },
+            {
+              "end": 28,
+              "id": "1819724915094032385",
+              "start": 16,
+              "username": "kumo_akiyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993847556179415380",
+        "in_reply_to_user_id": "1913535505230442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993640865869492331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3638349600Ogas @kumo_akiyuu 好像是要西柚才有用吧，这种合成果汁不知道还有没有成分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913535505230442497",
+        "conversation_id": "1993608901569499310",
+        "created_at": "2025-11-26T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993640865869492331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819724915094032385",
+              "start": 0,
+              "username": "kumo_akiyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993640865869492331",
+        "in_reply_to_user_id": "1819724915094032385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993639191251660855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumo_akiyuu 阿鹊没有o右美，阿鹊喝水溶c只是为了补充维生素。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 74,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "一个普通天残木桶饭的日记本/无证含糖中/生物，医学爱好/BME/安东星空格猴子/多径爬虫/双相焦虑/伪音练习中/喜欢《少女终末旅行》和《神之塔》  /同类互fo/       \n                             愿我们都有沐浴在阳光下的未来，想要记住所有的人所有的事，带着所有珍贵的记忆迎接那一天",
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "🍥阿德利鹊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913535787137978368/LXLCz04k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 326,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 195
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T13:20:28.000Z",
+        "description": "#MTF倾向#喜欢cos#同人作者#百合控#摆烂大学生||\n如繁花般绽放，同随花火消散||\n那一天，我们化为了泡沫，破碎在夕方的晚霞边。||",
+        "id": "1819724915094032385",
+        "location": "Japan",
+        "name": "阳曇秋夕",
+        "pinned_tweet_id": "1993263298389688325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990817346009837569/XRyXzDEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 27,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 130
+        },
+        "username": "kumo_akiyuu",
+        "verified": false
+      }
+    ]
+  }
+}

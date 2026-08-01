@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2006227012525167040",
+    "created_at": "2025-12-31T04:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006227012525167040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QingMeimm/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/QingMeimm/status/2005884751308095928",
+          "start": 15,
+          "url": "https://t.co/0ZBdis9QL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006227012525167040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005884751308095928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请给我30大寿包2万 谢谢喵 https://t.co/0ZBdis9QL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2005884724406091776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZVh3qbgAAfVA4.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006227012525167040",
+        "created_at": "2025-12-31T04:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006227012525167040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QingMeimm/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/QingMeimm/status/2005884751308095928",
+              "start": 15,
+              "url": "https://t.co/0ZBdis9QL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006227012525167040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005884751308095928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请给我30大寿包2万 谢谢喵 https://t.co/0ZBdis9QL1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005884724406091776"
+          ]
+        },
+        "author_id": "1943197408386813953",
+        "conversation_id": "2005884751308095928",
+        "created_at": "2025-12-30T06:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005884751308095928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lgeo8it8pa",
+              "end": 42,
+              "expanded_url": "https://x.com/QingMeimm/status/2005884751308095928/photo/1",
+              "media_key": "3_2005884724406091776",
+              "start": 19,
+              "url": "https://t.co/Lgeo8it8pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005884751308095928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么能有这种人，活到50很难吗😡😡😡 https://t.co/Lgeo8it8pa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 187,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T06:36:11.000Z",
+        "description": "06年的小药药🍥   ▏HRT25. 11.6   ▏不键政不od不割手不瑟瑟   ▏可能是双向   ▏情绪不算太稳定会有负能   ▏同类欢迎来互fo   ▏音游这块只会4k    ▏喵～～总之就是最喜欢的露露姐姐喵～～@Yayoi_Ciallo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "Yayoi_Ciallo"
+              }
+            ]
+          }
+        },
+        "id": "1943197408386813953",
+        "name": "青梅🍥",
+        "pinned_tweet_id": "2004825009752342830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004811882017030145/nt3ORGxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 198,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 295
+        },
+        "username": "QingMeimm",
+        "verified": false
+      }
+    ]
+  }
+}

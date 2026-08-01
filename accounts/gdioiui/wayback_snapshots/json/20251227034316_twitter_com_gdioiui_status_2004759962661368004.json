@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2004759962661368004",
+    "created_at": "2025-12-27T03:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004759962661368004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dingansich8964…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/dingansich8964/status/2004699671122641136",
+          "start": 13,
+          "url": "https://t.co/xJbuqVr7Tj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004759962661368004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004699671122641136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝要学计算机\n我爱计算机 https://t.co/xJbuqVr7Tj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004699668135952384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9IfuhCWQAA-_v-.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2004759962661368004",
+        "created_at": "2025-12-27T03:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004759962661368004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingansich8964…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/dingansich8964/status/2004699671122641136",
+              "start": 13,
+              "url": "https://t.co/xJbuqVr7Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004759962661368004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004699671122641136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝要学计算机\n我爱计算机 https://t.co/xJbuqVr7Tj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004699668135952384"
+          ]
+        },
+        "author_id": "1748531675573964800",
+        "conversation_id": "2004517062509826386",
+        "created_at": "2025-12-26T23:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T00:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004699671122641136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZeCc1KxCu",
+              "end": 48,
+              "expanded_url": "https://x.com/dingansich8964/status/2004699671122641136/photo/1",
+              "media_key": "3_2004699668135952384",
+              "start": 25,
+              "url": "https://t.co/3ZeCc1KxCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004699671122641136",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1566,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004517062509826386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 一段時間後…… https://t.co/3ZeCc1KxCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 159,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 2497
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "休假中，癱。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。喜歡發牢騷，碎碎唸。「だって、私、追いかけるのが好きなんだもの。」電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984133882594402304/iQ-0FrZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 61,
+          "like_count": 36294,
+          "listed_count": 5,
+          "media_count": 1127,
+          "tweet_count": 10266
+        },
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

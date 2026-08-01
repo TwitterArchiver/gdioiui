@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2026909985473720388",
+    "created_at": "2026-05-14T14:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054929897697742953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990092720887771136",
+          "start": 0,
+          "username": "Solitudecpas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054929897697742953",
+    "in_reply_to_user_id": "1990092720887771136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054861442919055553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitudecpas 我卖尼玛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2026909985473720388",
+        "created_at": "2026-05-14T14:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054929897697742953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990092720887771136",
+              "start": 0,
+              "username": "Solitudecpas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054929897697742953",
+        "in_reply_to_user_id": "1990092720887771136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054861442919055553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitudecpas 我卖尼玛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990092720887771136",
+        "conversation_id": "2026909985473720388",
+        "created_at": "2026-05-14T09:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054861442919055553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054861442919055553",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026909985473720388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 不是第一次买你卖这么贵操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2053419810818760799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 432,
+          "like_count": 3770,
+          "listed_count": 3,
+          "media_count": 1218,
+          "tweet_count": 6592
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T16:21:10.000Z",
+        "description": "shedding tears alone，is a pain nothing can amount to",
+        "id": "1990092720887771136",
+        "location": "New York, USA",
+        "name": "Solitude.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014921878461145088/8y7ofirJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 42,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "Solitudecpas",
+        "verified": false
+      }
+    ]
+  }
+}

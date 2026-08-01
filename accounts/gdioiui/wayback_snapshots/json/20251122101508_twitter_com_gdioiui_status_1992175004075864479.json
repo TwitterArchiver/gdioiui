@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991883574472257701",
+    "created_at": "2025-11-22T10:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992175004075864479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "964534819664289792",
+          "start": 0,
+          "username": "SujitGund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992175004075864479",
+    "in_reply_to_user_id": "964534819664289792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992165132676599828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SujitGund 不卖谢谢😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991883574472257701",
+        "created_at": "2025-11-22T10:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992175004075864479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "964534819664289792",
+              "start": 0,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992175004075864479",
+        "in_reply_to_user_id": "964534819664289792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992165132676599828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SujitGund 不卖谢谢😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964534819664289792",
+        "conversation_id": "1991883574472257701",
+        "created_at": "2025-11-22T09:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992165132676599828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992165132676599828",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992148734017437781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 其实我就想表达这个意思😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 50,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "你好，我使用绪山真寻的头像，并不代表我是跨性别者，我再次澄清这一事实，谢谢。Hello, I use the anime avatar of Oyama Mahiro. This does not mean I am a transgender person. Thank you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.com",
+                "end": 23,
+                "expanded_url": "http://X.com",
+                "start": 0,
+                "url": "https://t.co/hBbyQdZmLl"
+              }
+            ]
+          }
+        },
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "寻明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988579075838103552/H4D3dpZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 165,
+          "like_count": 14055,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/hBbyQdZmLl",
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

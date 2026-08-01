@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2017483121458090102",
+    "created_at": "2026-02-01T01:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017770391830466783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960974569722011648",
+          "start": 0,
+          "username": "xiaokou100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017770391830466783",
+    "in_reply_to_user_id": "1960974569722011648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017673957848342687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokou100204 OVO.....不要o这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2017483121458090102",
+        "created_at": "2026-02-01T01:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017770391830466783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960974569722011648",
+              "start": 0,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017770391830466783",
+        "in_reply_to_user_id": "1960974569722011648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017673957848342687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokou100204 OVO.....不要o这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960974569722011648",
+        "conversation_id": "2017483121458090102",
+        "created_at": "2026-01-31T18:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017673957848342687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017673957848342687",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017483121458090102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我也想o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 290,
+          "like_count": 2569,
+          "listed_count": 1,
+          "media_count": 536,
+          "tweet_count": 4133
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:55:54.000Z",
+        "description": "不更黄了",
+        "id": "1960974569722011648",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "扌口口口",
+        "pinned_tweet_id": "1999818853568684236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 16,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 649
+        },
+        "username": "xiaokou100204",
+        "verified": false
+      }
+    ]
+  }
+}

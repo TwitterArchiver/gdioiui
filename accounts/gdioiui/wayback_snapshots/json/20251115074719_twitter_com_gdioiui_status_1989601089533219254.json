@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1989601089533219254",
+    "created_at": "2025-11-15T07:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989601089533219254"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "福利"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777393785040949248",
+          "start": 3,
+          "username": "huliyaoshang"
+        },
+        {
+          "end": 114,
+          "id": "1777393785040949248",
+          "start": 101,
+          "username": "huliyaoshang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989601089533219254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989185760759795950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huliyaoshang: #福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1989185752958377984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sB5zVaIAAUg5j.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1989601089533219254",
+        "created_at": "2025-11-15T07:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989601089533219254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "福利"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777393785040949248",
+              "start": 3,
+              "username": "huliyaoshang"
+            },
+            {
+              "end": 114,
+              "id": "1777393785040949248",
+              "start": 101,
+              "username": "huliyaoshang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989601089533219254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989185760759795950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huliyaoshang: #福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989185752958377984"
+          ]
+        },
+        "author_id": "1777393785040949248",
+        "conversation_id": "1989185760759795950",
+        "created_at": "2025-11-14T04:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989185760759795950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "福利"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 96,
+              "id": "1777393785040949248",
+              "start": 83,
+              "username": "huliyaoshang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFkgGq9jhW",
+              "end": 161,
+              "expanded_url": "https://x.com/huliyaoshang/status/1989185760759795950/photo/1",
+              "media_key": "3_1989185752958377984",
+              "start": 138,
+              "url": "https://t.co/gFkgGq9jhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185760759795950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10465,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "#福利 #抽奖\n \n🦊免费送韩国补佳乐30盒 \n \n抽奖方式：评论狐狸666 +转推\n \n抽到的私信发地址就行\n最晚下周出结果\n\n动动手支持一下狐狸 \n谢谢姐妹啦\n\n@huliyaoshang\n\n——————————————\n\n另外\n日雌 土色 泰补 凝胶 减肥针 常年有货 https://t.co/gFkgGq9jhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 38,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T17:51:45.000Z",
+        "description": "狐狸新号 买糖家微 huli048/huli049日雌340泰补190#电报一群 https://t.co/G6xeQdiuhI 二群 https://t.co/bDbCVk0GDP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ilNIl6DsSFJjO…",
+                "end": 64,
+                "expanded_url": "https://t.me/+ilNIl6DsSFJjOTBl",
+                "start": 41,
+                "url": "https://t.co/G6xeQdiuhI"
+              },
+              {
+                "display_url": "t.me/+XpMHG8JZx3g0M…",
+                "end": 91,
+                "expanded_url": "https://t.me/+XpMHG8JZx3g0MWY1",
+                "start": 68,
+                "url": "https://t.co/bDbCVk0GDP"
+              }
+            ]
+          }
+        },
+        "id": "1777393785040949248",
+        "location": "Hong Kong",
+        "name": "狐狸糖MTF🍬（全网最低价）",
+        "pinned_tweet_id": "1898264492313919968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898599340261953536/gtOCR0mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 98,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 12,
+          "tweet_count": 16
+        },
+        "username": "huliyaoshang",
+        "verified": false
+      }
+    ]
+  }
+}

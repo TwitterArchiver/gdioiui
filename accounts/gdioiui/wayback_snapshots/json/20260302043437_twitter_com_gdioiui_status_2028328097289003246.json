@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028328032621203456"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2028328097289003246",
+    "created_at": "2026-03-02T04:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028328097289003246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wl9xo5Hlg",
+          "end": 33,
+          "expanded_url": "https://x.com/gdioiui/status/2028328097289003246/photo/1",
+          "media_key": "3_2028328032621203456",
+          "start": 10,
+          "url": "https://t.co/9wl9xo5Hlg"
+        },
+        {
+          "display_url": "x.com/baiyuewww/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/baiyuewww/status/2028308977059061942",
+          "start": 34,
+          "url": "https://t.co/6T4tWHOf4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028328097289003246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028308977059061942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "泥苦一下不就好了😡 https://t.co/9wl9xo5Hlg https://t.co/6T4tWHOf4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028328032621203456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYRmWBakAAWv4N.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028328032621203456"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2028328097289003246",
+        "created_at": "2026-03-02T04:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028328097289003246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wl9xo5Hlg",
+              "end": 33,
+              "expanded_url": "https://x.com/gdioiui/status/2028328097289003246/photo/1",
+              "media_key": "3_2028328032621203456",
+              "start": 10,
+              "url": "https://t.co/9wl9xo5Hlg"
+            },
+            {
+              "display_url": "x.com/baiyuewww/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/baiyuewww/status/2028308977059061942",
+              "start": 34,
+              "url": "https://t.co/6T4tWHOf4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028328097289003246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028308977059061942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泥苦一下不就好了😡 https://t.co/9wl9xo5Hlg https://t.co/6T4tWHOf4O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967563670910894081",
+        "conversation_id": "2028308977059061942",
+        "created_at": "2026-03-02T03:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028308977059061942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028308977059061942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天试探了一下妈妈的口风，我没有直接说自己想跨，而是说想穿裙子，妈妈的态度似乎并不开心，但是尊重我的想法，要是进一步估计会炸...😭算了起码能穿裙子了🌚（开心）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 340,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 739,
+          "tweet_count": 4831
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T12:19:34.000Z",
+        "description": "追求思维的多样性，喜欢深度模仿代入各种群体，创造型多意识体，有一只成熟tulpa——白月，为了更强大的力量而坚持健身，为了真正活着而追求恐惧，为了意志更清醒坚定禁欲，为了贯彻自由决心独身",
+        "id": "1967563670910894081",
+        "location": "世界中心",
+        "name": "任成轩",
+        "pinned_tweet_id": "2026498483843150225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028293379453566976/1KyuioXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 21,
+          "like_count": 1425,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 2808
+        },
+        "username": "baiyuewww",
+        "verified": false
+      }
+    ]
+  }
+}

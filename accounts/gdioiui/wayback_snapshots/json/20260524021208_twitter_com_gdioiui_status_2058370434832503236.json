@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057992419782901882",
+    "created_at": "2026-05-24T02:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058370434832503236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675778875912232966",
+          "start": 0,
+          "username": "nonentity086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058370434832503236",
+    "in_reply_to_user_id": "1675778875912232966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058356248333189563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonentity086 😂好高级的比喻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057992419782901882",
+        "created_at": "2026-05-24T02:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058370434832503236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675778875912232966",
+              "start": 0,
+              "username": "nonentity086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058370434832503236",
+        "in_reply_to_user_id": "1675778875912232966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058356248333189563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonentity086 😂好高级的比喻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675778875912232966",
+        "conversation_id": "2057992419782901882",
+        "created_at": "2026-05-24T01:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058356248333189563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058356248333189563",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057992419782901882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 吸血鬼确实抵抗不了对普通人而言正常强度的日光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 467,
+          "like_count": 3868,
+          "listed_count": 3,
+          "media_count": 1279,
+          "tweet_count": 6905
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T08:10:02.000Z",
+        "description": "当时只道是寻常",
+        "id": "1675778875912232966",
+        "name": "nonentity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680373323841306624/9iOF1D7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 397,
+          "like_count": 159,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 389
+        },
+        "username": "nonentity086",
+        "verified": false
+      }
+    ]
+  }
+}

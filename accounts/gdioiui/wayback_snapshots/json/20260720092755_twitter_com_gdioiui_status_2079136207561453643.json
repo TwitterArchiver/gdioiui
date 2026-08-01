@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2079136207561453643",
+    "created_at": "2026-07-20T09:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079136207561453643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amaohe_AMH/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Amaohe_AMH/status/2078894816646304222",
+          "start": 7,
+          "url": "https://t.co/3D4gKXSLv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079136207561453643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078894816646304222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎进群来玩 https://t.co/3D4gKXSLv2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078894809050456064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm30HrbIAA-BYu.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2079136207561453643",
+        "created_at": "2026-07-20T09:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079136207561453643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amaohe_AMH/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Amaohe_AMH/status/2078894816646304222",
+              "start": 7,
+              "url": "https://t.co/3D4gKXSLv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079136207561453643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078894816646304222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎进群来玩 https://t.co/3D4gKXSLv2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078894809050456064"
+          ]
+        },
+        "author_id": "1889171969251430400",
+        "conversation_id": "2078894816646304222",
+        "created_at": "2026-07-19T17:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078894816646304222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfSNsUZHW6",
+              "end": 51,
+              "expanded_url": "https://x.com/Amaohe_AMH/status/2078894816646304222/photo/1",
+              "media_key": "3_2078894809050456064",
+              "start": 28,
+              "url": "https://t.co/cfSNsUZHW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078894816646304222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎同志交流，不刻意引战，进来骂人的可以去见马克思了💠 https://t.co/cfSNsUZHW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 491,
+          "like_count": 4521,
+          "listed_count": 5,
+          "media_count": 1607,
+          "tweet_count": 8320
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T04:38:02.000Z",
+        "description": "中二精神疾病到亚空间审判药娘来了【普通男娘群体别对号入座】\n『反药非深柜』『反跨非深柜』『双性恋』『Roblox』『边狱巴士』『精神疾病』QQ交流群：1015782287",
+        "id": "1889171969251430400",
+        "location": "中国",
+        "name": "土豆薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073924047600254976/IgdD3OrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 35,
+          "like_count": 99,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "Amaohe_AMH",
+        "verified": false
+      }
+    ]
+  }
+}

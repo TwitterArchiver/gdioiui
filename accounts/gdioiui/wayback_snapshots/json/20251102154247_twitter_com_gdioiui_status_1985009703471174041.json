@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985009615554461697"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1985009703471174041",
+    "created_at": "2025-11-02T15:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T16:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985009703471174041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rezklmrQtl",
+          "end": 75,
+          "expanded_url": "https://x.com/gdioiui/status/1985009703471174041/photo/1",
+          "media_key": "3_1985009615554461697",
+          "start": 52,
+          "url": "https://t.co/rezklmrQtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985009703471174041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "同桌联系不上了，下周期中考 考差了就会真成他影响我了 考好了有成他走了我好了 不管怎么说 班主任你赢了 https://t.co/rezklmrQtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1985009615554461697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wrunLbwAEsurV.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985009615554461697"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1985009703471174041",
+        "created_at": "2025-11-02T15:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985009703471174041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rezklmrQtl",
+              "end": 75,
+              "expanded_url": "https://x.com/gdioiui/status/1985009703471174041/photo/1",
+              "media_key": "3_1985009615554461697",
+              "start": 52,
+              "url": "https://t.co/rezklmrQtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985009703471174041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同桌联系不上了，下周期中考 考差了就会真成他影响我了 考好了有成他走了我好了 不管怎么说 班主任你赢了 https://t.co/rezklmrQtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 22,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

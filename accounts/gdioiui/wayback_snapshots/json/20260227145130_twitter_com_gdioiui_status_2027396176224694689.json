@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027321245763866936",
+    "created_at": "2026-02-27T14:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027396176224694689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749508083460849664",
+          "start": 0,
+          "username": "kuangision5keli"
+        },
+        {
+          "end": 32,
+          "id": "1798684142722281473",
+          "start": 17,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027396176224694689",
+    "in_reply_to_user_id": "1749508083460849664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027396113230426161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuangision5keli @shiguangji2019 怎么寄的了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027321245763866936",
+        "created_at": "2026-02-27T14:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027396176224694689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749508083460849664",
+              "start": 0,
+              "username": "kuangision5keli"
+            },
+            {
+              "end": 32,
+              "id": "1798684142722281473",
+              "start": 17,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027396176224694689",
+        "in_reply_to_user_id": "1749508083460849664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027396113230426161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuangision5keli @shiguangji2019 怎么寄的了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749508083460849664",
+        "conversation_id": "2027321245763866936",
+        "created_at": "2026-02-27T14:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027396113230426161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            },
+            {
+              "end": 24,
+              "id": "1882678524596867072",
+              "start": 16,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027396113230426161",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027396030397034881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 @gdioiui 绝对不可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 339,
+          "like_count": 2977,
+          "listed_count": 1,
+          "media_count": 720,
+          "tweet_count": 4775
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T19:03:40.000Z",
+        "description": "",
+        "id": "1749508083460849664",
+        "location": "Taiwan Province of China",
+        "name": "🏳️‍⚧️Estradiol NitroWalerate硝基戊酸雌二醇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974948747433107456/A9I5NVB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 557,
+          "like_count": 1006,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 735
+        },
+        "username": "kuangision5keli",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。不知道活下去了",
+        "id": "1798684142722281473",
+        "location": "香港。。",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 2073,
+          "like_count": 98592,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 4867
+        },
+        "username": "shiguangji2019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065727147906637824"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065727159243792509",
+    "created_at": "2026-06-13T09:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065727159243792509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZ89XQOdeY",
+          "end": 27,
+          "expanded_url": "https://x.com/gdioiui/status/2065727159243792509/photo/1",
+          "media_key": "3_2065727147906637824",
+          "start": 4,
+          "url": "https://t.co/qZ89XQOdeY"
+        },
+        {
+          "display_url": "x.com/kurazawanaki/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/kurazawanaki/status/2065682493198786863",
+          "start": 28,
+          "url": "https://t.co/gpp8868l6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065727159243792509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065682493198786863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也玩 https://t.co/qZ89XQOdeY https://t.co/gpp8868l6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065727147906637824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrv5XXbIAA0lpH.jpg",
+        "width": 606
+      },
+      {
+        "height": 1847,
+        "media_key": "3_2065682475150721024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrHREYbwAAO9Gf.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065727147906637824"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065727159243792509",
+        "created_at": "2026-06-13T09:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065727159243792509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZ89XQOdeY",
+              "end": 27,
+              "expanded_url": "https://x.com/gdioiui/status/2065727159243792509/photo/1",
+              "media_key": "3_2065727147906637824",
+              "start": 4,
+              "url": "https://t.co/qZ89XQOdeY"
+            },
+            {
+              "display_url": "x.com/kurazawanaki/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/kurazawanaki/status/2065682493198786863",
+              "start": 28,
+              "url": "https://t.co/gpp8868l6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065727159243792509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065682493198786863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也玩 https://t.co/qZ89XQOdeY https://t.co/gpp8868l6v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065682475150721024"
+          ]
+        },
+        "author_id": "1679381806913560578",
+        "conversation_id": "2065682493198786863",
+        "created_at": "2026-06-13T06:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065682493198786863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRXowMrHGP",
+              "end": 27,
+              "expanded_url": "https://x.com/kurazawanaki/status/2065682493198786863/photo/1",
+              "media_key": "3_2065682475150721024",
+              "start": 4,
+              "url": "https://t.co/xRXowMrHGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065682493198786863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩… https://t.co/xRXowMrHGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 475,
+          "like_count": 4115,
+          "listed_count": 3,
+          "media_count": 1405,
+          "tweet_count": 7564
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️",
+        "id": "1679381806913560578",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1260,
+          "like_count": 16973,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 127
+        },
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037592887379247104"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2037593095597146184",
+    "created_at": "2026-03-27T18:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037593095597146184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GT6PLjJAI",
+          "end": 51,
+          "expanded_url": "https://x.com/gdioiui/status/2037593095597146184/photo/1",
+          "media_key": "3_2037592887379247104",
+          "start": 28,
+          "url": "https://t.co/9GT6PLjJAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037593095597146184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泪流满面了\n不要想象自己死了 没有这样的好事\nಠ╭╮ಠ https://t.co/9GT6PLjJAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2037592887379247104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEb773kaQAAKlV2.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037592887379247104"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2037593095597146184",
+        "created_at": "2026-03-27T18:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037593095597146184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GT6PLjJAI",
+              "end": 51,
+              "expanded_url": "https://x.com/gdioiui/status/2037593095597146184/photo/1",
+              "media_key": "3_2037592887379247104",
+              "start": 28,
+              "url": "https://t.co/9GT6PLjJAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037593095597146184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泪流满面了\n不要想象自己死了 没有这样的好事\nಠ╭╮ಠ https://t.co/9GT6PLjJAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 370,
+          "like_count": 3331,
+          "listed_count": 2,
+          "media_count": 911,
+          "tweet_count": 5446
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2048722038831870346",
+    "created_at": "2026-04-28T14:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049135022146560273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "941779557853683712",
+          "start": 0,
+          "username": "parklara7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049135022146560273",
+    "in_reply_to_user_id": "941779557853683712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049072769690968133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parklara7 就是奥克斯的入门款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2048722038831870346",
+        "created_at": "2026-04-28T14:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049135022146560273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "941779557853683712",
+              "start": 0,
+              "username": "parklara7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049135022146560273",
+        "in_reply_to_user_id": "941779557853683712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049072769690968133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parklara7 就是奥克斯的入门款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941779557853683712",
+        "conversation_id": "2048722038831870346",
+        "created_at": "2026-04-28T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049072769690968133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049072769690968133",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048722038831870346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 求求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 409,
+          "like_count": 3633,
+          "listed_count": 2,
+          "media_count": 1123,
+          "tweet_count": 6230
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-15T21:18:38.000Z",
+        "description": "谢谢你的出现",
+        "id": "941779557853683712",
+        "location": "你的心里",
+        "name": "^小治小治^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044422740762091520/qS9d4SyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 648,
+          "like_count": 761,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 145
+        },
+        "username": "parklara7",
+        "verified": false
+      }
+    ]
+  }
+}

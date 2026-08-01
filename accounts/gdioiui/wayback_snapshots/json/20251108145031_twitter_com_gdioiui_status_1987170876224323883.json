@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987170876224323883",
+    "created_at": "2025-11-08T14:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987170876224323883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/gdioiui/status/1987170509017206843",
+          "start": 35,
+          "url": "https://t.co/9yudpcbXOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987170876224323883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987170509017206843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说我直接把这个搞进针管里推进去行不行 多少概率败血症 多少概率严重 https://t.co/9yudpcbXOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1987170505611460608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PZC98awAALT-M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987170876224323883",
+        "created_at": "2025-11-08T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987170876224323883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/gdioiui/status/1987170509017206843",
+              "start": 35,
+              "url": "https://t.co/9yudpcbXOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987170876224323883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987170509017206843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说我直接把这个搞进针管里推进去行不行 多少概率败血症 多少概率严重 https://t.co/9yudpcbXOI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987170505611460608"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987170509017206843",
+        "created_at": "2025-11-08T14:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987170509017206843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiKFg8RpRI",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/1987170509017206843/photo/1",
+              "media_key": "3_1987170505611460608",
+              "start": 16,
+              "url": "https://t.co/WiKFg8RpRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987170509017206843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好傻逼 睡前低血糖 被迫熬夜的 https://t.co/WiKFg8RpRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 25,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

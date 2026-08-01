@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2006222224580305079",
+    "created_at": "2026-01-01T12:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T13:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006705826208297118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1184096289283133440",
+          "start": 0,
+          "username": "cheuk_baby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006705826208297118",
+    "in_reply_to_user_id": "1184096289283133440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006704234419597731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheuk_baby ？？？啊？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006222224580305079",
+        "created_at": "2026-01-01T12:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006705826208297118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1184096289283133440",
+              "start": 0,
+              "username": "cheuk_baby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006705826208297118",
+        "in_reply_to_user_id": "1184096289283133440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006704234419597731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheuk_baby ？？？啊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184096289283133440",
+        "conversation_id": "2006222224580305079",
+        "created_at": "2026-01-01T12:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006704234419597731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006704234419597731",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006222224580305079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这么多人讨论步枪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 202,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-15T13:19:03.000Z",
+        "description": "Web3 软件工程师 💻 | 链上玩家\n@kaitoAI (CT) | @SaharaLabsAI MOD | @arbitrum & @MorphLayer Ambassador | @Gaianet_AI Science Officer | #BNB $BTC Hodler | #Binance | 📩合作私信",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 132,
+                "start": 128,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 123,
+                "tag": "BNB"
+              },
+              {
+                "end": 150,
+                "start": 142,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "kaitoAI"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "SaharaLabsAI"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "arbitrum"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "MorphLayer"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Gaianet_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/DqpSsv9jbZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/DqpSsv9jbZ",
+                "start": 0,
+                "url": "https://t.co/Zm8hkWd2JR"
+              }
+            ]
+          }
+        },
+        "id": "1184096289283133440",
+        "location": "Hong Kong",
+        "name": "Jason傑森 🇭🇰|🛠️MemeMax⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823163949283409921/g-_gGccQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13757,
+          "following_count": 4653,
+          "like_count": 99329,
+          "listed_count": 164,
+          "media_count": 832,
+          "tweet_count": 250483
+        },
+        "url": "https://t.co/Zm8hkWd2JR",
+        "username": "cheuk_baby",
+        "verified": true
+      }
+    ]
+  }
+}

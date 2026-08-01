@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994650871691677838",
+    "created_at": "2025-11-29T12:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994743781221109946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941423670800547845",
+          "start": 0,
+          "username": "yuyu_loafing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994743781221109946",
+    "in_reply_to_user_id": "1941423670800547845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994742083513717046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu_loafing 后一半还是前一半呢？后一半是真的 \nmtf确实很多厉害的人 前一半是编的 再厉害现实也是pass不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994650871691677838",
+        "created_at": "2025-11-29T12:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994743781221109946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1941423670800547845",
+              "start": 0,
+              "username": "yuyu_loafing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994743781221109946",
+        "in_reply_to_user_id": "1941423670800547845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994742083513717046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu_loafing 后一半还是前一半呢？后一半是真的 \nmtf确实很多厉害的人 前一半是编的 再厉害现实也是pass不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941423670800547845",
+        "conversation_id": "1994650871691677838",
+        "created_at": "2025-11-29T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994742083513717046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994742083513717046",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994650871691677838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 吓哭了，就看懂了一半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 91,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-05T09:07:34.000Z",
+        "description": "喵喵喵 想涩涩的杂余xnn 不考虑吃🍭",
+        "id": "1941423670800547845",
+        "location": "中国",
+        "name": "余余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956774545425412096/j11g6nq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 23,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 106
+        },
+        "username": "yuyu_loafing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991146647993163877",
+    "created_at": "2025-11-19T14:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991146647993163877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanzhenzhen21/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/yanzhenzhen21/status/1990985456042099186",
+          "start": 18,
+          "url": "https://t.co/cd1lV2cMGn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991146647993163877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990985456042099186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每个Oder都会再第二天再掏出来🤓 https://t.co/cd1lV2cMGn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991146647993163877",
+        "created_at": "2025-11-19T14:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991146647993163877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanzhenzhen21/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/yanzhenzhen21/status/1990985456042099186",
+              "start": 18,
+              "url": "https://t.co/cd1lV2cMGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991146647993163877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990985456042099186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个Oder都会再第二天再掏出来🤓 https://t.co/cd1lV2cMGn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872130736872144897",
+        "conversation_id": "1990985456042099186",
+        "created_at": "2025-11-19T03:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990985456042099186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990985456042099186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4698,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药全丢了，东西全丢了，我们一起过美好生活，要永远在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 44,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "好姐姐是@SnowFoxSama 世界好温柔我爱这个世界，世界支离破碎抱抱我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 823,
+          "like_count": 24897,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1094
+        },
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058686794619855330",
+    "created_at": "2026-05-25T14:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058916963834085788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556146136410619904",
+          "start": 0,
+          "username": "Goebbelsssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058916963834085788",
+    "in_reply_to_user_id": "1556146136410619904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058720045455540314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goebbelsssss 确实..不过甚至能用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058686794619855330",
+        "created_at": "2026-05-25T14:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058916963834085788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556146136410619904",
+              "start": 0,
+              "username": "Goebbelsssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058916963834085788",
+        "in_reply_to_user_id": "1556146136410619904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058720045455540314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goebbelsssss 确实..不过甚至能用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556146136410619904",
+        "conversation_id": "2058686794619855330",
+        "created_at": "2026-05-25T01:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058720045455540314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720045455540314",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058686794619855330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 还真有。。一下感觉回到十多年前了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 466,
+          "like_count": 3882,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 6945
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T05:12:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noveldaily.top",
+                "end": 23,
+                "expanded_url": "http://noveldaily.top",
+                "start": 0,
+                "url": "https://t.co/lqdJ5IJROR"
+              }
+            ]
+          }
+        },
+        "id": "1556146136410619904",
+        "location": "中区, 新加坡",
+        "name": "Goebbels.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056683178178539520/2duFtccB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 530,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/lqdJ5IJROR",
+        "username": "Goebbelsssss",
+        "verified": false
+      }
+    ]
+  }
+}

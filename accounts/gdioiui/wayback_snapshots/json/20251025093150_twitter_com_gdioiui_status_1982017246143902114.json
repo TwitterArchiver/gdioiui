@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1982017246143902114",
+    "created_at": "2025-10-25T09:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T10:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982017246143902114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982017246143902114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982017228490080419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 自闭被拉到老师办公室 然后被劝转科老师说一个字他写一个，就这样班主任轻松给全班平均分提了5分。而他又要去继续休学了大概😓成功害我们这届少了一个垫背的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1982017246143902114",
+        "created_at": "2025-10-25T09:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982017246143902114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982017246143902114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982017228490080419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 自闭被拉到老师办公室 然后被劝转科老师说一个字他写一个，就这样班主任轻松给全班平均分提了5分。而他又要去继续休学了大概😓成功害我们这届少了一个垫背的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1982017228490080419",
+        "created_at": "2025-10-25T09:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982017228490080419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982017228490080419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自闭被拉到老师办公室 然后被劝转科老师说一个字他写一个，就这样班主任轻松给全班平均分提了5分。而他又要去继续休学了大概😓成功害我们这届少了一个垫背的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

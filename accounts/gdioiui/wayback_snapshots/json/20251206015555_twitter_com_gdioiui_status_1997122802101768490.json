@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1997122802101768490",
+    "created_at": "2025-12-06T01:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T02:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997122802101768490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LeoTrans112233…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/LeoTrans112233/status/1996643562805731400",
+          "start": 70,
+          "url": "https://t.co/LdtBzdR3sx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997122802101768490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996643562805731400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想问....\n(ᇂ_ᇂ|||)上次不割手的限令还有120多天....\n泥们还记得吗？泥们要是违反了或者不记得了我也取消了(=ＴェＴ=) https://t.co/LdtBzdR3sx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1996643554970816517",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WAvA0b0AUqgwe.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1996643554970775552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WAvA0bMAABAMX.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1996643554995982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WAvA6b0AAJKiy.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1996643554970710017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WAvA0aMAEZV02.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1997122802101768490",
+        "created_at": "2025-12-06T01:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T02:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997122802101768490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeoTrans112233…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/LeoTrans112233/status/1996643562805731400",
+              "start": 70,
+              "url": "https://t.co/LdtBzdR3sx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997122802101768490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996643562805731400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想问....\n(ᇂ_ᇂ|||)上次不割手的限令还有120多天....\n泥们还记得吗？泥们要是违反了或者不记得了我也取消了(=ＴェＴ=) https://t.co/LdtBzdR3sx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996643554970816517",
+            "3_1996643554970775552",
+            "3_1996643554995982336",
+            "3_1996643554970710017"
+          ]
+        },
+        "author_id": "1814598522895020033",
+        "conversation_id": "1996643562805731400",
+        "created_at": "2025-12-04T18:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996643562805731400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FjKJ2zJTc",
+              "end": 90,
+              "expanded_url": "https://x.com/LeoTrans112233/status/1996643562805731400/photo/1",
+              "media_key": "3_1996643554970816517",
+              "start": 67,
+              "url": "https://t.co/0FjKJ2zJTc"
+            },
+            {
+              "display_url": "pic.x.com/0FjKJ2zJTc",
+              "end": 90,
+              "expanded_url": "https://x.com/LeoTrans112233/status/1996643562805731400/photo/1",
+              "media_key": "3_1996643554970775552",
+              "start": 67,
+              "url": "https://t.co/0FjKJ2zJTc"
+            },
+            {
+              "display_url": "pic.x.com/0FjKJ2zJTc",
+              "end": 90,
+              "expanded_url": "https://x.com/LeoTrans112233/status/1996643562805731400/photo/1",
+              "media_key": "3_1996643554995982336",
+              "start": 67,
+              "url": "https://t.co/0FjKJ2zJTc"
+            },
+            {
+              "display_url": "pic.x.com/0FjKJ2zJTc",
+              "end": 90,
+              "expanded_url": "https://x.com/LeoTrans112233/status/1996643562805731400/photo/1",
+              "media_key": "3_1996643554970710017",
+              "start": 67,
+              "url": "https://t.co/0FjKJ2zJTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996643562805731400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4832,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起…我又划了手…我情绪又崩溃了…我不配活着…我就该早点死掉…才不会污染这个世界…凭什么…凭什么我不是正常人…凭什么窝是amab… https://t.co/0FjKJ2zJTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 96,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "简介在置顶喵|无证含糖|HRT起始25.5.5🍥| 08.6.13|高三牲|穷|省吃俭用买糖|求施舍| 是优等生喔|目标是先上大学…| 已经炸柜|被家长冷暴力|粘人|喜欢和同类贴贴哇| 不设门槛|同类可直接私我要qq号喔| 非同类要加咱联系方式请先资助一顿饭……",
+        "id": "1814598522895020033",
+        "location": "距离你520m",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1986253194083901903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 413,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 644
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

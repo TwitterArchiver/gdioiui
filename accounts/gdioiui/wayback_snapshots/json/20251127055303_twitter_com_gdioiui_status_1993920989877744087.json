@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993920541800182087",
+    "created_at": "2025-11-27T05:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T06:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993920989877744087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835303480896155648",
+          "start": 0,
+          "username": "gu_niu50358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993920989877744087",
+    "in_reply_to_user_id": "1835303480896155648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993920541800182087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu50358 你就这样吧        一会封了号 全世界都知道我的功绩了    我还怕 到时候没人夸呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993920541800182087",
+        "created_at": "2025-11-27T05:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993920989877744087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835303480896155648",
+              "start": 0,
+              "username": "gu_niu50358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993920989877744087",
+        "in_reply_to_user_id": "1835303480896155648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993920541800182087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu50358 你就这样吧        一会封了号 全世界都知道我的功绩了    我还怕 到时候没人夸呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835303480896155648",
+        "conversation_id": "1993920541800182087",
+        "created_at": "2025-11-27T05:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993920541800182087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/gdioiui/status/1991820516064428135",
+              "start": 41,
+              "url": "https://t.co/sNZ7JSRlJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993920541800182087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991820516064428135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默跨畜自我都定义成路边一条了😂👌🏻 我还高看你不是，你就继续意淫罢 太监2.0 https://t.co/sNZ7JSRlJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 83,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T13:03:50.000Z",
+        "description": "1.跨畜能不能去死😓\n 跨性别是精神病，该进精神病院 \n2.理想是世界没有跨  \n3.拆除跨旗子和鱼板标识，屏蔽大数据跨性别人物和社区 \n4.当跨也不要进圈子，这会提前结束你青春的生命，这圈子已经烂完，看圈子如喝慢性毒药  \n5.天救自救者",
+        "id": "1835303480896155648",
+        "location": "地狱",
+        "name": "米（二畜跨畜欠栓☞🏳️‍⚧️🚫）",
+        "pinned_tweet_id": "1993689062285492362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993612545844969472/MVpcOyV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 111,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 195
+        },
+        "username": "gu_niu50358",
+        "verified": false
+      }
+    ]
+  }
+}

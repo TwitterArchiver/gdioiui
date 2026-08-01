@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2019741699204169976",
+    "created_at": "2026-02-07T04:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019993217790509523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013784900562763776",
+          "start": 0,
+          "username": "KennyZhang55071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019993217790509523",
+    "in_reply_to_user_id": "2013784900562763776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019976716983140727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KennyZhang55071 ?推荐一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2019741699204169976",
+        "created_at": "2026-02-07T04:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019993217790509523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013784900562763776",
+              "start": 0,
+              "username": "KennyZhang55071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019993217790509523",
+        "in_reply_to_user_id": "2013784900562763776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019976716983140727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KennyZhang55071 ?推荐一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013784900562763776",
+        "conversation_id": "2019741699204169976",
+        "created_at": "2026-02-07T03:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019976716983140727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019976716983140727",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019741699204169976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我爹校友真有一个是会做拆弹装逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 299,
+          "like_count": 2597,
+          "listed_count": 1,
+          "media_count": 552,
+          "tweet_count": 4227
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T01:25:23.000Z",
+        "description": "普普通通一画师，尼龙小手子，左左，平时玩点87、65造型，现在在美留学\n是的，我因为让蛙畜支黑急哭了被封号了\n黑毛的反左的，只要有正常理论好好说话的都能接受，别给我搬出来笑话就好，支黑还是算了\n下面网址直通P站号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120657395",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120657395",
+                "start": 0,
+                "url": "https://t.co/YSDuaf1YIs"
+              }
+            ]
+          }
+        },
+        "id": "2013784900562763776",
+        "location": "中南海",
+        "name": "稻上飞人邓小平（小号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018338156852953088/k2D7j6JO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 25,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/YSDuaf1YIs",
+        "username": "KennyZhang55071",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2004203330957201661",
+    "created_at": "2025-12-25T14:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004203330957201661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004203330957201661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天温度只有3°\n偷吃了同桌的一颗薄荷糖\n于是呼吸困难 头晕眼花 无法控制流涕\n喝了一口水 整个喉咙都冻住了\n呜呜喵˃ʍ˂为什么在那么冷的天摆薄荷糖在桌上啊\n嘴巴冻坏了喵🥶 鼻子好疼喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2004203330957201661",
+        "created_at": "2025-12-25T14:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004203330957201661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004203330957201661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天温度只有3°\n偷吃了同桌的一颗薄荷糖\n于是呼吸困难 头晕眼花 无法控制流涕\n喝了一口水 整个喉咙都冻住了\n呜呜喵˃ʍ˂为什么在那么冷的天摆薄荷糖在桌上啊\n嘴巴冻坏了喵🥶 鼻子好疼喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 148,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

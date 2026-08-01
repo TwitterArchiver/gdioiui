@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2026491948366983198",
+    "created_at": "2026-02-26T07:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026926257620005080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1583096859207208961",
+          "start": 0,
+          "username": "Dd12381980995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026926257620005080",
+    "in_reply_to_user_id": "1583096859207208961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026920937501966517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dd12381980995 很可能其实...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2026491948366983198",
+        "created_at": "2026-02-26T07:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026926257620005080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1583096859207208961",
+              "start": 0,
+              "username": "Dd12381980995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026926257620005080",
+        "in_reply_to_user_id": "1583096859207208961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026920937501966517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dd12381980995 很可能其实...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583096859207208961",
+        "conversation_id": "2026491948366983198",
+        "created_at": "2026-02-26T07:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026920937501966517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026920937501966517",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026491948366983198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 那些男娘推感觉每个都只活跃几年，结果都销声匿迹了，不会都over了吧😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 327,
+          "like_count": 2942,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 4699
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T14:04:48.000Z",
+        "description": "欧易交易所注册链接 https://t.co/HeXbdNbuhz 币安交易所https://t.co/k1a9P8uZBY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/85474014",
+                "end": 33,
+                "expanded_url": "https://okx.com/join/85474014",
+                "start": 10,
+                "url": "https://t.co/HeXbdNbuhz"
+              },
+              {
+                "display_url": "accounts.binance.com/zh-CN/register…",
+                "end": 62,
+                "expanded_url": "https://accounts.binance.com/zh-CN/register?ref=976905914",
+                "start": 39,
+                "url": "https://t.co/k1a9P8uZBY"
+              }
+            ]
+          }
+        },
+        "id": "1583096859207208961",
+        "name": "Dd123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943251911190151168/BmxiPXIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 160,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 113
+        },
+        "username": "Dd12381980995",
+        "verified": false
+      }
+    ]
+  }
+}

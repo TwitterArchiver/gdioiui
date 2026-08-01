@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065477582045528064"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065477681169469859",
+    "created_at": "2026-06-12T16:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065477681169469859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ut6kuG6LGH",
+          "end": 49,
+          "expanded_url": "https://x.com/gdioiui/status/2065477681169469859/photo/1",
+          "media_key": "3_2065477582045528064",
+          "start": 26,
+          "url": "https://t.co/Ut6kuG6LGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065477681169469859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于家地址都公开的窝居然很在乎wrt泄露..... https://t.co/Ut6kuG6LGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "3_2065477582045528064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoM6uFbQAAPx1s.png",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065477582045528064"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065477681169469859",
+        "created_at": "2026-06-12T16:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065477681169469859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ut6kuG6LGH",
+              "end": 49,
+              "expanded_url": "https://x.com/gdioiui/status/2065477681169469859/photo/1",
+              "media_key": "3_2065477582045528064",
+              "start": 26,
+              "url": "https://t.co/Ut6kuG6LGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065477681169469859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于家地址都公开的窝居然很在乎wrt泄露..... https://t.co/Ut6kuG6LGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 476,
+          "like_count": 4101,
+          "listed_count": 3,
+          "media_count": 1396,
+          "tweet_count": 7525
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

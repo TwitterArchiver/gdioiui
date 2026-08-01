@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2055592642185167282",
+    "created_at": "2026-05-16T16:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055691772706128024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948209334753828864",
+          "start": 0,
+          "username": "APW3001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055691772706128024",
+    "in_reply_to_user_id": "1948209334753828864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055667756591370585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@APW3001 是啊...哏哏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2055592642185167282",
+        "created_at": "2026-05-16T16:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055691772706128024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948209334753828864",
+              "start": 0,
+              "username": "APW3001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055691772706128024",
+        "in_reply_to_user_id": "1948209334753828864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055667756591370585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@APW3001 是啊...哏哏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948209334753828864",
+        "conversation_id": "2055592642185167282",
+        "created_at": "2026-05-16T15:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055667756591370585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055667756591370585",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055592642185167282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 沒想到老爺爺的接受度比中年人還高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 440,
+          "like_count": 3807,
+          "listed_count": 3,
+          "media_count": 1236,
+          "tweet_count": 6674
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T02:31:31.000Z",
+        "description": "",
+        "id": "1948209334753828864",
+        "name": "Char Daikun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055596293163249664/aIggiBPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 55
+        },
+        "username": "APW3001",
+        "verified": false
+      }
+    ]
+  }
+}

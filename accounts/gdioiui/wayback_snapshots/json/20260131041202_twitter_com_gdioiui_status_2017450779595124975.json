@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2017420070163779758",
+    "created_at": "2026-01-31T04:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017450779595124975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979516169066590208",
+          "start": 0,
+          "username": "lengcindy_pink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017450779595124975",
+    "in_reply_to_user_id": "1979516169066590208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017449750011035733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengcindy_pink ...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017449737008648192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9r2M6bEAA55jS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2017420070163779758",
+        "created_at": "2026-01-31T04:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017450779595124975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979516169066590208",
+              "start": 0,
+              "username": "lengcindy_pink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017450779595124975",
+        "in_reply_to_user_id": "1979516169066590208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017449750011035733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcindy_pink ...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017449737008648192"
+          ]
+        },
+        "author_id": "1979516169066590208",
+        "conversation_id": "2017420070163779758",
+        "created_at": "2026-01-31T04:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017449750011035733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVELOsiDXy",
+              "end": 52,
+              "expanded_url": "https://x.com/lengcindy_pink/status/2017449750011035733/photo/1",
+              "media_key": "3_2017449737008648192",
+              "start": 29,
+              "url": "https://t.co/jVELOsiDXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017449750011035733",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017448627405525049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我去才发现我原来身份证都没绑定还能买😇 https://t.co/jVELOsiDXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/58（长胖了...）   胸围71腰围60肌无力\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 288,
+          "like_count": 2529,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 4105
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T11:53:35.000Z",
+        "description": "infp-a//┐('～`;)┌ //tulpamancy/swiftUI/mc1.8.9/html+css/直fo—太I了不知道说什么（看上了bushi/生竞ing/无力地活着/od",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lengcindy.pink",
+                "end": 23,
+                "expanded_url": "http://lengcindy.pink",
+                "start": 0,
+                "url": "https://t.co/m4GdQ7CrMC"
+              }
+            ]
+          }
+        },
+        "id": "1979516169066590208",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "miz=~=|互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979516313824362496/K9oaCweq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 73,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/m4GdQ7CrMC",
+        "username": "lengcindy_pink",
+        "verified": false
+      }
+    ]
+  }
+}

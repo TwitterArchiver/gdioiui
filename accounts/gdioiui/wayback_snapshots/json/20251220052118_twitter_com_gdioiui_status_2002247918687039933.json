@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002247916128444416"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2002247918687039933",
+    "created_at": "2025-12-20T05:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T06:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002247918687039933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCeAoZttm1",
+          "end": 135,
+          "expanded_url": "https://x.com/gdioiui/status/2002247918687039933/photo/1",
+          "media_key": "3_2002247916128444416",
+          "start": 112,
+          "url": "https://t.co/zCeAoZttm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002247918687039933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呦喵 \n背后骂窝还理直气壮\n对着我磕磕绊绊背书一样说什么你可以....解构结构主义是建构....（难以分辩）\n（原文：解构既是破坏 也是构建）\n因为我听不懂他的话 于是乎去别人面前骂窝 然后窝就解构了喵\n精神分裂魅力时刻 https://t.co/zCeAoZttm1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002247916128444416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lp3xEaIAAY6c_.jpg",
+        "width": 517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002247916128444416"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2002247918687039933",
+        "created_at": "2025-12-20T05:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002247918687039933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCeAoZttm1",
+              "end": 135,
+              "expanded_url": "https://x.com/gdioiui/status/2002247918687039933/photo/1",
+              "media_key": "3_2002247916128444416",
+              "start": 112,
+              "url": "https://t.co/zCeAoZttm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002247918687039933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦喵 \n背后骂窝还理直气壮\n对着我磕磕绊绊背书一样说什么你可以....解构结构主义是建构....（难以分辩）\n（原文：解构既是破坏 也是构建）\n因为我听不懂他的话 于是乎去别人面前骂窝 然后窝就解构了喵\n精神分裂魅力时刻 https://t.co/zCeAoZttm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 116,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

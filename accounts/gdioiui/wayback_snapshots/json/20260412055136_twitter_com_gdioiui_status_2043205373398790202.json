@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2043175872950313326",
+    "created_at": "2026-04-12T05:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043205373398790202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760164538677395456",
+          "start": 0,
+          "username": "stellar22333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043205373398790202",
+    "in_reply_to_user_id": "1760164538677395456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043204033872335015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellar22333 吓哭了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2043175872950313326",
+        "created_at": "2026-04-12T05:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043205373398790202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "stellar22333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043205373398790202",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043204033872335015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellar22333 吓哭了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760164538677395456",
+        "conversation_id": "2043175872950313326",
+        "created_at": "2026-04-12T05:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043204033872335015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043204033872335015",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043175872950313326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 第一眼还以为玻璃盖板浮空了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 379,
+          "like_count": 3554,
+          "listed_count": 2,
+          "media_count": 1041,
+          "tweet_count": 5936
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT since 25.10.20 🍥 | 家长中立党 | AuDHD | GNU/Linux | vibe coding | Minecraft | Sky: Children of the Light | 看成分互fo喵 | 好多管道符喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella223.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella223.top",
+                "start": 0,
+                "url": "https://t.co/xY2kZnQ6eV"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037898429301690368/jizY7Pui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 1318,
+          "like_count": 54744,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/xY2kZnQ6eV",
+        "username": "stellar22333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993596019712659459",
+    "created_at": "2025-11-27T05:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T06:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993907727849148470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985041752655577088",
+          "start": 0,
+          "username": "ai0ai444"
+        },
+        {
+          "end": 17,
+          "id": "1594325718774665221",
+          "start": 10,
+          "username": "cz7hdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993907727849148470",
+    "in_reply_to_user_id": "1985041752655577088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993822714684162251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai0ai444 @cz7hdy b站上有攻略\n好像出新结局了我也再看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993596019712659459",
+        "created_at": "2025-11-27T05:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993907727849148470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985041752655577088",
+              "start": 0,
+              "username": "ai0ai444"
+            },
+            {
+              "end": 17,
+              "id": "1594325718774665221",
+              "start": 10,
+              "username": "cz7hdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993907727849148470",
+        "in_reply_to_user_id": "1985041752655577088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993822714684162251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai0ai444 @cz7hdy b站上有攻略\n好像出新结局了我也再看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985041752655577088",
+        "conversation_id": "1993596019712659459",
+        "created_at": "2025-11-26T23:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993822714684162251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594325718774665221",
+              "start": 0,
+              "username": "cz7hdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993822714684162251",
+        "in_reply_to_user_id": "1594325718774665221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993783858610016358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz7hdy 我也只打了几个结局其他的打不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 83,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T17:50:27.000Z",
+        "description": "07｜抑郁焦虑｜泛｜友女友跨反男反这个世界｜看成分互fo（也可以私信d我）｜高活跃高强度在线｜当垃圾桶发",
+        "id": "1985041752655577088",
+        "location": "普瑞巴林",
+        "name": "每天都得哄自己活着👾",
+        "pinned_tweet_id": "1993692113410851023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987033837038411780/vt9DddaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 100,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 315
+        },
+        "username": "ai0ai444",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:44:17.000Z",
+        "description": "忧郁是因为命苦",
+        "id": "1594325718774665221",
+        "location": "海南",
+        "name": "zakaiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293295462891520/h7luKAoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 132
+        },
+        "username": "cz7hdy",
+        "verified": false
+      }
+    ]
+  }
+}

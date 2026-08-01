@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1989648273158934970",
+    "created_at": "2025-11-15T12:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989666218434072863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912003169842040832",
+          "start": 0,
+          "username": "maika111nobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989666218434072863",
+    "in_reply_to_user_id": "1912003169842040832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989648947745591783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maika111nobu 其实不是 我经常跑路的 可靠来自于从不承担责任"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1989648273158934970",
+        "created_at": "2025-11-15T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989666218434072863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912003169842040832",
+              "start": 0,
+              "username": "maika111nobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989666218434072863",
+        "in_reply_to_user_id": "1912003169842040832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989648947745591783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maika111nobu 其实不是 我经常跑路的 可靠来自于从不承担责任"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912003169842040832",
+        "conversation_id": "1989648273158934970",
+        "created_at": "2025-11-15T10:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989648947745591783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989648947745591783",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989648273158934970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 你很可靠(*^ω^*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 39,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:41:07.000Z",
+        "description": "顺♂/日本語を勉強中/\n最喜欢p主MARETU/\n最喜欢术ホワイトハッピー/\n画画手残党/\n片假名狂热症/\n发过帖子不是转帖是关注我的基本上都会回/\n第二人格@asumehoda111/@maumao1272586\n推上最好的两位朋友：@Treverie_/@leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "asumehoda111"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "maumao1272586"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Treverie_"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1912003169842040832",
+        "location": "アナタノココロ",
+        "name": "渡辺マイカ🇯🇵🎌",
+        "pinned_tweet_id": "1983179456790573269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987459621783511041/SaqGEpA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 191,
+          "like_count": 3775,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1170
+        },
+        "username": "maika111nobu",
+        "verified": false
+      }
+    ]
+  }
+}

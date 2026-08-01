@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065344212573311302",
+    "created_at": "2026-06-13T10:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065736306144276772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823704339569106946",
+          "start": 0,
+          "username": "han_zi9069"
+        },
+        {
+          "end": 23,
+          "id": "2045513838850641921",
+          "start": 12,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065736306144276772",
+    "in_reply_to_user_id": "1823704339569106946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065735217457815873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@han_zi9069 @inline_int 只是什么..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065735214500823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr3O5xWQAAAFlw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065344212573311302",
+        "created_at": "2026-06-13T10:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065736306144276772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823704339569106946",
+              "start": 0,
+              "username": "han_zi9069"
+            },
+            {
+              "end": 23,
+              "id": "2045513838850641921",
+              "start": 12,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065736306144276772",
+        "in_reply_to_user_id": "1823704339569106946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065735217457815873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@han_zi9069 @inline_int 只是什么..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065735214500823040"
+          ]
+        },
+        "author_id": "1823704339569106946",
+        "conversation_id": "2065344212573311302",
+        "created_at": "2026-06-13T09:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065735217457815873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            },
+            {
+              "end": 20,
+              "id": "1882678524596867072",
+              "start": 12,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGS2kFbQ9I",
+              "end": 51,
+              "expanded_url": "https://x.com/han_zi9069/status/2065735217457815873/photo/1",
+              "media_key": "3_2065735214500823040",
+              "start": 28,
+              "url": "https://t.co/kGS2kFbQ9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065735217457815873",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065344212573311302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int @gdioiui 求中奖求中奖 https://t.co/kGS2kFbQ9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 475,
+          "like_count": 4121,
+          "listed_count": 3,
+          "media_count": 1406,
+          "tweet_count": 7569
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T12:53:08.000Z",
+        "description": "xyn一个，07年的巨蟹座，身材一般，爱打音游，性格isfj是个m，脑子有些笨，没经济，呜呜",
+        "id": "1823704339569106946",
+        "location": "江苏省镇江市扬中市",
+        "name": "星星子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027716273656705024/4ijUer9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 47,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 51
+        },
+        "username": "han_zi9069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/前ODer/高中生长假中/OIer/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 953,
+          "like_count": 1190,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

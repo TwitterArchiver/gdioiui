@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1999988461764505782",
+    "created_at": "2025-12-15T14:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000575107530653896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988575898539544576",
+          "start": 0,
+          "username": "paidax02"
+        },
+        {
+          "end": 18,
+          "id": "1969670166423228416",
+          "start": 10,
+          "username": "h2o2333"
+        },
+        {
+          "end": 28,
+          "id": "1798691696001355776",
+          "start": 19,
+          "username": "XSMX2049"
+        },
+        {
+          "end": 36,
+          "id": "1977350245404266496",
+          "start": 29,
+          "username": "nmlnxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000575107530653896",
+    "in_reply_to_user_id": "1988575898539544576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000273219539075081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paidax02 @h2o2333 @XSMX2049 @nmlnxm 呜呜呜 \n破防了\n我要去炫一板玉米了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999988461764505782",
+        "created_at": "2025-12-15T14:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000575107530653896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988575898539544576",
+              "start": 0,
+              "username": "paidax02"
+            },
+            {
+              "end": 18,
+              "id": "1969670166423228416",
+              "start": 10,
+              "username": "h2o2333"
+            },
+            {
+              "end": 28,
+              "id": "1798691696001355776",
+              "start": 19,
+              "username": "XSMX2049"
+            },
+            {
+              "end": 36,
+              "id": "1977350245404266496",
+              "start": 29,
+              "username": "nmlnxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000575107530653896",
+        "in_reply_to_user_id": "1988575898539544576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000273219539075081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paidax02 @h2o2333 @XSMX2049 @nmlnxm 呜呜呜 \n破防了\n我要去炫一板玉米了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988575898539544576",
+        "conversation_id": "1999988461764505782",
+        "created_at": "2025-12-14T18:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T19:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000273219539075081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 17,
+              "id": "1969670166423228416",
+              "start": 9,
+              "username": "h2o2333"
+            },
+            {
+              "end": 27,
+              "id": "1798691696001355776",
+              "start": 18,
+              "username": "XSMX2049"
+            },
+            {
+              "end": 35,
+              "id": "1977350245404266496",
+              "start": 28,
+              "username": "nmlnxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000273219539075081",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000213304422334882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @h2o2333 @XSMX2049 @nmlnxm 这么惨吗死人妖 还要od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 106,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T11:53:42.000Z",
+        "description": "19岁北京在读大学生，唯一优点素质人品好，不爱与人争斗     已有老婆:@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1988575898539544576",
+        "location": "北京",
+        "name": "速溶奶酪（再次重生）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988576905789124608/WOWrWy17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 143
+        },
+        "username": "paidax02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "不扩列",
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1998215569817186799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000240281497874432/hQuBDaDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 316,
+          "like_count": 600,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1329
+        },
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24🍥/已炸柜/家长不管党/不抽烟/不喝酒/不od/不自残/应该没有精神疾病/爱看轻小说/喜欢交朋友/一般不会发负能量内容/不主动互fo，但是有关注必回/欢迎加QQ或进群找咱聊天😘",
+        "id": "1798691696001355776",
+        "location": "阴间",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "1992190527140454424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000025547204935680/0IlpWAOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 357
+        },
+        "username": "XSMX2049",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:27:51.000Z",
+        "description": "",
+        "id": "1977350245404266496",
+        "name": "晴朗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977350500740968448/VD14tvyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 613
+        },
+        "username": "nmlnxm",
+        "verified": false
+      }
+    ]
+  }
+}

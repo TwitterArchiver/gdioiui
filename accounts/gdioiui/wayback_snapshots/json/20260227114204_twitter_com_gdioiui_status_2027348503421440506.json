@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027321245763866936",
+    "created_at": "2026-02-27T11:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027348503421440506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450006797041868802",
+          "start": 0,
+          "username": "ljy2701219119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027348503421440506",
+    "in_reply_to_user_id": "1450006797041868802",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027344356701802790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljy2701219119 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027321245763866936",
+        "created_at": "2026-02-27T11:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027348503421440506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450006797041868802",
+              "start": 0,
+              "username": "ljy2701219119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027348503421440506",
+        "in_reply_to_user_id": "1450006797041868802",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027344356701802790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljy2701219119 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450006797041868802",
+        "conversation_id": "2027321245763866936",
+        "created_at": "2026-02-27T11:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027344356701802790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344356701802790",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027321245763866936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这还是海盗用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 338,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 716,
+          "tweet_count": 4757
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T07:52:30.000Z",
+        "description": "我就只想睡着了不醒过来.\n算命先生，真的哦！\n家里传承，还有个人多年耕耘\n东玄，塔罗，（星座功底一般，不会水晶球ps:没买加上习惯不同😢）东方的有很多，但是不会跳大神（我朋友会但是他不玩这些看我哪天🤔）藏传也可，更多可以问我！\n可能有价\n\n88🚪纯绿\n288绿可聊天看感情\n58888女王位/.开玩笑\n交朋友免费私",
+        "id": "1450006797041868802",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "迷登岛.",
+        "pinned_tweet_id": "1559207234261110784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026524091738411008/UGfpf2SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 726,
+          "like_count": 9289,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 603
+        },
+        "username": "ljy2701219119",
+        "verified": false
+      }
+    ]
+  }
+}

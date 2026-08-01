@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053396450529440083",
+    "created_at": "2026-05-10T08:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053396450529440083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2053333283585556823",
+          "start": 28,
+          "url": "https://t.co/uiCyVEO8ih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053396450529440083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053333283585556823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是已经不打了喵....\n私信我可以送一点备用的... https://t.co/uiCyVEO8ih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2053333276069433344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7nvE2bkAAJCdX.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053396450529440083",
+        "created_at": "2026-05-10T08:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053396450529440083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2053333283585556823",
+              "start": 28,
+              "url": "https://t.co/uiCyVEO8ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053396450529440083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053333283585556823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是已经不打了喵....\n私信我可以送一点备用的... https://t.co/uiCyVEO8ih"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053333276069433344"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2053333283585556823",
+        "created_at": "2026-05-10T04:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053333283585556823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NpPk0Aeja",
+              "end": 57,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2053333283585556823/photo/1",
+              "media_key": "3_2053333276069433344",
+              "start": 34,
+              "url": "https://t.co/8NpPk0Aeja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053333283585556823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 26326,
+          "like_count": 407,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "看到这么多腐朽的资本主义国家（或地区）都失败了，感觉胸中充满了力量 https://t.co/8NpPk0Aeja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 429,
+          "like_count": 3746,
+          "listed_count": 3,
+          "media_count": 1206,
+          "tweet_count": 6510
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 811,
+          "like_count": 19062,
+          "listed_count": 8,
+          "media_count": 1011,
+          "tweet_count": 5597
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

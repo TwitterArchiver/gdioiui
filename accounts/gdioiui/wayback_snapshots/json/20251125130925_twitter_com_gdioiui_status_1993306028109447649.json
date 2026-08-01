@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1993306028109447649",
+    "created_at": "2025-11-25T13:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993306028109447649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/gdioiui/status/1992598403969437832",
+          "start": 24,
+          "url": "https://t.co/JsRQvpeL7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993306028109447649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992598403969437832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被小朋友演了呜呜呜\n他应该只是想多陪我说话而已 https://t.co/JsRQvpeL7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_1992598046501433344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6chXbXa8AAIA0o.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1020,
+        "media_key": "3_1992598192438104064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6chf7Bb0AAPF8M.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1993306028109447649",
+        "created_at": "2025-11-25T13:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993306028109447649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gdioiui/status/1992598403969437832",
+              "start": 24,
+              "url": "https://t.co/JsRQvpeL7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993306028109447649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992598403969437832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被小朋友演了呜呜呜\n他应该只是想多陪我说话而已 https://t.co/JsRQvpeL7o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992598046501433344",
+            "3_1992598192438104064"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1992598403969437832",
+        "created_at": "2025-11-23T14:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992598403969437832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exmvvl2z8D",
+              "end": 180,
+              "expanded_url": "https://x.com/gdioiui/status/1992598403969437832/photo/1",
+              "media_key": "3_1992598046501433344",
+              "start": 157,
+              "url": "https://t.co/exmvvl2z8D"
+            },
+            {
+              "display_url": "pic.x.com/exmvvl2z8D",
+              "end": 180,
+              "expanded_url": "https://x.com/gdioiui/status/1992598403969437832/photo/1",
+              "media_key": "3_1992598192438104064",
+              "start": 157,
+              "url": "https://t.co/exmvvl2z8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992598403969437832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1292,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个求助吐槽贴\n我11.17的时候帮助q友注册了一个Google账号，注册轻松 但是给他的时候困难来了  非要验证码，但是验证码接码只能接一次 把手机号删了 还是不行😰，而我多次复现 换梯子 无痕 都登的上\n无奈拿tor试了一次 依然成功\n我纳闷了 谷歌堵他不成?\n一周了 这是我开的最难的账号 求助大神解答 https://t.co/exmvvl2z8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 64,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

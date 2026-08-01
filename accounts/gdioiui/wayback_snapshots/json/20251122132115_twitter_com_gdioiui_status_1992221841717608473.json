@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992221841717608473",
+    "created_at": "2025-11-22T13:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992221841717608473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tuzhimizuki/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/tuzhimizuki/status/1992078688025030866",
+          "start": 34,
+          "url": "https://t.co/MDHsOrUdOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992221841717608473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992078688025030866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么不想想 为什么想去那里旅游 如果哪里和这里一样 还会想去吗？ https://t.co/MDHsOrUdOG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992221841717608473",
+        "created_at": "2025-11-22T13:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992221841717608473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuzhimizuki/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/tuzhimizuki/status/1992078688025030866",
+              "start": 34,
+              "url": "https://t.co/MDHsOrUdOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992221841717608473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992078688025030866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么不想想 为什么想去那里旅游 如果哪里和这里一样 还会想去吗？ https://t.co/MDHsOrUdOG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972858620695240704",
+        "conversation_id": "1992078688025030866",
+        "created_at": "2025-11-22T03:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992078688025030866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992078688025030866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 86009,
+          "like_count": 706,
+          "quote_count": 10,
+          "reply_count": 114,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "同学：高市早苗就是傻逼，我们统一台湾关她什么事\n\n我：统一对你有什么好处\n\n同学：统一后我可以去台湾旅游\n\n我：可是统一对台湾人没好处啊\n\n同学：那管我什么事，只要我可以去台湾旅游就可以了\n\n😅😅😅😅😅😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 54,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T02:59:01.000Z",
+        "description": "世界计划/对峙2\n🇺🇦🇮🇱\n\n🚫☪️\n爱绿tv\n             🔥🔥🔥内塔尼亚胡🔥🔥🔥\n            🔥🔥🔥陈全国🔥🔥🔥\n             🔥🔥🔥拉多万•卡拉季奇🔥🔥🔥\n             🔥🔥🔥布伦顿·塔兰特🔥🔥🔥",
+        "id": "1972858620695240704",
+        "location": "南京",
+        "name": "あきやまみずき",
+        "pinned_tweet_id": "1990613504064381181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988937405186076675/YksZQ65B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 412,
+          "like_count": 4956,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 1046
+        },
+        "username": "tuzhimizuki",
+        "verified": false
+      }
+    ]
+  }
+}

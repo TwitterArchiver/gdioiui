@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2056671232490106952",
+    "created_at": "2026-05-19T16:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056772015198175389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020351193151860743",
+          "start": 0,
+          "username": "BtP46572"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056772015198175389",
+    "in_reply_to_user_id": "2020351193151860743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056766948399296782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BtP46572 我刚刚因为这个才又打开看了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T16:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056772015198175389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020351193151860743",
+              "start": 0,
+              "username": "BtP46572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056772015198175389",
+        "in_reply_to_user_id": "2020351193151860743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056766948399296782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BtP46572 我刚刚因为这个才又打开看了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020351193151860743",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T16:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056766948399296782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056766948399296782",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056744448445604265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我沒用過欸，倒是學校電腦還保留，感覺有一種上古時代產物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 443,
+          "like_count": 3827,
+          "listed_count": 3,
+          "media_count": 1251,
+          "tweet_count": 6766
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-08T04:17:40.000Z",
+        "description": "トランス🏳️‍⚧️の少女、緒山美奈子…毓卿白…\n\n高168重50kg肩34跨37腰65臀92胸86-75\n\n------------------------------------------------------------------\n\n今の私は「文藝復興」です",
+        "id": "2020351193151860743",
+        "name": "毓卿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052572843918131201/WiLc2oMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 111
+        },
+        "username": "BtP46572",
+        "verified": false
+      }
+    ]
+  }
+}

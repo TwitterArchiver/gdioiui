@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2058494382559690833",
+    "created_at": "2026-05-24T10:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058494382559690833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xianyubang1145…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/xianyubang1145/status/2058493026990014643",
+          "start": 22,
+          "url": "https://t.co/JWR2s9j9op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058494382559690833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058493026990014643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来推特是膜拜大佬的,怎么现在成木桶饭了？ https://t.co/JWR2s9j9op"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2058494382559690833",
+        "created_at": "2026-05-24T10:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058494382559690833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianyubang1145…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/xianyubang1145/status/2058493026990014643",
+              "start": 22,
+              "url": "https://t.co/JWR2s9j9op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058494382559690833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058493026990014643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来推特是膜拜大佬的,怎么现在成木桶饭了？ https://t.co/JWR2s9j9op"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914671795766243328",
+        "conversation_id": "2058493026990014643",
+        "created_at": "2026-05-24T10:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058493026990014643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chise_wo/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Chise_wo/status/2058405728994632047",
+              "start": 27,
+              "url": "https://t.co/avmZhgMO5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058493026990014643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058405728994632047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来注册推特是看涩涩插画的，怎么现在变成MtX了？ https://t.co/avmZhgMO5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 467,
+          "like_count": 3875,
+          "listed_count": 3,
+          "media_count": 1285,
+          "tweet_count": 6924
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-22T13:25:29.000Z",
+        "description": "坐标:杭州市钱塘区\n学校什么的就不说喵~\nMtX/MtF\n好像有喜欢的女孩纸了？///w///\n成绩很尴尬呢...不知道能不能考上普高\n考不上就完蛋啦~",
+        "id": "1914671795766243328",
+        "location": "localhost",
+        "name": "salt·fish🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2048369011264831895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020468226296324096/uKXXl1k3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 168,
+          "like_count": 4837,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1163
+        },
+        "username": "xianyubang1145",
+        "verified": false
+      }
+    ]
+  }
+}

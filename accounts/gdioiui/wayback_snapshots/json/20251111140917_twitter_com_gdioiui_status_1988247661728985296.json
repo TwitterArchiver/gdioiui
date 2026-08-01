@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987540518977597770",
+    "created_at": "2025-11-11T14:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988247661728985296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783819937045237760",
+          "start": 0,
+          "username": "iiihatehuman"
+        },
+        {
+          "end": 23,
+          "id": "1965457223636975617",
+          "start": 14,
+          "username": "KotorinK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988247661728985296",
+    "in_reply_to_user_id": "1783819937045237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988233651616932297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihatehuman @KotorinK 那就得全套了 槟榔 酒 香烟😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987540518977597770",
+        "created_at": "2025-11-11T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988247661728985296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783819937045237760",
+              "start": 0,
+              "username": "iiihatehuman"
+            },
+            {
+              "end": 23,
+              "id": "1965457223636975617",
+              "start": 14,
+              "username": "KotorinK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988247661728985296",
+        "in_reply_to_user_id": "1783819937045237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988233651616932297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihatehuman @KotorinK 那就得全套了 槟榔 酒 香烟😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1987540518977597770",
+        "created_at": "2025-11-11T13:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988233651616932297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 18,
+              "id": "1965457223636975617",
+              "start": 9,
+              "username": "KotorinK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988233651616932297",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987877552581685750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @KotorinK 酒精副作用太大了吧 宿醉之类的有够受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 28,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "「總有一天，我會回到你身邊」",
+        "id": "1783819937045237760",
+        "location": "襤褸飛旋",
+        "name": "總之先冷靜下來找時光機",
+        "pinned_tweet_id": "1970383904348742046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984514698113691648/eo_Q59w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 456,
+          "like_count": 2996,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 2589
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "🟰Kotorin 叫我小库就好 只会通过感受痛苦来逃避现实的电子生命",
+        "id": "1965457223636975617",
+        "location": "天国",
+        "name": "请您服用安眠药",
+        "pinned_tweet_id": "1986425050434838957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987531873334280193/PSzXIFdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 104,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "KotorinK",
+        "verified": false
+      }
+    ]
+  }
+}

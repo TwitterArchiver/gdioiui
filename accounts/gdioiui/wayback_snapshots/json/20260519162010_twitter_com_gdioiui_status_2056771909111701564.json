@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2056671232490106952",
+    "created_at": "2026-05-19T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056771909111701564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1686284307319738368",
+          "start": 0,
+          "username": "Liearmer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056771909111701564",
+    "in_reply_to_user_id": "1686284307319738368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056766450560561580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liearmer IE5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056771909111701564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1686284307319738368",
+              "start": 0,
+              "username": "Liearmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056771909111701564",
+        "in_reply_to_user_id": "1686284307319738368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056766450560561580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liearmer IE5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686284307319738368",
+        "conversation_id": "2056671232490106952",
+        "created_at": "2026-05-19T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056766450560561580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056766450560561580",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671232490106952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 请问，你丢的浏览器是这个IE 5，这个IE 6，还是这个IE 10呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 443,
+          "like_count": 3827,
+          "listed_count": 3,
+          "media_count": 1251,
+          "tweet_count": 6765
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T07:54:48.000Z",
+        "description": "A blogger, own https://t.co/ti9Uphi5tp. On https://t.co/RmtaudA3dt, name earmer.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "101application.com",
+                "end": 38,
+                "expanded_url": "http://101application.com",
+                "start": 15,
+                "url": "https://t.co/ti9Uphi5tp"
+              },
+              {
+                "display_url": "afdian.net",
+                "end": 66,
+                "expanded_url": "http://afdian.net",
+                "start": 43,
+                "url": "https://t.co/RmtaudA3dt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earmer.top",
+                "end": 23,
+                "expanded_url": "https://www.earmer.top",
+                "start": 0,
+                "url": "https://t.co/gs0Bzr7tkK"
+              }
+            ]
+          }
+        },
+        "id": "1686284307319738368",
+        "location": "须弥·须弥城·净善宫",
+        "name": "Earmer Carey",
+        "pinned_tweet_id": "1897208525027467704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686284402165469184/OUsqEhxO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 55,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/gs0Bzr7tkK",
+        "username": "Liearmer",
+        "verified": true
+      }
+    ]
+  }
+}

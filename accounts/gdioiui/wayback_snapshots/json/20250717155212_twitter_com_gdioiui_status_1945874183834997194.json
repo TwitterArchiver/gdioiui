@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945874103400902656"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1945874183834997194",
+    "created_at": "2025-07-17T15:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T16:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945874183834997194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJbBG4FaoK",
+          "end": 37,
+          "expanded_url": "https://x.com/gdioiui/status/1945874183834997194/video/1",
+          "media_key": "7_1945874103400902656",
+          "start": 14,
+          "url": "https://t.co/xJbBG4FaoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945874183834997194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "學到了這輩子都用不完的髒話 https://t.co/xJbBG4FaoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13931,
+        "height": 1278,
+        "media_key": "7_1945874103400902656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945874103400902656/pu/img/S4f5Jh9G_LZIxR7u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945874103400902656/pu/vid/avc1/320x710/Kb5zTXZpWAfI1ex1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945874103400902656/pu/vid/avc1/480x1064/yuguCkauQ9_B-icI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945874103400902656/pu/vid/avc1/576x1278/c0B3KAyZQogp6pkb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945874103400902656/pu/pl/M4sb7PdtVbfOF1Ib.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945874103400902656"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1945874183834997194",
+        "created_at": "2025-07-17T15:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945874183834997194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJbBG4FaoK",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/1945874183834997194/video/1",
+              "media_key": "7_1945874103400902656",
+              "start": 14,
+              "url": "https://t.co/xJbBG4FaoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945874183834997194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學到了這輩子都用不完的髒話 https://t.co/xJbBG4FaoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

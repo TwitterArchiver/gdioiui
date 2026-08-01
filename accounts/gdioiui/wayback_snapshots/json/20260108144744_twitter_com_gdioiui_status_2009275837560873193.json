@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2008924769547325748",
+    "created_at": "2026-01-08T14:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009275837560873193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753397792637382656",
+          "start": 0,
+          "username": "xxoox220624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009275837560873193",
+    "in_reply_to_user_id": "1753397792637382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009272004998725687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxoox220624 根本吃不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2008924769547325748",
+        "created_at": "2026-01-08T14:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009275837560873193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753397792637382656",
+              "start": 0,
+              "username": "xxoox220624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009275837560873193",
+        "in_reply_to_user_id": "1753397792637382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009272004998725687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxoox220624 根本吃不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753397792637382656",
+        "conversation_id": "2008924769547325748",
+        "created_at": "2026-01-08T14:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009272004998725687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009272004998725687",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924769547325748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 吃了伤身体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 257,
+          "like_count": 1771,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3425
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T12:39:56.000Z",
+        "description": "04，不是药娘不是药娘不是药娘。喜欢cosplay.玩vrchat。\n不经常上推特，我只是擦边老师，别tm的一天天性骚扰我，要找鸡找其他人妖去，我性取向正常。（都是节目效果而已）玩cos的来找我贴贴喵。球球老师们了。\nvrchat名字。mea麻婆豆腐\n妈咪@isyunajiang 女儿@3796347772m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "isyunajiang"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "3796347772m"
+              }
+            ]
+          }
+        },
+        "id": "1753397792637382656",
+        "location": "距离你666m",
+        "name": "丑鱼",
+        "pinned_tweet_id": "1968359747243098228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683802882347008/WgAmU01t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 101,
+          "like_count": 544,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 501
+        },
+        "username": "xxoox220624",
+        "verified": false
+      }
+    ]
+  }
+}

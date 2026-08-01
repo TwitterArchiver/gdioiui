@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081628120017490218",
+    "created_at": "2026-07-30T06:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082714818071683396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007113569931075584",
+          "start": 0,
+          "username": "Ji_ci233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082714818071683396",
+    "in_reply_to_user_id": "2007113569931075584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081628120017490218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ji_ci233 喵？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2081628116653654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONtvj-bQAAj17s.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081628120017490218",
+        "created_at": "2026-07-30T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082714818071683396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007113569931075584",
+              "start": 0,
+              "username": "Ji_ci233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082714818071683396",
+        "in_reply_to_user_id": "2007113569931075584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081628120017490218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ji_ci233 喵？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081628116653654016"
+          ]
+        },
+        "author_id": "2007113569931075584",
+        "conversation_id": "2081628120017490218",
+        "created_at": "2026-07-27T06:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081628120017490218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehpHtPkes5",
+              "end": 59,
+              "expanded_url": "https://x.com/Ji_ci233/status/2081628120017490218/photo/1",
+              "media_key": "3_2081628116653654016",
+              "start": 36,
+              "url": "https://t.co/ehpHtPkes5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081628120017490218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个月token都烧不起\n分期支付分期支付\n能不能改成用屁股支付😭😭😭 https://t.co/ehpHtPkes5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 493,
+          "like_count": 4781,
+          "listed_count": 4,
+          "media_count": 1662,
+          "tweet_count": 8548
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T15:35:48.000Z",
+        "description": "175cm/110斤 cd 无🚪\n努力变得更可爱的小男（杯）孩（子）！\n喜欢女装喜欢塞子૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n喜tk（ee），可爱的都喜欢\n微微有些m，喜欢做一些羞耻的♡( ˃᷄˶˶̫˶˂᷅ )\n欢迎姐姐哥哥爸爸妈妈弟弟妹妹互fo哦\n欢迎宝宝私信我～\n非常欢迎大家和我交朋友哦",
+        "id": "2007113569931075584",
+        "location": "Hong Kong",
+        "name": "迟迟钟鼓初长夜",
+        "pinned_tweet_id": "2081593785759482235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081253072513519616/5-RuDgLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 111,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Ji_ci233",
+        "verified": true
+      }
+    ]
+  }
+}

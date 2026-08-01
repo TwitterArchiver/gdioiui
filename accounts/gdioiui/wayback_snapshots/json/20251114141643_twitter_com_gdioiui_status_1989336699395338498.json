@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989336646547075072"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1989006316543832330",
+    "created_at": "2025-11-14T14:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989336699395338498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1834254666840080384",
+          "start": 0,
+          "username": "Mo_www_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 46,
+          "expanded_url": "https://x.com/gdioiui/status/1988953375430570305",
+          "start": 23,
+          "url": "https://t.co/TuD1uDTv5P"
+        },
+        {
+          "display_url": "pic.x.com/nYQMgXYREi",
+          "end": 70,
+          "expanded_url": "https://x.com/gdioiui/status/1989336699395338498/photo/1",
+          "media_key": "3_1989336646547075072",
+          "start": 47,
+          "url": "https://t.co/nYQMgXYREi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989336699395338498",
+    "in_reply_to_user_id": "1834254666840080384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988953375430570305",
+        "type": "quoted"
+      },
+      {
+        "id": "1989006316543832330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mo_www_ 我这个属于是buff叠满了\nhttps://t.co/TuD1uDTv5P https://t.co/nYQMgXYREi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_1989336646547075072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uLI9wa8AAG4Xq.png",
+        "width": 680
+      },
+      {
+        "height": 915,
+        "media_key": "3_1988952522367889408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5otx_ra8AAEK-p.png",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989006306884370433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pesqnawAEMFH8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989336646547075072"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1989006316543832330",
+        "created_at": "2025-11-14T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989336699395338498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1834254666840080384",
+              "start": 0,
+              "username": "Mo_www_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 46,
+              "expanded_url": "https://x.com/gdioiui/status/1988953375430570305",
+              "start": 23,
+              "url": "https://t.co/TuD1uDTv5P"
+            },
+            {
+              "display_url": "pic.x.com/nYQMgXYREi",
+              "end": 70,
+              "expanded_url": "https://x.com/gdioiui/status/1989336699395338498/photo/1",
+              "media_key": "3_1989336646547075072",
+              "start": 47,
+              "url": "https://t.co/nYQMgXYREi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989336699395338498",
+        "in_reply_to_user_id": "1834254666840080384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988953375430570305",
+            "type": "quoted"
+          },
+          {
+            "id": "1989006316543832330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mo_www_ 我这个属于是buff叠满了\nhttps://t.co/TuD1uDTv5P https://t.co/nYQMgXYREi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988952522367889408"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1988953375430570305",
+        "created_at": "2025-11-13T12:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988953375430570305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "明尼苏达多项人格测验(MMPI)免费在线测试，MMPI人格测试量表广泛用于精神疾病的筛查，也可以用于人格/个性筛查，MMPI是心理咨询工作者和精神医学工作者必备的心理测验之一。",
+              "display_url": "minke8.cn/xl2.html",
+              "end": 51,
+              "expanded_url": "https://minke8.cn/xl2.html",
+              "start": 28,
+              "status": 200,
+              "title": "明尼苏达多项人格测验(MMPI)免费-MMPI人格测试",
+              "unwound_url": "https://minke8.cn/xl2.html",
+              "url": "https://t.co/8UOKJ1TnK2"
+            },
+            {
+              "display_url": "pic.x.com/iDUvVrUOB9",
+              "end": 84,
+              "expanded_url": "https://x.com/gdioiui/status/1988953375430570305/photo/1",
+              "media_key": "3_1988952522367889408",
+              "start": 61,
+              "url": "https://t.co/iDUvVrUOB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988953375430570305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不用吃药也有别人吃药的实力,真是太厉害了？\n链接：https://t.co/8UOKJ1TnK2\n400题做的好累 https://t.co/iDUvVrUOB9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989006306884370433"
+          ]
+        },
+        "author_id": "1834254666840080384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989006316543832330",
+        "created_at": "2025-11-13T16:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989006316543832330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3gh5iOPOc",
+              "end": 25,
+              "expanded_url": "https://x.com/Mo_www_/status/1989006316543832330/photo/1",
+              "media_key": "3_1989006306884370433",
+              "start": 2,
+              "url": "https://t.co/M3gh5iOPOc"
+            },
+            {
+              "display_url": "x.com/orisam123/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/orisam123/status/1988785080505102772",
+              "start": 26,
+              "url": "https://t.co/QgbPVI8zZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989006316543832330",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988785080505102772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/M3gh5iOPOc https://t.co/QgbPVI8zZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 37,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T15:36:12.000Z",
+        "description": "人在大陆 OIer | \n尊重历史 | \n两岸一家亲，反对武统 | \n社自B | \n碎碎念 | \n翻车友🏳️‍⚧️mtx😋 | \n同类贴贴😆 | \nINTP | \n互fo可以提醒我一下qwq | \n有主人啦ww | \n喜欢的妹妹🥰@KS_Nitori | \n不知道什么能的里推@Mo__w__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "KS_Nitori"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "Mo__w__"
+              }
+            ]
+          }
+        },
+        "id": "1834254666840080384",
+        "location": "Xi'an Shaanxi China",
+        "name": "不知道叫什么反正跟墙内不一样的小Mo",
+        "pinned_tweet_id": "1947632764293157372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984460656746381313/2APl1XL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 806,
+          "like_count": 8192,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1211
+        },
+        "username": "Mo_www_",
+        "verified": false
+      }
+    ]
+  }
+}

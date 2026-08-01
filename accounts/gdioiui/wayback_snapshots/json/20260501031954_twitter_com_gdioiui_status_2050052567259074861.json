@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2049824528977518960",
+    "created_at": "2026-05-01T03:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050052567259074861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968283810296201216",
+          "start": 0,
+          "username": "Snowve_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050052567259074861",
+    "in_reply_to_user_id": "1968283810296201216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050047108619882811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowve_oO 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2049824528977518960",
+        "created_at": "2026-05-01T03:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050052567259074861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968283810296201216",
+              "start": 0,
+              "username": "Snowve_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050052567259074861",
+        "in_reply_to_user_id": "1968283810296201216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050047108619882811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowve_oO 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968283810296201216",
+        "conversation_id": "2049824528977518960",
+        "created_at": "2026-05-01T02:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050047108619882811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050047108619882811",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049824528977518960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 会不会太隐晦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 408,
+          "like_count": 3642,
+          "listed_count": 2,
+          "media_count": 1135,
+          "tweet_count": 6264
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T12:00:15.000Z",
+        "description": "萝御双修//脾气差不闲聊//没有qv//喜欢ddlg",
+        "id": "1968283810296201216",
+        "name": "世一兔",
+        "pinned_tweet_id": "2032503606642168042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030728456984743936/0agSowZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 29,
+          "like_count": 4731,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 264
+        },
+        "username": "Snowve_oO",
+        "verified": false
+      }
+    ]
+  }
+}

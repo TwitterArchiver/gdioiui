@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053077456597499977",
+    "created_at": "2026-05-09T13:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053097873114562596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050025901656813568",
+          "start": 0,
+          "username": "WenYuTang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053097873114562596",
+    "in_reply_to_user_id": "2050025901656813568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053077456597499977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenYuTang1019 是死了老公吧.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053077456597499977",
+        "created_at": "2026-05-09T13:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053097873114562596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050025901656813568",
+              "start": 0,
+              "username": "WenYuTang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053097873114562596",
+        "in_reply_to_user_id": "2050025901656813568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053077456597499977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenYuTang1019 是死了老公吧.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050025901656813568",
+        "conversation_id": "2053077456597499977",
+        "created_at": "2026-05-09T11:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053077456597499977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/gdioiui/status/2053059390870335853",
+              "start": 23,
+              "url": "https://t.co/rtqe0EDUNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053077456597499977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053059390870335853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人死了个婆娘以后就疯癫魔怔了\n大概是这样 https://t.co/rtqe0EDUNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 427,
+          "like_count": 3741,
+          "listed_count": 3,
+          "media_count": 1200,
+          "tweet_count": 6485
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T01:34:04.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 | 对跨性别持反对意见 | 自切：2026.1.13 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/zmvtUghZ66"
+              }
+            ]
+          }
+        },
+        "id": "2050025901656813568",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2052640183577973038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050025981755396096/xvHoD3RX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 39,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/zmvtUghZ66",
+        "username": "WenYuTang1019",
+        "verified": true
+      }
+    ]
+  }
+}

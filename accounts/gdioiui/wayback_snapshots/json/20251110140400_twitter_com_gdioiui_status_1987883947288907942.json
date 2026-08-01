@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987768305474744559",
+    "created_at": "2025-11-10T14:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987883947288907942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514618507148730379",
+          "start": 0,
+          "username": "qiuluoQuruo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987883947288907942",
+    "in_reply_to_user_id": "1514618507148730379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 204,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987768305474744559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuluoQuruo 这回执怎么啥也没写 是有什么不可描述的吗？🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987768300928159744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5X4vPCa0AAnsHR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987768305474744559",
+        "created_at": "2025-11-10T14:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987883947288907942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514618507148730379",
+              "start": 0,
+              "username": "qiuluoQuruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987883947288907942",
+        "in_reply_to_user_id": "1514618507148730379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987768305474744559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuluoQuruo 这回执怎么啥也没写 是有什么不可描述的吗？🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768300928159744"
+          ]
+        },
+        "author_id": "1514618507148730379",
+        "conversation_id": "1987768305474744559",
+        "created_at": "2025-11-10T06:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987768305474744559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjnfAUxOR6",
+              "end": 47,
+              "expanded_url": "https://x.com/qiuluoQuruo/status/1987768305474744559/photo/1",
+              "media_key": "3_1987768300928159744",
+              "start": 24,
+              "url": "https://t.co/TjnfAUxOR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987768305474744559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33179,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图片漏名字了但是感觉无所谓了\n我需要心理委员😭 https://t.co/TjnfAUxOR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 28,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T14:56:14.000Z",
+        "description": "**未经允许禁止私用稿件**\n天空永远纯净\n定位佛山 设定是龙狼\n🐧 3531612569\n❤️@XinLanStar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "XinLanStar"
+              }
+            ]
+          }
+        },
+        "id": "1514618507148730379",
+        "location": "广州市",
+        "name": "秋罗𝑄𝑢𝑟𝑢𝑜🔜缅兽聚",
+        "pinned_tweet_id": "1846772787957911933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975998924881301504/g0MAKVqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 241,
+          "like_count": 1034,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 1121
+        },
+        "username": "qiuluoQuruo",
+        "verified": false
+      }
+    ]
+  }
+}

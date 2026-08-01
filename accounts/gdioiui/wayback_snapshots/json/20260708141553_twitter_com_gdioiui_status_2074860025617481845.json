@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074679246031900672"
+      ],
+      "media_source_tweet_id": [
+        "2074679256526070187"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2074860025617481845",
+    "created_at": "2026-07-08T14:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074860025617481845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TSFhMHJKXZ",
+          "end": 61,
+          "expanded_url": "https://x.com/kxk1388574/status/2074679256526070187/photo/1",
+          "media_key": "3_2074679246031900672",
+          "start": 38,
+          "url": "https://t.co/TSFhMHJKXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074860025617481845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074679256526070187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 说要去洗澡了又不给我打视频的一律当成在这样 https://t.co/TSFhMHJKXZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074679246031900672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq9yDqbUAAtIjd.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074679246031900672"
+          ],
+          "media_source_tweet_id": [
+            "2074679256526070187"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2074860025617481845",
+        "created_at": "2026-07-08T14:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074860025617481845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSFhMHJKXZ",
+              "end": 61,
+              "expanded_url": "https://x.com/kxk1388574/status/2074679256526070187/photo/1",
+              "media_key": "3_2074679246031900672",
+              "start": 38,
+              "url": "https://t.co/TSFhMHJKXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074860025617481845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074679256526070187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 说要去洗澡了又不给我打视频的一律当成在这样 https://t.co/TSFhMHJKXZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074679246031900672"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2074679256526070187",
+        "created_at": "2026-07-08T02:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074679256526070187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSFhMHJKXZ",
+              "end": 45,
+              "expanded_url": "https://x.com/kxk1388574/status/2074679256526070187/photo/1",
+              "media_key": "3_2074679246031900672",
+              "start": 22,
+              "url": "https://t.co/TSFhMHJKXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074679256526070187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1705,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "说要去洗澡了又不给我打视频的一律当成在这样 https://t.co/TSFhMHJKXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 485,
+          "like_count": 4341,
+          "listed_count": 4,
+          "media_count": 1532,
+          "tweet_count": 8044
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10398,
+          "following_count": 5886,
+          "like_count": 54198,
+          "listed_count": 15,
+          "media_count": 1018,
+          "tweet_count": 7960
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

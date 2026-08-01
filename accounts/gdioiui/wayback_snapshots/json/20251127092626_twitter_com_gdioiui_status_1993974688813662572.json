@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992607957348196647",
+    "created_at": "2025-11-27T09:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993974688813662572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        },
+        {
+          "end": 33,
+          "id": "1675023448689524736",
+          "start": 17,
+          "username": "yuanpidoushigou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993974688813662572",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992607957348196647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 @yuanpidoushigou 这个不是识别出ip啊 这个是开了手机定位\n把定位关了就没有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992607951660658688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cqX-9aMAAePlH.jpg",
+        "width": 922
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1992607954378641410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cqYJFbUAIdC-V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1992607952637997056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cqYCmbMAAZi4c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992607957348196647",
+        "created_at": "2025-11-27T09:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993974688813662572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            },
+            {
+              "end": 33,
+              "id": "1675023448689524736",
+              "start": 17,
+              "username": "yuanpidoushigou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993974688813662572",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992607957348196647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 @yuanpidoushigou 这个不是识别出ip啊 这个是开了手机定位\n把定位关了就没有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992607951660658688",
+            "3_1992607954378641410",
+            "3_1992607952637997056"
+          ]
+        },
+        "author_id": "1830493173099208704",
+        "conversation_id": "1992607957348196647",
+        "created_at": "2025-11-23T14:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992607957348196647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiKS0IdJUV",
+              "end": 91,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1992607957348196647/photo/1",
+              "media_key": "3_1992607951660658688",
+              "start": 68,
+              "url": "https://t.co/NiKS0IdJUV"
+            },
+            {
+              "display_url": "pic.x.com/NiKS0IdJUV",
+              "end": 91,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1992607957348196647/photo/1",
+              "media_key": "3_1992607954378641410",
+              "start": 68,
+              "url": "https://t.co/NiKS0IdJUV"
+            },
+            {
+              "display_url": "pic.x.com/NiKS0IdJUV",
+              "end": 91,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1992607957348196647/photo/1",
+              "media_key": "3_1992607952637997056",
+              "start": 68,
+              "url": "https://t.co/NiKS0IdJUV"
+            },
+            {
+              "display_url": "x.com/LeeWilliam9992…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/LeeWilliam99928/status/1992599345640898836",
+              "start": 92,
+              "url": "https://t.co/c06UVrBBYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992607957348196647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3239,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992599345640898836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实只要你用了vpn/节点／软路由等等，谷歌早就把你的IP识别出来了，不信用谷歌随便搜一个什么，翻到最下面，不就是中国ip吗 😁😁🤣🤣 https://t.co/NiKS0IdJUV https://t.co/c06UVrBBYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 84,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "中间派思想偏左，战略偏右，追求理性，追求自由。社会科学/文史哲/时政/经济学。",
+        "id": "1830493173099208704",
+        "name": "劍南道🏯黎州🏞理塘縣🏚理塘節度使🚩艾蓮·山魚·翁Eileen Mntfish Ong",
+        "pinned_tweet_id": "1988599782139658624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879788964061184/RKF7lV0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 2579,
+          "like_count": 4712,
+          "listed_count": 5,
+          "media_count": 1217,
+          "tweet_count": 9189
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T06:10:51.000Z",
+        "description": "",
+        "id": "1675023448689524736",
+        "name": "九转大号（已死）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675024145732517890/2opp72lD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 127
+        },
+        "username": "yuanpidoushigou",
+        "verified": false
+      }
+    ]
+  }
+}

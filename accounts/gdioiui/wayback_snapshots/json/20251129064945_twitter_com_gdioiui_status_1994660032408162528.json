@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994660032408162528",
+    "created_at": "2025-11-29T06:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994660032408162528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/1994328519195701263",
+          "start": 138,
+          "url": "https://t.co/AoeSlChnKd"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "28b9063fdce43645"
+    },
+    "id": "1994660032408162528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994328519195701263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说话带喵?😀😀好可爱喵!🥰好可爱喵!🥰🥰好可爱喵!🥰🥰🥰我喜欢你喵!😍我喜欢你喵!😍😍我喜欢你喵!😍😍😍结婚喵!😘做我老婆喵!😘😘你脸怎么红红的喵? 🥰你说话好可爱喵!😍牵手手喵!😘😘结婚婚喵!😘😘一起恩恩爱爱白头偕老喵！🥰🥰🥰什么叫你是玩卡拉彼丘的喵？🙂🙂\n喵~ 征亲喵 https://t.co/AoeSlChnKd"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Chiyoda-ku, Tokyo",
+        "geo": {
+          "bbox": [
+            139.729893,
+            35.668551,
+            139.782836,
+            35.705218
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "28b9063fdce43645",
+        "name": "Chiyoda-ku",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994660032408162528",
+        "created_at": "2025-11-29T06:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994660032408162528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/1994328519195701263",
+              "start": 138,
+              "url": "https://t.co/AoeSlChnKd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "1994660032408162528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994328519195701263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说话带喵?😀😀好可爱喵!🥰好可爱喵!🥰🥰好可爱喵!🥰🥰🥰我喜欢你喵!😍我喜欢你喵!😍😍我喜欢你喵!😍😍😍结婚喵!😘做我老婆喵!😘😘你脸怎么红红的喵? 🥰你说话好可爱喵!😍牵手手喵!😘😘结婚婚喵!😘😘一起恩恩爱爱白头偕老喵！🥰🥰🥰什么叫你是玩卡拉彼丘的喵？🙂🙂\n喵~ 征亲喵 https://t.co/AoeSlChnKd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "1994328519195701263",
+        "created_at": "2025-11-28T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994328519195701263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AqDro9Qa/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/AqDro9Qa/status/1994324588415865252",
+              "start": 131,
+              "url": "https://t.co/fjuk1CJsep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994328519195701263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994324588415865252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说话带喵?😀😀好可爱喵!🥰好可爱喵!🥰🥰好可爱喵!🥰🥰🥰我喜欢你喵!😍我喜欢你喵!😍😍我喜欢你喵!😍😍😍结婚喵!😘做我老婆喵!😘😘你脸怎么红红的喵? 🥰你说话好可爱喵!😍牵手手喵!😘😘结婚婚喵!😘😘一起恩恩爱爱白头偕老喵！🥰🥰🥰什么叫你是玩卡拉彼丘的喵？🙂🙂 https://t.co/fjuk1CJsep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 91,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入 | 生产日期2010.3.16 | 无证含糖 |",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "pinned_tweet_id": "1993353252541546682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960630769094656/zuD-tgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1405,
+          "like_count": 34234,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 3087
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

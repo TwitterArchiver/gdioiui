@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2006403273289511392",
+    "created_at": "2026-01-01T10:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006680745503580364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840746951522095104",
+          "start": 0,
+          "username": "poor_tomato_qaq"
+        },
+        {
+          "end": 25,
+          "id": "1813971881990742016",
+          "start": 17,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006680745503580364",
+    "in_reply_to_user_id": "1840746951522095104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006668423229829265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poor_tomato_qaq @TXTYYDZ 日了+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006403273289511392",
+        "created_at": "2026-01-01T10:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006680745503580364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840746951522095104",
+              "start": 0,
+              "username": "poor_tomato_qaq"
+            },
+            {
+              "end": 25,
+              "id": "1813971881990742016",
+              "start": 17,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006680745503580364",
+        "in_reply_to_user_id": "1840746951522095104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006668423229829265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poor_tomato_qaq @TXTYYDZ 日了+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840746951522095104",
+        "conversation_id": "2006403273289511392",
+        "created_at": "2026-01-01T10:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006668423229829265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 17,
+              "id": "1813971881990742016",
+              "start": 9,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006668423229829265",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006403273289511392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @TXTYYDZ 自己说阴不阴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 201,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2969
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T13:34:22.000Z",
+        "description": "@tomato11451419 的转世/北方小城的社恐/时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/画渣/isfp/不涉政/定期回fo/日常推/可以聊天/魔怔▲批/好朋友@TXTYYDZ/好老婆😘@Umnn1234\n匿名提问：https://t.co/Cdv6kfoKQ3（原来的掉了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "tomato11451419"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "TXTYYDZ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "username": "Umnn1234"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/poor_tomato_qa…",
+                "end": 142,
+                "expanded_url": "https://ngl.link/poor_tomato_qaq1",
+                "start": 119,
+                "url": "https://t.co/Cdv6kfoKQ3"
+              }
+            ]
+          }
+        },
+        "id": "1840746951522095104",
+        "location": "番茄种植基地",
+        "name": "可憐の拖碼頭（坐牢中）",
+        "pinned_tweet_id": "2006498273805349054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992514026384019456/9LChQ7IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 309,
+          "like_count": 16791,
+          "listed_count": 2,
+          "media_count": 600,
+          "tweet_count": 6220
+        },
+        "username": "poor_tomato_qaq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "ISFP。热爱抽象艺术的精神状态令人担忧的不正常人类，也可能不是人类。\n县城社畜一枚，不爱干活，经常辞职。\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "全中国空气最埋汰的地方",
+        "name": "田小唐",
+        "pinned_tweet_id": "2005533298286788873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005950803585191936/RxKI6nYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1058,
+          "like_count": 59317,
+          "listed_count": 7,
+          "media_count": 2483,
+          "tweet_count": 15920
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

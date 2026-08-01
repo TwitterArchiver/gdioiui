@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2033199131737596101",
+    "created_at": "2026-03-16T00:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T01:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033337568474120275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967563670910894081",
+          "start": 0,
+          "username": "baiyuewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033337568474120275",
+    "in_reply_to_user_id": "1967563670910894081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033334117798924636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyuewww 没上课文 就是一个比赛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2033199131737596101",
+        "created_at": "2026-03-16T00:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033337568474120275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967563670910894081",
+              "start": 0,
+              "username": "baiyuewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033337568474120275",
+        "in_reply_to_user_id": "1967563670910894081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033334117798924636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyuewww 没上课文 就是一个比赛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967563670910894081",
+        "conversation_id": "2033199131737596101",
+        "created_at": "2026-03-16T00:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033334117798924636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033334117798924636",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033199131737596101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 这么神经病的诗是怎么上课文的，误闯天家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 366,
+          "like_count": 3211,
+          "listed_count": 2,
+          "media_count": 836,
+          "tweet_count": 5174
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-15T12:19:34.000Z",
+        "description": "一只成分复杂的小跨妹，可以在任何地方看到我！",
+        "id": "1967563670910894081",
+        "name": "任成轩",
+        "pinned_tweet_id": "2029456908587864170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032410253145317376/FxBTJJ6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1955,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 3997
+        },
+        "username": "baiyuewww",
+        "verified": false
+      }
+    ]
+  }
+}

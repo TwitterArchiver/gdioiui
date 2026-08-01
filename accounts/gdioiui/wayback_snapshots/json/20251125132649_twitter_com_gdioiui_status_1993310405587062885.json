@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993310405587062885",
+    "created_at": "2025-11-25T13:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993310405587062885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/gdioiui/status/1993309196209799465",
+          "start": 54,
+          "url": "https://t.co/348ViU2T3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993310405587062885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993309196209799465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚我妈帮我放衣服    进来了    开着灯  堆了一大堆 \n但是她肯定没看到对吧，这样就过去了 对吧？ https://t.co/348ViU2T3c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993308258438877184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mnTNAaEAATyuv.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 54296,
+        "height": 720,
+        "media_key": "7_1993308934179078144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993308934179078144/pu/img/qrU1EFE6e1ueI4ar.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/480x270/kKnnaqs-clZn_vwg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/640x360/-tkmYV-bEnvNMic-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/vid/avc1/1280x720/uJBZ7rcXasjGE_9R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993308934179078144/pu/pl/3KW9j2u7WqDQU_pV.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993310405587062885",
+        "created_at": "2025-11-25T13:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993310405587062885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/gdioiui/status/1993309196209799465",
+              "start": 54,
+              "url": "https://t.co/348ViU2T3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993310405587062885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993309196209799465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚我妈帮我放衣服    进来了    开着灯  堆了一大堆 \n但是她肯定没看到对吧，这样就过去了 对吧？ https://t.co/348ViU2T3c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993308258438877184",
+            "7_1993308934179078144"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993309196209799465",
+        "created_at": "2025-11-25T13:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993309196209799465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnqhI2bVsD",
+              "end": 58,
+              "expanded_url": "https://x.com/gdioiui/status/1993309196209799465/video/1",
+              "media_key": "3_1993308258438877184",
+              "start": 35,
+              "url": "https://t.co/AnqhI2bVsD"
+            },
+            {
+              "display_url": "pic.x.com/AnqhI2bVsD",
+              "end": 58,
+              "expanded_url": "https://x.com/gdioiui/status/1993309196209799465/video/1",
+              "media_key": "7_1993308934179078144",
+              "start": 35,
+              "url": "https://t.co/AnqhI2bVsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993309196209799465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看药师一次装回来了什么？\n装满了 还有一盒抽奖的韩补\n一会开箱韩补 https://t.co/AnqhI2bVsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 64,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

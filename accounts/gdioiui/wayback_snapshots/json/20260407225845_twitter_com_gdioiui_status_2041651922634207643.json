@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2041291986884506089",
+    "created_at": "2026-04-07T22:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041651922634207643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997308154946961408",
+          "start": 0,
+          "username": "kndbxls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041651922634207643",
+    "in_reply_to_user_id": "1997308154946961408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041632536523325459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kndbxls 我觉得还是得垫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2041291986884506089",
+        "created_at": "2026-04-07T22:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041651922634207643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997308154946961408",
+              "start": 0,
+              "username": "kndbxls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041651922634207643",
+        "in_reply_to_user_id": "1997308154946961408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041632536523325459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kndbxls 我觉得还是得垫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997308154946961408",
+        "conversation_id": "2041291986884506089",
+        "created_at": "2026-04-07T21:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T22:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041632536523325459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041632536523325459",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041291986884506089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 提前恭喜一下哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 384,
+          "like_count": 3503,
+          "listed_count": 2,
+          "media_count": 1014,
+          "tweet_count": 5802
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T14:12:37.000Z",
+        "description": "15 岁的小药娘喵\n梦想是成为一名真正的女生！（似乎做不到）\n另外互fo互fo互fo互fo互fo互fo",
+        "id": "1997308154946961408",
+        "name": "予安🍥",
+        "pinned_tweet_id": "2036475275060670475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021265712434774020/whhMHn2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 137,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 129
+        },
+        "username": "kndbxls",
+        "verified": false
+      }
+    ]
+  }
+}

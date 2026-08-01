@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992215424784875520",
+        "3_1992215434347913216"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1992215974330982756",
+    "created_at": "2025-11-22T12:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992215974330982756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFOFdC7AAn",
+          "end": 102,
+          "expanded_url": "https://x.com/gdioiui/status/1992215974330982756/photo/1",
+          "media_key": "3_1992215424784875520",
+          "start": 79,
+          "url": "https://t.co/cFOFdC7AAn"
+        },
+        {
+          "display_url": "pic.x.com/cFOFdC7AAn",
+          "end": 102,
+          "expanded_url": "https://x.com/gdioiui/status/1992215974330982756/photo/1",
+          "media_key": "3_1992215434347913216",
+          "start": 79,
+          "url": "https://t.co/cFOFdC7AAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992215974330982756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开奖了，grok抽的，马斯克保证随机   \n因为微信买了东西钱不够了 他没有微信，所以先v15（会补\n😉希望1000fo的时候能多有几个人抽吧q(≧▽≦q) https://t.co/cFOFdC7AAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1992215424784875520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XFX6ZbQAACWEv.jpg",
+        "width": 864
+      },
+      {
+        "height": 455,
+        "media_key": "3_1992215434347913216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XFYeBboAAjpvp.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992215424784875520",
+            "3_1992215434347913216"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1992215974330982756",
+        "created_at": "2025-11-22T12:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992215974330982756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFOFdC7AAn",
+              "end": 102,
+              "expanded_url": "https://x.com/gdioiui/status/1992215974330982756/photo/1",
+              "media_key": "3_1992215424784875520",
+              "start": 79,
+              "url": "https://t.co/cFOFdC7AAn"
+            },
+            {
+              "display_url": "pic.x.com/cFOFdC7AAn",
+              "end": 102,
+              "expanded_url": "https://x.com/gdioiui/status/1992215974330982756/photo/1",
+              "media_key": "3_1992215434347913216",
+              "start": 79,
+              "url": "https://t.co/cFOFdC7AAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992215974330982756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖了，grok抽的，马斯克保证随机   \n因为微信买了东西钱不够了 他没有微信，所以先v15（会补\n😉希望1000fo的时候能多有几个人抽吧q(≧▽≦q) https://t.co/cFOFdC7AAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 50,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

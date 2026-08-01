@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1991721610789941321",
+    "created_at": "2025-11-21T08:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T09:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991779033835794522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991779033835794522",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991721610789941321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 怎么那么可怕啊       愿父母逃离原生家庭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1991721610789941321",
+        "created_at": "2025-11-21T08:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991779033835794522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991779033835794522",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991721610789941321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 怎么那么可怕啊       愿父母逃离原生家庭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750684739441446912",
+        "conversation_id": "1991721610789941321",
+        "created_at": "2025-11-21T04:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991721610789941321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wngy189327/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/wngy189327/status/1991718701499052482",
+              "start": 140,
+              "url": "https://t.co/5d6mB4sAqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991721610789941321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 990,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991718701499052482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前以为涉政被派出所请去做笔录，你做得过吗？\n我让政法委亲自找过，你找过吗？\n我离家出走自己一个人坐高铁和地铁去北京首都机场，你去过吗？\n我自己买机票差点儿坐飞机去广州，你去过吗？\n我开过汽车，你开过吗？\n我o过d，你o过吗？\n我把父母开了，你开过吗？\n我当过药娘，你当过吗？ https://t.co/5d6mB4sAqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1990430036076499085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 49,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一段时间先不上推了（偶尔可能也会上，但是不会像以前那样频繁了）\n140斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n会割手但不od（偶尔也会o）\n同类互fo",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥（实名上网）",
+        "pinned_tweet_id": "1990237035291181498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 392,
+          "like_count": 5909,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 856
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

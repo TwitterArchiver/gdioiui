@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080677553346613248"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2080677592320127136",
+    "created_at": "2026-07-24T15:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080677592320127136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EcZosS5b9u",
+          "end": 37,
+          "expanded_url": "https://x.com/gdioiui/status/2080677592320127136/video/1",
+          "media_key": "13_2080677553346613248",
+          "start": 14,
+          "url": "https://t.co/EcZosS5b9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080677592320127136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵喵喵喵喵~\n喵喵喵喵 https://t.co/EcZosS5b9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8899,
+        "height": 1280,
+        "media_key": "13_2080677553346613248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080677553346613248/img/YBgkzqZVuhX0UAzd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080677553346613248/vid/avc1/320x568/yDE2dxeiEYPmz_R-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080677553346613248/vid/avc1/480x852/cgJ2Fk8KrHULGzwY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080677553346613248/vid/avc1/720x1280/kM34JarYQTyV2XXI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080677553346613248/pl/kvr6d3LPLd1haKZI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080677553346613248"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2080677592320127136",
+        "created_at": "2026-07-24T15:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080677592320127136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcZosS5b9u",
+              "end": 37,
+              "expanded_url": "https://x.com/gdioiui/status/2080677592320127136/video/1",
+              "media_key": "13_2080677553346613248",
+              "start": 14,
+              "url": "https://t.co/EcZosS5b9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080677592320127136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵喵喵~\n喵喵喵喵 https://t.co/EcZosS5b9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n『warn』完全无性功能\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 495,
+          "like_count": 4610,
+          "listed_count": 5,
+          "media_count": 1632,
+          "tweet_count": 8401
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

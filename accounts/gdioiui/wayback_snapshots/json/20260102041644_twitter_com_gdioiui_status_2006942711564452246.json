@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2006941936142397927",
+    "created_at": "2026-01-02T04:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006942711564452246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2699302994",
+          "start": 0,
+          "username": "BearSylla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006942711564452246",
+    "in_reply_to_user_id": "2699302994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006942480126836797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BearSylla ˃ʍ˂断肠 那么狠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2006941936142397927",
+        "created_at": "2026-01-02T04:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006942711564452246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2699302994",
+              "start": 0,
+              "username": "BearSylla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006942711564452246",
+        "in_reply_to_user_id": "2699302994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006942480126836797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BearSylla ˃ʍ˂断肠 那么狠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2699302994",
+        "conversation_id": "2006941936142397927",
+        "created_at": "2026-01-02T04:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006942480126836797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006942480126836797",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006941936142397927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 卻怕遇見「斷腸草」（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "2006566693032833073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 223,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T22:48:19.000Z",
+        "description": "Fox is love. Fox is life.\nPosts are mostly foxes with occasional other shitposts.",
+        "id": "2699302994",
+        "location": "Malaysia",
+        "name": "SyllaBear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004635070800535552/Wb9jlH3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 2011,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 771
+        },
+        "username": "BearSylla",
+        "verified": true
+      }
+    ]
+  }
+}

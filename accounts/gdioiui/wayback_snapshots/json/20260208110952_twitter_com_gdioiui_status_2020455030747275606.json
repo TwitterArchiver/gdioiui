@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020455027115204608"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2020455030747275606",
+    "created_at": "2026-02-08T11:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T12:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020455030747275606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvVevVxlo5",
+          "end": 51,
+          "expanded_url": "https://x.com/gdioiui/status/2020455030747275606/photo/1",
+          "media_key": "3_2020455027115204608",
+          "start": 28,
+          "url": "https://t.co/rvVevVxlo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020455030747275606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逍遥丸？？ 哪位道友给窝爸的\n这好东西不得挣三口🤤🤤🤤 https://t.co/rvVevVxlo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2020455027115204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoZJG_aoAAYqJQ.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020455027115204608"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2020455030747275606",
+        "created_at": "2026-02-08T11:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020455030747275606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvVevVxlo5",
+              "end": 51,
+              "expanded_url": "https://x.com/gdioiui/status/2020455030747275606/photo/1",
+              "media_key": "3_2020455027115204608",
+              "start": 28,
+              "url": "https://t.co/rvVevVxlo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020455030747275606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逍遥丸？？ 哪位道友给窝爸的\n这好东西不得挣三口🤤🤤🤤 https://t.co/rvVevVxlo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪（状态异常限定）",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 302,
+          "like_count": 2618,
+          "listed_count": 1,
+          "media_count": 558,
+          "tweet_count": 4252
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

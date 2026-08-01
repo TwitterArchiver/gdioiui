@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983719359362056192"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1983719363786969379",
+    "created_at": "2025-10-30T02:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T03:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983719363786969379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3C4yhDjRyE",
+          "end": 30,
+          "expanded_url": "https://x.com/gdioiui/status/1983719363786969379/photo/1",
+          "media_key": "3_1983719359362056192",
+          "start": 7,
+          "url": "https://t.co/3C4yhDjRyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983719363786969379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘保险箱😣 https://t.co/3C4yhDjRyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983719359362056192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4eWP0TXQAA0IUB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983719359362056192"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983719363786969379",
+        "created_at": "2025-10-30T02:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983719363786969379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3C4yhDjRyE",
+              "end": 30,
+              "expanded_url": "https://x.com/gdioiui/status/1983719363786969379/photo/1",
+              "media_key": "3_1983719359362056192",
+              "start": 7,
+              "url": "https://t.co/3C4yhDjRyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983719363786969379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘保险箱😣 https://t.co/3C4yhDjRyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量",
+        "id": "1882678524596867072",
+        "name": "圣三一第一步枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 18,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 131
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

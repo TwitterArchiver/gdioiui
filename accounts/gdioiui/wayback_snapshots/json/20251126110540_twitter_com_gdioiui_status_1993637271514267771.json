@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992918870299222469",
+    "created_at": "2025-11-26T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993637271514267771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "715014923571503104",
+          "start": 0,
+          "username": "Shuy_Lynn"
+        },
+        {
+          "end": 22,
+          "id": "1875115728166342656",
+          "start": 11,
+          "username": "3253212MCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993637271514267771",
+    "in_reply_to_user_id": "715014923571503104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993117576961077328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuy_Lynn @3253212MCZ 🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992918870299222469",
+        "created_at": "2025-11-26T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993637271514267771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "715014923571503104",
+              "start": 0,
+              "username": "Shuy_Lynn"
+            },
+            {
+              "end": 22,
+              "id": "1875115728166342656",
+              "start": 11,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993637271514267771",
+        "in_reply_to_user_id": "715014923571503104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993117576961077328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuy_Lynn @3253212MCZ 🤡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "715014923571503104",
+        "conversation_id": "1992918870299222469",
+        "created_at": "2025-11-25T00:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993117576961077328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 20,
+              "id": "1882678524596867072",
+              "start": 12,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993117576961077328",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993110452134723954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ @gdioiui 还是揍的太少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 64,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T03:16:56.000Z",
+        "description": "",
+        "id": "715014923571503104",
+        "location": "北京",
+        "name": "Lynn°",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240655372492267521/KW2QIWqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 239,
+          "like_count": 122,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 310
+        },
+        "username": "Shuy_Lynn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜！ | 178cm超大只 | ❤️‍🩹抑郁症自愈者 |🍬已断糖| MIKU重度依赖 |❤️最最爱的公主大人@xiaogudu423「共享账号中～」 | 💌努力互fo |❤️‍🔥分享欲旺| Q:285299219 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "xiaogudu423"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天漫步中～",
+        "name": "零落孤潮＆雨泠🏳️‍⚧️",
+        "pinned_tweet_id": "1984571565917552657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981215826695864320/R2lI5jqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 886,
+          "like_count": 4947,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3471
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

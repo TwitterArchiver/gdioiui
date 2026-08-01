@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994266906388513190",
+    "created_at": "2025-11-29T05:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994637185006670204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1399192934638104577",
+          "start": 0,
+          "username": "JQueovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994637185006670204",
+    "in_reply_to_user_id": "1399192934638104577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994605852817592601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQueovo 谢谢，希望你也能这么看吧\n这样至少可以吧烂掉全部变成 只是一部分 这么想好很多呢(=^▽^=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994266906388513190",
+        "created_at": "2025-11-29T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994637185006670204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1399192934638104577",
+              "start": 0,
+              "username": "JQueovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994637185006670204",
+        "in_reply_to_user_id": "1399192934638104577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994605852817592601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQueovo 谢谢，希望你也能这么看吧\n这样至少可以吧烂掉全部变成 只是一部分 这么想好很多呢(=^▽^=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399192934638104577",
+        "conversation_id": "1994266906388513190",
+        "created_at": "2025-11-29T03:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994605852817592601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994605852817592601",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994553442011070730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 没有啦！意思是可以想想平行世界的你们是好朋友，并且有了更好的生活。虽然或许只是一个幻想，但希望你好受一些🥺。当然，如果愿意相信的话，我觉得以后很多事情，你都可以用这个思路去想。至少走错时不会太过懊悔，选择时可以多考虑考虑别的支线，可能便于选到更好的路吧🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 91,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-31T02:36:18.000Z",
+        "description": "可以逃到哪里呢。／个人碎碎念",
+        "id": "1399192934638104577",
+        "name": "cookie☆",
+        "pinned_tweet_id": "1706386846618361963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674497762648543233/U98g3kGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 269,
+          "like_count": 28935,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 940
+        },
+        "username": "JQueovo",
+        "verified": false
+      }
+    ]
+  }
+}

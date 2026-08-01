@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071551381362610176",
+        "3_2071551386081198080"
+      ],
+      "media_source_tweet_id": [
+        "2071551391181463629",
+        "2071551391181463629"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2071601615606530113",
+    "created_at": "2026-06-29T14:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071601615606530113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832730085390012416",
+          "start": 3,
+          "username": "sliu20864"
+        },
+        {
+          "end": 23,
+          "id": "1882678524596867072",
+          "start": 15,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XKf3lRoTWA",
+          "end": 59,
+          "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+          "media_key": "3_2071551381362610176",
+          "start": 36,
+          "url": "https://t.co/XKf3lRoTWA"
+        },
+        {
+          "display_url": "pic.x.com/XKf3lRoTWA",
+          "end": 59,
+          "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+          "media_key": "3_2071551386081198080",
+          "start": 36,
+          "url": "https://t.co/XKf3lRoTWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071601615606530113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071551391181463629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sliu20864: @gdioiui 推主即將度過的兩天…… https://t.co/XKf3lRoTWA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2071551381362610176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-hAXwWkAAJcNk.jpg",
+        "width": 960
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2071551386081198080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-hApVWgAA-bvS.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071551381362610176",
+            "3_2071551386081198080"
+          ],
+          "media_source_tweet_id": [
+            "2071551391181463629",
+            "2071551391181463629"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2071601615606530113",
+        "created_at": "2026-06-29T14:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071601615606530113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832730085390012416",
+              "start": 3,
+              "username": "sliu20864"
+            },
+            {
+              "end": 23,
+              "id": "1882678524596867072",
+              "start": 15,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKf3lRoTWA",
+              "end": 59,
+              "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+              "media_key": "3_2071551381362610176",
+              "start": 36,
+              "url": "https://t.co/XKf3lRoTWA"
+            },
+            {
+              "display_url": "pic.x.com/XKf3lRoTWA",
+              "end": 59,
+              "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+              "media_key": "3_2071551386081198080",
+              "start": 36,
+              "url": "https://t.co/XKf3lRoTWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071601615606530113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071551391181463629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sliu20864: @gdioiui 推主即將度過的兩天…… https://t.co/XKf3lRoTWA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071551381362610176",
+            "3_2071551386081198080"
+          ]
+        },
+        "author_id": "1832730085390012416",
+        "conversation_id": "2071176058293178849",
+        "created_at": "2026-06-29T11:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071551391181463629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKf3lRoTWA",
+              "end": 44,
+              "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+              "media_key": "3_2071551381362610176",
+              "start": 21,
+              "url": "https://t.co/XKf3lRoTWA"
+            },
+            {
+              "display_url": "pic.x.com/XKf3lRoTWA",
+              "end": 44,
+              "expanded_url": "https://x.com/sliu20864/status/2071551391181463629/photo/1",
+              "media_key": "3_2071551386081198080",
+              "start": 21,
+              "url": "https://t.co/XKf3lRoTWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071551391181463629",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071176058293178849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 推主即將度過的兩天…… https://t.co/XKf3lRoTWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 482,
+          "like_count": 4299,
+          "listed_count": 3,
+          "media_count": 1495,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T10:39:20.000Z",
+        "description": "NO！不要給我吃香菇，我會死的！NO！🥹🥹🥹",
+        "id": "1832730085390012416",
+        "name": "Gdans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052444224659075072/4RBI9LU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 81,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "sliu20864",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2026102990797726149",
+    "created_at": "2026-02-25T01:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026470151407939816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976095376710258689",
+          "start": 0,
+          "username": "HadleighE85420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026470151407939816",
+    "in_reply_to_user_id": "1976095376710258689",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026350086507344027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HadleighE85420 Σ(ŎдŎ|||)ﾉﾉ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2026102990797726149",
+        "created_at": "2026-02-25T01:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026470151407939816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976095376710258689",
+              "start": 0,
+              "username": "HadleighE85420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026470151407939816",
+        "in_reply_to_user_id": "1976095376710258689",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026350086507344027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HadleighE85420 Σ(ŎдŎ|||)ﾉﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976095376710258689",
+        "conversation_id": "2026102990797726149",
+        "created_at": "2026-02-24T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026350086507344027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026350086507344027",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026102990797726149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 吃多点万一就有了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 329,
+          "like_count": 2919,
+          "listed_count": 1,
+          "media_count": 690,
+          "tweet_count": 4664
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T01:22:04.000Z",
+        "description": "我们扎扎师是无敌的，这，。个宝？！，马只，，。有我，能骑！",
+        "id": "1976095376710258689",
+        "name": "只是个普通の薬娘🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976426675823886336/ifTvmP4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 28,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 91
+        },
+        "username": "HadleighE85420",
+        "verified": false
+      }
+    ]
+  }
+}

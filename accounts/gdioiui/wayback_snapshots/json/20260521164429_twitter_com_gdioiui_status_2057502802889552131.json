@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2057115716596486430",
+    "created_at": "2026-05-21T16:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057502802889552131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025069042693013506",
+          "start": 0,
+          "username": "jiu_a46199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057502802889552131",
+    "in_reply_to_user_id": "2025069042693013506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057147859695464646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_a46199 em 可以从凝胶开始哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057115716596486430",
+        "created_at": "2026-05-21T16:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057502802889552131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025069042693013506",
+              "start": 0,
+              "username": "jiu_a46199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057502802889552131",
+        "in_reply_to_user_id": "2025069042693013506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057147859695464646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_a46199 em 可以从凝胶开始哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025069042693013506",
+        "conversation_id": "2057115716596486430",
+        "created_at": "2026-05-20T17:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057147859695464646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057147859695464646",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057115716596486430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 想问一下刚开始应该怎么吃👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 463,
+          "like_count": 3837,
+          "listed_count": 3,
+          "media_count": 1261,
+          "tweet_count": 6821
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T04:44:30.000Z",
+        "description": "生产日期2010年，男/高敏感/社恐/抑郁焦虑状态/178cm（好想长矮点😭）/105斤",
+        "id": "2025069042693013506",
+        "name": "阿九",
+        "pinned_tweet_id": "2054235015480017069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054235496289816579/Vyd9d6n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 115,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "username": "jiu_a46199",
+        "verified": false
+      }
+    ]
+  }
+}

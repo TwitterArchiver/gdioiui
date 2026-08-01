@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2030480363534062018",
+    "created_at": "2026-03-08T16:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030686798939410680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886330442657214465",
+          "start": 0,
+          "username": "HHH2309nyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030686798939410680",
+    "in_reply_to_user_id": "1886330442657214465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030667763640132056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHH2309nyan ？你怎么知道？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2030480363534062018",
+        "created_at": "2026-03-08T16:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030686798939410680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886330442657214465",
+              "start": 0,
+              "username": "HHH2309nyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030686798939410680",
+        "in_reply_to_user_id": "1886330442657214465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030667763640132056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHH2309nyan ？你怎么知道？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886330442657214465",
+        "conversation_id": "2030480363534062018",
+        "created_at": "2026-03-08T15:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030667763640132056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "西昌院区",
+              "probability": 0.6099,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030667763640132056",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030480363534062018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 西昌院区？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 346,
+          "like_count": 3116,
+          "listed_count": 2,
+          "media_count": 787,
+          "tweet_count": 5013
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T08:27:13.000Z",
+        "description": "苦逼高中生|OIer（即将AFO）|C＃绝赞学习中|友跨🏳️‍⚧️|或许是Mt..我不知道|ADHD|喜欢一切可爱的东西\n祝你生活愉快！\n互fo喵喵\n\nTG https://t.co/ZS545LodmW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hhh2309nyan",
+                "end": 102,
+                "expanded_url": "http://t.me/hhh2309nyan",
+                "start": 79,
+                "url": "https://t.co/ZS545LodmW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oiermeow.love",
+                "end": 23,
+                "expanded_url": "https://oiermeow.love",
+                "start": 0,
+                "url": "https://t.co/Oim5WABOZ7"
+              }
+            ]
+          }
+        },
+        "id": "1886330442657214465",
+        "location": "喵星！",
+        "name": "HHH2309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 671,
+          "like_count": 6219,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/Oim5WABOZ7",
+        "username": "HHH2309nyan",
+        "verified": false
+      }
+    ]
+  }
+}

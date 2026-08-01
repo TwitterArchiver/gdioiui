@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039981714760671232"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2039922520682537150",
+    "created_at": "2026-04-03T08:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039982600098558459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbRvbzkLol",
+          "end": 51,
+          "expanded_url": "https://x.com/gdioiui/status/2039982600098558459/photo/1",
+          "media_key": "3_2039981714760671232",
+          "start": 28,
+          "url": "https://t.co/XbRvbzkLol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039982600098558459",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039922520682537150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 我将休学5年研究这个珍贵壁画 https://t.co/XbRvbzkLol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2039981714760671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE94j7CaIAAUAS2.jpg",
+        "width": 1000
+      },
+      {
+        "height": 612,
+        "media_key": "3_2039922518442823680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9CuPka0AAxKB6.jpg",
+        "width": 1000
+      },
+      {
+        "height": 52,
+        "media_key": "3_2039922518413484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9CuPdbIAAp0g3.jpg",
+        "width": 51
+      },
+      {
+        "height": 192,
+        "media_key": "3_2039922518421819392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9CuPfaUAArVQB.jpg",
+        "width": 297
+      },
+      {
+        "height": 252,
+        "media_key": "3_2039922518459633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9CuPobUAASbbC.jpg",
+        "width": 202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039981714760671232"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2039922520682537150",
+        "created_at": "2026-04-03T08:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039982600098558459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbRvbzkLol",
+              "end": 51,
+              "expanded_url": "https://x.com/gdioiui/status/2039982600098558459/photo/1",
+              "media_key": "3_2039981714760671232",
+              "start": 28,
+              "url": "https://t.co/XbRvbzkLol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039982600098558459",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039922520682537150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 我将休学5年研究这个珍贵壁画 https://t.co/XbRvbzkLol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039922518442823680",
+            "3_2039922518413484032",
+            "3_2039922518421819392",
+            "3_2039922518459633664"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2039922520682537150",
+        "created_at": "2026-04-03T04:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039922520682537150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kbmwfzXoR",
+              "end": 28,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2039922520682537150/photo/1",
+              "media_key": "3_2039922518442823680",
+              "start": 5,
+              "url": "https://t.co/1kbmwfzXoR"
+            },
+            {
+              "display_url": "pic.x.com/1kbmwfzXoR",
+              "end": 28,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2039922520682537150/photo/1",
+              "media_key": "3_2039922518413484032",
+              "start": 5,
+              "url": "https://t.co/1kbmwfzXoR"
+            },
+            {
+              "display_url": "pic.x.com/1kbmwfzXoR",
+              "end": 28,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2039922520682537150/photo/1",
+              "media_key": "3_2039922518421819392",
+              "start": 5,
+              "url": "https://t.co/1kbmwfzXoR"
+            },
+            {
+              "display_url": "pic.x.com/1kbmwfzXoR",
+              "end": 28,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2039922520682537150/photo/1",
+              "media_key": "3_2039922518459633664",
+              "start": 5,
+              "url": "https://t.co/1kbmwfzXoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039922520682537150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？ https://t.co/1kbmwfzXoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 375,
+          "like_count": 3413,
+          "listed_count": 2,
+          "media_count": 961,
+          "tweet_count": 5604
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/hrt/中度抑郁/需陪伴/向自由💫/是只小烧0的乖乖~/同类交友/纯馋人不卖💦\n最爱の笨宝宝:@XueFu13456\n供糖糖の猫猫:@chintu7024\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "chintu7024"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025633832578527232/2N5IP2UI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1469,
+          "like_count": 1013,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

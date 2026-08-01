@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1966531656388378711",
+    "created_at": "2025-09-12T15:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966531656388378711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875215593688977408",
+          "start": 3,
+          "username": "tbh2317X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966531656388378711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966172364477182074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbh2317X: 抽奖了，有效期半个月的泰补十个，110cm鲨鲨十个，小豆泥抱枕十个，关注转发可参加，老客户增加抽中概率，泰补220买三盒送一盒有效期半个月的泰补，艾斯妥凝胶115买六盒送一盒有效期半个月的泰补，诺坤复80，买六盒送一盒有效期半个月的泰补，抽奖结果在月…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966172352087207938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0k_VkVaMAIlnyi.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1966531656388378711",
+        "created_at": "2025-09-12T15:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966531656388378711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875215593688977408",
+              "start": 3,
+              "username": "tbh2317X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966531656388378711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966172364477182074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbh2317X: 抽奖了，有效期半个月的泰补十个，110cm鲨鲨十个，小豆泥抱枕十个，关注转发可参加，老客户增加抽中概率，泰补220买三盒送一盒有效期半个月的泰补，艾斯妥凝胶115买六盒送一盒有效期半个月的泰补，诺坤复80，买六盒送一盒有效期半个月的泰补，抽奖结果在月…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966172352087207938"
+          ]
+        },
+        "author_id": "1875215593688977408",
+        "conversation_id": "1966172364477182074",
+        "created_at": "2025-09-11T16:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T17:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966172364477182074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "泰补"
+            },
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "鲨鲨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lEGA18ifb",
+              "end": 172,
+              "expanded_url": "https://x.com/tbh2317X/status/1966172364477182074/photo/1",
+              "media_key": "3_1966172352087207938",
+              "start": 149,
+              "url": "https://t.co/4lEGA18ifb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966172364477182074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 129,
+                "tag": "泰补"
+              },
+              {
+                "end": 139,
+                "start": 133,
+                "tag": "艾斯妥凝胶"
+              },
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "诺坤复"
+              },
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "鲨鲨"
+              },
+              {
+                "end": 155,
+                "start": 149,
+                "tag": "小豆泥抱枕"
+              },
+              {
+                "end": 159,
+                "start": 156,
+                "tag": "糖商"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "抽奖"
+              }
+            ]
+          },
+          "text": "抽奖了，有效期半个月的泰补十个，110cm鲨鲨十个，小豆泥抱枕十个，关注转发可参加，老客户增加抽中概率，泰补220买三盒送一盒有效期半个月的泰补，艾斯妥凝胶115买六盒送一盒有效期半个月的泰补，诺坤复80，买六盒送一盒有效期半个月的泰补，抽奖结果在月底公布\n#泰补 #艾斯妥凝胶 #诺坤复 #鲨鲨 #小豆泥抱枕 #糖商 #抽奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5050,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖了，有效期半个月的泰补十个，110cm鲨鲨十个，小豆泥抱枕十个，关注转发可参加，老客户增加抽中概率，泰补220买三盒送一盒有效期半个月的泰补，艾斯妥凝胶115买六盒送一盒有效期半个月的泰补，诺坤复80，买六盒送一盒有效期半个月的泰补，抽奖结果在月底公布\n#泰补 #艾斯妥凝胶 #诺坤复 #鲨鲨 https://t.co/4lEGA18ifb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "name": "wos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T16:20:26.000Z",
+        "description": "这里是@tbh2317的二代目，这里可以继续接单，过年不放假，正常接单发货，我们的telegram账号是tbh2317x，点击右上角小信封私信购买,价格单是泰补（泰国补佳乐）215，艾斯妥凝胶115，诺坤复85，关注我们单次快递费-5，老客户免审核只需要提供我们原始账号的聊天记录截图，老客户回归可以单次快递费-10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "tbh2317"
+              }
+            ]
+          }
+        },
+        "id": "1875215593688977408",
+        "location": "曼谷",
+        "name": "乇乇 momo （糖商/药商）/泰补/艾斯妥凝胶/诺坤复🍥🏳️‍⚧️ ⚧️",
+        "pinned_tweet_id": "1966126992023240997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875240102999588864/cyvcGyu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1100,
+          "like_count": 159,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 129
+        },
+        "username": "tbh2317X",
+        "verified": true
+      }
+    ]
+  }
+}

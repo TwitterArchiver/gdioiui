@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032731266077044737"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2032731340056178927",
+    "created_at": "2026-03-14T08:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032731340056178927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qsFaL7ToHH",
+          "end": 40,
+          "expanded_url": "https://x.com/gdioiui/status/2032731340056178927/photo/1",
+          "media_key": "3_2032731266077044737",
+          "start": 17,
+          "url": "https://t.co/qsFaL7ToHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032731340056178927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去...怎么京东进场还要买票了 https://t.co/qsFaL7ToHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032731266077044737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDW2UQ5aMAEn72e.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032731266077044737"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2032731340056178927",
+        "created_at": "2026-03-14T08:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032731340056178927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsFaL7ToHH",
+              "end": 40,
+              "expanded_url": "https://x.com/gdioiui/status/2032731340056178927/photo/1",
+              "media_key": "3_2032731266077044737",
+              "start": 17,
+              "url": "https://t.co/qsFaL7ToHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032731340056178927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去...怎么京东进场还要买票了 https://t.co/qsFaL7ToHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 347,
+          "like_count": 3169,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 5103
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

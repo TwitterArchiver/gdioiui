@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1994211491235369071",
+    "created_at": "2025-11-28T03:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994241183183216981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991130278056882177",
+          "start": 0,
+          "username": "Xiaoyang481535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994241183183216981",
+    "in_reply_to_user_id": "1991130278056882177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994239009758015531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyang481535 em谢谢你，n55现在好像也不太正常的样子....被挂，抹黑，好像不太想说话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994211491235369071",
+        "created_at": "2025-11-28T03:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994241183183216981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991130278056882177",
+              "start": 0,
+              "username": "Xiaoyang481535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994241183183216981",
+        "in_reply_to_user_id": "1991130278056882177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994239009758015531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyang481535 em谢谢你，n55现在好像也不太正常的样子....被挂，抹黑，好像不太想说话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991130278056882177",
+        "conversation_id": "1994211491235369071",
+        "created_at": "2025-11-28T02:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994239009758015531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994239009758015531",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994211491235369071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui n55事件发生当天，他的帐号有锁推一段时间，后来就解锁了，后面有发生过两次短暂锁推后解锁，刚开始以为他是不想受到太多关注或者处理该事件才锁，现在看来是有受晶哥影响。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 88,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T13:04:30.000Z",
+        "description": "喜欢玩游戏 看动漫 漫画 小说",
+        "id": "1991130278056882177",
+        "name": "小阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991135485079764992/dBnUo_SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Xiaoyang481535",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992249385741430975",
+    "created_at": "2025-11-23T10:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T11:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992544996902478007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "mycbxzd"
+        },
+        {
+          "end": 21,
+          "id": "1981136412486369280",
+          "start": 9,
+          "username": "junranlemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992544996902478007",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992249734271234292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mycbxzd @junranlemon ....阿巴阿巴 怎么跟谁都问好\n高一也不是很奇怪啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992249385741430975",
+        "created_at": "2025-11-23T10:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992544996902478007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "mycbxzd"
+            },
+            {
+              "end": 21,
+              "id": "1981136412486369280",
+              "start": 9,
+              "username": "junranlemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992544996902478007",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992249734271234292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mycbxzd @junranlemon ....阿巴阿巴 怎么跟谁都问好\n高一也不是很奇怪啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "1992249385741430975",
+        "created_at": "2025-11-22T15:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992249734271234292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1981136412486369280",
+              "start": 0,
+              "username": "junranlemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992249734271234292",
+        "in_reply_to_user_id": "1981136412486369280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992249385741430975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junranlemon 来啦，姐姐晚上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 58,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "mycbxzd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T23:12:51.000Z",
+        "description": "Pixiv 柠檬薄荷茶丨爱好bdsm、tk、捆绑、阴蒂责、文爱、群调丨只是分享涩涩、身体和生活，无门槛不盈利丨薄荷主人的幼犬一只",
+        "id": "1981136412486369280",
+        "location": "猫猫的火星基地",
+        "name": "狸奴贪睡不知愁",
+        "pinned_tweet_id": "1983316980569681923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989711627889819648/TZpIgwbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 35,
+          "like_count": 44,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 51
+        },
+        "username": "junranlemon",
+        "verified": true
+      }
+    ]
+  }
+}

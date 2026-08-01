@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2053059390870335853",
+    "created_at": "2026-05-09T14:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053114020249698454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024808750268461056",
+          "start": 0,
+          "username": "DiyanRanco2179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053114020249698454",
+    "in_reply_to_user_id": "2024808750268461056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053111534637944996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiyanRanco2179 就算他安息....那另一个人呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2053059390870335853",
+        "created_at": "2026-05-09T14:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053114020249698454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024808750268461056",
+              "start": 0,
+              "username": "DiyanRanco2179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053114020249698454",
+        "in_reply_to_user_id": "2024808750268461056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053111534637944996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiyanRanco2179 就算他安息....那另一个人呢..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024808750268461056",
+        "conversation_id": "2053059390870335853",
+        "created_at": "2026-05-09T13:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053111534637944996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053111534637944996",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053059390870335853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 愿他安息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "好平静....\n账号已委托（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2052401489847759016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 427,
+          "like_count": 3741,
+          "listed_count": 3,
+          "media_count": 1201,
+          "tweet_count": 6489
+        },
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T11:30:11.000Z",
+        "description": "",
+        "id": "2024808750268461056",
+        "name": "Diyan Ranco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025977361901182978/Gw6FLxkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 63
+        },
+        "username": "DiyanRanco2179",
+        "verified": false
+      }
+    ]
+  }
+}

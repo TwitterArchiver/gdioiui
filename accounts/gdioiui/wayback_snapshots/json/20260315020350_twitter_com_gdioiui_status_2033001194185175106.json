@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033001139621498880",
+        "3_2033001139638251521",
+        "3_2033001139625656320"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2033001194185175106",
+    "created_at": "2026-03-15T02:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033001194185175106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YCXfStf3DX",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+          "media_key": "3_2033001139621498880",
+          "start": 16,
+          "url": "https://t.co/YCXfStf3DX"
+        },
+        {
+          "display_url": "pic.x.com/YCXfStf3DX",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+          "media_key": "3_2033001139638251521",
+          "start": 16,
+          "url": "https://t.co/YCXfStf3DX"
+        },
+        {
+          "display_url": "pic.x.com/YCXfStf3DX",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+          "media_key": "3_2033001139625656320",
+          "start": 16,
+          "url": "https://t.co/YCXfStf3DX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033001194185175106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打车坐到su7了...\n好高级 https://t.co/YCXfStf3DX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2033001139621498880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDarw-MakAARiMp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2658,
+        "media_key": "3_2033001139638251521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDarw-QaMAEK1qy.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2033001139625656320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDarw-NaAAAHcog.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033001139621498880",
+            "3_2033001139638251521",
+            "3_2033001139625656320"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2033001194185175106",
+        "created_at": "2026-03-15T02:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033001194185175106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCXfStf3DX",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+              "media_key": "3_2033001139621498880",
+              "start": 16,
+              "url": "https://t.co/YCXfStf3DX"
+            },
+            {
+              "display_url": "pic.x.com/YCXfStf3DX",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+              "media_key": "3_2033001139638251521",
+              "start": 16,
+              "url": "https://t.co/YCXfStf3DX"
+            },
+            {
+              "display_url": "pic.x.com/YCXfStf3DX",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2033001194185175106/photo/1",
+              "media_key": "3_2033001139625656320",
+              "start": 16,
+              "url": "https://t.co/YCXfStf3DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033001194185175106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打车坐到su7了...\n好高级 https://t.co/YCXfStf3DX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 364,
+          "like_count": 3192,
+          "listed_count": 2,
+          "media_count": 832,
+          "tweet_count": 5146
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

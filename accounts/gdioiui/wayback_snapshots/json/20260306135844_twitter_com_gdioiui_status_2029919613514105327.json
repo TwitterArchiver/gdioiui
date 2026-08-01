@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2027726397888987536",
+    "created_at": "2026-03-06T13:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029919613514105327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1979757461214314497",
+          "start": 0,
+          "username": "fantuan20001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029919613514105327",
+    "in_reply_to_user_id": "1979757461214314497",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029450461603045654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fantuan20001 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2027726397888987536",
+        "created_at": "2026-03-06T13:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029919613514105327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1979757461214314497",
+              "start": 0,
+              "username": "fantuan20001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029919613514105327",
+        "in_reply_to_user_id": "1979757461214314497",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029450461603045654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantuan20001 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979757461214314497",
+        "conversation_id": "2027726397888987536",
+        "created_at": "2026-03-05T06:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029450461603045654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029450461603045654",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027912510901522571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1072644328\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 344,
+          "like_count": 3073,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 4935
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T03:52:29.000Z",
+        "description": "我是小布大家可以叫我小布猫猫\n/MTF/hrt一年半后被发现（炸柜）后被迫断糖/身高167/体重58-59kg（减肥中）/10年出生/生日4.30/75C/欢迎互fo~（仅限同类哦）",
+        "id": "1979757461214314497",
+        "location": "你面前哦~",
+        "name": "布束砥信🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024665724283912192/XxZ6JH_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "fantuan20001",
+        "verified": false
+      }
+    ]
+  }
+}

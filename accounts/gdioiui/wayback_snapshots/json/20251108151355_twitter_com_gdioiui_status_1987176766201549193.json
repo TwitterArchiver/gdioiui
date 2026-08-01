@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1987176766201549193",
+    "created_at": "2025-11-08T15:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987176766201549193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nothousand/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/nothousand/status/1987147237257097470",
+          "start": 34,
+          "url": "https://t.co/QfjEZuaANw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987176766201549193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987147237257097470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一些是发锁  有一些是吃小了晒战绩 不是的话🥵🥵那应该是主人的了 https://t.co/QfjEZuaANw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1987176766201549193",
+        "created_at": "2025-11-08T15:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987176766201549193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nothousand/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/nothousand/status/1987147237257097470",
+              "start": 34,
+              "url": "https://t.co/QfjEZuaANw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987176766201549193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987147237257097470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一些是发锁  有一些是吃小了晒战绩 不是的话🥵🥵那应该是主人的了 https://t.co/QfjEZuaANw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "1987147237257097470",
+        "created_at": "2025-11-08T13:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987147237257097470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyou9443/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ciyou9443/status/1987125527325581449",
+              "start": 23,
+              "url": "https://t.co/FQO1AXBzQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987147237257097470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987125527325581449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然会被喷但是我真的很想开除那些人的mtf籍 https://t.co/FQO1AXBzQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 25,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "/记录一些异世界的碎碎念w #INFJ\n##有奇怪想法和需求的人看黄男别来关注我关了也会被我清理！！\n/谨慎fo因为我们可能不是一类人，或者不是你以为的那类人喔\n/不定期删除三无号，不同频的人还请见谅\n/需要回fo请大胆和我说我会来仔细观察你然后给你答案\n//雷自残od各种赤裸色色看到这样的人会unfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "INFJ"
+              },
+              {
+                "end": 48,
+                "start": 21,
+                "tag": "有奇怪想法和需求的人看黄男别来关注我关了也会被我清理"
+              }
+            ]
+          }
+        },
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華🏳️‍⚧️",
+        "pinned_tweet_id": "1979896839680950363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986123192122155009/VGLVlSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 115,
+          "like_count": 5662,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 3998
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

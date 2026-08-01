@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065612378776207723",
+    "created_at": "2026-06-13T14:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065808715165708641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757832018845708290",
+          "start": 0,
+          "username": "HY_SundiFavor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065808715165708641",
+    "in_reply_to_user_id": "1757832018845708290",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065793817559859662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HY_SundiFavor hyw（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065612378776207723",
+        "created_at": "2026-06-13T14:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065808715165708641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757832018845708290",
+              "start": 0,
+              "username": "HY_SundiFavor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065808715165708641",
+        "in_reply_to_user_id": "1757832018845708290",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065793817559859662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY_SundiFavor hyw（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757832018845708290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065612378776207723",
+        "created_at": "2026-06-13T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065793817559859662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065793817559859662",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065612378776207723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 拨杆拨到 2.5G就变成五类线了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 476,
+          "like_count": 4135,
+          "listed_count": 3,
+          "media_count": 1407,
+          "tweet_count": 7583
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T18:20:30.000Z",
+        "description": "逐渐淡推 ing……Play：WOT/WT＆cs2＆Minecraft＆大部分游戏，还有……推止于推\n\n梦想：等以后有钱了，就在荒郊野岭盖一个彩钢房，然后买一屋子液化气罐，全都打开，坐在里面…BOOOOM，这样应该也没有痛苦，也不会炸到别人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/108125866",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/108125866",
+                "start": 0,
+                "url": "https://t.co/kDjlX17AID"
+              }
+            ]
+          }
+        },
+        "id": "1757832018845708290",
+        "location": "被困在时钟里的时锺",
+        "name": "时锺时钟",
+        "pinned_tweet_id": "1993305226213048430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848274418218483712/P14KZGo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1460,
+          "like_count": 12194,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 5015
+        },
+        "url": "https://t.co/kDjlX17AID",
+        "username": "HY_SundiFavor",
+        "verified": false
+      }
+    ]
+  }
+}

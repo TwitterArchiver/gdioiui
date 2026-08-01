@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997015733575061504"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997015861455212638",
+    "created_at": "2025-12-05T18:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T19:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997015861455212638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bRJk0h6nE",
+          "end": 48,
+          "expanded_url": "https://x.com/gdioiui/status/1997015861455212638/photo/1",
+          "media_key": "3_1997015733575061504",
+          "start": 25,
+          "url": "https://t.co/1bRJk0h6nE"
+        },
+        {
+          "display_url": "x.com/xiaofang23333/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/xiaofang23333/status/1941350899437453620",
+          "start": 49,
+          "url": "https://t.co/JX9arVMjJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997015861455212638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941350899437453620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好唉\n不过好像我也不转换的，cpa已经压死睾酮了 https://t.co/1bRJk0h6nE https://t.co/JX9arVMjJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 183,
+        "media_key": "3_1997015733575061504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bTOqKbkAAI2CU.png",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997015733575061504"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997015861455212638",
+        "created_at": "2025-12-05T18:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T19:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997015861455212638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bRJk0h6nE",
+              "end": 48,
+              "expanded_url": "https://x.com/gdioiui/status/1997015861455212638/photo/1",
+              "media_key": "3_1997015733575061504",
+              "start": 25,
+              "url": "https://t.co/1bRJk0h6nE"
+            },
+            {
+              "display_url": "x.com/xiaofang23333/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/xiaofang23333/status/1941350899437453620",
+              "start": 49,
+              "url": "https://t.co/JX9arVMjJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997015861455212638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941350899437453620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好唉\n不过好像我也不转换的，cpa已经压死睾酮了 https://t.co/1bRJk0h6nE https://t.co/JX9arVMjJX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264929033097080832",
+        "conversation_id": "1941350899437453620",
+        "created_at": "2025-07-05T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941350899437453620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941350899437453620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 101984,
+          "like_count": 1285,
+          "quote_count": 10,
+          "reply_count": 61,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "今天去医院复查开药。医生得知我是mtf。\n\n医生：“这个东西啊，是基因里就决定了的。”\n\n我当时还以为医生又要说什么老保发言，遵循指派性别、染色体性别之类的。\n\n没想到医生零帧起手：“ ‘想当女孩子’ 这件事，你基因里就是这么写的。不管你身体是啥性别，基因就决定了你会想成为女孩子。”\n\n我：啊？😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 95,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-25T14:39:32.000Z",
+        "description": "无论多久，无论走了多远，都不是自己所期待的地方",
+        "id": "1264929033097080832",
+        "name": "我是互联网猫猫糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889934542565257216/D-4tN5-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 291,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 879
+        },
+        "username": "xiaofang23333",
+        "verified": false
+      }
+    ]
+  }
+}

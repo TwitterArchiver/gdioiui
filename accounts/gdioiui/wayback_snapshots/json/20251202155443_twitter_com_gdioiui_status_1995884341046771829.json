@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1995234703083995392",
+    "created_at": "2025-12-02T15:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995884341046771829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977759027573735424",
+          "start": 0,
+          "username": "tsukiumiRyue"
+        },
+        {
+          "end": 22,
+          "id": "1774110396854771712",
+          "start": 14,
+          "username": "JLGeasy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995884341046771829",
+    "in_reply_to_user_id": "1977759027573735424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995753467650916515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiumiRyue @JLGeasy 越好看越割， 参考地雷女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1995234703083995392",
+        "created_at": "2025-12-02T15:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995884341046771829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977759027573735424",
+              "start": 0,
+              "username": "tsukiumiRyue"
+            },
+            {
+              "end": 22,
+              "id": "1774110396854771712",
+              "start": 14,
+              "username": "JLGeasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995884341046771829",
+        "in_reply_to_user_id": "1977759027573735424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995753467650916515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiumiRyue @JLGeasy 越好看越割， 参考地雷女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977759027573735424",
+        "conversation_id": "1995234703083995392",
+        "created_at": "2025-12-02T07:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995753467650916515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1774110396854771712",
+              "start": 0,
+              "username": "JLGeasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995753467650916515",
+        "in_reply_to_user_id": "1774110396854771712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995234703083995392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLGeasy 好看就不能割了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 92,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-13T15:37:07.000Z",
+        "description": "喵｜intj.isfp｜165｜xyn🍥hrt.25.10.29｜上海｜mtf｜生日2009.03.11｜n2考取中",
+        "id": "1977759027573735424",
+        "location": "Memories of the Witch",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "1988659146615582737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990535544246542336/h2Z9c6LW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 657,
+          "like_count": 11407,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 729
+        },
+        "username": "tsukiumiRyue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T16:24:27.000Z",
+        "description": "叫我easy就好，有证男娘，发发槽点还有女装之类的，逐渐正常化 /过门50（树洞easy随时为您服务）\n/可爱老婆是：@mengmeng000715 （逐渐反跨）\ntg群：https://t.co/BuPTK6zgts",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "mengmeng000715"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Fgtgs1AMUMU3Y…",
+                "end": 109,
+                "expanded_url": "https://t.me/+Fgtgs1AMUMU3YjFl",
+                "start": 86,
+                "url": "https://t.co/BuPTK6zgts"
+              }
+            ]
+          }
+        },
+        "id": "1774110396854771712",
+        "location": "中国",
+        "name": "easy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994410276616339698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995236197791318017/jIZCVyWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6855,
+          "following_count": 617,
+          "like_count": 5636,
+          "listed_count": 12,
+          "media_count": 528,
+          "tweet_count": 4415
+        },
+        "username": "JLGeasy",
+        "verified": false
+      }
+    ]
+  }
+}

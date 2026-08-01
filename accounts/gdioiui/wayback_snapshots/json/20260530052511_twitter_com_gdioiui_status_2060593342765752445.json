@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2060593342765752445",
+    "created_at": "2026-05-30T05:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060593342765752445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hiime0/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Hiime0/status/2060366350787482001",
+          "start": 24,
+          "url": "https://t.co/IT0QA3ebYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060593342765752445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366350787482001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你可以想想 也有可能顺女看到好看的跨恨得牙痒痒 https://t.co/IT0QA3ebYV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060593342765752445",
+        "created_at": "2026-05-30T05:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060593342765752445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hiime0/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Hiime0/status/2060366350787482001",
+              "start": 24,
+              "url": "https://t.co/IT0QA3ebYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060593342765752445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366350787482001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可以想想 也有可能顺女看到好看的跨恨得牙痒痒 https://t.co/IT0QA3ebYV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2060366350787482001",
+        "created_at": "2026-05-29T14:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060366350787482001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sokei_ko_nya/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Sokei_ko_nya/status/2060082292324970649",
+              "start": 23,
+              "url": "https://t.co/BkJuV5X697"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366350787482001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060082292324970649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的，走在街上看到好看的顺女真的嫉妒得牙痒痒 https://t.co/BkJuV5X697"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 473,
+          "like_count": 3962,
+          "listed_count": 3,
+          "media_count": 1328,
+          "tweet_count": 7176
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "07｜🍥无证含糖｜深柜｜常驻上海｜中断的艺术生｜双相混合状态/激越症｜暂时算三好跨?｜好难受 , 每天都想死……【绍介详情见置顶帖】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝐻𝑖𝑖𝑚𝑒🍡🍥",
+        "pinned_tweet_id": "2055602008976199849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 242,
+          "like_count": 618,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

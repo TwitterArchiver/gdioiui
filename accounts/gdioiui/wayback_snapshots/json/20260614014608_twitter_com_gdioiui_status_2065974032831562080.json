@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065616294276374860",
+    "created_at": "2026-06-14T01:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065974032831562080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1793128328221917184",
+          "start": 0,
+          "username": "Evelyn_Morgan72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065974032831562080",
+    "in_reply_to_user_id": "1793128328221917184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065879174955634899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evelyn_Morgan72 这样子？\n这是一代还是11代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065616294276374860",
+        "created_at": "2026-06-14T01:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065974032831562080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1793128328221917184",
+              "start": 0,
+              "username": "Evelyn_Morgan72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065974032831562080",
+        "in_reply_to_user_id": "1793128328221917184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065879174955634899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evelyn_Morgan72 这样子？\n这是一代还是11代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793128328221917184",
+        "conversation_id": "2065616294276374860",
+        "created_at": "2026-06-13T19:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065879174955634899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065879174955634899",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065616294276374860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 在移动端\n最新最强的是i7-1195G7，\n最老最弱的是i7-720QM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 476,
+          "like_count": 4139,
+          "listed_count": 3,
+          "media_count": 1407,
+          "tweet_count": 7586
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T03:54:53.000Z",
+        "description": "INFJ-T · 水瓶座 · MtF 🏳️‍⚧️ · 她/TA · 南京土著 · 社恐爱哭鬼\n“hi，我有一点点怕你，但又好想被你喜欢。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evelyn_morgan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/evelyn_morgan",
+                "start": 0,
+                "url": "https://t.co/iUUL1ruufe"
+              }
+            ]
+          }
+        },
+        "id": "1793128328221917184",
+        "location": "Hualien County, Taiwan",
+        "name": "清澄白河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006138340010254341/wldp72IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 204,
+          "like_count": 25996,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/iUUL1ruufe",
+        "username": "Evelyn_Morgan72",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056745944482451456"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2056745946952982816",
+    "created_at": "2026-05-19T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056745946952982816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "1.Chrome",
+          "end": 32,
+          "expanded_url": "http://1.Chrome",
+          "start": 9,
+          "unwound_url": "http://1.Chrome",
+          "url": "https://t.co/tdFGnsMCYH"
+        },
+        {
+          "display_url": "pic.x.com/jLaiUSIZUE",
+          "end": 83,
+          "expanded_url": "https://x.com/gdioiui/status/2056745946952982816/photo/1",
+          "media_key": "3_2056745944482451456",
+          "start": 60,
+          "url": "https://t.co/jLaiUSIZUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056745946952982816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我决定去卖浏览器\nhttps://t.co/tdFGnsMCYH\n 2.edge\n3.firefox\n一起买只要0.2 https://t.co/jLaiUSIZUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056745944482451456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsHihYaEAAga-g.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056745944482451456"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2056745946952982816",
+        "created_at": "2026-05-19T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056745946952982816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1.Chrome",
+              "end": 32,
+              "expanded_url": "http://1.Chrome",
+              "start": 9,
+              "unwound_url": "http://1.Chrome",
+              "url": "https://t.co/tdFGnsMCYH"
+            },
+            {
+              "display_url": "pic.x.com/jLaiUSIZUE",
+              "end": 83,
+              "expanded_url": "https://x.com/gdioiui/status/2056745946952982816/photo/1",
+              "media_key": "3_2056745944482451456",
+              "start": 60,
+              "url": "https://t.co/jLaiUSIZUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745946952982816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定去卖浏览器\nhttps://t.co/tdFGnsMCYH\n 2.edge\n3.firefox\n一起买只要0.2 https://t.co/jLaiUSIZUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 443,
+          "like_count": 3827,
+          "listed_count": 3,
+          "media_count": 1250,
+          "tweet_count": 6762
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2065616294276374860",
+    "created_at": "2026-06-13T10:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065745095970722181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752955223004573696",
+          "start": 0,
+          "username": "AnalyLain_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065745095970722181",
+    "in_reply_to_user_id": "1752955223004573696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065742129578872893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnalyLain_01 啊？ 那么强？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2065616294276374860",
+        "created_at": "2026-06-13T10:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065745095970722181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752955223004573696",
+              "start": 0,
+              "username": "AnalyLain_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065745095970722181",
+        "in_reply_to_user_id": "1752955223004573696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065742129578872893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnalyLain_01 啊？ 那么强？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752955223004573696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041635245",
+              "name": "NBA 2K"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041635245",
+              "name": "NBA 2K"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898362609631238",
+              "name": "Sports games"
+            }
+          }
+        ],
+        "conversation_id": "2065616294276374860",
+        "created_at": "2026-06-13T10:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065742129578872893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065742129578872893",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065616294276374860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 在PC端，四核的i7有一款神U也就是i7-4790K，这颗U现在除了多核很吃力不能同时开太多软件外，还是能满足日常需求的，2K下玩玩3A也没有问题，更厉害的是很能超频\n\n笔记本端的i7的话，低压U的四核好像一直延伸到第八代，标压的是第几代转入六核忘了，反正最强也就是4790的性能，现在笔记本用还是落后了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 475,
+          "like_count": 4127,
+          "listed_count": 3,
+          "media_count": 1406,
+          "tweet_count": 7573
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-01T07:21:25.000Z",
+        "description": "🌈08 enby ｜一只想变可爱的男孩纸awa｜含糖喵🍥（抗雄only｜双鱼♓️ & INFP🦋｜4i 🐶｜混⭕️（弱贝说是｜喜欢一切可爱的事物😘｜爱好：数码📱 科技💻 摄影📷｜长得还可以awa｜179/63｜不od不自伤💊｜乖巧听话（有时brat哈哈哈｜呜呜是喜欢涩涩的坏孩子......",
+        "id": "1752955223004573696",
+        "location": "jinan shandong",
+        "name": "林小北不是小杯杯🍥",
+        "pinned_tweet_id": "2065260809484390786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065250229910409217/FcGfwTjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 316,
+          "like_count": 120,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 806
+        },
+        "username": "AnalyLain_01",
+        "verified": false
+      }
+    ]
+  }
+}

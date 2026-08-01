@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1986759982654861661",
+    "created_at": "2025-11-07T11:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986761213519577376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944909426596700165",
+          "start": 0,
+          "username": "Htoz1790524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986761213519577376",
+    "in_reply_to_user_id": "1944909426596700165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986759982654861661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Htoz1790524 。。。。1000fo结果合影的帖子是这个。。。唉˃ʍ˂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986759978066305024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JjrHqa4AAOnWd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1986759982654861661",
+        "created_at": "2025-11-07T11:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986761213519577376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944909426596700165",
+              "start": 0,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986761213519577376",
+        "in_reply_to_user_id": "1944909426596700165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986759982654861661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Htoz1790524 。。。。1000fo结果合影的帖子是这个。。。唉˃ʍ˂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986759978066305024"
+          ]
+        },
+        "author_id": "1944909426596700165",
+        "conversation_id": "1986759982654861661",
+        "created_at": "2025-11-07T11:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986759982654861661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9lVj1KAes",
+              "end": 48,
+              "expanded_url": "https://x.com/Htoz1790524/status/1986759982654861661/photo/1",
+              "media_key": "3_1986759978066305024",
+              "start": 25,
+              "url": "https://t.co/G9lVj1KAes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986759982654861661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo啦，谢谢各位的支持，纱儿小姐爱你们哦 https://t.co/G9lVj1KAes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 23,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T23:58:56.000Z",
+        "description": "一只07年的小药娘 I  qq 1946649576 I 没有门槛喜欢朋友 I 热爱轻小说 I mtf 2025.8.15 I 中度抑郁 I 无证含糖 I 高中生在校 I 未出柜 I 学习塔罗ing  I紗兒小姐会善良对待所有人！爱你❤",
+        "id": "1944909426596700165",
+        "location": "中国台湾",
+        "name": "白毛少女小紗兒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 350,
+          "like_count": 5002,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 339
+        },
+        "username": "Htoz1790524",
+        "verified": false
+      }
+    ]
+  }
+}

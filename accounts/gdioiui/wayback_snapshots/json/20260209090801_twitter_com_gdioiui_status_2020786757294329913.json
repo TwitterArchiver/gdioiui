@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2020720579289006103",
+    "created_at": "2026-02-09T09:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T10:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020786757294329913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        },
+        {
+          "end": 26,
+          "id": "1979516169066590208",
+          "start": 11,
+          "username": "lengcindy_pink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020786757294329913",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020725218067853322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed @lengcindy_pink 这个代价有点...😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2020720579289006103",
+        "created_at": "2026-02-09T09:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020786757294329913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 26,
+              "id": "1979516169066590208",
+              "start": 11,
+              "username": "lengcindy_pink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020786757294329913",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020725218067853322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @lengcindy_pink 这个代价有点...😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2020720579289006103",
+        "created_at": "2026-02-09T05:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020725218067853322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979516169066590208",
+              "start": 0,
+              "username": "lengcindy_pink"
+            },
+            {
+              "end": 24,
+              "id": "1882678524596867072",
+              "start": 16,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 62,
+              "expanded_url": "https://x.com/axzamyzed/status/2020716571552059608?s=46",
+              "start": 39,
+              "url": "https://t.co/c7rdber0wl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020725218067853322",
+        "in_reply_to_user_id": "1979516169066590208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020716571552059608",
+            "type": "quoted"
+          },
+          {
+            "id": "2020724230170849397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcindy_pink @gdioiui 我威胁他了一下就给我点了\n\nhttps://t.co/c7rdber0wl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n精神病警戒线------\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\n171/60（长胖了...）   胸围76腰围70\n已被收缴全部药品和资金（）",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 302,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 562,
+          "tweet_count": 4265
+        },
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 590,
+          "like_count": 3420,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-18T11:53:35.000Z",
+        "description": "「あたしはねこ！」喵喵喵给我互fo//////////////////infp-a//┐('～`;)┌ //tulpamancy/swiftUI/mc1.8.9/html+css/直fo—太I了不知道说什么（看上了bushi/生竞ing/无力地活着/od/にほんごを学んでいます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lengcindy.pink",
+                "end": 23,
+                "expanded_url": "http://lengcindy.pink",
+                "start": 0,
+                "url": "https://t.co/m4GdQ7CrMC"
+              }
+            ]
+          }
+        },
+        "id": "1979516169066590208",
+        "location": "喵国喵县喵喵喵！",
+        "name": "み=v=ず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020708742623576064/L3WbA1_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 126,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/m4GdQ7CrMC",
+        "username": "lengcindy_pink",
+        "verified": false
+      }
+    ]
+  }
+}

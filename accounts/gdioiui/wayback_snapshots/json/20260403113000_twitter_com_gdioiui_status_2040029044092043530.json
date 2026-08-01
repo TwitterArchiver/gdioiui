@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040024051696254976"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2040029044092043530",
+    "created_at": "2026-04-03T11:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040029044092043530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKQoOb9j7a",
+          "end": 110,
+          "expanded_url": "https://x.com/gdioiui/status/2040029044092043530/photo/1",
+          "media_key": "3_2040024051696254976",
+          "start": 87,
+          "url": "https://t.co/VKQoOb9j7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040029044092043530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是三一穿过的原味.....\n在28度的太阳下跑了一整天 捂得有点奇怪味道（像是烤豆子？）\n只需要付运费然后帮我买新的就可以....\n应该25吧？(⩌ᴗ⩌ )不要干奇怪事情 https://t.co/VKQoOb9j7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040024051696254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-fEQabwAAzJSv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040024051696254976"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2040029044092043530",
+        "created_at": "2026-04-03T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040029044092043530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKQoOb9j7a",
+              "end": 110,
+              "expanded_url": "https://x.com/gdioiui/status/2040029044092043530/photo/1",
+              "media_key": "3_2040024051696254976",
+              "start": 87,
+              "url": "https://t.co/VKQoOb9j7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040029044092043530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是三一穿过的原味.....\n在28度的太阳下跑了一整天 捂得有点奇怪味道（像是烤豆子？）\n只需要付运费然后帮我买新的就可以....\n应该25吧？(⩌ᴗ⩌ )不要干奇怪事情 https://t.co/VKQoOb9j7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 378,
+          "like_count": 3426,
+          "listed_count": 2,
+          "media_count": 965,
+          "tweet_count": 5617
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

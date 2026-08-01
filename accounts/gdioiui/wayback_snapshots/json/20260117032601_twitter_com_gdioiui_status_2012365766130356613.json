@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2012071486920802617",
+    "created_at": "2026-01-17T03:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012365766130356613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243558241377718274",
+          "start": 0,
+          "username": "thisis_an_apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012365766130356613",
+    "in_reply_to_user_id": "1243558241377718274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012350606623789412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisis_an_apple 可能救不了自己🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2012071486920802617",
+        "created_at": "2026-01-17T03:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012365766130356613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243558241377718274",
+              "start": 0,
+              "username": "thisis_an_apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012365766130356613",
+        "in_reply_to_user_id": "1243558241377718274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012350606623789412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisis_an_apple 可能救不了自己🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243558241377718274",
+        "conversation_id": "2012071486920802617",
+        "created_at": "2026-01-17T02:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012350606623789412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012350606623789412",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012071486920802617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 心理医生只能救得了自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/55（长胖了...）   胸围71腰围60肌无力\nqq1072644328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 291,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 3808
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T15:19:43.000Z",
+        "description": "MtF，HRT 2024/09/25。\n我已经不知道要做什么了。\n脾气很好，请不要惹我生气或者和我辩论，我会哭。 要互粉可以私信。",
+        "id": "1243558241377718274",
+        "name": "风油精灵🏳️‍⚧️",
+        "pinned_tweet_id": "2003413981206344169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011439245832212480/TCSPknLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 42,
+          "like_count": 67,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 11539
+        },
+        "username": "thisis_an_apple",
+        "verified": false
+      }
+    ]
+  }
+}

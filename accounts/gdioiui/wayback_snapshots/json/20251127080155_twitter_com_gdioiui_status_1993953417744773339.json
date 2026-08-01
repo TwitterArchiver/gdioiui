@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1993922270969082127",
+    "created_at": "2025-11-27T08:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993953417744773339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940980965549170688",
+          "start": 0,
+          "username": "motile5c"
+        },
+        {
+          "end": 19,
+          "id": "1955988310956105732",
+          "start": 10,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993953417744773339",
+    "in_reply_to_user_id": "1940980965549170688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993951606363365775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@motile5c @AqDro9Qa 很可惜，没有\n开证也真难😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993922270969082127",
+        "created_at": "2025-11-27T08:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993953417744773339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940980965549170688",
+              "start": 0,
+              "username": "motile5c"
+            },
+            {
+              "end": 19,
+              "id": "1955988310956105732",
+              "start": 10,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993953417744773339",
+        "in_reply_to_user_id": "1940980965549170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993951606363365775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@motile5c @AqDro9Qa 很可惜，没有\n开证也真难😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940980965549170688",
+        "conversation_id": "1993922270969082127",
+        "created_at": "2025-11-27T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993951606363365775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993951606363365775",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993922270969082127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 开到证了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 83,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-04T03:48:31.000Z",
+        "description": "生活百般无奈，需要悉心相待｜ MTF🍥 ｜飞友｜欢迎同类互fo｜业余导演｜作品在 https://t.co/SW9npdPODu 找不到",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chinafilm.gov.cn/xxgk/gsxx/dygy…",
+                "end": 64,
+                "expanded_url": "https://www.chinafilm.gov.cn/xxgk/gsxx/dygyxkz/",
+                "start": 41,
+                "url": "https://t.co/SW9npdPODu"
+              }
+            ]
+          }
+        },
+        "id": "1940980965549170688",
+        "location": "東京 新宿区",
+        "name": "mote酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983539801476513792/APvyZHLE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 108,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 61
+        },
+        "username": "motile5c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜mtf🇨🇳🏳️‍⚧️｜无门槛喜欢交朋友😘｜无证含糖｜2025.08出柜｜cosplay｜二刺螈｜cn浊酒｜168cm  102斤｜无自残无痕无瑕99新｜轻度抑郁及焦虑｜喜欢可爱的东西捏🤗｜世界不能没了罗小黑（嘿咻）｜小女儿@Htoz1790524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "安徽",
+        "name": "Dro🍥9",
+        "pinned_tweet_id": "1992961542657388695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992221861883879424/UO2lgmL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 243,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 121
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986762462402891776"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "1986762465385062489",
+    "created_at": "2025-11-07T11:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986762465385062489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uvg8t05q2K",
+          "end": 55,
+          "expanded_url": "https://x.com/gdioiui/status/1986762465385062489/photo/1",
+          "media_key": "3_1986762462402891776",
+          "start": 32,
+          "url": "https://t.co/uvg8t05q2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986762465385062489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看哪 看这该死的计划表 退役前我就瞌死了Σ(ŎдŎ|||)ﾉﾉ https://t.co/uvg8t05q2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_1986762462402891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Jl7uia0AA-W2F.jpg",
+        "width": 1817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986762462402891776"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1986762465385062489",
+        "created_at": "2025-11-07T11:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986762465385062489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvg8t05q2K",
+              "end": 55,
+              "expanded_url": "https://x.com/gdioiui/status/1986762465385062489/photo/1",
+              "media_key": "3_1986762462402891776",
+              "start": 32,
+              "url": "https://t.co/uvg8t05q2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986762465385062489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看哪 看这该死的计划表 退役前我就瞌死了Σ(ŎдŎ|||)ﾉﾉ https://t.co/uvg8t05q2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（已淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 23,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

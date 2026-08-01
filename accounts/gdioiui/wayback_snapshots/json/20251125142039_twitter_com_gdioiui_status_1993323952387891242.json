@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "1992921964005265763",
+    "created_at": "2025-11-25T14:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993323952387891242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945464784763457536",
+          "start": 0,
+          "username": "KuriYasuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993323952387891242",
+    "in_reply_to_user_id": "1945464784763457536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992921964005265763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuriYasuma 好鲜艳的颜色˃ʍ˂\n好好爱护啊 不要坏掉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992921938088296448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hH8ZjWAAA7mp8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992921964005265763",
+        "created_at": "2025-11-25T14:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993323952387891242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945464784763457536",
+              "start": 0,
+              "username": "KuriYasuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993323952387891242",
+        "in_reply_to_user_id": "1945464784763457536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992921964005265763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuriYasuma 好鲜艳的颜色˃ʍ˂\n好好爱护啊 不要坏掉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992921938088296448"
+          ]
+        },
+        "author_id": "1945464784763457536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992921964005265763",
+        "created_at": "2025-11-24T11:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992921964005265763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFe9yZYhHL",
+              "end": 51,
+              "expanded_url": "https://x.com/KuriYasuma/status/1992921964005265763/photo/1",
+              "media_key": "3_1992921938088296448",
+              "start": 28,
+              "url": "https://t.co/GFe9yZYhHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992921964005265763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近过的就这样糟糕 明天要去总院看病了 门诊治不好了🫶 https://t.co/GFe9yZYhHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 64,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T12:45:38.000Z",
+        "description": "· .  。· * ◟∗ ˙ . ℜ𝔢𝔱𝔯𝔬 𝔓𝔦𝔠𝔱𝔬𝔯𝔦𝔞𝔩 . ˙ ∗◞🗞* · 。. ·\n你可以叫我羊尾/kuyo 更多稱謂待解鎖  \n重抑重焦  自傷|od|負能|碎碎念|煙酒……\nEishin我们喜欢你💕  女孩子互粉互fo大歡迎   玩推只為發洩情緒ᖰ˃ ⤙ ˂ᖳ",
+        "id": "1945464784763457536",
+        "location": "🦋的失乐园",
+        "name": "小羊哭哟帕",
+        "pinned_tweet_id": "1959167420096291308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992919446218846208/4YNxCCsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 85,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 49
+        },
+        "username": "KuriYasuma",
+        "verified": false
+      }
+    ]
+  }
+}
