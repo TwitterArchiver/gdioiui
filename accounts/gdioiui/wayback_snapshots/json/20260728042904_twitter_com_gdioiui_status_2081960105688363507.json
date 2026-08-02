@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081766940000027098",
+    "created_at": "2026-07-28T04:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081960105688363507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895084164418088960",
+          "start": 0,
+          "username": "codecoco002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081960105688363507",
+    "in_reply_to_user_id": "1895084164418088960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081807425766850798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codecoco002 em我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081766940000027098",
+        "created_at": "2026-07-28T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081960105688363507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895084164418088960",
+              "start": 0,
+              "username": "codecoco002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081960105688363507",
+        "in_reply_to_user_id": "1895084164418088960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081807425766850798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codecoco002 em我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895084164418088960",
+        "conversation_id": "2081766940000027098",
+        "created_at": "2026-07-27T18:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081807425766850798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081807425766850798",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081766940000027098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 錯過咱的葬禮吧 咱想\n咱挺想看看自己的葬禮喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 492,
+          "like_count": 4689,
+          "listed_count": 4,
+          "media_count": 1647,
+          "tweet_count": 8483
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T12:11:02.000Z",
+        "description": "OD／負面／自傷／憂鬱症／多重人格／邊緣型人格障礙／解離／沉迷二次元\n最喜歡超天醬了啾♡絕對絕對要成為這個時代的超天醬 ! 想要許願永遠生活在夢裡，最討厭現實世界\n拯救所有厭惡現實之人的網路天使此刻降臨✝️只需要看著我就好了呦\n✝️一起升天✝️",
+        "id": "1895084164418088960",
+        "name": "✝️糖糖✝️あめちゃん",
+        "pinned_tweet_id": "2039074952796856651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046116610306662400/1S5IdjJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 30,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "codecoco002",
+        "verified": false
+      }
+    ]
+  }
+}
