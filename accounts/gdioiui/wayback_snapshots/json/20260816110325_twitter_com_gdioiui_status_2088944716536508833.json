@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2088905859623698768",
+    "created_at": "2026-08-16T11:03:25.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088944716536508833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088944716536508833",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088942612036370588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnfu 哎 主要成分是酒精 主要是已经伤了喉咙\n去外科看了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2088905859623698768",
+        "created_at": "2026-08-16T11:03:25.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088944716536508833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088944716536508833",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088942612036370588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnfu 哎 主要成分是酒精 主要是已经伤了喉咙\n去外科看了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985370178929045504",
+        "conversation_id": "2088905859623698768",
+        "created_at": "2026-08-16T10:55:04.000Z",
+        "display_text_range": [
+          9,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088942612036370588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088942612036370588",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088905859623698768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 加压按压伤口，消毒液喝了多少？如果不超过一瓶盖那就买康复新液喝，如果超过了洗胃时间已经过了，明天挂号去消化科"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2088944716536508833",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 482,
+          "like_count": 5043,
+          "listed_count": 5,
+          "media_count": 1788,
+          "tweet_count": 8946
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "当朋友圈发，发点喜欢的，od，mtf，自残，风景，美食，abdl，都会有，人活这一辈子最重要的是开心",
+        "id": "985370178929045504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088942612036370588",
+        "name": "卖橘子的小埋🍊",
+        "pinned_tweet_id": "2012924635449270450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985370178929045504/1786158035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085924101047382016/-n32t4ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 263,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "jYiCHRgvKnfu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

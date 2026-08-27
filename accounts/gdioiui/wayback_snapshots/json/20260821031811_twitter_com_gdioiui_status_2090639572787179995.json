@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2090392239520563645",
+    "created_at": "2026-08-21T03:18:11.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090639572787179995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090639572787179995",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090392239520563645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 双氧水不好喝吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090392136210669568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKQkpAbYAABUdT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2090392239520563645",
+        "created_at": "2026-08-21T03:18:11.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090639572787179995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090639572787179995",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090392239520563645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 双氧水不好喝吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090392136210669568"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090392239520563645",
+        "created_at": "2026-08-20T10:55:22.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090392239520563645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZtEH0wdG9",
+              "end": 37,
+              "expanded_url": "https://x.com/bpmiea/status/2090392239520563645/photo/1",
+              "media_key": "3_2090392136210669568",
+              "start": 14,
+              "url": "https://t.co/BZtEH0wdG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090392239520563645",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090392136210669568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1052,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边双氧水 另一边95酒精 https://t.co/BZtEH0wdG9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2090639572787179995",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 477,
+          "like_count": 5100,
+          "listed_count": 5,
+          "media_count": 1815,
+          "tweet_count": 9002
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "反跨跨女🏳️‍⚧️ | 无证🍥26.1 | 炸柜26.6 | 2011 | 自恨\n纯良初中生 吸毒❌自残❌键政❌滥交❌\narch&nix | py/kotlin/nodejs\ngfwfucker | vibecoder | Vocaloid\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoH9OF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "浙江省 小城市",
+        "most_recent_tweet_id": "2090450908656345499",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2086289796239077863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1783673342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 734,
+          "like_count": 1122,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/Mlt6SoH9OF",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2085587629526102363",
+    "created_at": "2026-08-07T08:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085651795871662423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        },
+        {
+          "end": 27,
+          "id": "1079483498686164992",
+          "start": 15,
+          "username": "KisaragiSue"
+        },
+        {
+          "end": 39,
+          "id": "2040798583440527360",
+          "start": 28,
+          "username": "longyvling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085651795871662423",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085650817244426513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi @KisaragiSue @longyvling 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2085587629526102363",
+        "created_at": "2026-08-07T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085651795871662423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 27,
+              "id": "1079483498686164992",
+              "start": 15,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 39,
+              "id": "2040798583440527360",
+              "start": 28,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085651795871662423",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085650817244426513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi @KisaragiSue @longyvling 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2085587629526102363",
+        "created_at": "2026-08-07T08:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085650817244426513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 24,
+              "id": "2040798583440527360",
+              "start": 13,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650817244426513",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085650506077331599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue @longyvling 只磕药不抽风，那不是白磕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 493,
+          "like_count": 4890,
+          "listed_count": 5,
+          "media_count": 1723,
+          "tweet_count": 8744
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2085614541539586140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 2376,
+          "like_count": 32154,
+          "listed_count": 9,
+          "media_count": 2982,
+          "tweet_count": 27819
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 602,
+          "like_count": 44296,
+          "listed_count": 5,
+          "media_count": 1202,
+          "tweet_count": 23471
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 275,
+          "like_count": 3102,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

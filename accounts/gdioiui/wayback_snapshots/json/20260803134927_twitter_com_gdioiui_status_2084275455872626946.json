@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2084190854558949617",
+    "created_at": "2026-08-03T13:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084275455872626946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084275455872626946",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084267032716206179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 ◉‿◉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2084190854558949617",
+        "created_at": "2026-08-03T13:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084275455872626946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084275455872626946",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267032716206179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 ◉‿◉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2084190854558949617",
+        "created_at": "2026-08-03T13:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084267032716206179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267032716206179",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084190854558949617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 张力这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 492,
+          "like_count": 4835,
+          "listed_count": 5,
+          "media_count": 1699,
+          "tweet_count": 8654
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 464,
+          "like_count": 6053,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2867
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

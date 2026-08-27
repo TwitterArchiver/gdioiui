@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2091085407094231302",
+    "created_at": "2026-08-22T10:13:13.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091106409169694843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091106409169694843",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091088070116528216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 可以卖pg换坦克？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2091085407094231302",
+        "created_at": "2026-08-22T10:13:13.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091106409169694843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091106409169694843",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091088070116528216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 可以卖pg换坦克？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2091085407094231302",
+        "created_at": "2026-08-22T09:00:21.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091088070116528216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091088070116528216",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091085407094231302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 战地6日常"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2091106409169694843",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 478,
+          "like_count": 5120,
+          "listed_count": 5,
+          "media_count": 1831,
+          "tweet_count": 9038
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️\n母艦：@gdioiui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "gdioiui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki1",
+                "start": 0,
+                "url": "https://t.co/XCTBiBpQ5n"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "is_identity_verified": false,
+        "location": "三途川",
+        "most_recent_tweet_id": "2091088519301402748",
+        "name": "Anemoly🍥🎐⚢",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679381806913560578/1776322647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086056492122484736/Hq14RGNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1319,
+          "like_count": 18559,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/XCTBiBpQ5n",
+        "username": "kurazawanaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2090995814869204994",
+    "created_at": "2026-08-23T01:39:48.000Z",
+    "display_text_range": [
+      23,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091339592163307895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843197910030118912",
+          "start": 0,
+          "username": "m19031173397"
+        },
+        {
+          "end": 22,
+          "id": "1690570637499154432",
+          "start": 14,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091339592163307895",
+    "in_reply_to_user_id": "1843197910030118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091252397293334851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m19031173397 @zhwevea 我们可以拉国家下水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2090995814869204994",
+        "created_at": "2026-08-23T01:39:48.000Z",
+        "display_text_range": [
+          23,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091339592163307895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843197910030118912",
+              "start": 0,
+              "username": "m19031173397"
+            },
+            {
+              "end": 22,
+              "id": "1690570637499154432",
+              "start": 14,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091339592163307895",
+        "in_reply_to_user_id": "1843197910030118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091252397293334851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m19031173397 @zhwevea 我们可以拉国家下水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843197910030118912",
+        "conversation_id": "2090995814869204994",
+        "created_at": "2026-08-22T19:53:19.000Z",
+        "display_text_range": [
+          18,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091252397293334851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 17,
+              "id": "1690570637499154432",
+              "start": 9,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091252397293334851",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091106610974449667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @zhwevea 我们学校是没有国家规定的，校规高于国家，我已气笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2091339592163307895",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 479,
+          "like_count": 5134,
+          "listed_count": 5,
+          "media_count": 1833,
+          "tweet_count": 9050
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T07:53:32.000Z",
+        "description": "女同太棒了你们知道吗，女生复杂的关系性和性关系已经成了维持生命不可或缺的东西了，百合世界第一啊",
+        "id": "1843197910030118912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091252932092281258",
+        "name": "人之初性本D",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895760686971514880/lKh1oDbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 1294,
+          "like_count": 41991,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "m19031173397",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2091322217875579210",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7807,
+          "following_count": 428,
+          "like_count": 33547,
+          "listed_count": 23,
+          "media_count": 2782,
+          "tweet_count": 21453
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2081242362794397737",
+    "created_at": "2026-07-27T02:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081563676553998644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552137826913120256",
+          "start": 0,
+          "username": "BZaychlk"
+        },
+        {
+          "end": 26,
+          "id": "2070746592865583105",
+          "start": 10,
+          "username": "ovvvvvvvvvvomtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081563676553998644",
+    "in_reply_to_user_id": "1552137826913120256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081538175907082444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZaychlk @ovvvvvvvvvvomtf 咪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2081242362794397737",
+        "created_at": "2026-07-27T02:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081563676553998644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            },
+            {
+              "end": 26,
+              "id": "2070746592865583105",
+              "start": 10,
+              "username": "ovvvvvvvvvvomtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081563676553998644",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081538175907082444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZaychlk @ovvvvvvvvvvomtf 咪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552137826913120256",
+        "conversation_id": "2081242362794397737",
+        "created_at": "2026-07-27T00:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081538175907082444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070746592865583105",
+              "start": 0,
+              "username": "ovvvvvvvvvvomtf"
+            },
+            {
+              "end": 25,
+              "id": "1882678524596867072",
+              "start": 17,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081538175907082444",
+        "in_reply_to_user_id": "2070746592865583105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081388050580644109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovvvvvvvvvvomtf @gdioiui 金杰活了！金杰活了！不要告诉其它人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 492,
+          "like_count": 4662,
+          "listed_count": 4,
+          "media_count": 1639,
+          "tweet_count": 8457
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "location": "Side 6 殖民卫星",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 618,
+          "like_count": 16758,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 4693
+        },
+        "url": "",
+        "username": "BZaychlk",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-27T05:53:12.000Z",
+        "description": "mtf/x？ 悲惨的初三生一枚\n@1gdsb 的小号\n出厂日期2011.8.31（开学前一天悲:(\n身高179 59.6kg\n玩cfm（好老的游戏）mc java版 逆战未来 异环 roblox\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 16,
+                "username": "1gdsb"
+              }
+            ]
+          }
+        },
+        "id": "2070746592865583105",
+        "location": "广州市海珠区赤岗",
+        "name": "银狐vpn跨区链接",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080876670941364224/9NuLp82u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 110,
+          "like_count": 89,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "ovvvvvvvvvvomtf",
+        "verified": false
+      }
+    ]
+  }
+}

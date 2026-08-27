@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2084955285874245927",
+    "created_at": "2026-08-05T10:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084955285874245927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1720665183188922368",
+          "start": 19,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HappyHejsDay/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/HappyHejsDay/status/2084685324542955629",
+          "start": 31,
+          "url": "https://t.co/OkGYMkmD1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084955285874245927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084685324542955629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请告诉我我这个账号上最恶心的帖子  \n@grok\n（用中文） https://t.co/OkGYMkmD1O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2084955285874245927",
+        "created_at": "2026-08-05T10:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084955285874245927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1720665183188922368",
+              "start": 19,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HappyHejsDay/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/HappyHejsDay/status/2084685324542955629",
+              "start": 31,
+              "url": "https://t.co/OkGYMkmD1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084955285874245927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084685324542955629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我我这个账号上最恶心的帖子  \n@grok\n（用中文） https://t.co/OkGYMkmD1O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005261732751802368",
+        "conversation_id": "2084685324542955629",
+        "created_at": "2026-08-04T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084685324542955629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1720665183188922368",
+              "start": 19,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084685324542955629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 727,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请告诉我我这个账号上最恶心的帖子  \n@grok \n（用中文）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 493,
+          "like_count": 4860,
+          "listed_count": 5,
+          "media_count": 1709,
+          "tweet_count": 8700
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8915157,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7274,
+          "media_count": 9222336,
+          "tweet_count": 134170815
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜貨｜疑似鍵政｜破壞分子｜痛苦大學生｜高齡人士｜🇹🇼🇭🇰🇨🇳｜詭異行蹤｜學術失敗者｜Baptist U｜健全逼｜落魄合約交易員｜經濟困難｜歡迎聊天｜同類互fo｜前世@franciswwwww （已徹底死亡）｜玩具@fe_ions 寵物@wwwalce4｜偶人@qiouyuebai520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "fe_ions"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "wwwalce4"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "qiouyuebai520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/franciswwwww1",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/franciswwwww1",
+                "start": 0,
+                "url": "https://t.co/Tx5FLFWP3X"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2080,
+          "like_count": 11509,
+          "listed_count": 5,
+          "media_count": 568,
+          "tweet_count": 7038
+        },
+        "url": "https://t.co/Tx5FLFWP3X",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

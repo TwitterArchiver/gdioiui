@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2087773300537852129",
+    "created_at": "2026-08-13T23:51:16.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088050788975395307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683521636086210560",
+          "start": 0,
+          "username": "lismallTt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088050788975395307",
+    "in_reply_to_user_id": "1683521636086210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087957048139112794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lismallTt_ 两个都是我的🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2087773300537852129",
+        "created_at": "2026-08-13T23:51:16.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088050788975395307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683521636086210560",
+              "start": 0,
+              "username": "lismallTt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088050788975395307",
+        "in_reply_to_user_id": "1683521636086210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087957048139112794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lismallTt_ 两个都是我的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683521636086210560",
+        "conversation_id": "2087773300537852129",
+        "created_at": "2026-08-13T17:38:47.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087957048139112794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087957048139112794",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087773300537852129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 就怕下面还有补刀的\n“诶呀～就连这个网都连不了～真是杂鱼呐～”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2088050788975395307",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 485,
+          "like_count": 5011,
+          "listed_count": 5,
+          "media_count": 1773,
+          "tweet_count": 8912
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-24T16:57:12.000Z",
+        "description": "hi\n爱玩cs2和音游\n没了QWQ\n愿每个人都被平等对待（或许）\n随机数冲浪（真纯随机）\n推特当朋友圈发了\nngl：https://t.co/B3YX4xOyV1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lismalltt",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lismalltt",
+                "start": 58,
+                "url": "https://t.co/B3YX4xOyV1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/28736962",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/28736962",
+                "start": 0,
+                "url": "https://t.co/2E9pNJxbQu"
+              }
+            ]
+          }
+        },
+        "id": "1683521636086210560",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2087963424542298276",
+        "name": "lismallTt",
+        "pinned_tweet_id": "2085778754857836558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683521636086210560/1690247551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138518609158144/9UGyn92E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 313,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/2E9pNJxbQu",
+        "username": "lismallTt_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

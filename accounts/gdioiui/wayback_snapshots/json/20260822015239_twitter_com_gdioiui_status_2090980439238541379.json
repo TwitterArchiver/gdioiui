@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2090638681484960120",
+    "created_at": "2026-08-22T01:52:39.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090980439238541379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083431637027823616",
+          "start": 0,
+          "username": "oczicl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090980439238541379",
+    "in_reply_to_user_id": "2083431637027823616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090830280856940569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oczicl 大大滴好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2090638681484960120",
+        "created_at": "2026-08-22T01:52:39.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090980439238541379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083431637027823616",
+              "start": 0,
+              "username": "oczicl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090980439238541379",
+        "in_reply_to_user_id": "2083431637027823616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830280856940569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oczicl 大大滴好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083431637027823616",
+        "conversation_id": "2090638681484960120",
+        "created_at": "2026-08-21T15:55:59.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090830280856940569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090830280856940569",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090638681484960120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 孩子出来就是呦西怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2090980439238541379",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 479,
+          "like_count": 5111,
+          "listed_count": 5,
+          "media_count": 1823,
+          "tweet_count": 9020
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "药娘世家|出厂日期2008.7.9|🍥2026.6.3|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|家长党|不抽烟不喝酒的好孩子🤓讽刺家与小说家|希望能救大家|知心伙伴|95天\n孩子@theqingqiuback\n🐧3866066283",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "theqingqiuback"
+              }
+            ]
+          }
+        },
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090830280856940569",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2090295260572209570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 175,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2084605993330298979",
+    "created_at": "2026-08-04T11:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084605993330298979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1720665183188922368",
+          "start": 55,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YangYi21649/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/YangYi21649/status/2084600619776553236",
+          "start": 61,
+          "url": "https://t.co/jzqRXxrETk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084605993330298979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084600619776553236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/jzqRXxrETk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2084605993330298979",
+        "created_at": "2026-08-04T11:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084605993330298979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YangYi21649/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/YangYi21649/status/2084600619776553236",
+              "start": 61,
+              "url": "https://t.co/jzqRXxrETk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084605993330298979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084600619776553236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/jzqRXxrETk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883245404881633280",
+        "conversation_id": "2084600619776553236",
+        "created_at": "2026-08-04T11:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084600619776553236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084600619776553236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据我2026年3月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 493,
+          "like_count": 4841,
+          "listed_count": 5,
+          "media_count": 1705,
+          "tweet_count": 8673
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8908565,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7260,
+          "media_count": 9218277,
+          "tweet_count": 133893480
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T20:08:08.000Z",
+        "description": "可能是mtf 小证2026.7.28 大号@h2o2333 三代目@1novah2o vrc私信加",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "h2o2333"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "1novah2o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/gr3urFeY1G"
+              }
+            ]
+          }
+        },
+        "id": "1883245404881633280",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2065370356022669701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055624783837196288/vQoUDe_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 457,
+          "like_count": 508,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/gr3urFeY1G",
+        "username": "YangYi21649",
+        "verified": false
+      }
+    ]
+  }
+}

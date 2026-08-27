@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2086458942075638221",
+    "created_at": "2026-08-09T14:44:19.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086463592199516667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667692830",
+          "start": 0,
+          "username": "NidyTwien32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086463592199516667",
+    "in_reply_to_user_id": "1667692830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086459512345464883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NidyTwien32 ...鱼到旱地确实不适宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2086458942075638221",
+        "created_at": "2026-08-09T14:44:19.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086463592199516667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667692830",
+              "start": 0,
+              "username": "NidyTwien32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086463592199516667",
+        "in_reply_to_user_id": "1667692830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086459512345464883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NidyTwien32 ...鱼到旱地确实不适宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667692830",
+        "conversation_id": "2086458942075638221",
+        "created_at": "2026-08-09T14:28:06.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086459512345464883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086459512345464883",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086458942075638221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 可能是刚到新环境应激了，先别急着喂！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2086463592199516667",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 485,
+          "like_count": 4961,
+          "listed_count": 5,
+          "media_count": 1746,
+          "tweet_count": 8839
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-13T12:51:25.000Z",
+        "description": "最近不少人问我用什么 VPN，这款我一直在用，下载链接放下面了👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/aLTxaSJdfO"
+              }
+            ]
+          }
+        },
+        "id": "1667692830",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086459621288333676",
+        "name": "瑞宝安利科学上网APP",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667692830/1433958844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082123977707679744/rpBeR27o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 193,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/aLTxaSJdfO",
+        "username": "NidyTwien32",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

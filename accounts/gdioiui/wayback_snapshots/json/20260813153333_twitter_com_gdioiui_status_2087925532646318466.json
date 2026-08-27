@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087925526619197440"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2087820951358673267",
+    "created_at": "2026-08-13T15:33:33.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087925532646318466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v4pognfQKC",
+          "end": 39,
+          "expanded_url": "https://x.com/gdioiui/status/2087925532646318466/photo/1",
+          "media_key": "3_2087925526619197440",
+          "start": 16,
+          "url": "https://t.co/v4pognfQKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087925532646318466",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087925526619197440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087820951358673267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 呀呼 洗大锅 https://t.co/v4pognfQKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2087925526619197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnNNEObkAA84JK.jpg",
+        "width": 917
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2087820941372137472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPluFZ0boAARFR6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087925526619197440"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2087820951358673267",
+        "created_at": "2026-08-13T15:33:33.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087925532646318466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4pognfQKC",
+              "end": 39,
+              "expanded_url": "https://x.com/gdioiui/status/2087925532646318466/photo/1",
+              "media_key": "3_2087925526619197440",
+              "start": 16,
+              "url": "https://t.co/v4pognfQKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087925532646318466",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087925526619197440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087820951358673267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 呀呼 洗大锅 https://t.co/v4pognfQKC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087820941372137472"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2087820951358673267",
+        "created_at": "2026-08-13T08:37:59.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087820951358673267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sRLVFTaby",
+              "end": 28,
+              "expanded_url": "https://x.com/bghtnya/status/2087820951358673267/photo/1",
+              "media_key": "3_2087820941372137472",
+              "start": 5,
+              "url": "https://t.co/4sRLVFTaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087820951358673267",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087820941372137472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5103,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "弦化了喵 https://t.co/4sRLVFTaby"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2087925532646318466",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 485,
+          "like_count": 5008,
+          "listed_count": 5,
+          "media_count": 1772,
+          "tweet_count": 8908
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2087914169404449200",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10194,
+          "following_count": 2322,
+          "like_count": 180993,
+          "listed_count": 19,
+          "media_count": 4024,
+          "tweet_count": 49321
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

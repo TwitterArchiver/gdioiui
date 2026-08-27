@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085219787073073152"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2085219834087047464",
+    "created_at": "2026-08-06T04:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085219834087047464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s21Kx8meAt",
+          "end": 45,
+          "expanded_url": "https://x.com/gdioiui/status/2085219834087047464/video/1",
+          "media_key": "13_2085219787073073152",
+          "start": 22,
+          "url": "https://t.co/s21Kx8meAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085219834087047464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫第一人称看三一跳舞\n猫 ：我真的好害怕 https://t.co/s21Kx8meAt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7267,
+        "height": 1920,
+        "media_key": "13_2085219787073073152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085219787073073152/img/cmqkNVCexBqHZHmf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085219787073073152/vid/avc1/1080x1920/Rt2VSEcoqV0tWKmi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085219787073073152/pl/tfyyOv4OANwvBV1I.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085219787073073152/vid/avc1/320x568/aZTS9Fbtz_i2WeVT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085219787073073152/vid/avc1/720x1280/13KMs7xflRtKAjpp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085219787073073152/vid/avc1/480x852/X9VLcBSgGoGxKofm.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085219787073073152"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2085219834087047464",
+        "created_at": "2026-08-06T04:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085219834087047464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s21Kx8meAt",
+              "end": 45,
+              "expanded_url": "https://x.com/gdioiui/status/2085219834087047464/video/1",
+              "media_key": "13_2085219787073073152",
+              "start": 22,
+              "url": "https://t.co/s21Kx8meAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085219834087047464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫第一人称看三一跳舞\n猫 ：我真的好害怕 https://t.co/s21Kx8meAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 493,
+          "like_count": 4868,
+          "listed_count": 5,
+          "media_count": 1715,
+          "tweet_count": 8713
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

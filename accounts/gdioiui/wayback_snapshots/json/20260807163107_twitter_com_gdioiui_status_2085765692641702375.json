@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085765686094393344"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2085765692641702375",
+    "created_at": "2026-08-07T16:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085765692641702375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYPvcDKGAw",
+          "end": 142,
+          "expanded_url": "https://x.com/gdioiui/status/2085765692641702375/photo/1",
+          "media_key": "3_2085765686094393344",
+          "start": 119,
+          "url": "https://t.co/IYPvcDKGAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085765692641702375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝贺anemoly成年啦～生日快乐喵呜！\n从对数角度来看，18岁大概就是人生的一半呢。\n而故事里，最闪亮的转折点往往就藏在1/2处呀～\n从今天开始，一切都有被温柔改写的机会，\n我们会一起越来越好，\n属于你的HE，也要从这里慢慢显现啦～✨ https://t.co/IYPvcDKGAw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2085765686094393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIg1zRa8AAVFwa.jpg",
+        "width": 1651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085765686094393344"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2085765692641702375",
+        "created_at": "2026-08-07T16:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085765692641702375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYPvcDKGAw",
+              "end": 142,
+              "expanded_url": "https://x.com/gdioiui/status/2085765692641702375/photo/1",
+              "media_key": "3_2085765686094393344",
+              "start": 119,
+              "url": "https://t.co/IYPvcDKGAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085765692641702375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝贺anemoly成年啦～生日快乐喵呜！\n从对数角度来看，18岁大概就是人生的一半呢。\n而故事里，最闪亮的转折点往往就藏在1/2处呀～\n从今天开始，一切都有被温柔改写的机会，\n我们会一起越来越好，\n属于你的HE，也要从这里慢慢显现啦～✨ https://t.co/IYPvcDKGAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 494,
+          "like_count": 4904,
+          "listed_count": 5,
+          "media_count": 1729,
+          "tweet_count": 8759
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

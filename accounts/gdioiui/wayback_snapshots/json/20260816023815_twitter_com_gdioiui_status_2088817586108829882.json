@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2088817586108829882",
+    "created_at": "2026-08-16T02:38:15.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088817586108829882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wolfyxbt/statu…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/wolfyxbt/status/2088582807560020434",
+          "start": 60,
+          "url": "https://t.co/aPhv6JzGMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088817586108829882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088582807560020434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾九次探索世界\njm\n抖阴\nacfan\npornhub\nspankbang.......\n⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ https://t.co/aPhv6JzGMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2088582804267585536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwi_qRb0AA9wI5.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2088817586108829882",
+        "created_at": "2026-08-16T02:38:15.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088817586108829882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wolfyxbt/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/wolfyxbt/status/2088582807560020434",
+              "start": 60,
+              "url": "https://t.co/aPhv6JzGMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088817586108829882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088582807560020434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾九次探索世界\njm\n抖阴\nacfan\npornhub\nspankbang.......\n⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ https://t.co/aPhv6JzGMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088582804267585536"
+          ]
+        },
+        "author_id": "1516941936971554817",
+        "conversation_id": "2088582807560020434",
+        "created_at": "2026-08-15T11:05:19.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088582807560020434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QwMdDLyZK",
+              "end": 34,
+              "expanded_url": "https://x.com/wolfyxbt/status/2088582807560020434/photo/1",
+              "media_key": "3_2088582804267585536",
+              "start": 11,
+              "url": "https://t.co/5QwMdDLyZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088582807560020434",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088582804267585536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 114285,
+          "like_count": 1556,
+          "quote_count": 14,
+          "reply_count": 339,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经九次探索新世界 https://t.co/5QwMdDLyZK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2088817586108829882",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 485,
+          "like_count": 5032,
+          "listed_count": 5,
+          "media_count": 1784,
+          "tweet_count": 8935
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "is_identity_verified": true,
+        "location": "交易所返佣链接 →",
+        "most_recent_tweet_id": "2088691822906474589",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "2080605146481102979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516941936971554817/1768654241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859850,
+          "following_count": 7960,
+          "like_count": 56299,
+          "listed_count": 3808,
+          "media_count": 2965,
+          "tweet_count": 22528
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

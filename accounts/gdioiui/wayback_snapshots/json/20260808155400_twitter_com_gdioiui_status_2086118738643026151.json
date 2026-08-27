@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2085688207879131460",
+    "created_at": "2026-08-08T15:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086118738643026151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996811981043781638",
+          "start": 0,
+          "username": "Kyuu_Charlie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086118738643026151",
+    "in_reply_to_user_id": "1996811981043781638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085688207879131460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyuu_Charlie ？？？震撼发布"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2085688207879131460",
+        "created_at": "2026-08-08T15:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086118738643026151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996811981043781638",
+              "start": 0,
+              "username": "Kyuu_Charlie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086118738643026151",
+        "in_reply_to_user_id": "1996811981043781638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085688207879131460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyuu_Charlie ？？？震撼发布"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996811981043781638",
+        "conversation_id": "2085688207879131460",
+        "created_at": "2026-08-07T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085688207879131460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085688207879131460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要什么健康的恋爱关系了🥵😭快来个大雷闷骚短发4i大姐姐给我法了法到我全身无力时然后抱着我说永远爱我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 496,
+          "like_count": 4941,
+          "listed_count": 5,
+          "media_count": 1741,
+          "tweet_count": 8811
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-05T05:21:06.000Z",
+        "description": "2010/05/27\nLanguage:🇨🇳🇬🇧\n何意味/神人/高中生/技术宅\n常驻昆明\n性取向正常但是跨性别友好\n互fo留言喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kyuuyuki",
+                "end": 23,
+                "expanded_url": "http://t.me/kyuuyuki",
+                "start": 0,
+                "url": "https://t.co/mXPaQn39CS"
+              }
+            ]
+          }
+        },
+        "id": "1996811981043781638",
+        "location": "I need some money😭👊",
+        "name": "Kyuu九鸟是只鸠",
+        "pinned_tweet_id": "2060913371474788837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067664734716096512/2xM_kEm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 44,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/mXPaQn39CS",
+        "username": "Kyuu_Charlie",
+        "verified": false
+      }
+    ]
+  }
+}

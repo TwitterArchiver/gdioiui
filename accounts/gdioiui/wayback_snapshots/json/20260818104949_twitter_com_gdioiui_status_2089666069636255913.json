@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089660298349481985"
+      ],
+      "media_source_tweet_id": [
+        "2089660304556687387"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "conversation_id": "2089666069636255913",
+    "created_at": "2026-08-18T10:49:49.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089666069636255913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679381806913560578",
+          "start": 3,
+          "username": "kurazawanaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRLqeRu3p3",
+          "end": 41,
+          "expanded_url": "https://x.com/kurazawanaki/status/2089660304556687387/photo/1",
+          "media_key": "3_2089660298349481985",
+          "start": 18,
+          "url": "https://t.co/uRLqeRu3p3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089666069636255913",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089660298349481985"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089660304556687387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurazawanaki: https://t.co/uRLqeRu3p3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_2089660298349481985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_2-EhbkAExhbU.jpg",
+        "width": 585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089660298349481985"
+          ],
+          "media_source_tweet_id": [
+            "2089660304556687387"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2089666069636255913",
+        "created_at": "2026-08-18T10:49:49.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089666069636255913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679381806913560578",
+              "start": 3,
+              "username": "kurazawanaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRLqeRu3p3",
+              "end": 41,
+              "expanded_url": "https://x.com/kurazawanaki/status/2089660304556687387/photo/1",
+              "media_key": "3_2089660298349481985",
+              "start": 18,
+              "url": "https://t.co/uRLqeRu3p3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089666069636255913",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089660298349481985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089660304556687387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurazawanaki: https://t.co/uRLqeRu3p3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089660298349481985"
+          ]
+        },
+        "author_id": "1679381806913560578",
+        "conversation_id": "2089660304556687387",
+        "created_at": "2026-08-18T10:26:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089660304556687387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRLqeRu3p3",
+              "end": 23,
+              "expanded_url": "https://x.com/kurazawanaki/status/2089660304556687387/photo/1",
+              "media_key": "3_2089660298349481985",
+              "start": 0,
+              "url": "https://t.co/uRLqeRu3p3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089660304556687387",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089660298349481985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uRLqeRu3p3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2089666069636255913",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 482,
+          "like_count": 5066,
+          "listed_count": 5,
+          "media_count": 1803,
+          "tweet_count": 8977
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️\n母艦：@gdioiui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "is_identity_verified": false,
+        "location": "三途川",
+        "most_recent_tweet_id": "2089660304556687387",
+        "name": "Anemoly🍥🎐⚢",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679381806913560578/1776322647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086056492122484736/Hq14RGNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1323,
+          "like_count": 18384,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

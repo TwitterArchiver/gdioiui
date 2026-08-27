@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2084931224653734042",
+    "created_at": "2026-08-05T10:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084954909892653412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084954909892653412",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084931224653734042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 都是这样那便对吗？\n是群体问题但是有的家长不是这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2084931224653734042",
+        "created_at": "2026-08-05T10:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084954909892653412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084954909892653412",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084931224653734042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 都是这样那便对吗？\n是群体问题但是有的家长不是这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852948864539791360",
+        "conversation_id": "2084931224653734042",
+        "created_at": "2026-08-05T09:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084931224653734042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xfreeradical/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/xfreeradical/status/2084657290217701808",
+              "start": 50,
+              "url": "https://t.co/x3I8Yxdhbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084931224653734042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084657290217701808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "………\n你的意思是，\n因为这个问题是结构性的，\n所以它合理，\n所以它应该被接受？\n滑坡滑成啥了这… https://t.co/x3I8Yxdhbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2916,
+          "following_count": 493,
+          "like_count": 4860,
+          "listed_count": 5,
+          "media_count": 1709,
+          "tweet_count": 8698
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "| 友跨 | 交友学习中 | 2008.01 | 灵机一动 |",
+        "id": "1852948864539791360",
+        "location": "猜猜看？",
+        "name": "Xunyu_迅羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 131,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false
+      }
+    ]
+  }
+}

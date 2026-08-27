@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2089540444636258308",
+    "created_at": "2026-08-18T07:54:35.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089621968534569094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787079624260001792",
+          "start": 0,
+          "username": "HanLuo14894"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089621968534569094",
+    "in_reply_to_user_id": "1787079624260001792",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089569039203057903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanLuo14894 ...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2089540444636258308",
+        "created_at": "2026-08-18T07:54:35.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089621968534569094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787079624260001792",
+              "start": 0,
+              "username": "HanLuo14894"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089621968534569094",
+        "in_reply_to_user_id": "1787079624260001792",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089569039203057903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanLuo14894 ...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "conversation_id": "2089540444636258308",
+        "created_at": "2026-08-18T04:24:15.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089569039203057903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089569039203057903",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089540444636258308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui cos大学生呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2089621968534569094",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 480,
+          "like_count": 5062,
+          "listed_count": 5,
+          "media_count": 1801,
+          "tweet_count": 8973
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "漂着，等着砸在水泥地。\n不是机器人，是会抽烟咳嗽的活死人～\n多点狂人神人来聊。\n不对任何群体存在偏见。\n请大家关注@xyluo8964，加入XY大法",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "xyluo8964"
+              }
+            ]
+          }
+        },
+        "id": "1787079624260001792",
+        "is_identity_verified": false,
+        "location": "无间地狱",
+        "most_recent_tweet_id": "2089621474059628712",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787079624260001792/1784697970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 38,
+          "like_count": 58161,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
