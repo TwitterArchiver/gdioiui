@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2096562696217047259",
+    "created_at": "2026-09-06T14:24:39.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096605500704182569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2068981147024166912",
+          "start": 0,
+          "username": "ra7suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096605500704182569",
+    "in_reply_to_user_id": "2068981147024166912",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096562696217047259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ra7suki a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2096562696217047259",
+        "created_at": "2026-09-06T14:24:39.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096605500704182569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2068981147024166912",
+              "start": 0,
+              "username": "ra7suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605500704182569",
+        "in_reply_to_user_id": "2068981147024166912",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096562696217047259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ra7suki a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068981147024166912",
+        "conversation_id": "2096562696217047259",
+        "created_at": "2026-09-06T11:34:33.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096562696217047259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/gdioiui/status/2096544644570272120",
+              "start": 8,
+              "url": "https://t.co/sBhPj0P34V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096562696217047259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096544644570272120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该撞电线杆了（ https://t.co/sBhPj0P34V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2096605500704182569",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 474,
+          "like_count": 5261,
+          "listed_count": 6,
+          "media_count": 1883,
+          "tweet_count": 9190
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T08:56:14.000Z",
+        "description": "碎碎念（发癫）/情绪垃圾桶 \n性别不知道\n 爱好是特摄 番剧 游戏 \n对巨大机器人没有抵抗力\n 文爱s练习中（？欢迎扩列\n目指すはどんなハッピーエンド？",
+        "id": "2068981147024166912",
+        "is_identity_verified": false,
+        "location": "🐧1810315067",
+        "most_recent_tweet_id": "2096589338301939781",
+        "name": "Xi",
+        "pinned_tweet_id": "2094365005328359873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068981147024166912/1784656838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078418720679211008/Ji9_7Jt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 341,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "ra7suki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

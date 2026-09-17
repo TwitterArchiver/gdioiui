@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2093403202154807305",
+    "created_at": "2026-08-29T02:18:29.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T03:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093523655703859579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910325057387380736",
+          "start": 0,
+          "username": "nicaiawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093523655703859579",
+    "in_reply_to_user_id": "1910325057387380736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093442779896791142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicaiawa 去上学吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2093403202154807305",
+        "created_at": "2026-08-29T02:18:29.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093523655703859579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910325057387380736",
+              "start": 0,
+              "username": "nicaiawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093523655703859579",
+        "in_reply_to_user_id": "1910325057387380736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093442779896791142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicaiawa 去上学吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910325057387380736",
+        "conversation_id": "2093403202154807305",
+        "created_at": "2026-08-28T20:57:07.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093442779896791142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093442779896791142",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093403202154807305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我能关机5天半然后上线1天再关机5天半（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2093523655703859579",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 477,
+          "like_count": 5186,
+          "listed_count": 5,
+          "media_count": 1852,
+          "tweet_count": 9111
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-10T13:32:52.000Z",
+        "description": "MaimaiDX/友跨/Python/Cpp/CTFer/Furry\n补习Web和Pwn中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicaiawa.com",
+                "end": 23,
+                "expanded_url": "http://nicaiawa.com",
+                "start": 0,
+                "url": "https://t.co/M75McPWyad"
+              }
+            ]
+          }
+        },
+        "id": "1910325057387380736",
+        "is_identity_verified": false,
+        "location": "布吉岛",
+        "most_recent_tweet_id": "2093445280310104377",
+        "name": "你猜awa",
+        "pinned_tweet_id": "2001316669642199464",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910325057387380736/1786287433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086466822300368896/NfLjGoaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1088,
+          "like_count": 7810,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/M75McPWyad",
+        "username": "nicaiawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

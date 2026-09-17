@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2091895958359662996",
+    "created_at": "2026-08-25T14:26:08.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092257219354271879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1366340658563149827",
+          "start": 0,
+          "username": "kugi55"
+        },
+        {
+          "end": 16,
+          "id": "1969670166423228416",
+          "start": 8,
+          "username": "h2o2333"
+        },
+        {
+          "end": 29,
+          "id": "2006764724743188487",
+          "start": 17,
+          "username": "feilisisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092257219354271879",
+    "in_reply_to_user_id": "1366340658563149827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092097556453241170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kugi55 @h2o2333 @feilisisama 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2091895958359662996",
+        "created_at": "2026-08-25T14:26:08.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092257219354271879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366340658563149827",
+              "start": 0,
+              "username": "kugi55"
+            },
+            {
+              "end": 16,
+              "id": "1969670166423228416",
+              "start": 8,
+              "username": "h2o2333"
+            },
+            {
+              "end": 29,
+              "id": "2006764724743188487",
+              "start": 17,
+              "username": "feilisisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092257219354271879",
+        "in_reply_to_user_id": "1366340658563149827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092097556453241170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kugi55 @h2o2333 @feilisisama 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366340658563149827",
+        "conversation_id": "2091895958359662996",
+        "created_at": "2026-08-25T03:51:41.000Z",
+        "display_text_range": [
+          31,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092097556453241170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 17,
+              "id": "1882678524596867072",
+              "start": 9,
+              "username": "gdioiui"
+            },
+            {
+              "end": 30,
+              "id": "2006764724743188487",
+              "start": 18,
+              "username": "feilisisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092097556453241170",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092058411697659958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @gdioiui @feilisisama 就打"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2092257219354271879",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 481,
+          "like_count": 5166,
+          "listed_count": 5,
+          "media_count": 1842,
+          "tweet_count": 9081
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-01T10:53:01.000Z",
+        "description": "04年/mtf/173.6cm56.5kg/ip:kr/hrt:2022.10.26/ 已停药 摸鱼减肥喵 常驻韩国 假期回国玩 目前摸鱼减肥 留发中ing 胸围36A/80A vrc：kugi55",
+        "id": "1366340658563149827",
+        "is_identity_verified": true,
+        "location": "Gyeonggi-do, Republic of Korea",
+        "most_recent_tweet_id": "2092245287062635002",
+        "name": "@kugi55🏳️‍⚧️🇰🇷",
+        "pinned_tweet_id": "2087940635605209228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366340658563149827/1671667172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985525846225104896/KZ4cBosK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1012,
+          "like_count": 50318,
+          "listed_count": 8,
+          "media_count": 1526,
+          "tweet_count": 16764
+        },
+        "url": "",
+        "username": "kugi55",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "可能是mtf 超级耐杀王 年龄保密(是老东西) 小证2026.7.28 加vrc好友请私信\nmafuyu天下第一☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "is_identity_verified": false,
+        "location": "level 790",
+        "most_recent_tweet_id": "2092236793907396948",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2085584792461132007",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085582393411526657/-SwzJrIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 988,
+          "like_count": 2696,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 4692
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T16:30:55.000Z",
+        "description": "",
+        "id": "2006764724743188487",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2025467663028506931",
+        "name": "菲利斯sama#井宿七",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006765088250949632/dbaQ65TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "feilisisama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

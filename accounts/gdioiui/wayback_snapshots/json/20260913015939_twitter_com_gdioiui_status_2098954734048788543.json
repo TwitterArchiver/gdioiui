@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2098644757044191390",
+    "created_at": "2026-09-13T01:59:39.000Z",
+    "display_text_range": [
+      9,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098954734048788543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670458419986464768",
+          "start": 0,
+          "username": "nn66676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098954734048788543",
+    "in_reply_to_user_id": "1670458419986464768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098644757044191390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn66676 在昆明吗....\n感觉昆明市区都挺荒凉了 不用怕被看到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098644737586806784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_iRQ2awAA1waH.jpg",
+        "width": 2987
+      },
+      {
+        "height": 1047,
+        "media_key": "3_2098644750329143296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_iSAUbYAAtfdQ.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2098644757044191390",
+        "created_at": "2026-09-13T01:59:39.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098954734048788543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670458419986464768",
+              "start": 0,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098954734048788543",
+        "in_reply_to_user_id": "1670458419986464768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098644757044191390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn66676 在昆明吗....\n感觉昆明市区都挺荒凉了 不用怕被看到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098644737586806784",
+            "3_2098644750329143296"
+          ]
+        },
+        "author_id": "1670458419986464768",
+        "conversation_id": "2098644757044191390",
+        "created_at": "2026-09-12T05:27:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098644757044191390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujfzLJ9231",
+              "end": 61,
+              "expanded_url": "https://x.com/nn66676/status/2098644757044191390/photo/1",
+              "media_key": "3_2098644737586806784",
+              "start": 38,
+              "url": "https://t.co/ujfzLJ9231"
+            },
+            {
+              "display_url": "pic.x.com/ujfzLJ9231",
+              "end": 61,
+              "expanded_url": "https://x.com/nn66676/status/2098644757044191390/photo/1",
+              "media_key": "3_2098644750329143296",
+              "start": 38,
+              "url": "https://t.co/ujfzLJ9231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098644757044191390",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098644737586806784"
+          },
+          {
+            "media_key": "3_2098644750329143296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 753,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在城市边缘偷偷脱掉所有伪装。\n如果刚好有人路过……\n就当是山风不小心看见的 https://t.co/ujfzLJ9231"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2098954734048788543",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 478,
+          "like_count": 5303,
+          "listed_count": 6,
+          "media_count": 1903,
+          "tweet_count": 9233
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-18T15:50:22.000Z",
+        "description": "一个被讨厌的人 喜欢一切和太空有关的东西\n168cm42kg\n接线下 ✨门槛50",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tenebrouscat",
+                "end": 23,
+                "expanded_url": "https://t.me/Tenebrouscat",
+                "start": 0,
+                "url": "https://t.co/K1qHewppb9"
+              }
+            ]
+          }
+        },
+        "id": "1670458419986464768",
+        "is_identity_verified": false,
+        "location": "昆明/门槛50",
+        "most_recent_tweet_id": "2098849351359742203",
+        "name": "嗯嗯🀄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670458419986464768/1717741393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 702,
+          "like_count": 7332,
+          "listed_count": 5,
+          "media_count": 953,
+          "tweet_count": 5535
+        },
+        "url": "https://t.co/K1qHewppb9",
+        "username": "nn66676",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
