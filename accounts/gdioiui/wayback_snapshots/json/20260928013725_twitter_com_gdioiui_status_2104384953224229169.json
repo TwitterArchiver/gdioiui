@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104384944743272448"
+      ]
+    },
+    "author_id": "1882678524596867072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104243628063498592",
+    "created_at": "2026-09-28T01:37:25.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104384953224229169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7N4jDKCgk",
+          "end": 48,
+          "expanded_url": "https://x.com/gdioiui/status/2104384953224229169/photo/1",
+          "media_key": "3_2104384944743272448",
+          "start": 25,
+          "url": "https://t.co/U7N4jDKCgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104384953224229169",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104384944743272448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104243628063498592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki .....三一好吃吗 https://t.co/U7N4jDKCgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2104384944743272448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRG9S4aUAAX9uF.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104384944743272448"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104243628063498592",
+        "created_at": "2026-09-28T01:37:25.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104384953224229169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7N4jDKCgk",
+              "end": 48,
+              "expanded_url": "https://x.com/gdioiui/status/2104384953224229169/photo/1",
+              "media_key": "3_2104384944743272448",
+              "start": 25,
+              "url": "https://t.co/U7N4jDKCgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104384953224229169",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104384944743272448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104243628063498592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki .....三一好吃吗 https://t.co/U7N4jDKCgk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2104243628063498592",
+        "created_at": "2026-09-27T16:15:50.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104243628063498592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104243628063498592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 739,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真受不了自己一躺到床上就开始想男人.....\n\n什么鲍师傅、张亮、杨国福、刘文祥、康师傅、费大厨、赵一鸣......\n\n我给了我一巴掌，不能再想男人了!\n\n于是我开始想女人。\n\n沪上阿姨、奈雪、小谷姐姐、陶华碧......\n\n我又给了我一巴掌。要好好学习，开始背英文单词吧!KFC, McDonald, Luckin , DQ .."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2104384953224229169",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 476,
+          "like_count": 5426,
+          "listed_count": 6,
+          "media_count": 1966,
+          "tweet_count": 9359
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "\"神啊，您为什么不肯教会我打开鸟笼的方法呢…\"\n最爱的母艦@gdioiui\n下水日08.08.08\n只是一个普通的女孩子🏳️‍⚧️\n（病娇地雷系重女）\n卧室贝斯手-长笛手_笨蛋医学生\n喜欢音乐 药理 百合\nhrt25.05.05 同类私信互fo\nba wows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "gdioiui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki1",
+                "start": 0,
+                "url": "https://t.co/XCTBiBpQ5n"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "is_identity_verified": false,
+        "location": "三途川",
+        "most_recent_tweet_id": "2104362043730264086",
+        "name": "Anemoly🍥🎐⚢",
+        "pinned_tweet_id": "2103077747308540288",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679381806913560578/1776322647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102069029053792256/R-4saPTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1559,
+          "like_count": 23698,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/XCTBiBpQ5n",
+        "username": "kurazawanaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

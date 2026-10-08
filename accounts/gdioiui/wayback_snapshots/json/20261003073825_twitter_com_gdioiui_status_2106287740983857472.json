@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2106273644540580111",
+    "created_at": "2026-10-03T07:38:25.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106287740983857472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106287740983857472",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106275553263407136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 我去 吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2106273644540580111",
+        "created_at": "2026-10-03T07:38:25.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106287740983857472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106287740983857472",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106275553263407136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 我去 吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2106273644540580111",
+        "created_at": "2026-10-03T06:49:59.000Z",
+        "display_text_range": [
+          9,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106275553263407136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106275553263407136",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106273644540580111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 过了一会儿\n\nfot空雨：我的推特账号被家长控制了，上面的消息不是我发的，啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2106287740983857472",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 485,
+          "like_count": 5500,
+          "listed_count": 5,
+          "media_count": 1999,
+          "tweet_count": 9427
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生 / 任意代词 / 功能健全 / 真健全吗 / 希望自己是MTF / 立志做中文跨圈第一repper / 疑似AuDHD / INFJ / 倒错主体 / 不墙内不线下 / 碎片化n手哲学受众 / 坚持一致的不一致 / 前进！/\n\n天堂必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 157,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 134,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2106275553263407136",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2103975763552964765",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 1092,
+          "like_count": 5328,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

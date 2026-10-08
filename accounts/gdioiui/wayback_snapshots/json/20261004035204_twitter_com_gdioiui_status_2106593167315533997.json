@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2106321469483696339",
+    "created_at": "2026-10-04T03:52:04.000Z",
+    "display_text_range": [
+      41,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106593167315533997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095883239982534657",
+          "start": 0,
+          "username": "StrawMono_001"
+        },
+        {
+          "end": 30,
+          "id": "1781868776918790144",
+          "start": 15,
+          "username": "Hoshika_Mahiyo"
+        },
+        {
+          "end": 40,
+          "id": "2079578733929754624",
+          "start": 31,
+          "username": "Kabibqi9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106593167315533997",
+    "in_reply_to_user_id": "2095883239982534657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106566650371948694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_001 @Hoshika_Mahiyo @Kabibqi9 因为都有人看到来问我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2106321469483696339",
+        "created_at": "2026-10-04T03:52:04.000Z",
+        "display_text_range": [
+          41,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106593167315533997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095883239982534657",
+              "start": 0,
+              "username": "StrawMono_001"
+            },
+            {
+              "end": 30,
+              "id": "1781868776918790144",
+              "start": 15,
+              "username": "Hoshika_Mahiyo"
+            },
+            {
+              "end": 40,
+              "id": "2079578733929754624",
+              "start": 31,
+              "username": "Kabibqi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106593167315533997",
+        "in_reply_to_user_id": "2095883239982534657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106566650371948694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_001 @Hoshika_Mahiyo @Kabibqi9 因为都有人看到来问我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095883239982534657",
+        "conversation_id": "2106321469483696339",
+        "created_at": "2026-10-04T02:06:42.000Z",
+        "display_text_range": [
+          35,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106566650371948694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 24,
+              "id": "1781868776918790144",
+              "start": 9,
+              "username": "Hoshika_Mahiyo"
+            },
+            {
+              "end": 34,
+              "id": "2079578733929754624",
+              "start": 25,
+              "username": "Kabibqi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106566650371948694",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106393941952401496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @Hoshika_Mahiyo @Kabibqi9 怎么每个有关她的帖子都有你🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2106593167315533997",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3417,
+          "following_count": 490,
+          "like_count": 5514,
+          "listed_count": 5,
+          "media_count": 2002,
+          "tweet_count": 9438
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T14:35:45.000Z",
+        "description": "前世@StrawMono_\nmtf / hrt 26.08.06 / 无证含糖 / 家长党 / 不od不zc不键证 / 心理委员喵，随时欢迎来倾诉\n最爱的老公@H1kar1_KNO3\n\n匿名提问 https://t.co/naLX6dPWm0\n群组 Mono酱的樱花小镇 http://t.co/fhmUptWCxj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "StrawMono_"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "H1kar1_KNO3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/strawmono",
+                "end": 121,
+                "expanded_url": "http://ngl.link/strawmono",
+                "start": 98,
+                "url": "https://t.co/naLX6dPWm0"
+              },
+              {
+                "display_url": "t.me/MonoTransTown",
+                "end": 158,
+                "expanded_url": "http://t.me/MonoTransTown",
+                "start": 136,
+                "url": "http://t.co/fhmUptWCxj"
+              }
+            ]
+          }
+        },
+        "id": "2095883239982534657",
+        "is_identity_verified": false,
+        "location": "t.me/StrawMono",
+        "most_recent_tweet_id": "2106568422050210149",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥(二代目)",
+        "pinned_tweet_id": "2097354273860534535",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095883239982534657/1788533025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095883636847554560/jpKQhp6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 246,
+          "like_count": 551,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "StrawMono_001",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n💕最爱的老婆@fengxinovo\n🏳️‍⚧️11/08/17 高一 MtF 泛性恋 天残党 半家长党\n『姐姐支持父母反对』\n🍥2026/08/02 小证？含糖 已炸柜\n❌无任何政治立场，三好yn\n👤INFP 乐观 佛系 非牛顿流体 有点强迫症 敏感 \n♥️爱好 折腾/音乐/写作/美食",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "fengxinovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居🇨🇳吉林四平梨树    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2106553436171063442",
+        "name": "Hoshika_Mahiyo🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2096462009609166971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475212271489024/A9cxjBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 2270,
+          "like_count": 5258,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T14:46:44.000Z",
+        "description": "2010出厂喵/🏳️‍⚧️\n日语生喵/超爱@kerosene233\n我想od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "kerosene233"
+              }
+            ]
+          }
+        },
+        "id": "2079578733929754624",
+        "is_identity_verified": false,
+        "location": "世间混沌之起源，空间时间静止杂糅的异墟之土",
+        "most_recent_tweet_id": "2101504174508876238",
+        "name": "一ノ瀬花名🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101495675527831745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079578733929754624/1786644284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099665519230205952/GV6G8VkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 536,
+          "like_count": 3456,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "Kabibqi9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

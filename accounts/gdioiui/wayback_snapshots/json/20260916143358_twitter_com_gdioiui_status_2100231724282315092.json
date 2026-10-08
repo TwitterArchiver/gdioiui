@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1882678524596867072",
+    "conversation_id": "2100129415376130474",
+    "created_at": "2026-09-16T14:33:58.000Z",
+    "display_text_range": [
+      29,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100231724282315092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764930454266970112",
+          "start": 0,
+          "username": "BUXIANGpaipai"
+        },
+        {
+          "end": 28,
+          "id": "1679381806913560578",
+          "start": 15,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100231724282315092",
+    "in_reply_to_user_id": "1764930454266970112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100172081862500469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BUXIANGpaipai @kurazawanaki 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2100129415376130474",
+        "created_at": "2026-09-16T14:33:58.000Z",
+        "display_text_range": [
+          29,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100231724282315092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764930454266970112",
+              "start": 0,
+              "username": "BUXIANGpaipai"
+            },
+            {
+              "end": 28,
+              "id": "1679381806913560578",
+              "start": 15,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100231724282315092",
+        "in_reply_to_user_id": "1764930454266970112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100172081862500469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BUXIANGpaipai @kurazawanaki 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764930454266970112",
+        "conversation_id": "2100129415376130474",
+        "created_at": "2026-09-16T10:36:58.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100172081862500469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100172081862500469",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100129415376130474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 芝士豪猫🤗，到我哈气（哈～～～）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2100231724282315092",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 476,
+          "like_count": 5365,
+          "listed_count": 6,
+          "media_count": 1916,
+          "tweet_count": 9274
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-05T08:26:36.000Z",
+        "description": "05.06.23生人/潜水大王/MtF/🍥2026.03.26/降体重中/fw一个/中度抑郁/偶尔🔪/可以叫我湃湃，π酱/\n小号 @chaospaipai\n大家都要好好活着😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "chaospaipai"
+              }
+            ]
+          }
+        },
+        "id": "1764930454266970112",
+        "is_identity_verified": false,
+        "location": "随机刷新（",
+        "most_recent_tweet_id": "2100172081862500469",
+        "name": "不想湃湃🏳️‍⚧️",
+        "pinned_tweet_id": "2069065764452417721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764930454266970112/1785367555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082295954347335680/vUNXw5XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 298,
+          "like_count": 2813,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "BUXIANGpaipai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "叫我moly就好~\n最爱的母艦@gdioiui\n下水日08.08.08\n只是一个普通的女孩子🏳️‍⚧️\n（病娇地雷系重女）\n卧室贝斯手_笨蛋医学生\n喜欢音乐 药理 百合\nhrt25.05.05 同类私信互fo\nba wows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "gdioiui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki1",
+                "start": 0,
+                "url": "https://t.co/XCTBiBpQ5n"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "is_identity_verified": false,
+        "location": "三途川",
+        "most_recent_tweet_id": "2100198272883408958",
+        "name": "Anemoly🍥🎐⚢",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679381806913560578/1776322647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086056492122484736/Hq14RGNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 1481,
+          "like_count": 21505,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/XCTBiBpQ5n",
+        "username": "kurazawanaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
